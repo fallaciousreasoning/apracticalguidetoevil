@@ -1,6 +1,7 @@
 import requests
 import re
 from bs4 import BeautifulSoup
+import html
 
 class Chapter:
     def __init__(self, title, text):
@@ -20,7 +21,7 @@ def download_chapter(url):
     for child in entry_content.findChildren():
         if child.name != "p": continue
 
-        content += child.text + "\n\n"
+        content += html.unescape(child.text) + "\n\n"
 
     return Chapter(title, content)
     
@@ -42,11 +43,8 @@ def download_contents(book="all"):
 
         yield match[0]
 
-def to_ascii(text):
-    return ''.join(i for i in text if ord(i) < 128)
-
 def write_book(book="all", output_file="A Practical Guide to Evil.md"):
-    with open(output_file, "w") as f:
+    with open(output_file, "w", encoding='utf-8') as f:
         book_name = "all books" if book == "all" else f"book {book}"
         f.write(f"% A Practical Guide to Evil ({book_name})\n")
         f.write("% erraticerrata\n\n")
@@ -54,8 +52,8 @@ def write_book(book="all", output_file="A Practical Guide to Evil.md"):
         for link in list(download_contents(book)):
             chapter = download_chapter(link)
 
-            f.write(f"# {to_ascii(chapter.title)}\n\n")
-            f.write(to_ascii(chapter.text))
+            f.write(f"# {chapter.title}\n\n")
+            f.write(chapter.text)
             
             print(f"Done {chapter.title}")
 
