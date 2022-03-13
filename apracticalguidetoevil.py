@@ -1,7 +1,10 @@
+import multiprocessing
 import requests
 import re
 from bs4 import BeautifulSoup
 import html
+from concurrent.futures import ProcessPoolExecutor, as_completed
+from tqdm.auto import tqdm
 
 class Chapter:
     def __init__(self, title, text):
@@ -44,17 +47,22 @@ def download_contents(book="all"):
         yield match[0]
 
 def write_book(book="all", output_file="A Practical Guide to Evil.md"):
-    with open(output_file, "w", encoding='utf-8') as f:
+    with open(output_file, "w", encoding='utf-8') as f, ProcessPoolExecutor() as pool:
         book_name = "all books" if book == "all" else f"book {book}"
         f.write(f"% A Practical Guide to Evil ({book_name})\n")
         f.write("% erraticerrata\n\n")
 
+        futures = {}
         for link in list(download_contents(book)):
-            chapter = download_chapter(link)
+            future = pool.submit(download_chapter, link)
+            futures[future] = link
+        
+        for future in tqdm(as_completed(futures), total=len(futures)):
+            chapter = future.result()
 
             f.write(f"# {chapter.title}\n\n")
             f.write(chapter.text)
-            
-            print(f"Done {chapter.title}")
 
-write_book()
+if __name__ == '__main__':
+    multiprocessing.set_start_method('spawn', force=True)
+    write_book()
