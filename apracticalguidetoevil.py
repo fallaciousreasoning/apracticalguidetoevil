@@ -47,19 +47,27 @@ def download_contents(book="all"):
         yield match[0]
 
 def write_book(book="all", output_file="A Practical Guide to Evil.md"):
-    with open(output_file, "w", encoding='utf-8') as f, ProcessPoolExecutor() as pool:
+    with ProcessPoolExecutor() as pool:
         book_name = "all books" if book == "all" else f"book {book}"
-        f.write(f"% A Practical Guide to Evil ({book_name})\n")
-        f.write("% erraticerrata\n\n")
 
+        links = list(download_contents(book))
         futures = {}
-        for link in list(download_contents(book)):
+        for link in links:
             future = pool.submit(download_chapter, link)
             futures[future] = link
         
+        chapters = {}
         for future in tqdm(as_completed(futures), total=len(futures)):
-            chapter = future.result()
+            chapters[futures[future]] = future.result()
 
+
+    with open(output_file, "w", encoding='utf-8') as f:
+        f.write(f"% A Practical Guide to Evil ({book_name})\n")
+        f.write("% erraticerrata\n\n")
+
+        for link in links:
+            chapter = chapters[link]
+        
             f.write(f"# {chapter.title}\n\n")
             f.write(chapter.text)
 
