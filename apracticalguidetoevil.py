@@ -6,6 +6,19 @@ import html
 from concurrent.futures import ProcessPoolExecutor, as_completed
 from tqdm.auto import tqdm
 
+
+configs = [{
+    'base_url': 'https://palelights.com',
+    'title': 'Pale Lights',
+    'author': 'erraticerrata',
+}, {
+    'base_url': 'https://practicalguidetoevil.wordpress.com',
+    'title': 'A Practical Guide to Evil',
+    'author': 'erraticerrata'
+}]
+
+BASE_URL = 'https://palelights.com'
+
 class Chapter:
     def __init__(self, title, text):
         self.title = title
@@ -29,9 +42,9 @@ def download_chapter(url):
     return Chapter(title, content)
     
 
-def download_contents(book="all"):
-    TABLE_OF_CONTENTS_URL = "https://practicalguidetoevil.wordpress.com/table-of-contents/"
-    LINK_REGEX = "\<li\><a href=\"(https://practicalguidetoevil.wordpress.com/[0-9]+/[0-9]+/[0-9]+/.*/)\"\>(.*)\</a\>\</li\>"
+def download_contents(config, book: str):
+    TABLE_OF_CONTENTS_URL = f"{config['base_url']}/table-of-contents/"
+    LINK_REGEX = f"\<li\><a href=\"({config['base_url']}/[0-9]+/[0-9]+/[0-9]+/.*/)\"\>(.*)\</a\>\</li\>"
     response = requests.get(TABLE_OF_CONTENTS_URL)
     response_text = response.text
 
@@ -46,11 +59,11 @@ def download_contents(book="all"):
 
         yield match[0]
 
-def write_book(book="all", output_file="A Practical Guide to Evil.md"):
+def write_book(config, book="all"):
     with ProcessPoolExecutor() as pool:
         book_name = "all books" if book == "all" else f"book {book}"
 
-        links = list(download_contents(book))
+        links = list(download_contents(config, book))
         futures = {}
         for link in links:
             future = pool.submit(download_chapter, link)
@@ -61,9 +74,9 @@ def write_book(book="all", output_file="A Practical Guide to Evil.md"):
             chapters[futures[future]] = future.result()
 
 
-    with open(output_file, "w", encoding='utf-8') as f:
-        f.write(f"% A Practical Guide to Evil ({book_name})\n")
-        f.write("% erraticerrata\n\n")
+    with open(f"{config['title']}.md", "w", encoding='utf-8') as f:
+        f.write(f"% {config['title']} ({book_name})\n")
+        f.write(f"% {config['author']}\n\n")
 
         for link in links:
             chapter = chapters[link]
@@ -73,4 +86,7 @@ def write_book(book="all", output_file="A Practical Guide to Evil.md"):
 
 if __name__ == '__main__':
     multiprocessing.set_start_method('spawn', force=True)
-    write_book()
+
+    for config in configs:
+        print('Downloading', config['title'])
+        write_book(config)
