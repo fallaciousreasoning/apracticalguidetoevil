@@ -23159,13 +23159,13 @@ The committee seat the Guildhouse had got its hands on had been filled by an Ake
 
 They always had favors to call on, and they were more than willing to cover for the Skiritai if they got to speak for both of the Guildhouse’s guilds in exchange.
 
-Their representative on the committee was Captain Isoke Falade, a seemingly frail old woman in her seventies wearing humble grey robes.  Her head was nearly shaved and she looked half-blind, pale cataracts in both her eyes, but she was always smiling and cocking her head to the side as if she could hear things no one else did. Given that she was rumored to be one of the most skilled signifers alive, that was entirely possible.
+Their representative on the committee was Captain Isoke Falade, a seemingly frail old woman in her seventies wearing humble grey robes.  Her head was nearly shaved and she looked half-blind, pale cataracts in both her eyes, but she was always smiling and cocking her head to the side as if she could hear things no one else did. Given that she was rumored to be one of the most skilled signifiers alive, that was entirely possible.
 
 Despite the seemingly low rank, Isoke Falade had in her time served as Captain-General to the infamous Dawnchasers and survived a decade attached to the court of the High Queen. Long before Rhiannon’s time, so Osian’s sister never knew her, but no one survived at the feet of the Queen Perpetual without learning how to get their hands dirty. A good thing, that. Angharad was headed for the Skiritai Guild, so Captain Falade would be on his side for the coming review.
 
 That and he had bribed her personally, as well as the Skiritai who’d recommended his niece. It always paid to be sure, usually in gold.
 
-Osian’s eyes moved to his other ally in the room, seated besides the signifer. Professor Fenhua He was Peiling Society, not Umuthi like him, but the College always stuck together against outsiders – especially around budget time. Fenhua was a tall and willowy beauty, their long dark hair flowing behind their back as they offered a sunny smile. Their robes were pristine silk in the traditional Jigong fashion, with billowing sleeves and discreet touches of color, every part of them meticulously neat.
+Osian’s eyes moved to his other ally in the room, seated besides the signifier. Professor Fenhua He was Peiling Society, not Umuthi like him, but the College always stuck together against outsiders – especially around budget time. Fenhua was a tall and willowy beauty, their long dark hair flowing behind their back as they offered a sunny smile. Their robes were pristine silk in the traditional Jigong fashion, with billowing sleeves and discreet touches of color, every part of them meticulously neat.
 
 Fenhua He’s specialty was epistemological foundationals – attempting to establish objective truths about the aether – and that was as much of an opposite from Osian’s work in the Clockwork Cathedral as one could find but they got on well regardless. Sharing a war room during the hunt for the Hull Breaker had left them with some ties of friendship, at it had most who took part in those months of horror. Fenhua caught his eye and winked, forcing Osian to swallow a grin.
 
@@ -30374,4 +30374,2624 @@ Angharad sighed, looking away.
 It was start, Song thought, but talk would only get them so far. Angharad watching her tongue and Maryam holding back barbs would be the work of weeks, months. She needed mortar to bind the Thirteenth Brigade together, and that would require more practical reasons to come together.
 
 A common enemy should serve fine, and it just happened that the world had seen fit to provide some for Song Ren to pick from.
+
+# Chapter 14
+
+Angharad sat on a bench to eat alone with her thoughts, which was no mercy.
+
+Half her cabal was long gone, and the last member… Much as the noblewoman disliked sitting there brooding and biting at the tail of her own thoughts, to share a meal with Song after their previous conversation might have been worse. That her own captain had believed it necessary to inform her she lacked manners was mortifying beyond words. That Song had then considered she might prefer finding another cabal to mending her own behavior was much, much worse.
+
+Had she truly tarred her own reputation so thoroughly without even noticing?
+
+Oh, it was a certain thing that the others came into the matter with blinders. Tristan had been born to the gutter and so kept sharp sympathy for those on the losing side of history while Tianxi hated slavery enough to forgive anything of those inflicted it. And Maryam, she was understandably attached to the land of her birth regardless of its genuine merits. None of this, however, excused that Angharad had been giving offense so regularly that others now expected it of her.
+
+That the dishonor had crept up on her unseen did not unmake it, but that was not even the part she was chewing on. How did one make reparations for such a thing? Offering courtesy going forward was ending a wrong, not making a right. Monetary reparations were an acceptable manner for a lady to extend an apology to one lowborn, but Angharad was now only titled by courtesy. Such reparations might rightly be considered putting on airs. A service, then, or some manner of boon. The Pereduri would have to ponder what ceiling should be appended to such an offer – death, wound, first blood?
+
+It was vexing that Father’s lessons on giving justice to common folk had been as their liege lady, not an associate. Then again, how many peers of Peredur had ever been placed in a position to call lowborn folk their associate?
+
+While frowning at the stone pavement, Angharad had finished most of what she packed away as a snack – salted fish and a few cherry tomatoes – without noticing by the time footsteps had her looking up. What awaited had her wiping away her frown, but her stomach did not unclench: Captain Imani Langa was no soothing sight, accompanied by a stranger or not.
+
+The Malani was just as lovely in the cut of a standard uniform as she had been in her more fashionable one – she filled it just as enticingly – and today her hair was worn in long intricate braids that formed waves. She was still smiling that mysterious smile, which Angharad found to her distress was made no less enticing by the knowledge Imani Langa was an agent of the Lefthand House. She made herself look at the companion instead.
+
+That man, Angharad decided after a heartbeat, what Tristan would be if the Sacromontan mold that made him was filled with deadliness instead of charm. The Lierganen was of the same height as her cabalmate, as messily dark-haired and though he was grim where Tristan was all smiles and the eyes were brown instead of gray they were restless in that same casual, lying way. This one, though, he was leanly muscled and his face was marred by a cross scar on the chin. He had the calluses of bladework on his palms and a worn side-sword at his hip.
+
+Angharad had known enough of the breed to say he moved like a killer, and a seasoned one at that.
+
+“Lady Angharad,” Imani smiled. “What a pleasant turn to find you here.”
+
+The noblewoman set aside the last of her meal and rose, clearing her throat.
+
+“Captain Imani,” she replied. “The pleasure is all mine.”
+
+The lovely spy offered her hand to kiss, and it would have been terribly impolite to refuse so she gently pressed her lips against the knuckles. Once more she raised her eyes to a slightly widened smile, which she took more pleasure in than she should have. Imani withdrew her hand, then turned to half-face the third.
+
+“I thought I might introduce one of my cabalists to you,” she said.
+
+The dark-haired man nodded a curt greeting.
+
+“Salvador,” he said.
+
+His Antigua had the same lilt to it as Tristan’s, Angharad thought. He must be Sacromontan as well.
+
+“Angharad Tredegar,” she replied. “Thirteenth Brigade.”
+
+“Alas, you refused Thando’s invitation to change that,” Captain Imani lightly deplored. “I must confess I introduce Salvador to you with an ulterior motive, my lady – he is a Skiritai as well, you see, and I must leave him behind now to head off to my own class.”
+
+The lovely spy touched her wrist.
+
+“He is quite shy, so I thought to leave him here to wait in good hands.”
+
+Salvador leveled his captain with a glare that was not particularly shy but then he sighed.
+
+“I would appreciate company,” the dark-haired man said.
+
+“That I can provide,” Angharad said, giving him a nod he returned.
+
+However halting the man’s conversation, it would be better than continuing to stew in her own thoughts.
+
+“I am grateful for the kindness,” Captain Imani said, smiling in relief. “Though I fear I must now impose on your manners, for I have pressing business on Hostel Street.”
+
+“I would not detain you, then,” Angharad gallantly replied.
+
+“Oh, but you must,” Imani smirked. “Simply not right now. Do come by when you have the time, Angharad. I still lodge at the Emerald Vaults, you need only ask for me in front.”
+
+The stark reminder of what it meant that Imani Langa was an ufudupoured cold water on anything that smirk and implication might have stirred in her. The other woman was not inviting her for a rendezvous but to incite her to steal from the Watch on the behalf of the Lefthand House – for though the High Queen had asserted what was being sought belonged to her and so it must be true, the Watch might well feel differently and Angharad had sworn oaths to them.
+
+She simply nodded, leaving the conversation to die, and Captain Imani sashayed away as suddenly as she had come. Angharad turned, meeting Salvador’s brown eyes and impassive face, then swallowed.
+
+“Fine weather today,” she tried. “Good for walking.”
+
+The Lierganen cocked an eyebrow ever so slightly, and it occurred to the noblewoman a moment too late that the weather on Tolomontera was, in fact, dictated by Grand Orrery on a set cycle. Alas, none of the cracks between the paving stones were large enough for her to disappear inside and die.
+
+“Angharad, there you are!”
+
+The Pereduri turned to see Shalini Goel striding her way, and silently swore one day she would return this great favor. The curvy Someshwari was armed to the teeth, bearing four pistols and a straight double-edged at her hip – a vaal, Angharad remembered they were called. Nobles and captains of the southern Someshwar dueled using them. They were distinguished from the common aruval billhook blades by being used only to spill blood in battle, never to cut through underbrush.
+
+Angharad thought it strange that Shalini would be trained in such a weapon when she had no noble name to defend, until it occurred to her she might have been trained to use it on Ishaan’s behalf. She felt a pang of pity for the other woman’s loss, which tainted her smile as Shalini nearly bowled the both of them over coming to a halt.
+
+“What were you doing hiding by a statue?” Shalini asked, then shook her head. “No matter, I still found you. Who’s this?”
+
+Angharad cleared her throat.
+
+“Salvador, may I present to you Shalini Goel of the Thirty-First Brigade,” she said. “She is a fellow Skiritai.”
+
+“Pleasure to meet you,” Shalini said.
+
+“Shalini, may I present to you Salvador of the Eleventh Brigade.”
+
+The Lierganen grunted and gave a nod. Angharad sent her friend a look that was just short of pleading.
+
+“Not a great talker, are you?” Shalini amusedly said.
+
+Salvador shook his head.
+
+“Throat,” he said.
+
+Ah. A condition, then, and not simply his natural disposition.
+
+“Sounds unpleasant,” the Someshwari said. “But worry not, I can speak for two.”
+
+“Modest of you,” Angharad noted.
+
+Shalini rolled her eyes.
+
+“Islanders, they always think they’re funny,” she told Salvador. “Mine keeps making these quips about how Tianxi teas must ‘all taste equal under Heaven’ so our cabalmate is this close to just pressing a pillow over his face while he sleeps.”
+
+Salvador snorted, then coughed into his fist.
+
+“Imani says she will raise our allowance if we’re good,” he sympathized.
+
+The treachery of the continental peoples of Vesper, well documented by the pages of history, was ever a burden on the greatness of the Kingdom of Malan. The noblewoman packed away the last of her salted fish with due dignity, amused to hear Shalini wish she had remembered to pack something to snack on as well. Angharad had not, in fact, remembered this.
+
+Song had reminder her that unless she wanted to go back and forth between their cottage and Scholomance alone – a risky proposition – then she would be left to wait by the school gates for some time and should perhaps bring something to eat or read. Angharad had not thought to acquire books yesterday, so she had settled for something to nibble on instead.
+
+The three of them headed out onto the square where they had been instructed to wait, finding the press of students long gone. Now it was only the Skiritai that were left, told as they were to wait before the gates of Scholomance for their covenant-appointed teacher to come and fetch them. The students stood around in small groups, chatting quietly – as if Scholomance’s shadow might take offense otherwise – and Angharad let her eyes stray. She recognized few faces here, though some stood out.
+
+Lord Musa Shange was there, surrounded by others and carefully ignoring her existence as he conversed with a slender Someshwari. Muchen He from the Forty-Ninth was there as well and keeping a watch on that wolf-eyed boy from Tupoc’s cabal. ‘Expendable’, she believed? He was one of the rare students standing alone, his gaze almost never leaving the ground.
+
+“At least sixty of us here,” Shalini said.
+
+“More,” Salvador said, but nodded.
+
+“I thought there might be more of us than that,” Angharad admitted. “It seems to me no cabal should be without a Skiritai.”
+
+“Not everyone’s making a fighting company,” Shalini pointed out. “I know Ferranda in-”
+
+The curvy gunslinger was interrupted, but not by another’s words: the clarion call that cut through was no metaphor but the actual sound of two clarion trumpets being sounded. Poorly. Angharad watched with something like disbelief as a pair of gaudily attired boys, neither older than thirteen and each wearing enough ribbons and frippery for a whole salon, crossed one of the bridges leading to Scholomance before moving to the sides.
+
+The taller of the two, ruddy-cheeked and bright-eyed, cleared his throat as somewhere in the vicinity of sixty heavily armed students stared him down.
+
+“Now announcing His Grace,” the boy called out. “Marshal Hermenegildo Berenguel Adamastor de la Tavarin, Count of Encoberto.”
+
+The other boy whispered at him.
+
+“Retired,” the page hastily tacked on.
+
+Silence followed. The announced man was nowhere in sight.
+
+Angharad was left in the uncomfortable position of hoping this was some manner of prank. Besides, were blackcloaks not sworn to renounce their titles when they put on the black? This Marshal de la Tavarin should no longer be a count.
+
+“Wait, if he’s retired can he still call himself a marshal?” Shalini frowned.
+
+Angharad blinked.
+
+“I… think not?” she slowly said.
+
+Had the Watch somehow been tricked by a charlatan? That was most distressing. The page boys had been shuffling on their feet, discomforted by the weight of the stares, but when they suddenly straightened Angharad glanced past them and finally saw the approaching professor.
+
+The man was Lierganen and old, perhaps the oldest man Angharad had ever seen. He walked leaning on a brass lionhead cane, back slightly curbed, and his face was tanned and creased like old leather. Though there was still some touch of black to his eyebrows, it was his impressive pure white mustache and equally snowy long locks that commanded attention. For a heartbeat, anyway, as the old ‘Marshal’ was most eye searingly dressed.
+
+Though his knee-length coat was Watch black, its sleeves were pinned back and vivid yellow with flashing silver buttons. His trousers and hose were pristine and white, matching his overlarge cravat, and his delicate doeskin shoes were better fit for a ballroom than the street. His hat was wide-brimmed and embroidered in silver, not that one would notice considering the almost absurd size of the yellow feather pinned back on it.
+
+His slow, unhurried advance set the students to murmuring. Salvador let out a small noise of surprise, earning her attention.
+
+“Farfan,” he said.
+
+Angharad hid her bemusement behind a pleasant smile. Thankfully Shalini knew what he meant.
+
+“Farfanes are mercenaries,” she explained. “Their companies fight out in Old Liergan for whoever will pay, even hollows. Fine soldiers, I heard, who see more blood on the regular than anyone save the Izcalli.”
+
+The Pereduri was rather curious as to how a girl from Ramaya – near as far from Old Liergan was it was possible to be and still live within the borders of the Imperial Someshwar – had come to know of such hired swords, but this was no time to ask. With an entirely unnecessary flourish of his cane the old man came to a stop and cleared his throat once. He got the silence he had not quite asked for.
+
+He opened his mouth to speak, but whatever he was saying was drowned out by the sound of the page boys sounding their clarions again. They both stared at him expectantly afterwards, and after a moment the old man sighed and flipped them a golden coin. They put down the clarions and ran off without a second glance, chattering excitedly.
+
+There was a sudden epidemic of coughing fits among the students, which some might have interpreted as poorly suppressed laughter.
+
+“You may call me Marshal,” the old man announced in weathered voice, “or Your Grace. I have been charged by the Skiritai Guild to make something useful out of you.”
+
+Angharad eyed him skeptically. Under the formal etiquette of the Second Empire, which most of the Lierganen states still followed, the proper address for a count was ‘Your Excellency’. Though he was not claiming the courtesy due a higher title, in a way it was even worse: ‘Your Grace’ was not, as far as she knew, even a Lierganen address. She vaguely thought it might have been used in the ancient Kingdom of Cathay, but it had fallen somewhat out of vogue around the same time Cathayan nobles keeping their heads became similarly unpopular.
+
+“Follow,” the Marshal idly ordered, and with another flourish of his cane turned about.
+
+The old man began crossing the bridge anew, and after a heartbeat of hesitation students began to follow. Angharad shared a look with Shalini, who shrugged.
+
+They followed.
+
+—
+
+They had been told to gather at the Old Playhouse by the fifteenth hour but Song knew within moments they were not to stay there.
+
+The great structure was simply too large and empty to serve properly as either a classroom or salon. Oh, the Old Playground could likely be pressed into such service if there was need. But was there? Song doubted it. The Academy was the largest and the wealthiest of the covenants – in absolute numbers, if not comparatively – and if the Navigators had been able to afford a chapterhouse in Port Allazei then the Stripes were sure to have their equivalent.
+
+Something in a better state than this ancient theater, which had weathered the years impressively but was still very much a ruin.
+
+Still, she allowed herself some time to study the grounds where an evening had taken place she had not attended. There were few traces left of the festivities, little more than lines of ripped earth in the grass and swaths of recently cleaned stone contrasting to the natural grime of the rest, but she could imagine the lay of it all. The pavilions, tables and torches, the way the guests would be incited to mingle on the bottom floor but there would be room for private walks in the lodges-turned-garden. It would have been a lovely evening, no doubt, and her eyes would have gained many useful insights.
+
+But the Ren name would not have fit through that door.
+
+Instead of lingering on that unpleasant reality, Ren picked out one of the prettier lodges for herself. A stone railing behind a stretch of grass and fragrant red flowers, perched on the ring nearest the bottom while moderately distant from the stairs leading there. She had arrived at twenty before three but found half a dozen students still preceded her. Captain Philani from that same morning was one, so she detoured to trade polite greetings. The captain Thirty-Eight Brigade was polite and welcoming but there was no warmth to it so she did not linger.
+
+It was Song’s duty to make alliances with other captains so that the many rivals of the Thirteenth would take pause at the enmity aggression would earn them, but the Thirty-Eighth was not high in the list of candidates – she was satisfied with having established Captain Philani was not hostile to her even when Angharad was no longer there to impress.
+
+Song had been of the early birds but by the time she returned to her lodge numbers had begun trickling in. Many headed down to the bottom floor, where the playhouse stage lay, and began chatting there. It would not have been a bad time to begin making connections, as some captains were doing before her very eyes, but the Tianxi had her reasons to hold back. Given the number of enemies the Thirteenth already boasted she should get the lay of the land before wading in, and even beyond that it was her personal preference to favor quality over quantity.
+
+Better even a single skilled, reliable ally than a gaggle of fair-weather friends.
+
+She was approached in her lodge by Captain Anaya of the Twenty-Third – leader of the Malani boy who’d broken the ice during Mandate class by answering first – and found herself delicately probed by the grim-faced Someshwari. It took a moment for Song to be certain what the other woman trying to find out, but when she did she made sure to immediately give it.
+
+“Of course, we all carry our enemies with us. One of my own cabalists nearly dueled Tupoc Xical to the death on the Dominion of Lost Things,” Song idly said.
+
+Captain Anaya frowned, but not in displeasure. She was, as far as Song could tell, simply a natural frowner.
+
+“A singularly unpleasant man,” the Someshwari said.
+
+“That is the only reliable thing about him,” Song agreed. “I would not wish an alliance with him on my worst enemies.”
+
+Captain Anaya made her excuses soon after that, leaving the silver-eyed captain amused. Tupoc had made enemies of the Twenty-Third Brigade, at least enough that its captain would approach Song to ascertain where the Thirteenth would stand if conflict erupted. Playing this like Dominion trials will get you killed, Xical, she thought. Not that she was inclined to help him by saying as much.
+
+By the time the trickle of arrivals tapered off entirely there were precisely sixty students present, including herself, and that simply had to be a quota.
+
+And with the last arrivals came a second visitor. Her study of where the pieces were falling was interrupted by the sound of boots on grass, the Tianxi turning with a pleasant greeting smile – only to find Ferranda Villazur looking back with an amused look.
+
+“Song,” she said, nodding.
+
+A single strand of blonde hair had come loose from her bun, which Song had to force herself not to mention.
+
+“Ferranda,” she replied instead. “You are cutting it close.”
+
+It should be mere minutes now before the appointed time came to pass. The infanzona stepped forward to lean against the stone balustrade by Song’s side.
+
+“I went and had a look at where the Umuthi Society hole up for their classes,” Ferranda said. “The Tinkers have a proper workshop tucked away to the east of the docks, it was quite surprising.”
+
+Song inclined her head, acknowledging the gift, and returned it in kind.
+
+“They are not alone in having such luxuries at hand. The Navigators have a chapterhouse close to Hostel Street.”
+
+A thoughtful hum.
+
+“It must have cost a fortune to rebuild Port Allazei so it would be habitable beyond the garrison barracks,” Ferranda said. “And quite a bit of time as well. I wonder how long the Watch has been planning all this.”
+
+And why, she did not say out loud. That they all wondered, because the answer would shed a great deal of light on what the future held for them all. Why had the Watch opened the ancient, murderous school anew? There must be a reason, a plan or a need. The two of them remained comfortably silent after that, eyes on the unfolding alliances below.
+
+And Ferranda was quite noticeably not leaving.
+
+They both knew that was a statement to anyone who cared to look, which was nearly every captain on Tolomontera.
+
+“Are you certain?” Song simply asked.
+
+“That Musa prick won’t lay off Zenzele just because Angharad trounced him once,” Ferranda pragmatically replied. “My enmity with the Ninth isn’t up to debate, just the precise degree of it. Together we don’t look nearly as soft a target.”
+
+“You could come to an accord with the Third,” Song lightly said.
+
+The fair-haired infanzona rolled her eyes.
+
+“So I can become Captain Nenetl’s stalking horse in getting rid of Sebastian Camaron?” she replied. “I must decline that honor, same as you.”
+
+Song smiled. One clever ally was worth ten.
+
+“They have been so open about their rivalry I have wondered if it is feigned,” she admitted.
+
+“Oh, I can tell you she genuinely hates his guts,” Ferranda said. “I had them together once at a captain’s council and it was quite an experience. There’s just no way that sheer amount of petty spite was faked.”
+
+That was good to know, and once more reinforced the use of attending such a council. Song inquired when the next one might take place and was told the schedule was not yet decided but that she would be informed as soon as it was. The pair, now solidly and openly in the same boat, then set to picking out the currents around them.
+
+Familiar faces abounded. Song had been glared at by Captain Tengfei of the Forty-Ninth earlier while his would-be replacement Ramona waved cheerily instead – she’d nodded back, intending to make peace with the brigade if the opportunity came. Tupoc had blown through and was now displaying an unexpected capacity for conversation not involving insults by entertaining two Izcalli students with a fast-paced story that had them both laughing loudly.
+
+But these were small fish, and there were whales in the water: down below, on the bottom floor, three rival courts had formed.
+
+Captain Sebastian Camaron of the Ninth presided over the largest, over a dozen students mingling around him. Song committed their faces to memory, knowing them for possible tools she might have to face. One of them she thought might match Abrascal’s description of Captain Imani Langa but the silver-eyed Tianxi held out hope she was wrong. If she was not, prying Angharad away from the charms of such a sultry beauty was going to be a long and thankless labor. It was Ruesta all over again, only more dangerous for the new woman’s lack of general uselessness.
+
+To put a name to the leading figure of the second-largest gathering, the strongest rival to Sebastian Camaron’s, she required the help of Ferranda.
+
+“That’s Captain Vivek Lahiri of the First Brigade,” the infanzona said.
+
+The captain had a contract, Song noted, and one of the longest she had ever seen – the equivalent of pages of text in what appeared to be Samratrava. She was itching to have a better look.
+
+“Background?” she asked.
+
+“The way I hear it he’s got relatives in every Someshwari free company worth remembering the name of,” Ferranda said.
+
+“So we have one princeling from the free companies and the other from the closest regional seat of the Garrison,” Song said. “That reeks of blackpowder.”
+
+The most powerful of the free companies would have ordered their children to band together and edge out the Garrison students – the other way around being likely true as well, though accounting for internal enmities in both branches of the Watch. Now that Scholomance was open again everyone had an interest in securing the school. Even setting aside whatever secret design there was for this place, simply dominating an institution that would make covenanters by the literal hundreds was something worth a sea of gold.
+
+“They’re steering clear of each other for now,” the infanzona said. “Though that won’t last. Sooner or later one of will want to show they have the biggest stick and they’re the boy king of Allazei.”
+
+Song hummed.
+
+“And then trailing behind them,” she said, “we have our old friend from the Third.”
+
+Captain Nenetl Chaputl of the Third Brigade, her delicate features atop a rotund silhouette difficult to mistake for another’s, had gathered a court of her own. It was noticeably smaller than either of the other contenders’, however, and of lesser quality as well.
+
+“She’s picking up the leftovers from both the free companies and the Garrison,” Ferranda noted. “It’s halfway clever, but it will only get her so far.”
+
+They had not been the first picks of the greater forces for a reason, and Captain Nenetl would not have as convincing a banner to wave to keep them behind her as the other two did. Still, the position was hardly bad. For now.
+
+“She only needs to last with some degree of prominence until Camaron stumbles, then she can usurp the parts of his faction she can use,” Song said.
+
+It would be a delicate line for her to walk until then, however, juggling such disparate interests. And if Sebastian Camaron did not stumble on his own, she must arrange for him to trip or see her position wither on the vine. Only the most foolish of gamblers kept backed a losing horse. Still, in the end between them the three leading captains had barely half the sixty students gathered below. Many of the captains had come down to pay their respects but were now keeping their distance and would for months still.
+
+A sudden quiet below, the courts turning quiet in a heartbeat, drew her gaze and Ferranda’s. They saw the reason for it in an instant: their professor had arrived.
+
+“Up.”
+
+The order was clear, crisp, and it sent every student who had come to the bottom floor hurrying back up to the first ring.
+
+It had come out of a Tianxi’s mouth, a woman in her late forties cutting a sharp figure in her formal uniform. She was short, Song thought, and her face plain. Yet she had presence, piercing eyes that straightened backs wherever they passed and her look was only strengthened by the austere bun she wore her hair in. The red silk scarf worn in a knot around her collar was the sole departure from the traditional uniform, which was finely made but very functional.
+
+The professor came to a halt at the end of the stage, the sword and pistol at her hip glinting dully under the pale Orrery lights.
+
+“My name is Colonel Chunhua Cao,” she said. “I was sent here by the Academy to bring you up to an acceptable standard before you graduate Scholomance.”
+
+Colonel Cao pitcher her voice to carry.
+
+“My qualifications for teaching you are as follows: I have served under both free companies and Garrison forces.”
+
+Her stare continued sweeping across the crowd.
+
+“I held a frontline command during the general Watch muster called to suppress Loving Kiss and went on to serve as field officer during both the Long Burn and Sordan War. I was a named negotiator at the Peace of Concordia and dictated terms of surrender at the siege of Yueliang Shan.”
+
+The Peace of Concordia, Song knew, was the treaty that had put an end to the Sordan War. As for the siege mentioned it had to be part of the Red Rice Rebellion, when a bandit cult in the Sanxing had risen in revolt at the urging of a conspiracy of mountain gods. Their hidden fortresses were said to have offered brutal resistance long past the cause being lost.
+
+“Of the ten highest decorations granted by the Academy I hold seven,” Colonel Cao stated, “and I have twice refused promotion to lieutenant-general.”
+
+A rank that, while beneath that of marshal, would have given her a fortress to command and a seat on the Conclave to go with it.
+
+“It has been prevailed on me to teach at this school, but I warn you now that I have no patience for lackluster effort or petty arrogance. If you fail to perform to my standards, I will see you thrown out of my class and Scholomance with it.”
+
+A look told Song some were skeptical of that, which Colonel Cao noticed. She offered up a cold smile.
+
+“I have spent thirty years as an officer in the worst fires known to our order,” she said. “I am owed more favors than I know what to do with and I have buried enough bodies to fill a lichyard. By all means, write to your patrons.”
+
+She leaned forward.
+
+“They will tell you the same thing I do now: step out of line and I will have you on the next ship out of Port Allazei.”
+
+This time even the princelings knew better than to show doubt. Silence stretched, until finally Colonel Cao nodded in satisfaction.
+
+“That will do,” she said. “You may now come down. I will show you the way to the Academy’s seat on the island. Do not dawdle and be certain to commit the path to memory – I will not show it to you again.”
+
+A fire burned in Song’s belly, not at the thought of the lodge or even the first class: it was the teacher that had her thrumming with enthusiasm, much as she tried to hide it.
+
+How could she not be excited, when it seemed she was going to be taught by a woman who was everything that she wanted to be?
+
+# Chapter 15
+
+The Chimerical was open, not that Tristan had ever seen it close. Did devils even sleep?
+
+“Oh, this place again,” Fortuna enthused. “I just love that hanging crocodile, you should see if it’s for sale.”
+
+He would not, in fact, be doing this. Tristan snuck a look sideways at the goddess, who was traipsing around in her red dress and by all appearances in a fine mood.
+
+“You do not mind the inside, then?” he asked.
+
+Maryam had looked like someone freshly socked in the stomach when recounting how she’d tried to use Gloam sorcery inside. He would have thought Fortuna just as vulnerable to the eldritch trap Hage had lain within. The Lady of Long Odds laid a finger on her chin.
+
+“The drapes could do with some dusting,” she mused.
+
+Not what he had meant, which she knew very well.
+
+“So it isn’t like the Witching Hour,” he said. “It cannot make you disappear.”
+
+Fortuna rolled his eyes at him.
+
+“I wander off for a walk and suddenly you begin clutching at my skirts,” she said. “Tristan, darling, this is growing into somewhat of an embarrassment.”
+
+His jaw clenched. Lying. She was lying about it again. No matter how much he pressed Fortuna refused to acknowledge that when he had wandered the layer she had been gone. Her insistence that she had merely been wandering around was a lazy, transparent lie that she forced into holding by simply ignoring him when he called it out. It was incredibly frustrating, and not at all in the way that Fortuna usually frustrated him.
+
+Forcing himself to calm, Tristan walked the last dozen feet to the front of the coffeehouse. The thief did not wipe his boots on the welcome mat, which was more filth than straw, and struggled to force open the old oaken door. He was fairly sure part of the top rail was either swelled by humidity or too large for the door frame, because it needed fighting on both the way in and the way out. After a minute of effort, he gave up the job and left the door only nine tenths closed.
+
+The acrid smell of coffee remained unpleasant and, even worse, the kind of odor that stuck to your clothes afterwards. Hard to sneak on someone when they smelled an approaching coffeehouse the moment you stood upwind. That audaciously fat black cat – Mephistofeline, he must admit the devil had fine naming sense – waddled close, rubbing his side against Tristan’s boots and then looking up expectantly.
+
+“Your Majesty,” he greeted, scratching under the ears. “How fares your claim on Pandemonium?”
+
+Mephistofeline purred, then sat on his boot and let out an expectant meow. Tristan had always liked cats, their unfortunate tendency to eat rats notwithstanding. They could take care of themselves, which he’d always respected. Though not enough to get one as a pet, as only a fool grew attached to a creature wandering the Murk.
+
+There were never a lot of strays on the streets of the Murk, but especially few the week after rents were due.
+
+“I do not have food,” the thief informed the cat.
+
+Mephistofeline rolled around on his boot, batting his feet up, then meowed again as if that display might have magically added fish to Tristan’s pockets.
+
+“Still no,” he said.
+
+Either miffed at the lack of reward or satisfied he had charmed a new subject into vassalage, the black cat wobbled away with a swinging tail. There was no way Hage had not heard him play with the cat, so he should be out from wherever he usually hid. Tristan’s gaze swept through the booths and the counter, the cluttered display of knickknacks and-
+
+The front door slammed shut and he nearly jumped out of his skin, biting his lip until it almost bled.
+
+Hage had somehow gotten past him without his notice and now stood behind him, faintly smiling. The devil’s shell had not changed a whit – all tall limbs and owlish eyebrows squeezed in a fashionable jerkin and doublet and a rust-red cap – but now that he knew what to look for Tristan thought the brown eyes a little off. Too flat, and when they moved it almost felt like something was looking through them.
+
+“I have always enjoyed cats,” Hage mused. “It is the shameless disloyalty, I think. There is not a single example of the breed that would not turn on you for a large enough salmon.”
+
+“Proper royalty, then,” Tristan said.
+
+“Finer than most,” Hage smiled, revealing the teeth behind the teeth. “He would require salmon first, at least.”
+
+Despite himself, Tristan tensed when the devil stepped past him on his way back to the counter – nearly brushing his shoulder but not quite. He could not forget that evening in Cantica, how damnably quickeven those young devils had been. How their strength had splintered wood and pulped flesh, like the world around them was made of parchment. Hage would not kill him, he knew.
+
+But if he wanted to, it would be as easy as reaching out and squeezing.
+
+“If you’ve come to order water again, boy, you will find each cup is a full arbol,” Hage informed him.
+
+The thief swallowed his discomfort, spread it out until its weave thinned into nothing, and put on a smile. Fortuna, he noted, had ignored all this and pursued the retreating Mephistofeline whose princely hide had committed the great sin of ignoring an invisible, intangible being. He slid into one of the high seats by the counter, calmed by the sight idly noting several of the copper pots were full of water with lit flames beneath. None at a boil, but close.
+
+“What would you advise,” he said, “for someone who has never had coffee before?”
+
+“Another shop,” Hage drily replied.
+
+But the devil withdrew a step, bending to reach for a cloth bag beneath the counter.
+
+“Espuma azul,” he said. “The way they take it on the Riven Coast, short with a layer of berry syrup.”
+
+That sounded absolutely atrocious but Tristan pretended otherwise with a pleased smile. He had no intention of drinking coffee beyond what circumstance forced on him, regardless, so he thought of the cost more as the price paid for a conversation. He slid the seven coppers – Manes, that was almost two meals – Hage asked him for across the counter, which the devil snapped up dexterously before getting about the business of making the promised abomination.
+
+Mephistofeline leaped up onto the counter, drawn by the noise, and drew Fortuna back with him. The black cat stretched and settled for a map like a plump furry cushion, purring happily when Hage scratched his head. Still visibly miffed at having been ignored, Fortuna began peering at all the copper devices behind the counter while the devil poured beans into a mortar and began crushing them. The goddess spared him a glance.
+
+“Now that’s an old one,” she noted. “And not too empty inside either.”
+
+Tristan kept his face smooth. Empty inside? Putting a meaning to that would be more work than he could afford at the moment, so best to keep to the shallow truths. Hage was old even by Fortuna’s reckoning, which meant the devil was almost certain to be annealed. Immortal in the sense that no matter how many times he was killed he would come back.
+
+“I had not thought to see you again,” Hage idly said as he pressed the pestle against the coffee beans. “You did not seem keen on trying my brews.”
+
+“Well,” Tristan said, “I had a thought.”
+
+“It was bound to happen eventually,” the devil said. “Worry not, boy, the headache will pass.”
+
+He rolled his eyes even as Fortuna chortled at his expense.
+
+“It seems to me like the Krypteia would balk at putting all its recommendations in the same room, where anyone could see them and commit the faces to memory,” Tristan said. “Besides, though I confess I know little of the Masks their remit as told me is large.”
+
+Abuela had told him the Krypteia were charged with killing traitors within the Watch, but the Cryptics were also supposed to be spies sniffing out cultists and those breaking the Accords as well as interrogators and assassins. Compared to the duty of the Skiritai Guild, which as far as he could tell began and ended with the sentence ‘kill things’, it was a generous helping of responsibilities. Too many, perhaps, for a single set of skills to apply across the entire Krypteia.
+
+“Enough that many teachers might serve better than one,” he continued.
+
+The devil, done with crushing the beans, carefully poured the powder into now-boiling water.
+
+“A reasoning not without cleverness,” Hage said. “Though if you think to buy names from me, it will not be cheap.”
+
+The thief had considered that, as it happened, but it wasn’t why he was here.
+
+“It seems to me,” Tristan continued, “that if the Masks planted teachers there must be some way to find them out. To confirm they truly are one.”
+
+“It would make for a pointless chase otherwise,” Hage agreed.
+
+“The simplest way,” he said, “would be to order them not to lie when asked.”
+
+Tristan leaned in.
+
+“Are you a teacher for the Krypteia, Hage?”
+
+The devil chuckled.
+
+“So I am,” he said. “What led you to suspect?”
+
+“You got the drop on all of us when we first visited,” Tristan said.
+
+As far as he could tell, Song could see through anything aetheric – including the existence of contracts – and she had still missed him. Tredegar had been caught unaware, and unless she was busy brooding that girl was damnably difficult to slip by.
+
+“That and Wen implied the Chimerical has existed elsewhere,” he added. “Put that together, and your being a devil on a Watch island? There are only so many explanations.”
+
+Even if Hage had not turned out to be a professor, he was almost certain to be some sort of lead.
+
+“Wen has always been too chatty for his own good,” Hage said. “His time on the Dominion has done nothing to mend the flaws that saw him sent there.”
+
+A tempting morsel to nibble at, Tristan thought, but he knew bait when he heard it.
+
+“What do you teach?” he asked. “How many of them are you?”
+
+Hage sighed, stirring the copper pot. He clicked his teeth disapprovingly, the sound too long and drawn out for it to have been men’s teeth.
+
+“Creepy,” Fortuna appreciated.
+
+She leaned forward to look into the devil’s mouth as he spoke, like a buyer inspecting a horse’s teeth, and Tristan almost twitched.
+
+“There are five of us on Tolomontera,” Hage said. “To be allowed to remain at Scholomance, you must find two of us and learn a trade to our satisfaction before the end of the year.”
+
+Tristan frowned.
+
+“And your trade is?”
+
+The devil turned and glanced back.
+
+“What do you think?” he asked.
+
+The thief narrowed his eyes.
+
+“I think that coffee would cover the smell of strange brews and your devices to make it the sound of more exotic distillations,” Tristan said.
+
+“I teach poisons,” Hage agreed.
+
+Too easily.
+
+“But not just that,” the gray-eyed man added, frowning. “Spycraft? Things can be overheard in a coffeehouse and you have the only one on the island. Officers will chat here, loosen their tongues.”
+
+Not as much as they would when drunk, but you drink wine in your own home. Coffee was much harder to obtain, and a popular vice among the wealthy.
+
+“The Chimerical has been many sorts of establishments over the years,” Hage said. “Coffee is only the latest of my fascinations.”
+
+The devil, deeming the boiling finished, stole away the copper pot and busied himself out of sight. The process involved filtering, vapor released from a valve and what looked like a leathery pastry bag. Tristan was served a cup of coffee taller than wide, no larger than his thumb, the liquid’s surface was layered with a purple-blue syrup slowly turning into foam.
+
+“Pretty,” Fortuna opined.
+
+“Wait twenty seconds, then sip,” Hage instructed, then cocked one of the great eyebrows. “You may learn from me, Tristan Abrascal, either the art of poisons or the liar’s game – what we call the ‘lesser tradecraft’, these days.”
+
+“Spying,” he said.
+
+“We are all spies, boy,” Hage chuckled. “The liar’s game is the one played on your feet: picking locks, doubling papers, twisting arms and hunting down rumors.”
+
+Tristan cocked his head to the side.
+
+“Would that not be the greater tradecraft?” he asked.
+
+Hage gave a twofold smile, which had grown no less disturbing for the repetition.
+
+“Liars are a spent like coppers,” he said. “The greatest of our craft move the board, not on it.”
+
+Unsure what one might reply to that, Tristan tried a sip of the drink to buy himself time.
+
+It was, to his surprise, quite good.
+
+He had expected something sugary and warm, like a pie made into liquid, but instead the drink was quite bitter. Yet it was also refreshing, the aftertaste of the berry syrup smoothing out the tang of the beans. Not something he would partake of for pleasure, but hardly the chore he had expected to be putting himself through.
+
+“It is to be drunk quickly,” Hage said, “before the syrup is entirely thinned by the heat.”
+
+Tristan took another sip, considering his option. The devil had implied he would only offer tutelage in one trade, and in truth that was for the best – he still needed to find another of the teachers hidden in Port Allazei, which would take time. One trade was best, keeping that in mind. Which left the question of which he should take.
+
+Neither felt like it quite fit, in truth. Abuela had made him learn Alvareno’s Dosages and its uses, so he was passable in the use of poisons already. No expert, certainly, but Tristan had picked the elective class of Medicine and he expected that there would be some bridges in that knowledge. On the other hand, he knew precious little of the sort of exotic substances that would be required to kill the likes of devils and gods. And he was unlikely to ever be killing the likes of those with a blade, wasn’t he?
+
+Lesser tradecraft sounded a great deal like what Abuela had been training him in since she took him under her wing, and it felt almost insulting that he should be trained in something he had been doing all his life. Pride aside, it was in such matters he felt most confident. Yet it was one thing to practice these skills and another to practice them the ways the Krypteia wanted him to. It would, besides, be arrogance to expect that his few years of tutelage were all there was to know.
+
+Tristan took another sip and considered what it was he would most be called on to do on behalf of the Thirteenth. That was his answer, in the end.
+
+“I have been known to dabble in lying,” he told Hage. “It is a fitting game for me to learn, I think.”
+
+The devil seemed amused.
+
+“Ah, the hardest of my tests,” he said. “As expected of the Name-Eater’s latest.”
+
+“A test,” Tristan warily repeated.
+
+“Did you think we would teach anyone who asked?” Hage said, clicking something that was not a tongue and did not sound like it. “No, first you must prove worth my while.”
+
+“And how,” the thief said, “would I do that?”
+
+“Simple enough,” the devil replied. “The Watch keeps a dossier on all students who attend Scholomance. There are four transcripts of yours in Port Allazei: before midnight, read one and return to answer my questions on its contents.”
+
+Tristan mulled on that, for a moment, then cleared his throat.
+
+“Might I read your transcript?” he politely asked.
+
+“No,” Hage replied.
+
+The hard way it was, then.
+
+—
+
+“Welcome to the Abbey.”
+
+Professor Baltasar Formosa’s hair had not grown any less wild since Maryam last saw him, or his beard any less neatly cropped, but the tall middle-aged man looked as haggard as they all felt. Standing on the edge of the depthless pit of darkness, framed only by shaky candlelight of the chamberstick he was holding up, the professor looked more scarecrow than man. The silver signet ring on his hand, the mark of a Master of the Guild, glittered coldly as he gestured at the pit below.
+
+The sixty of them had followed him deep below the Akelarre chapterhouse, handed worn iron chambersticks and sent down narrow stairs where only one fit at a time. The great room waiting beneath the ground was an intricate pattern of arching pillars and transverses, the gray and red tile patterns on the ceiling dizzying to the eye even in the trembling glow of their candles.
+
+But all their eyes had inevitably strayed to the heart of the room, where the pit breathed like a gargantuan beast.
+
+Professor Baltasar had led them to the edge, where a well of darkness plunged into the depths of the earth, but tucked away were further secrets. Spiraling down and facing the dark were small stone cells, large enough to fit one soul and little more. Maryam tried not to look down, where the dark became Gloam and the depths of nothingness would swallow whole the unwary.
+
+“We did not build this place,” Professor Baltasar said. “Unlike much of this island it does not bear the mark of the Antediluvians, so our best guess is that it was dug during the Old Night.”
+
+Maryam believed him. She had walked the shrine path below the Broken Gates as a girl, to prove she was worthy of being taught by her mother, and the oldest of the shrines – built after the Antediluvians unmade themselves by shattering the walls encircling Nav – had the same… feeling to them than this place. Not winter-cold but grave-cold, the kind that left the skin cool but settled deep in your bones.
+
+“Many a cult and court have held the Abbey over the centuries,” the professor continued, “and always for the same reason: it is one of the single finest places in all the known world to educate signifiers.”
+
+Whispers spread between shivering candles, eager and wary both. The Craft was not something that ever gave without taking.
+
+“The Gloam here is malleable, settled,” Baltasar Formosa said. “You will find it easier to form Signs and should you stumble you will find it easier to cut the Sign before it lashes back.”
+
+So that was how the Guild would get around the strictures of teaching the Craft.
+
+To form a Sign was to paint with fire: the smallest of mistakes would see your fingers scorched. All it took for backlash to happen was to fail to fit the Gloam into the Sign strongly enough. Tendrils of power would surge out, like with waterskin being gripped, and mangle everything around them. If you lacked discipline, losing a finger would make you release the incomplete Sign out of pain and then you were likely to lose an entire hand – if not an arm.
+
+Most signifiers only learned Signs under the eye of an elder of the Craft for that very reason: the older Akelarre could snuff out the backlash before it hurt you, then show you where you had gone wrong. It had been greatly unlikely for the Akelarre Guild to send sixty Masters to teach the students at Scholomance, however, given how much their services were worth. Even a more reasonable split of five students per Master would have represented a ruinous expense. But if the Abbey made mistakes more forgiving, learning easier? A handful of teachers would be enough. More guides than mentors, which seemed the way of things at Scholomance.
+
+“I teach you nothing you do not know when I say that the Art is not something that can be made standard,” Professor Baltasar said. “The process of obscuration is personal, and talent with certain Signs can make difficult the mastery of others.”
+
+Standing fearless by the edge of the drop, the professor had turned his back to the dark to address them. It leant him a ghostly air, standing surrounded by a circle of flickering candlelight with the abyss lurking below.
+
+“I will not pretend otherwise by teaching you as a crowd: you will learn as you please, according to your understanding of your strengths.,” Professor Baltasar said. “The chapterhouse library will be made open to you, but no book within will be forced.”
+
+It could not only that, Maryam thought, for to be left to their own devices when learning Signs would be… hazardous, regardless of the Abbey’s boons.”
+
+“I and other Masters on the island will teach you Sign-patterns if asked, and smooth the wrinkles in your understanding by conversation, but that will be at your own initiative,” the professor told them. “No time in the Abbey is mandated of you, and it is your right to never return here if you so wish.”
+
+You showed us the long length of the leash, Maryam thought. Now how are you going to tug it to remind us it is still very much there?
+
+“But at the end of the year,” Professor Baltasar calmly said, “any of you who have not mastered the fundamental Signs of at least two of the five branches of the Art to my satisfaction will be sent away.”
+
+His gaze turned disdainful.
+
+“If you are incapable of accomplishing this with the advantages we will offer you, to keep you here is a waste of our time.”
+
+Maryam flinched, glad that her hood hid it. This was not glad news.
+
+“Now,” Professor Baltasar mildly, “I would begin showing you the benefits of studying at Scholomance. Can anyone here name the Two Measures?”
+
+Hands rose, though not Maryam’s. She was still chewing over mounting despair.
+
+“Grasp and Command, professor.”
+
+Maryam had been taught using the words Grip and Control, but the meanings were the same. The Two Measures were the way by which the ‘strength’ of a signifier could be quantified, more or less. Grasp was the amount of Gloam that one’s nav was capable of gathering, the power that was there to be shape. Command was the amount of Gloam that a signifier was capable of shaping at once, usually by forming it into a Sign.
+
+The ceiling of a signifier’s capacity lay at the intersection of these measures: the peak of what you could Grasp and Command was your peak. Having superb Command but weak Grasp meant you would be forever condemned to petty tricks, while having great Grasp but weak Command meant using any complex Sign risked melting your brain. It was very rare for someone to be perfectly matched in both, most signifiers naturally leaning one way or the other and learning to compensate.
+
+Maryam was not one of the souls blessed with perfect metaphysical symmetry, to her great bitterness.
+
+The Two Measures were not perfect, of course. She had been taught that some Akelarre scholars argued for other measures to be added – Extent for the time you could manipulate, for example, or Density for the concentration of Gloam that you could achieve – but there were even more arguing that such additions were ultimately derivative and should not be held up as fundamentals.
+
+“Correct,” Professor Baltasar said. “It is rare for a precise assessment of where one stands relative to the two measures to be feasible, but the condition of the Gloam here in the Abbey allows for the use of these.”
+
+Fishing inside his robes, the scarecrow man produced a wide, slender circle of stone no larger than two fists put together. It was engraved with intricate channels on its surface, whose patterns were dizzying to contemplate. Maryam resisted the urge to send out her nav to feel them out, knowing she was being presented with conceptual symmetry – the flesh was ill suited to contemplate such things, but the Abbey was a dangerous place to get curious with her soul-effigy.
+
+“Some of you will recognize what I hold,” he said. “But for the rest of you: this artifact is called a Kuru Maze. It restricts the gathering and guidance of the Gloam in very specific ways, allowing for a precise measure of your Grasp and Command.”
+
+He cleared his throat.
+
+“Time has made such creations fragile and a significant loss of control will shatter the stone,” Professor Baltasar said. “In the Abbey, however, the risk is significantly diminished. Consequently you will be allowed to test yourself using the maze and learn where you stand regarding Grasp and Command.”
+
+He paused.
+
+“The value you will be given is cross-referenced in many of the books in the chapterhouse library, which should markedly ease the process of learning new Signs,” the professor continued. “As in all things, you will not be forced – it is, however, my strong recommendation that you take this test.”
+
+There was some eager chatter. The notion was a popular one, and why not? The manipulation of Gloam was deemed the Craft by Izvorica and the Art by the Akelarre Guild because much of it was imprecise, hard to measure. The few certainties they could get their hands on were priceless things.
+
+“Now, let us get you in your cells,” Professor Baltasar said. “I will be moving down in order to handle the maze and any questions you might have.”
+
+Maryam’s lips thinned. She already knew she would decline use of the Kuru Maze so she should decide on a believable reason as soon as possible.
+
+Because if Professor Baltasar saw her measures, he might well just tell her to stop coming to class.
+
+—
+
+They had assembled at the Old Playhouse because of a hidden path.
+
+None of them had seen Colonel Cao arrive earlier, though given where she’d appeared Song had guessed she came from the back of the stage. This proved to be correct, though not in the way she had expected. The colonel walked past a half-collapsed corridor that must lead back to the city and instead went into the basement of the playhouse, through what must once have been some ancient storage. There waited great wooden doors, which were of much more recent make than anything else Song had seen here.
+
+Pulled open, they revealed a narrow lantern-lit hall that continued beyond what the Tianxi could easily make out.
+
+“The last in are to the close the doors,” Colonel Cao instructed, then proceeded in.
+
+The hall was only wide enough for two at a time, which left Song and Ferranda side by side. The fair-haired infanzona was keeping quiet, eyes moving across the lit hall as if there might lie hidden secrets in the walls of stone. They walked behind a pair of Izcalli, the same Song recalled having seen speaking with Tupoc earlier. The two spoke in Centzon the entire way, seeming to believe using their native tongue would keep the talk private.
+
+Unfortunately for them Song had been fluent in Centzon since she was ten years old.
+
+Alas, the pair were not sharing great secrets. Mostly they talked about how a girl called Serinda was ‘scorching as summer heat’ and ribbed each other about how they were going to be the one to seduce her into bed. The only mildly interesting thing to come out of their mouth was a passing mention of Tupoc, whom they called ‘the leopard-man’ and did not seem to take all that seriously.
+
+Song knew little that was not secondhand about the Leopard Society, but she recalled it was not considered prestigious the way that most Izcalli warrior societies were. That was sensible enough given that they were a pack of raiding, slave-taking bandits but she had not considered that it might lead other Izcalli to look down on Tupoc. That might be of use.
+
+The path to their destination was simple: they went in a straight line until there was a crossroads, then took a left. Word came from the front, and thus Colonel Cao, that the right turn would lead into an alley close to the junction of Regnant Avenue and Templeward Street. Continuing north would, instead, eventually lead to Misery Square. Song memorized the former path, which promised to be the most convenient for her in the future.
+
+At the end of the turn waited a wrought iron door, kept alight not with lanterns but by replaced stones around the doorway whose masonry had soaked in Glare and gave off that pale burn still.
+
+“Expensive,” Ferranda murmured, and the Tianxi nodded in agreement.
+
+The two of them were about halfway down the line and there were several people taller than them in the way, so neither could make out what Colonel Cao did before the door – but all heard her rap her knuckles harshly thrice, then a shutter slide open. Something was said, the shutter closed and after a few moments the door opened wide. The students began entering, the surprised gasps Song heard when she was close enough to stoke her curiosity.
+
+Soon they were past the threshold and the guards by it, the Tianxi breathing in sharply despite having prepared herself: she was standing within what she could only describe as the child of a cathedral and an officer’s club.
+
+There were ten stories to a structure whose shape was that of a rectangle ending in a rounded wall, but much of it was empty: wooden galleries went around the walls and left a hollow space going up to the distant wooden ceiling in the middle. From the fourth story onward, what would be well above ground level for the island, the rounded walls became great stained-glass windows whose colored light painted everything it touched.
+
+Stairs went from one level to the next, and as they followed Colonel Cao up them Song saw the galleries were filled with dormitories, meeting halls and private offices. There was even a library! It was brisk exercise to climb, but she was too excited to tire.
+
+On the eighth story there was a dining room and kitchen, a handful of officers eating at the tables there, and the two levels afterwards were entirely filled with small, tastefully decorated salons. Yet there was more, as what she’d believed the ceiling was in truth a floor and unlike the others the room at the summit filled that entire level.
+
+And what a sight it was! Nearly half the walls had been removed and replaced with windowpanes, their glass clear and clean. Along one wall was a long counter behind which wine and liquors were stocked, while the opposite wall was entirely covered with a board full of pinned papers. In between the walls was an intricate layout of couches and armchairs set by low tables, looking sinfully comfortable.
+
+Song’s belly clenched with something that was neither quite greed nor admiration: this was everything she wanted about the Academy distilled into a single edifice.
+
+The simple implicit power in having this place refurbished out here on this nowhere island, in maintaining it. The exclusivity, the comfort, the grace. It was the heights she needed to reach if she was to ever make the name Ren into anything but a curse.
+
+“Claim seats as you wish,” Colonel Cao said, waving them off.
+
+The older herself went to the counter, where a sharply dressed man poured her a glass from one of the bottles on the top shelf without even needing to be asked. Only after taking a sip of amber liquor and letting out a sigh of satisfaction did the colonel pull back a seat and sat on it facing them. Song claimed the closest armchair and turned it to face her, sitting ramrod straight, while Ferranda was forced to share a couch with a pair of Lierganen girls and crane her neck instead.
+
+Once Colonel Cao was satisfied with the arrangements, she set down her cup and cleared her throat.
+
+“This,” she said, gesturing at their surroundings, “is the Galleries.”
+
+In the burning pale of the lamplights she seemed younger, as if invigorated by the elegance of their surroundings. Song could sympathize. The prospect of returning to her filthy cottage later already felt like a punishment.
+
+“The dormitories, rooms and library are for you to do with as you please,” Colonel Cao said. “This was once the privilege of Academians alone, but the circumstances of Scholomance’s reopening have seen this courtesy extended to you.”
+
+Murmurs of approbation. Even the little kings and the duchess trailing them seemed impressed by their surroundings, which were no doubt the finest on the island.
+
+“It goes without saying that none of you may bring outsiders and that such an attempt would be harshly punished.”
+
+A shame, Song thought. Angharad might have enjoyed spending the occasional evening here and the Pereduri would have been a great help in navigating the social occasions. Her duel with Musa Shange had, while painting a target on her, also made her the equivalent of a conversation piece. Between the novelty of the story and her Angharad’s good looks, people wanted to talk to her.
+
+“The dining hall is manned at the expense of the Academy, so you will find its fare requires coin – and is far superior to anything else this island has to offer,” she continued. “The same is true of the salons below, if  you require refreshments to be served there.”
+
+She sipped at her drink again.
+
+“I expect, however, that you will be spending the most time on this level,” Colonel Cao said. “The reason is behind you.”
+
+Song turned to better study the great boards filled with pinned papers. Several she recognized as maps with a glance, others as interesting information – there appeared to be a list with the number of students for the year, of cabals and even the number of students by covenant – but the vast majority was something simpler. They were, she saw, bounties.
+
+“The bounty boards are filled with not only the Academy’s chosen tasks but also that of professors, other covenants and even select students,” Colonel Cao said. “Though I will be explaining to you the nature of your training and time in Scholomance, I first invited you to rise and read the existing bounties.”
+
+The watchwoman reached within her coat, pulling out a silvery pocket watch on a matching chain. She popped it open, then glanced at the time.
+
+“You have five minutes to claim one by taking the paper,” Colonel Cao calmly said. “And if your cabal has not accomplished it by the end of the week, you will pack your bags and head to the harbor.”
+
+Chaos erupted.
+
+—
+
+The Fisher liked it here.
+
+The old spirit slithered through her veins like icy water and the feel of him was almost hungry. Angharad kept her eyes straight ahead as they descended into the chasm, trying to force him out, but it was like fighting the tide itself. He would leave when he cared to and not a breath before.
+
+The stairway beneath her feet was carved out of snarling beasts, wolves and lions snapping at her heels as she followed Shalini and Salvador down into the dark. The way below was cut with stripes of light and darkness, the burning paleness of the oil lamps never quite reaching another’s cast as the students followed Marshal de la Tavarin into the depths. He seemed an almost ghostly figure, from a distance, an incongruous splash of color in this stairway filled with the silence of twisting shadows.
+
+At the end of the path lay a grand balcony, an arc of cracked painted tiles filled with seats of stone. At least a hundred of them, Angharad saw, and none entirely alike: some were carved into the likeness of vines and flowers, others of beasts clawing at each other or warring soldiers or raging waves. Years and rain had worn away details, but they were still each a small wonder. Yet all paled compared to the great throne at the center of the arc, twice as tall and wide as any other and carved as a single great skeleton embracing whoever sat on it.
+
+The Marshal walked past it, to the elegant stone railing at the end of the arcing balcony. Angharad could scarce see what was below save for four great lanterns hanging from a ceiling above, all wrought black iron and large as a carriage. They burned brimstone-red, belching out smoke endlessly as they painted the deeps in the likeness of a furnace.
+
+“There was a time,” the Marshal said, “after the world broke and from the corpse of Liergan rose many a king dreaming of empire.”
+
+He had not raised his voice, but Angharad heard him perfectly. No student had dared approach the edge of the balcony, kept back by dim instinct, and not a single whisper broke the silence. Above the earth, bathed in the light of the Orrery, the old man had seemed almost a figure of fun. The descent into the bowels of the earth had since snuffed out that impression.
+
+“Sologuer was one such kingdom,” Marshal de la Tavarin continued, “and for a time the iron-toothed kings of this land ruled over isles and coast as far as their ships could reach.”
+
+The old man laid a hand on the elegant stone railing, looking down at a sight none of them could see.
+
+“They took tribute in gold, as kings do, but their hunger was not so easily sated,” the Marshal said. “Black-bellied ships returned to this island with every turn of the Fool’s Moon, bringing young warriors come to die in a bloody temple.”
+
+She could feel the Fisher smile, savor the old butchery soaked into the stones.
+
+“The Acallar, they called this place.”
+
+He flashed them a grin, revealing glinting silver teeth.
+
+“The kings of Sologuer, you see, believed the slaughter would make them into gods. Beings able to command the orbits of the Grand Orrery and so master the very elements. Even the children of their house sat the thrones, drinking in the slaughter.”
+
+The grin turned mocking.
+
+“The Morningstar, ever sharp of humor, sat in that very seat as they slew each other below for the entertainment of his court.”
+
+She felt Shalini stiffen at her side, as was only sensible when being told that Lucifer had once held court where you stood.
+
+“Come closer,” Marshal de la Tavarin ordered. “Today’s lesson will take place below.”
+
+Hesitantly they approached the edge, the infernal light of the lanterns revealing the grounds where warriors had once fought and died for madmen.
+
+Their balcony, she first saw, was the not the only seats. Facing on the other side, noticeably lower, was a much broader and longer arc of stone benches where a crowd would have been able to gather. That was not, however, where they would be headed.
+
+Perhaps a hundred feet below stood the grounds, a broad circle of stone ringed by large iron cages surrounded by the abyss on all sides. There was hardly a foot of bare floor on it, the arena almost as a broken town: there were low walls and pillars, a few roofed houses, furrows in the ground and even sculpted fountains. There were lower grounds and higher, shallow stairs and subtle drops, while in the shadows lay pitfalls for the unwary.
+
+Dusty bones and weapons long rotted away lay strewn like offerings, one structure standing taller than all the rest: a rough mimicry of the Grand Orrery’s silhouette in rusted iron, a skeleton nailed to it as some sort of grim display.
+
+A broad stone bridge was the only break in the abyss surrounding the grounds, connected to the sole break in the ring of iron cages and leading to a doorway in the wall that was closed by a portcullis. Angharad saw through the steel grid that there burned lantern light past it. Glancing around the grand balcony, she found that tucked away in the shadows was a stairway delving deeper into the earth – there must be tunnels in the walls, some of them leading to the heart of Acallar.
+
+Her gaze withdrew when Shalini gasped as her side, following the Someshwari’s eyes but finding nothing save for the fighting grounds below.
+
+“One of those cages just moved,” Shalini quietly said. “There’s something inside.”
+
+Angharad breathed in sharply. Her friend was not the only one to have noticed, and disquieted murmurs spread across their company. Marshal de la Tavarin seemed indifferent to the turn in the mood.
+
+“Come,” he said. “Let us continue on our way.”
+
+Their professor made for the stairs Angharad had earlier noticed, followed by wary students, but she hung back. She stayed at the railing, silently counting cages as the other two stared at her in confusion.
+
+“Around fifty, I think,” she said. “Fewer than there are students.”
+
+“So either not everyone’s fighting in that pit or we will be forming squads,” Shalini said, catching on.
+
+Salvador nodded in agreement.
+
+“Squad,” he predicted. “Like when hunting lemures.”
+
+“I wonder how large they will be?” Angharad murmured.
+
+If there were three then the arrangement was good as made, but more than that would require some thought. Less as well, in a different away.
+
+“I’m more curious about how they got the beasts down there in the first place,” Shalini noted. “Either way, the garrison must be involved – I doubt His Grace did it all by himself.”
+
+That last guess from Shalini was proved true when the three of them followed the current down the stairs, passing through a well-lit guardhouse where a handful of watchmen were seated and playing cards. The soldiers spared them only glances, otherwise ignoring them as they passed. There was another pair by the portcullis, which was now raised by the work of a wheel by its side. It is meant to keep people in, Angharad thought, and not out.
+
+The bridge over the abyss was wide but utterly without railing and the faint breeze down here had her body prickling with unease.
+
+They found the Marshal perched atop a low brick wall by a great crack splitting it, the great feather on his hat fluttering in the breeze. The old man waited for all the students to gather below him, stroking his impressive mustache as he watched them. He cleared his throat when all were arrived, flicking his great sleeves in an eye-drawing gesture.
+
+“The first of the Skiritai,” he said, “were not god-killers.”
+
+That snuffed out every other whisper of conversation, many of which had bloomed. Angharad herself knew precious little of the history of the guild she was to join, its past as shrouded as the rest of the Watch’s.
+
+“They were mercenaries, driven to the blade-trade by their home island turning barren beneath their feet,” Marshal de la Tavarin told them. “Desperate for coin to feed their families worth, they took the worst of the contracts: the most brutal, the most dangerous, the most hopeless.”
+
+A harsh fate, Angharad thought, but such work was respectable in its own way.
+
+“Years turned into decades,” the Marshal said, “and enough lived that the Skiritai became known as the finest warriors on the Trebian Sea – sought-after by a hundred warring kings.”
+
+The old man coughed into his fist, then dabbed at his lips with a mustard-yellow handkerchief he produced from his sleeve.
+
+“To the Skiritai a child was not grown until they had cut down a man, so their soldier-youths they called by the same name as the blade they were to wield: kopis.”
+
+It sounded like a word from a hollow cant, Angharad thought, but she was no scholar in such regards. Perhaps she ought to ask Song.
+
+“Long after the island these first of the Skiritai were born to faded from memory,” Marshal de la Tavarin continued, “our guild continued the practice in honor of these humble beginnings. An initiate of the Skiritai is known as a skopis, a sword for the Watch to wield.”
+
+The Marshal flashed them that grin again, a handful of silver teeth glinting in the light.
+
+“You are not even that, of course. To be an initiate of the Skiritai Guild is something earned and you have earned less than dust.”
+
+Unhappy mutters. Even Angharad found herself frowning. He spoke no lie, but his truth was spoken with contempt. They were nor arrant children claiming something to which they had no tie, they had been chosen by the very guild he spoke for. Laying his cane on his knees, the old man clapped his hands.
+
+“So be glad, children, for today you are given the opportunity to begin redeeming that miscarriage,” the Marshal said.
+
+He chuckled.
+
+“In blood and ichor, as is our way.”
+
+The old man leaped down from his perch, landing with surprising lightness on his feet. He pointed his cane forward, the crowd moving out of the way, and their gazes landed on a cage. Which shook, the sound of claws on metal echoing loudly into the silence.
+
+“There are sixty cages,” the Marshal said. “Each contains something worth killing.”
+
+“Like what?”
+
+The question came from the back of the crowd, not a face Angharad could see. The professor did not seem offended by the interruption.
+
+“Now that would be telling,” the old man laughed. “Lemures one and all, I will say, but hardly any two are the same – behind that door could be a pair of lupines or a raging griffin, depending on your luck.”
+
+He tucked his arm behind his back, sleeve trailing.
+
+“I tell you true, children, I am a merciful man,” Marshal de la Tavarin solemnly said. “I have spared more men death by my hand than you have seen sparrows fly.”
+
+Angharad’s lips thinned. Unless the professor had once commanded over a great surrender, that was most unlikely. Which meant a man she was meant to offer respect to might very well be a liar.
+
+“True to my nature, I offer you the chance to make bands of four or less before choosing which cage you are to open. Are you not grateful?”
+
+The noblewoman’s lips thinned even further. Lupines were easy enough to handle Angharad believed she could kill a pair by herself, but a griffin? There were no such beasts in Malan but their reputation was fearsome far beyond their Trebian hunting grounds. She was not sure that even a squad of four could kill such a creature – not without deaths or grave wounds, anyway. Unless to name a griffin as an example had been an exaggeration, another lie.
+
+Disgraceful either way.
+
+“Why,” the Marshal mused, “some of you seem quite displeased. Speak up, if you’ve doubts.”
+
+Lord Musa swiftly stepped to the fore, face pleasant but eyes contemptuous.
+
+“Sir,” he began-
+
+“Your Grace,” the old man mildly said, “or Marshal.”
+
+“Marshal,” the Malani swordmaster corrected. “Given our lack of preparations and these unfavorable grounds, the likes of a griffin would be difficult for some among us to slay.”
+
+The Marshal snorted.
+
+“So you’re saying my little surprise is ill thought out,” he said.
+
+“I would not say such a thing,” Lord Musa replied.
+
+Which was nothing but polite agreement in the Malani way. The old man sighed, shaking his head.
+
+“There are some who would agree with you, boy,” the Marshal said. “Who have, in the past.”
+
+He clicked his tongue.
+
+“Few of them lasted out a year as Skiritai.”
+
+Musa Shange’s face tightened at the implied insult.
+
+“Your mindset is one of defeat,” the Marshal lectured, leaning on his cane. “You look for a path, tracing with your fingers something you hope might lead to the death of your opponent. That is a mistake.”
+
+He scoffed.
+
+“You are a Militant,” he said. “The path begins with the death of your opponent, traced back to where you stand. Uncertainty is surrender.”
+
+The old man stepped forward.
+
+“But perhaps proof is required,” he said. “So proof I will grant. Pick one, boy.”
+
+“Pardon?” Lord Musa frowned.
+
+“Pick a cage,” the Marshal said, “and I will kill whatever is inside with nothing more than what I bear. I am an old man, and barely armed. If I can succeed, what would be objections from you save whining?”
+
+The Malani laughed incredulously, then gazed back at the crowd. Angharad shifted, feeling as uncertain as he did. What if the old man died? Only the Marshal’s face remained utterly serious. After a moment Musa Shange cleared his throat, then pointed at a cage some ways away – by a flat stretch of ground fenced in by furrows in the ground. The cage did not shake, whatever awaited inside disinclined to rattle its prison.
+
+“Mhm,” the Marshal said. “I don’t remember what’s in that. I do enjoy a surprise.”
+
+The old man sent them back across the bridge and to the guardhouse, telling them to take from there a right – there were hidden stairs there, which they followed up to the large balcony with the benches. It was much closer to the grounds below than the heights above had been, enough that Angharad thought she might be able to leap down there without breaking her legs.
+
+It would hurt a great deal, she figured, but it could be done.
+
+As the quiet students spread out across the benches, staying in the same small circles they had from the start but now eyeing each other with the prospect of a fight looming ahead, Angharad saw the watchmen on the other side of the portcullis lowered it. Though Shalini and Salvador stayed seated, the noblewoman instead went to lean against the railing as she watched the Marshal moving below. The old man began undoing the latches on the large iron cage one after another, then wrenched the door open and stepped back.
+
+Nothing came out, at first.
+
+Then a ten-fingered hand larger than a head reached out, the monster within peeking out a large red-maned head and began dragging itself out. Whatever the lemure was it was large, Angharad thought.
+
+“Onjancanu,” Salvador hoarsely whispered behind her. “Old Tyrant.”
+
+She could hear the wariness in the voice of a man she doubted was easily cowed.
+
+The creature rose, knees creaking like old hinges as its long red beard swept against the ground, and it unfolded to its full height. Twenty feet, broad-shouldered and built like a tower as the red string of its beard mixed with the long red mane of its back to cover its front. The limbs were naked and hairy, ten fingers and toes ending in nails of sharp bone. Its skin was thick and sickly-yellow, its nose overlarge and sniffing at the air as its single wet and lidless eye flicked about this way and that. The sclera was burnt orange, the pupil black and slowly the onjancanu opened a great maw filled with rows of teeth.
+
+It began to laugh, the sound of it guttural and shivering all the way down to her toes.
+
+The Marshal stood alone before it, both hands resting atop his lionhead cane as he looked up at the monster’s monstrous face. He had yet to reach for a weapon.
+
+“Disappointing,” the old man said, words carrying up to them on the wind. “They starved you too much, hardly any mind left in you.”
+
+Without even turning his way, the monster snatched a loose stone the size of a table and tossed it at him so casually it took Angharad a heartbeat to realize what had just happened – only instead of Marshal de la Tavarin’s splattered remains, what she saw was the old man’s coat sleeve fluttering where the deadly weight had narrowly brushed past it. He had barely moved half a foot, the mirror-dancer realized, and not even quickly. Leaning on his cane, the Marshal began closing the distance with slow steps.
+
+Now he had the monster’s attention.
+
+The onjancanu screamed and stomped forward, those tree-trunk legs shaking the ground as it caught up to old man in the blink of an eye and reached to snatch him up with its mouth already open for the gobble – only with a casual, almost gentle press of his cane on the knuckles the Marshal brushed aside the clawed hand enough it passed half an inch wide of him. In the heartbeat before the monster turned aside to scoop him up with the other hand, the old man viciously struck with the butt if his cane on the monster’s foot.
+
+It let out a scream of pain, picking up its own foot as it hopped back, and tried to blindly smack away at the offending fly with the side of its hand. The Marshal stepped past the swing into the monster’s guard, its wrist ruffling the feather on the old man’s hat even as he struck at the knee it was hopping on. Shouting furiously, the beast opened its arms wide and let itself collapse on the Marshal – who kept moving forward even as it dropped forward.
+
+He emerged between its legs, the gust of wind from the onjancanu hitting the ground sending his hat flying. He snatched it out of the hair, casually pressing it back down on his head even as the great ogre threw a tantrum and began wailing at the floor with its hand and feet. A flailing foot almost caught him in the ribs, a blow sure to turn his ribs to powder, but with unhurried precision the old man pressed down on his cane to leap above the blind sweep like a lamb over a fence.
+
+The onjancanu must have felt him, however, for it turned from its belly to its side with a roar to face the irritating bug and, hand rising high – the Marshal nonchalantly reached inside his coat and withdrew an ornate pistol, pulling the trigger. Snap, powder billowed out and wet viscera burst where the monster’s sole eye had been as the roar turned into a hoarse scream. The palm came down, but it caught only dust as the Marshal leaned back the spent pistol on his shoulder and closed on the creature cradling its eye with its other hand.
+
+Angharad felt her stomach clench with something like fear. She had known from the start that despite his appearance and seeming foolishness, the old man must be deadly – how else could he have lived old as one of the Militants, that band ever first into the breach? Yet she had expected a contract or some terrifying weapon, not… this.
+
+At no point in the fight had the Marshal even moved faster than at a walk.
+
+She had stared at him every moment, blinking as little as she could, and he did not begin moving before the creature did – this was not foresight, like her own contract. He had not brushed aside the blows of the lemure with strength leant by a spirit or wounded it with some trick. Any half-trained fighter would be able to strike as strongly as he had with the slightly pointed bottom of his cane. This was, Angharad realized with something like awe, pure skill.
+
+The Marshal, now by the blinded onjancanu’s face, folded past the furious slap of a great hand on the ground and as his coat fluttered he twirled his cane in that same gesture she had thought pointless vanity – and then thrust it tip first into the mutilated gelatinous orb. In the heartbeat that followed Angharad saw the old man’s death writ. He had not been strong enough to push it all the way and kill the beast, the large ogre’s arms were now coming to enfold him and –
+
+Spinning the empty pistol in his hand so the cooled barrel rested against his palm, the Marshal hammered the cane in with the butt of the pistol.
+
+The screaming cut out, the onjancanu’s brains pierced through, and after a mighty twitch the arms about to crush the old man dropped and began flopping uselessly on the ground. Putting away his pistol, the Marshal placed his boot against the monster’s great head and pulled out his cane. It took him three heaves and there was a splatter of blood on his coat, but black on black did not show.
+
+Uncertainty was surrender, he had told them, and suddenly Angharad grasped a sliver of what he’d meant. The Marshal had never once hesitated in that fight, let uncertainty slow his stride or confuse his design. It was as if the entire fight had been a single, continuous movement from beginning to end. And that was not simple skill, Angharad knew. It took more than that. It took experience.
+
+How many onjancanu had the Marshal killed, to toy with this one so casually?
+
+The beast had stopped twitching by the time he turned to face them, flashing a silver grin. The hellish red light cast his shadow behind him, and in that silhouette Angharad thought she glimpsed a mound of corpses so tall it would fill this entire cavern. Men and beasts, gods and devils – everything under firmament. To be an old Skiritai, she thought, was to carry a graveyard in your trail. And that? That was something she could learn.
+
+Something she wanted to learn.
+
+“See?” the Marshal said. “Even an old man can do it.”
+
+And the greater of the two monsters walked away from the other’s corpse, calling for them to make their squads and come down in order as his cane left a trail of black blood on the ground.
+
+# Chapter 16
+
+The legwork took around an hour and a half.
+
+Some of it was hitting pavement and casing the place without looking suspicious, but the real sweat came when Tristan had to consider how it would all go wrong. Half the time spent rustling up a scheme, Abuela had taught him, should be considering how to get out when it turned on you. Unfortunately, he was no longer fooling around with halfwit coterie thugs: unlike the rare Guardia patrols out in the Murk the local garrison wasn’t likely to keep walking if they stumbled onto a crime looking like too much trouble to handle.
+
+Not that a plan needed enemy action to go sour: ambition was as much your enemy as the other side. The trick, he had come to believe, was to keep it as simple as you could. Keep a straight line of intent, then account for everything you knew about and leave a little loose rope for what you didn’t. Too many moving parts made for a wreck, not a clock, and fortune was just as fickle as Fortuna. It was better to home in on a single weakness and slide that knife in as deep as you could, then exploit the advantage for all it was worth.
+
+In this case, the weakness was that Tristan knew where Captain Wen Duan lived.
+
+It had been necessary for the man to tell Song so she might pass on the Thirteenth’s choices of electives, and caution had seen the thief learn it himself. Tristan had since made sure it was a house and not some office, then taken the lay of the land. The single-story house was just past Templeward Street, near its end, and in a street that was mostly empty buildings. Nobody lived on either side of Wen. The figured that their patron had come late to Tolomontera to get one of the nice houses in what he’d heard garrison men called the ‘Triangle’: the nice part of Port Allazei delineated by Regnant, Templeward and Hostel.
+
+First complication? Wen appeared to live with Sergeant Mandisa. Not only did the tall sergeant reek of danger, she was hard to get a grip on. Tristan knew some of what made Wen Duan angry and happy, could pull those strings if he put in the work, but Sergeant Mandisa? He’d not been able to get a read on her, on what made her step or hold. He could make guesswork, but guesswork made for a mighty fragile lifeline. Better to make her irrelevant to how it all fell out if he could.
+
+Then cut the time by half and be twice as careful. Just in case.
+
+After that came supplies. Buying would have left a trail, in the seller’s memory if not in their ledgers, so Tristan stole instead. It was as simple as waiting for another watchman to be headed into the right shop on Regnant Street, then cut ahead to buy an apple from the greenmonger and snatch a jar on the way out. Casually, almost slowly. The kind of movement that would not make the monger look away from their other client until he was long gone.
+
+He picked the alley, the house and the place to stash the goods. Penned the note on the paper, blew it dry. Someone looking for him would try the back, he figured, because they would expect him to be sneaky about it. It was not a sure thing, never was, but he liked his odds. They’d want him, want what his head on a pike meant. Yeah, they’d be headed out back.
+
+After that, most of what was left was bribes.
+
+To open he found an urchin. Port Allazei was remarkably short on those for a port town, but there were always a few if you knew where to look. A slip of a girl, Lierganen and fair-haired, was skulking around the part of Templeward where there were teahouses – and so occasionally freshly baked goods insufficiently watched. The moment he approached she scowled.
+
+“I’m not going to school,” she firmly told him. “I don’t care what Mom says, they’re teaching us triangle stuff.”
+
+Her voice strongly conveyed this was a fate worse than death.
+
+“I agree with her,” Fortuna mused, leaning against his shoulder. “They feel more arrogant than squares and they don’t even have as many sides.”
+
+Tristan forced himself not to engage, instead looking down at the kid.
+
+“What’s your name?”
+
+“What’s it to you?” she challenged.
+
+“I’ll call you nina,” he threatened.
+
+A pause.
+
+“Arabella,” the girl grudgingly conceded.
+
+“Arabella,” he said. “I’ll give you a copper if you wait for me at the bottom of Templeward for…”
+
+He fished out his watch, estimated the back and forth.
+
+“Twenty minutes,” he said. “Then I’ll be back and I’ll give you another copper for either passing someone a paper or forgetting all about this.”
+
+Arabella considered him, low cunning alight in her brown eyes.
+
+“I’ll do it for your watch,” she said.
+
+“Two coppers now,” Tristan said, “a third if you have to pass the paper.”
+
+“Deal,” she hastily said.
+
+The thief rubbed the bridge of his nose. No, that just wouldn’t do.
+
+“That’s not how you do it,” Tristain said, finding his voice had taken the Sacromonte cant. “You tried too high then settled right away. What you do is go just a little higher – five or six coppers instead of two – and let yourself be bargained down to four. If you only shuttle between copper and gold, you’ll never make silver.”
+
+Arabella squinted at him.
+
+“Six coppers,” she tried.
+
+“I like her spirit,” Fortuna noted. “You should pay her.”
+
+He snorted, at both attempts.
+
+“I’ve already paid you with a valuable lesson,” Tristan said. “Our terms stand.”
+
+“For another copper I’ll throw horse shit at someone’s door,” Arabella earnestly offered.
+
+He scratched his chin.
+
+“I might trade for that later,” the thief admitted. “But not today. Deal?”
+
+“Deal.”
+
+They spat on their palms and the little girl solemnly shook his hand. Their parting of ways was pleasantly brisk, leaving him to arrange a bribe that would not be half as well deserved as strode towards the docks. It was not far, and he knew the way. The detainment house was not a prison, despite Maryam’s insistence to the contrary. Tristan had seen prisons, and the chairs weren’t anywhere as nice.
+
+There also tended to be significantly more torture.
+
+Getting in was as simple as knocking and presenting his brigade plaque. Fortunately, it was early enough in the day that the man he was looking for was still there. Sergeant Itzcuin Hotl had spent the latter half of his detainment with him when he was sent here after his little jaunt through the Witching House and seemed happy to see him again – as he should, given how much Tristan had made sure to lose at cards. The thief was quickly ushered into an empty room.
+
+Of course, the thief suspected those card games were not the only reason for the enthusiasm. It might even be said he had bet on it.
+
+“I need a favor,” Tristan said with a winning smile.
+
+Sergeant Hotl raised an eyebrow, so the thief replied in a straightforward manner by reaching into his coat and putting down twelve copper radizes on the table, spreading them smoothly in a line. The eyebrow rose even higher.
+
+“You have my attention,” the sergeant said.
+
+“In an unfortunate misunderstanding, my visit here will be misconstrued as my being under arrest and a message sent to Captain Wen that he should come fetch me,” Tristan said.
+
+The Izcalli sergeant chewed on that for a moment.
+
+“Full silver,” he finally replied. “If he complains, it could leave a mark on my record.”
+
+The thief was likely being sold a line, but he was in no position to argue. And, in truth, did not even have much time to bargain. The coppers were swept back into his hand and tucked away in a pouch, replaced by a single silver arbol that the sergeant immediately snatched.
+
+“Pleasure doing business with you, Abrascal,” Sergeant Hotl grinned. “I’ll send a runner as soon as you’re out.”
+
+Tristan bowed his thanks and took his leave. Instead of rushing back, however, he ducked into an alley across the street and kept to the shadows. Eyes on the only door in or out of the detainment house, he waited. A blackcloak walked out, quick on his feet.
+
+He did not head in the direction of Captain Wen’s house. The second blackcloak, who left a minute after, did.
+
+“Why are you smiling?” Fortuna asked, leaning in.
+
+“Because I had him pegged right,” Tristan said. “And Arabella is going to be making that last copper after all.”
+
+—
+
+Down the circling stairs they went, holding a candle in their hand.
+
+Each of the Abbey cells had a number painted on the door, matching the cabal of the student it was to belong to. Maryam forced herself, even through her rising fear, to keep an eye on those ahead of her. Most of the first twelve brigades of Scholomance had a signifier among them. She kept an eye on the numbers she remembered from elsewhere: the Third had one, a Someshwari boy looking half-asleep, and that scowling girl from Tupoc’s cabal slammed the door of her own cell. The Ninth, those fuckers, also had one – though the hood kept Maryam from learning anything about them save that they were tall.
+
+Soon Maryam was pulling open her own door, setting down the chamberstick in a small alcove carved into the wall before closing it behind her.
+
+Cell, she thought, was a good word for a room like this. The door might lock only from the inside but the barren walls seemed like a prisoner’s punishment. Bare stone all around, save for a mat of woven straw painted in fading green that presumably she was meant to sit on. There was nothing around her, and once her gaze stopped shying away Maryam beheld the Nothing that was before her. There was no fourth wall to the cell, only an absence revealing the pit of depthless dark.
+
+Carefully she sent out her nav, the soul-effigy feeling out the cell, and she found that the aether here was almost forcefully placid. There were no currents at all, nothing swimming in the waters even though she was mere feet away from a hole in the world. There was nothing natural about this – someone, something was keeping the aether calm. She withdrew her nav, unwilling to risk sending it out too long in such a place.
+
+The Izvorica sat on the mat, which was only mildly uncomfortable, and crossed her legs. How long before the professor came? Not long enough, she thought. He would start from the first cell and work his way down, so there were all too few before the knock came at her door.
+
+Maryam should have spent the time feeling out the boons of the Abbey, how they might aid in her learning, but instead she bit her lip and sat there dreading the coming knock. It was almost a relief when it finally came, a gentle rap of the knuckles on the wrought iron door. She mumbled for the professor to enter, and after the tall scarecrow of a man shut the door she cleared her throat.
+
+“I see no need to use the Kuru Maze,” Maryam said. “I have sufficient understanding of where I stand regarding the Measures.”
+
+Professor Baltasar cocked an eyebrow at her.
+
+“Unfortunately,” he said, “for you it isn’t a choice.”
+
+She grit her teeth. She had been ready to be questioned, but not outright refused.
+
+“You have attracted Captain Yue’s interest,” the older man said. “This is but the first of a several measurements she will want you to undertake.”
+
+Maryam’s jaw clenched.
+
+“I did not enroll in Scholomance to become a test subject,” she bit out. “Who is Captain Yue, that I must indulge her curiosity?”
+
+“She cannot force you, should you refuse,” Professor Baltasar acknowledged. “But as the senior Akelarre on the island, she canmake your life very unpleasant should she be so inclined.”
+
+He paused.
+
+“Unless you have a pressing reason not to, Maryam, I would use the Maze and take this one on the nose. Making a few early concessions will make her look tyrannical should she punish you when you elect to refuse her later on – she will want to avoid the perception.”
+
+Maryam almost cursed. Should she refuse anyway? No, that was pride talking. The fear of shame. Surely Professor Baltazar would not simply throw her out of the class when he saw her results. If anything, she grudgingly admitted to herself, she could use the help.
+
+“Fine,” she forced out, anger still tight in her throat.
+
+Professor Baltasar passed her the stone disk, which she inspected closely as he began to explain how it was to be used. The maze was little more than furrows in stone, but there was something about the pattern… it felt solid in her thoughts, even more so than the stone it was carved on.
+
+“Put your thumbs on the side of the disk,” the professor instructed. “You must then grasp as much as the Gloam as you feel you can and pour it into the stone – it will spread out from the notch in the center, then begin spreading in all directions.
+
+Maryam breathed out, began to sharpen her mind as she placed her hands as indicated.
+
+“Instead of allowing it to spread you must contain the center then command a tendril to follow along the maze, always turning left. The further you get in the maze, the more difficult commanding the Gloam will become.”
+
+In and out, letting distractions fall away.
+
+“The measurable results of the Kuru Maze are limited to a Grasp of ten and a Command of fifteen,” Professor Baltasar continued. “It cannot easily withstand greater strength, making it of only marginal value for older signifiers.”
+
+Maryam narrowed in her being, tempered it, then felt for the Gloam. The dark she carried in her.
+
+“Begin.”
+
+It was like breathing in with endless lungs.
+
+Maryam drew on the Gloam, let it pass through her, only she need not wield her nav as a hand and trace a Sign to be filled. Instead she poured the cold nothingness into the stone disk, widening the channels within her until the torrent filled her very being – and almost scraped at the sides, pinching and aching. I am the riverbed, she recited. I dwell through passage, act through stillness. Roiling Gloam bubbled out of the notch at the heart of the maze, settled instead of volatile.
+
+And it poured, poured, poured.
+
+Maryam took hold of her nav, tried to guide it to the left, but it was like taking a bucket out of the tide and calling it a river. Like a sea of ink the Gloam spread heedlessly through every turn of the Kuru Maze, breaking through the symmetry meant to slow it. Only as it approached the edge did it slow, stopping but a finger’s breadth away from the end of the stone. She could not move it further.
+
+“Release your grasp,” Professor Baltasar said, voice unreadable.
+
+She did, inch by inch, and the Gloam receded. Maryam handed the professor the disc, unable to look him in the eye.
+
+“Nine Grasp, one Command,” he said after a moment. “Perhaps two. It is difficult to assess.”
+
+Professor Baltasar started speaking, then paused. A moment passed, then he cleared his throat.
+
+“This is absurd,” he finally said. “That gap is too large, you should be long dead.”
+
+“I am aware,” Maryam stiffly said.
+
+Too large a gap between the Two Measures nearly always resulted in the signifier’s death. For her own affliction – strong Grasp and weak Command – the reason why was easy enough to understand. A Gloam-witch delving too deep into powers beyond her control was the cornerstone of many stories for a reason. In principle, however, a strong Command and weak Grasp should not be lethal. How could a surfeit of control be a danger to you?
+
+In practice, however, the result was spurts of uncontrolled obscuration as the signifier tried to draw on power that did not exist. Captain Totec had told her that, according to the Akelarre Guild’s records, borderline cases leaning the way of Command died more than those leaning the way of Grasp because they tended to believe themselves in control even when they were not. That was only for borderline cases, however, the equivalent of perhaps a seven to a three.
+
+Maryam’s nine to one was an effective death sentence.
+
+Professor Baltasar continued staring at her, as if further and further scowling would brand answers onto her forehead for him to read. He sighed after a moment, stroking his beard.
+
+“You struggle with everything but Autarchic Signs,” he said.
+
+The statement had a lilt to it, the unspoken question of is-this-a-lie, but Maryam nodded. It was the truth, and the look of bafflement on his face was entirely warranted. Of all Signs, the Autarchic were the most fragile. They required great precision and a delicate touch.
+
+“You should not be able to even breathe in one’s direction without shattering it,” Professor Baltasar said. “Even a simple memory Sign at your level of Command should cook the inside of your head like a boiled egg.”
+
+It was a vivid enough image she winced.
+
+“My teacher,” she said, “believes it derives from the way I obscured my brain before puberty.”
+
+“That’s another death sentence,” Professor Baltasar noted. “Usually, anyway. I understand you undertook your first obscuration before you were taken in by the Guild?”
+
+Maryam nodded. He looked sympathetic.
+
+“Traditional practices can sometimes cripple one’s potential as a signifier,” he said. “There are reasons for our ways.”
+
+My mother could have snapped Captain Totec like a twig, Maryam thought, and she went through the same ritual I did. No, if there was a flaw then it was in her.
+
+“Are you going to send me away?” she asked, looking down at the floor.
+
+A long silence, then a sigh.
+
+“I would,” Professor Baltasar frankly said, “but I do not have that authority.”
+
+She looked up at the thin man, daring to hope for help, but the earlier sympathy was gone.
+
+“I am here, Maryam, to help guide what is meant to be the elite of Akelarre youth,” Baltasar said. “Barring great changes in circumstances, you are unlikely to ever be one of them.”
+
+She swallowed. No lie had been spoken that she might grapple with. It burned twice as much for it.
+
+“You’re not going to help me,” she said.
+
+“You will have of me what is owed as your teacher,” Professor Baltasar said, “but nothing more. I only have so many hours to spend, and to be blunt they are better spent elsewhere.”
+
+Maryam fought the flinch, but it ripped through. The professor tucked away the Kuru Maze into his robes.
+
+“So what am I to do?” she quietly asked. “What am I supposed to do?”
+
+Hand on the handle, the professor hesitated for a moment. He turned to meet her eyes.
+
+“I gave you a piece of advice, on the day we met, about not interesting Captain Yue too much,” Professor Baltasar said.
+
+He grimaced.
+
+“It might be best for you to ignore it, after all.”
+
+He closed the door behind him, the sound of iron on stone like a tolling bell. Maryam sat there, numb and alone in the waning candlelight. And for a long time she stayed there, as light dimmed and flickered and her thoughts circled like vultures. Mother had once told her that decisions were made hard only by the muck of the mind, all the attachments of the world tainting the pure truth within you. They could be made simple again by flipping a coin and asking yourself this: what outcome can you not live with? The other side, however bitter, was always the path to undertake.
+
+So within her mind Maryam flipped the coin, watched it spin, and asked herself the question.
+
+It was not a pleasant path she saw laid ahead of her. It would be… difficult in more sense than one. Maryam was not unaware she had a temper. But she still rose to her feet and brushed off her gifted cloak. What few comforts she had stolen back from the world she would not surrender, so the answer was clear.
+
+Maryam would seek out Captain Yue and strike a bargain.
+
+—
+
+Half the class were on their feet in the heartbeat that followed, rushing towards the boards like the bounties were on fire.
+
+Song, instead, calmly rose and faced as much as the wall as she could. She blinked, once, and breathed out. The sheer number of details was… Hand on the chisel, the Tianxi reminded herself. All the bounties were in Antigua and they were divided into five smaller boards. The smallest and emptiest, which she discarded immediately, was bounties set by students. One board was dedicated to covenant bounties, another to those set by the professors, and the largest by far was ‘general’ bounties. The last bounty board, which seemed to have the same five sheets repeated by the dozen, displayed ‘trials’.
+
+“Song?” Ferranda asked, standing by her.
+
+A reliable ally, she decided, should be granted the occasional favor.
+
+“Second board from the left, near the bottom,” Song told her. “There are Skiritai bounties with a decent payout that requires only three lemure corpses.”
+
+And with Shalini in her cabal, Ferranda Villazur would find attracting lemures into trapped grounds trivially easy.
+
+The Tianxi’s silver gaze never moved from the boards, having marked an interesting detail: the covenant bounties, trials and around half the general bounties appeared to have a promised reward in ‘score’ as well as coin. Never a number larger than six – that highest score belonging the ‘Trial of Night’ – but she was finding it difficult to put together a common thread tying together those rewards. She would have used the gaze-trick again but now there were so many students in the way there was hardly a point.
+
+Song, instead, went to the rightmost board. The trials were only described in the broadest strokes, but given how many times the sheets had been hung cabals would likely be forced to take them at some point in the year. Why not get ahead of the curve? If the Thirteenth did well, it would be information worth trading.
+
+The Tianxi set aside all consideration of the bottom three, which rewarded most richly but also appeared dangerous enough the Thirteenth was not ready for them. The first two, however, had potential. The Trial of Mirrors was described as a ‘test of intuition and trust’ while the Trial of Contest was a ‘test in overcoming personal weakness’. To fill the latter bounty the entire cabal must undertake the trial, and the reward was two silver a head and a score of four.
+
+“Half the time left,” Colonel Cao informed them from the bar.
+
+Tempted as she was to pick the Trial of Mirrors, as it smacked of illusions, Song suspected that relying too much on her eyes to carry the Thirteenth through a trial would be a mistake. She carefully pulled out the nail keeping a sheet of the Trial of Contest in place and put it back afterwards, sparing a look of disdain for the girl next to her who simply ripped her bounty off.
+
+With her bounty claimed, Song decided had some time to spare and pushed through the squabbling crow to head to the part of the wall that wasn’tboards.
+
+It was all maps and lists, one of the latter having earlier attracted her eye: a detailed disposition of the number of Scholomance students, overall and by covenant. There were, Song read, four hundred and three students. Some sort of deal must have been struck between the Academy and the Akelarre Guild, which had sixty recommended each, while the Skiritai took the crown of all cabals at an impressive seventy-five. The three societies of the College each had fifty-five students, doubtlessly arrange symmetry, and the Krypteia-
+
+Smudged ink and ‘don’t worry about it’ written in insultingly sloppy Cathayan characters. It was an entirely pointless gesture, Song mused, considering that simple subtraction yielded that the Mask students numbered forty-three.
+
+“Would you be surprised to hear one of the Academy bounties is about finding out who keeps doing that?”
+
+Song turned towards the source of the voice, finding it a somewhat familiar face: the Malani beauty that had been speaking with Sebastian Camaron at the Old Playhouse. Now that Song could hear the voice, she noted her Antigua was accented in a different way than Angharad’s was. Not a Pereduri, then.
+
+“It seems more a statement of power on the part of the Masks than genuine sabotage,” Song replied.
+
+“As if the Krypteia was not already feared enough,” the other woman chuckled, then shook her head. “But I forget myself – Captain Imani Langa, Eleventh Brigade.”
+
+Captain Imani’s smile as she offered her hand to shake was perfectly disarming, Song thought. And so practiced it made her own teeth hurt.
+
+“Captain Song Ren, Thirteenth Brigade,” she replied as she shook it.
+
+“I must confess I was already aware of that,” Captain Imani said. “I became curious after meeting one of your cabalists.”
+
+After failing to poach Angharad, she meant.
+
+“And is your curiosity now sated?” Song idly asked.
+
+“Not at all,” Captain Imani replied. “You seem an interesting woman, Miss Ren. It would please me for us to have dinner sometime – perhaps try this dining hall beneath our feet? My treat.”
+
+It certainly wasn’t going to be Song’s: she was painfully aware of the state of her brigade’s finances. Before she could even consider an answer, the snap of a watch closing cut through the chatter and Colonel Cao called for them to return to their seats. Imani Langa smiled and inclined her head, which Song returned.
+
+That courtesy did not extent to refraining from looking at the other captain’s contract while she walked away.
+
+The Tianxi did not have long, so she scanned for the sentences that stood out most. It was, she found by the time she wrenched her gaze away and returned to her seat, a rather subtle contract. Imani Langa’s boon was to know when she was being beheld or listened to, and from what direction. It seemed a contract better fit for a spy or a diplomat than an officer, she thought, but then spies and diplomats would need commanders as well. Mere moments after Song sat in her previous seat – she was among the last to – the colonel swept the room with her gaze.
+
+“Well, it appears no one here is such a colossal failure they were unable to choose a bounty in the given time,” she said. “Splendid.”
+
+A pause, then a flick of the thumb snapped open her watch again.
+
+“When in the service is the Watch it is uncommon for the assignment you receive to be as simple as it looks. Congratulations, you now have five minutes to trade bounties with someone else.”
+
+Chaos erupted again, but Song simply cocked her head to the side. Ferranda, seated on the nearby couch, leaned in and cleared her throat as if to ask permission. The Tianxi inclined her bounty the infanzona’s way, giving her a look at the contents, and the infanzona did the same. Ferranda had taken her suggestion and claimed a Skiritai bounty – and grimaced at the sight of Song’s own claim. She did not seem enthused at the notion of taking a trial.
+
+“Trade me anyway,” Song said.
+
+The infanzona’s brow rose.
+
+“Why?”
+
+“The colonel never said we could not trade them back,” Song replied.
+
+There a was a noise of surprise from the woman sitting next to Ferranda , who must have been eavesdropping on their conversation. The captain of the Thirty-First hummed, then nodded decisively. They traded bounties, waited a heartbeat then traded them back.
+
+The other two girls on the couch where now whispering excitedly and shooting Song impressed looks – she straightened her back in pride. One was leaning over to another seat and talking in low voices, word already spreading. Song was distracted enough she almost missed the colonel’s approach. Almost. Song folded her hands onto her laps, meeting the older woman’s gaze, and got a snort.
+
+“It took cleverness to catch that,” Colonel Cao said.
+
+It was an effort not to smile.
+
+“But a wise girl would have kept it quiet.”
+
+Song stiffened. Suddenly the impressed whispers from the couch seemed like a condemnation, even as they spread to neighbors. Oh, she realized. It had been another test, and she had given away the answer.
+
+“I expect at least half a dozen of you figured that  out,” the colonel mildly said. “Only one was fool enough to spread it around, however.”
+
+The older Tianxi looked around the room, finding Song’s blunder spreading like a spill of ink on white paper, and sighed.
+
+“The broth is spoiled,” she said, shaking her head, then raised her voice. “Alonso, bring up the board!”
+
+The man in livery behind the counter took a few steps to the left, then hiked up a large slate. It was propped up against the wall behind the counter, high enough anyone could see it.
+
+“Trade on your own time,” Colonel Cao told the students. “We move on.”
+
+Song almost flinched. Hand on the chisel. The colonel withdrew to the counter, but only to sit: the drink was long empty.
+
+“The first two afternoons of the week will be spent on a class here in the Galleries, where I will attempt to hammer into your heads the basic knowledge necessary for operating out in Vesper in our name – logistics, administration and organization. Unlike what some of you might expect, I have no intention of delving into the backbiting ways so unfortunately prevalent within our order.”
+
+Her eyes narrowed.
+
+“I came here to teach field officers, not second-rate schemers.”
+
+Colonel Cao leaned back to wiggle her glass at the servant – Alonso, it seemed – and the man dutifully filled it up from the same bottle.
+
+“Unless one of you proves to be remarkably terrible in all regards, those classes cannot affect your placement at Scholomance,” she continued. “They are not, by my reckoning, the crux of what a Stripe should study.”
+
+The colonel took a sip from her drink.
+
+“You’ve seen the bounties and the rewards on them,” she said. “There are two currencies on offer: coin and score.”
+
+Murmurs did not spread – she did not have the kind of presence that invited such a thing – but quite a few ears pricked. It felt like the whole crowd was leaning in.
+
+“The former needs no explanation, but the latter is what will determine if you stay on for a second year,” Colonel Cao said.
+
+The silence that followed was particularly still.
+
+“Each Academy recommendation will be evaluated on a scale that goes up to one hundred,” the colonel said. “Every time your cabal completes a bounty with a score reward, your score on that scale rises accordingly. Each your cabal fails to accomplish such a bounty, your total will fall by the same.”
+
+She raised a finger.
+
+“And somewhere on that scale of one hundred is the line in the sand you must cross to be allowed to continue at Scholomance for a second year,” Colonel Cao said. “Is it fifty? Is it seventy? Only I know. The only assurance you have is that the line is the same for everyone.”
+
+She shrugged.
+
+“I will also grant and dock points to individuals as I see fit, depending on whether you can impress or appall me. Speaking of.”
+
+The colonel set down her glass and cleared her throat.
+
+“We have our first scorer of the year, Alonso,” Colonel Cao said.
+
+Song’s stomach dropped.
+
+“Song Ren, negative one,” the colonel instructed. “For having failed to properly make use of an opportunity – she neither fully outed her trick to the crowd nor hid it for her advantage, finding the worst of both worlds.”
+
+She did not let herself sink into the armchair or even stare down at the floor. It would be a weakness, and weakness would not be forgiven at Scholomance. But Song could not quite force down the flush of humiliation, even as she felt unkind smirks bloom around her. Alonso wrote her name in chalk and added that shameful number past it.
+
+“Well, the games have officially begun,” Colonel Cao said. “So let ask you what will be perhaps the most important question of your career.”
+
+Song’s finger clenched. Perhaps if she answered correctly…
+
+“Why purpose does the Academy serve?” Chunhua Cao asked.
+
+—
+
+“Here,” Tristan said, passing the note and the copper with it. “You remember the description?”
+
+“You made me repeat it twice,” Arabella replied, rolling her eyes.
+
+It should work, he thought. He’d implied he might want to use her services again so the girl was not too likely to simply take the copper and run. It would be throwing away future chances at coppers.
+
+“Until next time, then,” the thief said, giving her a nod.
+
+The little girl snorted, but she was smiling. It had been a lucrative day for her. Tristan walked away, pulling at the collar of his coat as Fortuna strolled alongside him. Now came the tricky part – he must get the timing just right for it to fall into the place the way he wanted it to. Tristan left Templeward Street for smaller alleys to its east running parallel, where there would be fewer eyes, and briskly made his way to the street behind Captain Wen’s house.
+
+It was a dead-end alley, cramped and leading up to house’s high wall, but it had both things he needed: the goods he’d stashed and an easy climb into the house to the right of his patron’s. The back wall was old and poorly maintained, full of holes and loose masonry. Tucking the jug away, Tristan climbed up and shimmied in through the shutterless window. The inside of the house smelled like mildew and the roof was rotting, but as he’d earlier made sure most of the wooden floor was dry.
+
+So when he emptied half a jug of oil on it and struck a match before tossing it, the whole thing went up in flames.
+
+He corked the jug and hurried back out by the window, hid the oil behind a broken barrel and the matches with it. After that, while the fire began spreading and smoke poured out the windows, he looped around the backstreet and set himself in a side-alley to wait and watch as Sergeant Mandisa came out of front door in a hurry, half-dressed but fully armed, and went inside the burning house.
+
+There was his opportunity.
+
+The thief walked right through the open door and headed straight for the room he had clocked as Captain Wen’s, walking smoothly enough even in someone saw him they would not think twice of it.
+
+Wen’s door had no lock on it, it was not nice enough a house to warrant such luxury, so he simply slipped inside and closed the door behind him before quietly asking Fortuna to stand guard on the other side. She shrugged, but her eyes were eager: it gave her an excuse to stare at the fire. She had always liked those.
+
+Captain Wen’s room was fairly large but still felt cramped for the clutter – every shelf was filled to the brim, the bed unmade and there were piles of books on the floor. The writing desk in the corner seemed his best chance, but the papers piled on it weren’t what Tristan was looking for. There was a drawer, though. Locked.
+
+It would have taken too long to look for the key, assuming it was even here, so the thief knelt and pulled out his tools. It was a pressure lock, cheap but simple, and in a matter of moments he had it popping open. Outside he could hear Sergeant Mandisa shouting, trying to organize a water chain for the fire, which meant time was running short. He put away the tools and opened the drawer. Papers, so many of them the drawer almost didn’t open.
+
+Many were letters, Wen’s private correspondence, but at the bottom were a series of old contracts – most of them with Aztlan-sounding names – and four neat sheaths of paper. There were the dossiers, not only his own but that of the rest of the cabal. Five pages each. He pulled up his own. The first page was filling, his name and that of his parents, his physical appearance and what little the Watch knew of his origins.
+
+That they even knew this much meant Abuela had passed them information, though he noted they marked his father as a cellist instead of a violinist.
+
+The second sheet was an assessment of his skills, which seemed to have been penned in part by his teacher and then amended with comments regarding his performance on the Dominion. He was amused to see that overall his sneaking skills and ability to read others were highly praised but that he was noted to ‘talk too much’ – Wen’s opinion, at a guess – and he was noted to be physically lacking in direct confrontation.
+
+Fair enough.
+
+The third sheet was about his contract, which he was relieved to see was largely speculation. Though it appeared that the Watch had correctly pegged that that the telekinesis he sometimes used as his cover was not his true ability, the most prominent guess was that he a contracted with a minor god of the Murk to be able to become extremely precise in short bursts – the examples used were his reported miraculous throw of the piece of rhadamantine quartz and how he had survive passing through the deadly mechanical room in the Old Fort.
+
+Fortuna avoiding Abuela like the plague had allowed him to keep that particular secret under wraps, an unexpected boon.
+
+The fourth sheet was, to his surprise, empty. The heading mentioned that the recommendation that got him in Scholomance was meant to be part of the page, but there was only a line slashed across and nothing else. Odd. But there was no time to waste, so he briskly moved on to the fifth. It was, promisingly, titled ‘Items of Interest’. And it was an inventory of sorts, though not of what one might have expected.
+
+Grudge against House Cerdan as a result of his father’s involvement in the forbidden research workshop known as ‘Theogony’, aimed primarily at contract stacking and the creation of a stable Saint.
+
+His fingers clenched. A stable Saint – was that what that thing held up in golden chains was meant to be? His mind still trembled to remember that silhouette, but what was that success or failure?
+
+Suspected to have slain a Cerdan retainer on the Dominion of Lost Things, Cozme Aflor. Body was found with poison burns corresponding to inventive use of a dosage box. Suspected involvement in the death of a minor Cerdan cousin, Remund Cerdan.
+
+So they’d found Cozme’s body after all. He had not gotten away as clean as he’d thought.
+
+Two sniffers have confirmed the contact to feel unusually strong, but a second-order entity for patron has been definitively ruled out. Confirmation is needed about whether he was a Theogony subject.
+
+His brow rose. He had no notion of what a second-order entity might be, so he could not answer to that, but he had only once come anywhere close the horrors of Theogony and no hand was laid on him then. The oddness about his closeness with Fortuna had already been remarked on, however, and seemingly it was leading the Watch to wrong conclusions. He skimmed through a few more items before his gaze landed on the last. The most recent addition.
+
+An informal bounty has been placed on his head. Officer Nerei has lodged an official complaint against the Ivory Library, accusing them of attempted abduction of a member of the Watch for experimental purposes. No actionable proof has been given and the Library denies the charges.
+
+And a slight note beneath.
+
+By order of Lord Asher, there is to be no interference in this matter.
+
+Tristan hummed. Asher. He’d heard that name before, mentioned in passing by Hage. A high-ranking member of the Krypteia, it seemed. At least now he had a name for his enemy: the Ivory Library. The name bore investigation. The thief put his dossier back, then hesitated.
+
+“Fortuna,” he whispered.
+
+She popped in her head through the door.
+
+“How is it looking?”
+
+“They’ve realized the fire won’t spread but they’re still fighting to put it out,” she said. “They say the garrison is on their way. I’d give it a minute or two.”
+
+That wasn’t long, but enough for some digging through other people’s secrets. Who? Maryam would tell him what she wanted in her own time so her dossier was set aside, but he elected to take a quick peek at the fifth sheet of the other two. And oh, what interesting reading that made for.
+
+Tredegar first, she was closest at hand.
+
+Gwydion Tredegar – her father, he learned by flipping back to the first sheet – was twice reported to the Watch for deliberately malicious bargaining and twice cleared through investigation. Testimony by Osian Tredegar marked him as the potential high priest to a Green Book god.
+
+Worth knowing about: ‘deliberately malicious bargaining’ was crime of striking a bargain with a god for the purpose of causing harm to men, which was illegal under the Iscariot Accords. It was entirely possible that Angharad Tredegar’s father had left a god to watch over her. Was that how she had survived Brun and Yaretzi on the Dominion? It would explain much.
+
+The snippet he caught of Song’s sheet was even more interesting, though.
+
+Gestalt resentment from the Republics is in the process of giving birth to a curse-god aimed at the Ren bloodline. Requires regular Gloam purges and there are reports of increasing miscarriages and sicknesses in the family. Watch health closely to ascertain development.
+
+So Song was cursed and growing more so. But before he could spare a second thought to the matter, Fortuna popped back in.
+
+“The garrison’s here,” she said. “And it sounds like Wen is too.”
+
+Time to end this, then. He put away the files but there was a sudden snap and he flinched, realizing a heartbeat later it had been part of the burning house next door collapsing. He’d still dropped part of Maryam’s dossier, and his eye caught a fragment of a sentence –ing daughter of Izolda Cernik– before wrenching his gaze away. The thief put away the papers, closed the drawer and rose to his feet.
+
+He didn’t sneak out of the house but walk right out the front door where everyone could see. Why should he hide, when the only voice that mattered was going to cover for him?
+
+It took a moment for him to be noticed, because there was a loud argument happening. Captain Wen, surprisingly bereft of a snack, was mocking a tall and skinny woman while a dozen garrison men and Mandisa looked on. The stranger was Lierganen in looks, dark-haired and with a prominent nose. Unless Tristan had gravely misjudged the situation, this was Dionora Cazal – patron to the Forty-Ninth Cabal and an old enemy of Wen Duan’s. A blackcloak stood next to her, separate from the rest, and kept wincing every few moments while the patrolmen directed unfriendly looks his way. Oh, she brought a witness. That’s even better.
+
+Dionora was the first one to notice him.
+
+“There,” she triumphantly said. “I told you the little shit was around. He must be the one responsible for-”
+
+“Tristan Abrascal is here,” Wen cut through, “because I sent for him as his patron. He had worrying rumors to share with me, which I asked him to investigate.”
+
+The thief did not look at Sergeant Mandisa, it would have given away the game, but after a heartbeat passed and she said nothing his shoulders loosened. Good, betting on her following Wen had been the correct solution. Between that and Sergeant Hotl being unlikely to admit he’d been bribed, much less twice, the trail was swept clean. Wen grinned, the unholy glee behind his spectacles a rival for any devil’s.
+
+“Report, soldier,” he ordered.
+
+Tristan approached, face utterly serious, and saluted.
+
+“Sir,” he said. “I kept watch from a neighboring house and saw it happen: Dionora Cazal and a man in a black cloak went into the back alley, bearing a jug of oil. A few minutes later they left and hid.”
+
+“Liar,” the woman hissed.
+
+Her accomplice was hiding his face in his hands. Wen’s grin widened, showing ever more teeth.
+
+“As I was explaining, lieutenant, I received a warning that Dionora might be trying to set my home on fire as retaliation for old slights and my cabal so blatantly outperforming hers,” the fat Tianxi said. “It appears we have caught her red-handed.”
+
+So Wen had sent them to check the alley where Tristan had predicted they would be waiting to catch him, then. Another piece falling into place just right. The officer Wen was addressing, a frowning Someshwari man with eyes almost as pale as Tupoc’s, clicked his tongue in disapproval.
+
+“Testimony from the boy is not enough, Captain Wen,” he replied. “He is himself being accused of trying to rob you.”
+
+“Tristan Abrascal is an honest and reliable young man, Lieutenant Pazal,” Wen lied without batting an eye. “He would never do such a thing.”
+
+The thief cleared his throat, getting a glance from the lieutenant. He painted an earnest look on his face.
+
+“I didn’t see them leave with the oil jug, sir,” he said. “They might have left it behind.”
+
+“That could be considered a form of proof,” Lieutenant Pazal conceded. “You two, search the backstreet. Everyone else is to stay here.”
+
+The Aztlan seemed disinclined to small talk, not that it would have mattered with Wen coming over to the thief, making as if to comfort him by swinging an arm around his shoulder and taking a few steps away. Tristan would have disliked the touch even if it were gentle, which it was not.
+
+“So?” Captain Wen asked.
+
+“I planted the jug in the alley,” the thief murmured.
+
+The Tianxi released him, sparing a glance for the rival glaring hatefully their way.
+
+“Good.”
+
+There was a pause.
+
+“How did you know?” Wen asked. “That she would have someone in the detainment house, I mean.”
+
+Because you speak her name like you’ve shouted it, Tristan thought, and that kind of hate isn’t a vine that grows solely on one side of the fence. Dionora Cazal would have wanted to know the moment anyone from the Thirteenth got in trouble again and the sergeant was the obvious one to buy.
+
+“No one as bad at cards as Sergeant Hotl is going to turn away a bribe,” he said instead, which got a snort out of the Tianxi.
+
+“I don’t suppose,” Wen said, “that you’d tell me why it is you’ve schemed up all this?”
+
+Tristan cocked an eyebrow.
+
+“For the same reason you chose to take us to the Chimerical on your first day, of all places,” he said.
+
+Wen smiled, saying nothing. It had been a boon on the older man’s part, that introduction, even though it had not appeared so at the time and was subtle still. They watched as the watchmen that Lieutenant Pazal had sent into the alley came out bearing a half-empty oil jug. Dionora began shouting angrily about this being a frame-up, which admittedly it was. Not that it would help her.
+
+“You know, when we were but a few years older than you she learned that the smell of vanilla makes me nauseous,” Captain Wen distantly said, eyes on her. “She baked fresh vanilla buns every day for a month after that, and sat upwind of me every class.”
+
+That was, Tristan would admit, impressively petty.
+
+“Today,” the large Tianxi decided as his rival was put under arrest, “is a good day.”
+
+It was, Tristan agreed. Because even if Wen ended up figuring out that the thief had gotten into his papers, that the entire sequence – baiting Dionora Cazal with a message that implied she might be able to catch him stealing from his own patron red-handed, then paying Arabella to wait along the street Wen would take so he could stop halfway through and instead claim that he’d known an arson plot was afoot and Tristan was watching for it – had been cover, it wouldn’t matter.
+
+From that unabated grin on Wen Duan’s face, his patron would call the breach a fair bargain anyway.
+
+It was another ten minutes before Tristan was allowed to leave, but when he began walking back to the Chimerical it was with a spring to his step.
+
+# Chapter 17
+
+Musa Shange and his three were the first down.
+
+Angharad would give him this: the man might be arrogant, but he was no coward. It was but moments after he disappeared down the stairs that the jockeying began, not for seats but for alliances. Now that it seemed certain all of them would journey down into the Acallar to fight everyone wanted to stand with the strongest they knew. Shalini pulled close, almost as if staking a claim, and Salvador had been sitting to their side the entire time.
+
+“We should look into a fourth,” Shalini quietly advised. “Best to fill our ranks as much as possible.”
+
+“Agreed,” Angharad murmured.
+
+She did not believe herself unskilled with a blade, but there were monsters against which blades only helped so much. She flicked a glance as Salvador, who grunted in agreement. Good, she could begin looking for-
+
+“Hello.”
+
+Angharad’s hand still went for her saber after she saw who it was addressing them. Shorter than her and almost skinny, the Malani boy that Tupoc had introduced as ‘Expendable’ wore a particularly thick cloak and a wide-brimmed black hat that was pulled down to hide as much of his face as it could without obscuring his vision entirely. There was a hunter’s spear trapped to his back and an unusually thick pistol at his belt. Despite the hat Angharad could still see a slice of those strange eyes, black and amber like a wolf’s.
+
+Even as he spoke and faced them, Expendable stared squarely down at the ground.
+
+“Good afternoon,” Angharad stiffly replied.
+
+One’s affiliation with Tupoc Xical was not sufficient reason for rudeness, against all odds.
+
+“Tupoc said I should go to you if there’s fighting,” the Malani said. “That you owe him for the Dominion and for saving you earlier in class.”
+
+“Untrue on both accounts,” the Pereduri coldly replied.
+
+Expendable shifted uncomfortably on his feet.
+
+“He says,” the boy coughed into his fist, “that it’s bad manners to be a welcher.”
+
+Angharad twitched and her saber was an inch out when Shalini caught her wrist.
+
+“Not here,” the gunslinger said. “We’re causing a scene.”
+
+The noblewoman’s lips thinned as she realized that dozens were looking at the scene she was causing – Muchen He from the Forty-Ninth, was smirking – and she had likely chased off half their prospects for a fourth squadmate. Reluctantly, she sheathed the blade.
+
+“That and he knows something about the death of someone called Isabela Ruest,” Expendable continued.
+
+He had not so much as flinched, Angharad belatedly realized, even when she moved to bare steel. Had he not seen it for his staring at the ground? No, he must have.
+
+He’d simply been unafraid.
+
+“Do you perhaps mean Isabel Ruesta?” Shalini asked.
+
+Expendable let out a noise of relief.
+
+“That’s the one, yes,” he said. “Lierganen names, you know?”
+
+“Preaching to the converted,” Shalini drily replied.
+
+“What does he know that would matter?” Angharad demanded.
+
+Expendable shrugged.
+
+“He didn’t tell me,” the Malani answered. “But if you take me on for today, he’ll say.”
+
+Angharad frowned. Isabel had died in battle, had she not? Tupoc had been there that night, but not anywhere near her as far as she could recall. Yet while the Izcalli was a liar and a man without honor, usually he bargained in good faith – if only so that others might bargain with him again. And if he offers this in bad faith, the noblewoman thought, I would be rid of any ties to him. She turned a look on Shalini, who sighed.
+
+“What can you do?” the curvy Someshwari asked.
+
+“I am good with a spear,” Expendable said, “and I have salt munitions for my pistol.”
+
+“Contract?” Salvador rasped out.
+
+“Yes,” the Malani flatly replied. “But it would best I do not use it.”
+
+Curious as she was, Angharad did not step across the unspoken line.
+
+“Fine,” Shalini said. “We’re looking too messy to draw in anyone good at the moment, so we might as well get someone whose death I would not mourn.”
+
+That was a rather savage thing to tell a strange, the noblewoman thought, but Expendable did not seem moved in the slightest. Considering what Tupoc had named him, perhaps that should not be surprising. Salvador caught her eye and nodded, which along with Angharad’s own agreement settled the matter. There was no more time to talk, however, as someone let out an exclamation and she found that down below Musa Shange’s squad was readying for a fight.
+
+The Marshal, showing no sign of leaving, let them pick their cage and opened it himself before getting out of the way.
+
+After the onjancanu Angharad had expected some other great brute, but instead what came out was a blur of movement. Musa’s squad had been lying in wait and the two with muskets took their shots, but they hit nothing save the insides of the cage. It was the fourth, a woman with two silvery hatchets, who let them all get a good look at the lemure when she put them up just in time to catch the snapping jaws of a feathered, winged serpent.
+
+It was an entirely different sort of fight from the Marshal’s. The lemure – which looked not unlike some of the drawings Angharad had seen of great Izcalli spirits – was no lumbering giant but a darting, poisonous little thing. It was no larger than a sheep and had no arms, but the feathers of its long tail were razor-sharp and its jaw was powerful enough to snap a musket when it caught one of the students unwary.
+
+Several were cut, though the wounds were not too deep and they all avoided that deadly bite.
+
+To Lord Musa’s honor, he quickly grasped that having spread out his squad was a mistake and that the creature would try to pick them off one by one. He gathered them all together, and when the lemure still risked an attack they finally caught it. The woman with the silver hatchets threw one, which missed, but then there was a flare of silver and the hatched came spinning back to her hand. The lemure banked down to avoid it, towards the floor, and there Musa caught it with his blade.
+
+He went for the wings, prudently, and after the winged serpent could no longer fly a quick and inglorious death followed.
+
+“I wonder why it did not try to flee,” Shalini mused. “No one could have stopped if it flew up.”
+
+“Spirits can’t leave this place,” Expendable quietly said.
+
+He had only looked at the fight with small glances, never a stare. Angharad frowned his way.
+
+“Why?”
+
+“I don’t know why,” the Malani replied. “I just know.”
+
+Expendable spoke like a man from the Isles, not someone raised abroad, so she refrained from outright calling him a liar in the privacy of her own mind. He would have been taught better. Tough Angharad suggested they be the next down the stairs, but Shalini instead suggested they wait another two fights to get an idea of what the lemures faced might be like. It felt like profiteering to her, but the others were in agreement so she conceded the matter.
+
+The second fight was much quicker: the lemure was a horse with two curved horns, and though it proved dangerous when it breathed out a gout of flame at the squad facing it the four killed it with practiced efficiency. Shot in the sides with muskets, then a spear to the head. It emboldened the next squad to venture down with only three.
+
+Only one got out, and missing a leg.
+
+A seemingly harmless lemure, looking like a boy whose lower half was a goat’s – though the upper half only seemed human, the way the muscles moved beneath all wrong – brutally took them apart. It danced out of the way of the shot that opened the fight, stole a blade and a cut Someshwari’s girl throat with it before she could even scream. Another of the three slammed a spear into its neck as he did, but the lemure stabbed him in the eye in return.
+
+The neck was half-cut, head dangling listlessly, but there was no ichor in that flesh. Only cartilage.
+
+Only when the last student shot it in the belly did the lemure let out a scream, a mouth opening in its belly with teeth like a goat’s horns, and it tore through the last student’s leg before the girl stabbed into it enough it ceased moving, screaming and weeping all the while. She had to be carried out by the blackcloaks keeping guard behind the grate, unconscious. Two more came and carried out the corpses as the Marshal waited, silent.
+
+“Next,” he simply called out, looking at the stands.
+
+A deadly stillness had fallen upon them as the corpses were carried out, every last whisper silenced as they faced the reality that their professor had watched two students die and third be crippled for life with polite disinterest. There was no secret safety here, no ancient device preventing deaths or making any of this safe.
+
+This wasn’t a class, it was a culling.
+
+Well, nothing for it. Angharad pushed off the railing, adjusted her coat and the sword at her side before checking her pistol. Perhaps she would even use it.
+
+“Shall we?” she asked the others.
+
+She got blank looks in return.
+
+“Two and then we descend, that was the arrangement,” she reminded them.
+
+“It was,” Shalini softly agreed, then licked her lips. “All right.”
+
+Salvador’s face was a mask of calm, and as far as she could tell Expendable was only barely paying attention. Angharad nodded their way, then took the lead down the stone steps. She could feel the weight of the stares on their back, and again when she emerged out onto the broken grounds of the Acallar. The others followed behind, none of them in the mood to chatter.
+
+The Marshal waited for them at the heart of it, and laughed when he saw them.
+
+“Of course it would be you four.”
+
+“I don’t follow, Marshal,” Angharad frowned.
+
+“You’re a mirror-dancer, girl,” the old man said. “Unlike those children up there, you were never under the illusion that your life might not be on the line.”
+
+“I expect disservice is being done,” she calmly replied.
+
+The Marshal shrugged, then wordlessly invited her to choose a cage. Glancing back, Angharad found that none of the others seemed inclined to do so. The noblewoman eyed the closest cage and-
+
+/a large golden lion prowled out, unblinking red eyes set in its fur/
+
+-decided it would do.
+
+“This one,” she pointed.
+
+She knew not the beast, but she would much prefer something committed to the ground rather than bearing wings. The odds of her contributing to a victory with her pistol were unfortunately low.
+
+“I will take the front,” Angharad said. “Shalini-”
+
+“I’ll hold back until you have it in place, then unload,” the Someshwari said.
+
+“I go with you,” Salvador said, catching Angharad’s eye.
+
+She would have objected, but he shook his head.
+
+“Hard to kill,” he smiled.
+
+It would have been an insult to refuse him, so she set aside her concern.
+
+“Then I will hit the flank,” Expendable muttered. “After-”
+
+The cage opened, Marshal de la Tavarin having wrenched open the gate before retreating out of sight, and just like in Angharad’s glimpse a great lion prowled out. Expendable’s voice caught.
+
+“Please let me kill it,” he suddenly said. “Cripple it and let me kill it.”
+
+Eyes turned to him, baffled.
+
+“Why-” Angharad began.
+
+“For my contract,” he said. “It’s… I might be able to leave the Fourth if I kill it. Please.”
+
+Shalini cursed.
+
+“I make no promises,” Angharad said, then hesitated. “But if the opportunity comes, I will hold back from slaying it.”
+
+A roar told made it plain that the time for talk was over.
+
+The noblewoman shot forward, drawing her blade as she did. The monster, she saw, was closer in size to a bear than the lions of Malan – and inside the hair-like man unblinking red eyes watcher her approach even as it yawned, revealing its fangs. Its tail swept behind casually as Angharad closed the distance, choosing her angle, but to her surprise Salvador ran past her with his blade in hand.
+
+“I’ll distract,” he croaked out.
+
+Before she could reply the man turned blue and hazy – or so she thought, before realizing that Salvador was the same but leaving a trail. Contract. She adjusted her approach, circling towards the left as most of the lemure’s eyes turned to the Sacromontan. What followed she almost missed, so quickly did it happen.
+
+Salvador had gotten close, enough to dart in with his sword, but the lion lazily stepped past the blow. Then one of the red eyes burst, spit out like dart of blood that hit the Sacromontan in the stomach and ripped right through. Angharad would have shouted, but the man flickered blue and heartbeat later he was elsewhere entirely.
+
+Behind her, when he had first stood when he’d begun leaving a trail, and entirely unharmed.
+
+Angharad’s eyes widened at the implication, but she had no more time to spare than that. The lemure had turned its attention on her, leaping,  and a glimpse told her to follow her sidestep by a roll as another eye burst and tried to clip her shoulder. Instead she rose into a strike at the beast’s back leg, scoring a blow on skin that proved tough as old leather. She cut it, but not deep enough for ichor.
+
+Roaring, the lion turned to swipe at her and that was when Shalini Goel unloaded into its side.
+
+Four shots, in such quick succession Angharad could barely tell them apart. The lion screamed, but she could hardly hear it with the racket made by dozens of cages suddenly being rattled by the beasts inside them. Salvador had returned to the lemure’s back, hazy once more, and Angharad spared a heartbeat to notice that he seemed exceedingly careful about never stepping in his own trail.
+
+After that, it was a dance with the mirror.
+
+The beast was fast and tricky, once almost tearing Salvador’s throat out after he snapped back to the beginning of his trail, but Expendable was keeping an eye on them – he shot the beast in one of its eyes, then forced it away with his spear. They were quick on their feet, however, and Shalini was one-woman artillery. She never ventured too close, waiting until they trapped the beast to tear into it with her pistols.
+
+Soon the lemure was bleeding from every side, more meat than monster, and to Angharad’s disgust it began to fall apart. The same red it had shot at them with began wriggling out of control, an entire leg turning into a puddle of blood suddenly, and after a few more careful blows from the lion was soon no more than a wriggling, pulsating mass of flesh and blood.
+
+It was no longer fighting, at least, and the others joined her to catch their breath. They had a few scrapes and Expendable’s coat was ripped, but otherwise they were unharmed.
+
+“I am unsure how to kill this,” Angharad admitted, eyeing the red. “Salt munitions?”
+
+“No need. I’ll end it.”
+
+She turned to Expendable, who for once was standing straight. He began advancing towards the lion, undoing his cloak and letting it drop before tossing his spear and pistol the same way.
+
+“What are you doing?” Angharad called out, baffled.
+
+“Using my contract,” Expendable replied, and took off the hat. “Don’t come close, I won’t be in control.”
+
+His eyes, Angharad saw, were no longer like a wolf’s.
+
+The Malani boy even took off his tunic and his boots, advancing in hose towards the wriggling lion remains. He looked a madman, until the first spasm. As he screamed hoarsely Expendable’s right arm wrenched back and burst into claws and fur with a wet squelch. Convulsing, screaming in pain, another form burst out of the boy one squelch at a time. Long clawed legs and a striped coat, a thick chest and large triangular ears a dog’s muzzle.
+
+It would have looked like a hyena, if they grew the size of carriages.
+
+No, Angharad knew what this was and so she did not dare to move so much as an inch. The black stripes on the monster’s coat rippled like living shadow, snaking along the ground, and as the creature let out a cackle she blurred – and emerged at the tip of the extended shadow, sending a shiver down Angharad’s spine.
+
+“Gods,” Shalini whispered. “What is that?”
+
+“Doom-caller,” she whispered back, dry-mouthed. “Ukusini.”
+
+The Slow Death, they were called by some, for the ukusini took their time slaughtering caravans – snatching and bleeding, not because they could not murder their way through the lot in moments but to make the caravan into a larder of meat and terror. Ancestors, how had this boy come into a contract that turned him into one? The monster fell onto the wounded one with relish, tearing into the flesh and gobbling it up.
+
+It didn’t make it quick.
+
+The ukusini turned towards them, when the last strip of flesh was devoured, and let out a shuddering cackle. Angharad swallowed, taking a careful step back. Would the Marshal step in, if it were a student attacking them and not a lemure? She was not to find out, for instead of advancing the creature let out a dismayed cry and began to convulse. It was the horror they had seen earlier in the reverse, flesh and bone and tendon sucked into a too-small body as the ukusini was forced back inside Expendable.
+
+The boy was left lying on the ground, completely naked.
+
+Angharad had thought that the end of it, for a moment, but Expendable kept convulsing. Things moved under his skin as he wriggled on the ground, gasping, until the sudden end. He stayed there for a moment, until he closed his eyes and slammed his fist against the ground.
+
+“Fuck,” he snarled. “Fuck. How is it not strong enough, Sleeping God fucking damn you.”
+
+When he opened his eyes they were wolflike again and he looked set to weep. He gathered himself to sit with little regard to his modesty.
+
+“It’s done,” Expendable tired said. “Thank you for trying.”
+
+Shalini brought him his cloak and hat, something like pity on her face, and they picked up his affairs before leaving together. They were taken to the guardhouse, patched up and sent back to the stands. They sat there, watching as the hour stretched and cages opened one after another. By the time the fights ended, six people had died and three were wounded badly enough they had to be taken away.
+
+When the Marshal called them down, the sixty-six remaining students were silent as the grave they were standing on.
+
+—
+
+“Do you know our words, Maryam Khaimov?”
+
+Captain Yue looked like ease put to canvas: she was barefoot and wearing a billowy white shirt, lying back on a black coat laid atop the grass. With her thick black braid pulled to the side, Maryam could not see the burn scars she knew were on her cheek and ear. And the older signifier’s brown eyes, however half-lidded their gaze, studied her without blinking.
+
+“Beyond the Horizon,” Maryam recited.
+
+She sat cross-legged in the grass facing the other woman, cloak pulled tight around her like a shield.
+
+“That’s right,” Captain Yue agreed. “We inherited those, did you know? I’ll spare you the twists and turns of history, but our lineage as a guild can be traced back to Second Empire officials called the cazadores.”
+
+Maryam frowned. She had known of the Akelarre Guild’s ancient roots but its rise to prominence had only begun well into the Succession Wars – why cling to such a distant past? Her bemusement was visible enough to warrant answer.
+
+“They weren’t Gloam-users but mapmakers,” the captain said, sounding strangely amused. “Their role was to explore past the borders and chart the lands there so that the emperors of Liergan might better plan their conquests.”
+
+The blue-eyed woman mulled over that.
+
+“So when Liergan grabbed everything under Glare they could reach, that meant going out into the dark,” Maryam said. “They turned into Gloam-users.”
+
+“That and a mystery cult,” Captain Yue said. “The Orden de Cazadores got into its head that it was going to save us all by finding a land beyond the horizon where the Gloam could not reach, a paradise beyond even the reach of gods.”
+
+It sounded not unlike what her people called the Nav – but that was a land for the dead, not the living.
+
+“I have not heard of such a place,” Maryam said.
+
+“They found Hell instead,” the Tianxi drily replied. “Bit of disappointment, I imagine.”
+
+Maryam twitched, surprised that even through her nerves she could be amused. Captain Yue did have a way about her. It was the calm, the Izvorica figured. The older woman seemed so deeply unmoved by the world around her you could not be helped to be drawn into her pace.
+
+“If they failed, why do we keep their words?” Maryam asked. “The Guild has folded hundreds of practitioner cults into itself over the years. Surely one would better deserve the honor.”
+
+“The words stayed because they don’t mean the same thing they used to,” Captain Yue said. “After they found Pandemonium, the Orden cult broke. It only knit back anew under a new dream.”
+
+The Tianxi theatrically swept her arms out.
+
+“To find the edges of the world,” she said. “It is only logical, Maram: we have firmament above and the ground below our feet, but Vesper has walls. Limits. The last of the cazadores and those who came after themwanted to chart the entire world, know the span of it and hold it in their palm.”
+
+She shrugged.
+
+“So a-chasing they went.”
+
+“And we carry that dream still?” Maryam asked, honestly surprised. “That is not much like Captain Totec taught me, or even what I learned on the Blind Isle.”
+
+“Some of us do,” Captain Yue said. “But that dream bled out, Maryam, for the same reason so many other things have: the Succession Wars.”
+
+The shadow cast on every lesson about mornarichistory, the great wars that had ravaged their realms and scarred them deep. The Triglau had known war, both within their peoples and with the broken kingdoms beyond the Dead Lands, but never anything so shattering. What rank madness it would be, to lessen the lights of the world when there were already so few.
+
+“War took away the taste for such pursuits, I take it,” Maryam said.
+
+“It did a lot more than that,” Captain Yue smiled.
+
+She had not moved an inch, yet the Izvorica could not help but feel there was no longer anything casual about the way she was lying on the ground.
+
+“When half of Old Liergan went dark, it ripped the veil off our delusions of supremacy,” the Tianxi said. “The Watch, it was born from that sudden anguished realization that we’ve been at war with the encroaching dark since we first fled down into Vesper and that, despite our most desperate efforts, we are losing.”
+
+The simple, heartfelt belief in that last word shivered across the Meadow. Captain Yue had spoken it without room for a speck of doubt. The older woman pushed herself up, legs crossing in a mirror of Maryam’s, and rolled her shoulders.
+
+“But listen to me rambling, and after saying I’d spare you the history!” the Tianxi sighed. “Here’s the important part: by the reckoning of the finest minds of our order, only somewhere around a third of Vesper exists under the Glare.”
+
+The blue-eyed woman felt her stomach clench in unease. She had never heard a number put to such a thing before, and the one she was being told was distressing. Maryam not thought most of the world would be under light, but surely at least close to half? A mere third sounded… fragile. Captain Yue, far from distressed, seemed enthused.
+
+“What you have to understand, Maryam, is that the rest of the Watch are poor doctors,” she said. “They hunt the evils of the world and measure them as if it that can save anything, but all that attends to is the symptoms.”
+
+She shrugged.
+
+“It is not unworthy work, and some of necessary, but at the end of the day they cannot face the reality that two thirds of the world is the province of Gloam,” she said.
+
+And that let Maryam put it together. Captain Totec had not come to the land of her birth as an explorer, not really. And there was a reason he had taken her under his wing even knowing it would offend the Malani.
+
+“But we do,” she said. “The horizon in our guild’s words, it’s not one that can be sailed to.”
+
+“No,” Captain Yue agreed, sounding pleased. “It’s the horizon that’ll find us, sooner or later: the last third going dark. And when that day comes, if there is anything to remain of us, then we need to have mastered Gloam. Made it ours. Else none of us will ever see what lies beyond that horizon.”
+
+She raised her hand, clenched it into a fist.
+
+“The Signs, all they are is an alphabet,” the captain said. “One that in time will make the words of the language that will be mankind’s salvation.”
+
+The Tianxi opened her fist, revealing a ball of roiling Gloam that she snuffed out with a single breath.
+
+“But that work will not be finished in our time,” she said. “We pass it on, Maryam. We learn and write and pass the book so that those after us might finish the page.”
+
+The Izvorica kept silent. She could already smell the refusal, or worse. What could she add to this Akelarre book? She doubted there was a single signifier in the Abbey that could not make at least twice as many Signs as she.
+
+“That’s why Baltasar is wrong about you,” Captain Yue mildly said.
+
+Blue eyes snapped to her.
+
+“He’s a brilliant signifier of the Watch, and a fine instructor, but that is all he is,” the older woman said. “I imagine he was quite dismissive of whatever Triglau tradition saw you obscure your brain before puberty.”
+
+Maryam swallowed, mouth gone dry.
+
+“He was.”
+
+Not unkindly, but he had been.
+
+“That’s where he fails,” Captain Yue smiled. “He sees that, sees how your Grasp and Command are absurd, and sees someone who cannot excel at what he is to teach.”
+
+The captain folded her arms.
+
+“He should be wondering, instead, what it is you weremade to excel at,” she said. “There is a mystery in you, Maryam Khaimov, and mysteries have been the death of many a signifier.”
+
+The dark-eyed Tianxi bared her teeth.
+
+“But they’re also how we fill the page.”
+
+“And what would that mean, for me?” Maryam quietly asked.
+
+“You give me two afternoons a week,” Captain Yue said. “I’ll assign you readings and exercises. Sometimes, I will take measurements.”
+
+“But you’ll fix my signifying,” the Izvorica said.
+
+“Oh, I’ll do more than that,” the Tianxi chuckled.
+
+She leaned back, fingers riffling through the pockets of the coat on the grass. She slid out a folded paper, which she handed Maryam. The blue-eyed woman opened it, throat catching as she read the lines. It was a report from a garrison officer, a lieutenant describing the encounter he’d had last night near a red line in Port Allazei.
+
+And unless there was another pale-skinned signifier on the island, it was her being described out there in the middle of the night.
+
+“I had it buried,” Captain Yue idly said. “Officially, you were out on business for me.”
+
+And you’ll keep burying it, Maryam understood, so long as I do what you say. She licked her lips. That alone was enough to leverage her even if she were not already desperate.
+
+“Can you really help?” she asked.
+
+“I’ve been called a lot of things, over the years,” Captain Yue said. “Witch, bitch, the butcher of Caranela, a hundred different variations of madwoman and even ‘Necalli with tits’ the once, but there’s one thing they’ve never called me and that’s a liar.”
+
+There was a glint in her eyes, something and dark and cold but not cruel – at least no crueler than a deep river was when it drowned the unwary.
+
+“Help me understand why you have twice lived through something we believe to be certain death,” she grinned. “And I’ll make sure you’ve mastered enough Signs to stay on next year.”
+
+Maryam chose the side of the coin she could live with, and shook the devil’s hand.
+
+—
+
+Hage was cleaning the counter when Tristan came in.
+
+The devil glanced at him, cocked an eyebrow and then went around the counter. Mephistofeline was sleeping by the front window, his dainty snores blowing off little motes of dust with every breath. Fortuna hurried to him immediately, trying to wake him with a sudden shout that had Tristan tensing but the cat only flopping belly up and stretching a bit without ever ceasing to snore.
+
+“You have made a deadly enemy today, Prince Mephistofeline,” Fortuna hissed. “I’ll have you know an entire language was once crafted for the sole purpose of making hymns in my name and that-”
+
+Fighting down the secondhand embarrassment and habitually glad no one else could hear the goddess, Tristan slid into a seat facing Hage. The devil set down his rag, leaning a single elbow against the counter and cocked one of those impressive eyebrows.
+
+“I read my dossier,” Tristan said. “What do you want to know?”
+
+“What did your father do for a living?” Hage asked.
+
+“They have him marked a cellist.”
+
+The devil hummed.
+
+“Who put a price on your head and why?”
+
+“The Ivory Library,” the thief replied. “And it didn’t say why, but it did mention that Officer Nerei complained that it was an abduction of a Watch member for the purposes of experimentation.”
+
+His face remained unreadable. Tristan supposed that was easier, when the only facial expressions you had were those you faked with mandibles under skin.
+
+“Tell me an Item of Interest,” Hage said, “for another member of your cabal.”
+
+Tristan widened his eyes and put on an offended air.
+
+“Why would you think I looked at their private matters?” he said.
+
+The devil leaned in.
+
+“Is that your final answer?”
+
+The thief grimaced.
+
+“Song’s family is so hated a curse-god is forming from that hate,” he said.
+
+Hage hummed again.
+
+“Why did you not simply ask Wen instead of making an elaborate plot with a fire?”
+
+“Because if he refused he’d be on the lookout for me and all my other guesses at where dossiers are would be much better defended,” Tristan honestly replied.
+
+The devil had mentioned four transcripts. Hage would have one as a Krypteia teacher, Wen would have one as patron of their brigade and likely that office in the port with all the papers would have one as well. The most likely guess for the fourth transcript was the Ninth Brigade, whose princeling might have leaned on the local garrison to get a copy of the Thirteenth’s transcripts after Angharad batted around their finest swordsman.
+
+No, it’d been Wen or Hage from the start and however clever the bespectacled Tianxi was he was nowhere as dangerous as the old devil. Said devil wiped the wet rag across his counter once more.
+
+“You qualify for my lessons,” Hage conceded.
+
+Tristan hid his relief.
+
+“You will work afternoon shifts here twice a week as a cover,” the devil said. “And I will assign you work to fulfill on your own time.”
+
+The thief’s brow rose.
+
+“Am I going to be paid for the labor?”
+
+“Poorly,” Hage happily replied.
+
+It figured. Fortuna, having tired of swearing gruesome revenge on a sleeping animal whose brain was the size of a handful of nuts, drifted their way. She slumped on the counter theatrically, hair sweeping to the side.
+
+“We must retreat,” she told him. “I need to summon my legions, Tristan, for these insults cannot be borne. We may have to burn this place to the ground.”
+
+The gray-eyed man cleared his throat.
+
+“Are we done for the day, then, sir?” he asked.
+
+“No,” Hage said. “And there will be no burning my shop.”
+
+It took him a second for the words to truly sink in. Tristan stilled, blood going cold, and as Fortuna pushed herself up to look at the devil the ancient monster lazily stretched out his hand and flicked her forehead.
+
+And without a sound, she was gone. Disappeared.
+
+“You could see her,” Tristan choked out. “Hear her. This whole time?”
+
+Hage gave a twofold smile, teeth behind teeth.
+
+“Why were you ever so sure I could not?”
+
+The thief licked his lips.
+
+“She’s…”
+
+“Dismissed,” Hage said. “I expect better manners of her should she enter the Chimerical again.”
+
+Would it have hurt? Could Fortuna hurt, the way a human could? Even when they had faced that sliver of the Red Maw, she’d not seemed on the back foot the way she had been just now.
+
+“There are some Masks on this island who would take you on simply because of who recommended you,” the devil said. “That is the worth of Nerei’s name. But I’ve found that while she has a knack for finding exceptional prospects, she doesn’t really prepare them.”
+
+Hage studied him.
+
+“She breaks off the part that wouldn’t fit under the mask, then tosses them our way,” the devil said. “I rather dislike that method.”
+
+That last sentence, Tristan thought, had been spoken in the same venomously casual tone he thought the devil might use while chewing on someone’s leg.
+
+“Entering the Krypteia should always be choice, not a shipwreck,” Hage said.
+
+“Was it for you?” Tristan quietly asked.
+
+“Oh yes,” the old devil smiled. “Hell did not cast me out, boy. I walked out of Pandemonium’s gates with my head held high.”
+
+He licked his lips.
+
+“Why?” Tristan asked. “The Watch was besieging Hell, wasn’t it? They must have called you a traitor when you walked.”
+
+“To tell you the stories that would let you understand a genuine answer might take days,” Hage said. “But a simplification is this: I believe in what the Krypteia is.”
+
+“And what’s that?” the thief asked.
+
+Tone forcefully casual, but the question was utterly serious. Hage laid a hand on the rag, though he did not wipe with it again.
+
+“Our world, Tristan Abrascal, is a graveyard.”
+
+The devil leaned in, voice smooth as silk.
+
+“There are empires in the dark whose rise and fall you shall never hear a whisper from, wonders and horrors buried beneath our feet whose like we will never see again,” Hage said. “We built our homes on the ashes of a hundred broken kingdoms and for those who know how to listen the wind still echoes of that merciless fire.”
+
+The devil’s fingers clenched around the rag,
+
+“The great powers forget, as all power does, the sea of blood that saw them rise,” he said. “In every corner of Vesper ambitious souls sharpen their swords and dream of empire, unheeding of the simple truth that they can only hold the world if it is made small enough to fit the palm of their hand.”
+
+Tristan thought of the grim look on Professor Iyengar’s face, that morning. Of that matter-of-fact tone. More soldiers died in the first two weeks of the Succession Wars than over the entire span of the entire Kuril Dance, she’s said.
+
+“Izcalli burns while Sacromonte butchers,” Hage scorned. “Tianxia apes broken miracles and Malan tries to steal entire kingdoms out of sight. The Imperial Someshwar? If it breaks, it breaks Vesper with it – and it would be worse if it did mend itself.”
+
+All five of the great powers cut in a handful of sentences, though by some counts the Watch was considered the sixth and the devil had spared it.
+
+“All of them digging and digging and cutting deals with whatever god might listen so that when wars comes – not just war but the war– they’ll be kings of the ashes.”
+
+“And our spying on them will change that?” he asked, disbelieving.
+
+Hage shook the head he wore.
+
+“The Krypteia are not spies, Tristan, though we spy. Nor are we thieves, though we steal, or even assassins though we have murdered men like a man cuts grass.”
+
+The devil’s voice was flat.
+
+“We are gravekeepers.”
+
+“That could mean anything,” the gray-eyed man challenged.
+
+“It means,” Hage said, “that we make sure the things that should not be exhumed stay buried deep, that all those grasping hands never break the seal on the wrong tomb. We tend the grounds, cutting the throats of the intrepid and burning the libraries of the too-curious, so that the horrors we half-broke the world to murder stay sleeping in their graves.”
+
+Tristan swallowed.
+
+“Without us, there is no Watch worth the name,” Hage said. “Every other part of it, covenant and conclave and companies, they are the limbs and blood of the beast. We are the duty, the reason it was born.”
+
+The devil put away his rag, temper soothed – though not before he had torn strips with his grip.
+
+“You will not get to be proud and brave and true, Tristan Abascal,” Hage calmly said. “To swagger like a Militant or earn a Stripe’s accolades, to make and learn like a College man.”
+
+Those were never a choice, Tristan thought. He was no soldiers, no scholar, not even a captain. He’d half-tried his hand at it once and how many of those he had banded with on the Dominion made it through?
+
+Only the one already a blackcloak.
+
+“We will ask damned, ugly things of you before this is done,” the devil said. “The kind you won’t even find it in you to whisper to those you love in the small hours of the morning.”
+
+There was something almost hypnotic about Hage’s voice, the way he spoke.
+
+“You will be taught to stare into every shadow and find the lie in every miracle, to trust neither love nor blood and taste even the finest meals for poison. What we teach will wound you, somewhere deep, in ways that you cannot yet understand.”
+
+“And this,” he said, dry-mouthed, “is meant to entice me into joining up?”
+
+“No,” Hage said. “This is.”
+
+The devil caught his eyes.
+
+“Here is the promise of our order: we will use you, Tristan Abrascal, to snuff out a hundred Theogonies.”
+
+The boy’s fingers clenched.
+
+“To slit their throats and set their works aflame,” Hage said. “To bleed out the poison they would spread. In that work we heed no border and obey no law, care not for crowns or gods or how many bodies pile up.”
+
+The old devil’s voice was almost gentle.
+
+“We will barter everything of what we are, what you will be, save for one thing: we hunt the night, and all that would bring it.”
+
+Hage stepped back.
+
+“Think on it,” he said. “Come back tomorrow.”
+
+Tristan had hardly spoken, but he was the one who felt out breath. But it didn’t matter, did it? Time was of no use to him, it was already too late. When I found you, Abuela had said on the ship, our hunt was already carved into your bones.
+
+“There’s nothing to think on,” Tristan said, laying a hand palm up on the counter. “The choice was already made.”
+
+His hand was larger than it had been back then, he thought.
+
+Maybe one day it would mean more than grasping a larger tile.
+
+—
+
+‘What purpose does the Academy serve?’
+
+Song pondered Colonel Cao’s question as her fellow students tried and failed to answer it. Some tried to get clever – ‘to teach’, ‘to make Stripes’ – while others attempted more elaborate answers that were more seriously entertained by both their teacher and the assembly. In the end, however, it was an unfortunately familiar place that elicited a reaction from their teacher.
+
+“The Academy is the true ruling organ of the Watch,” Captain Sebastian Camaron said.
+
+“Oh?” Colonel Cao exhaled. “I did not expect anyone to come so close.”
+
+The man, to his honor, did not outwardly preen. He simply smiled and leaned back into his armchair like a satisfied cat. Were he less pretty it would have looked smug, but he had been blessed with good looks so instead it looked confident. There was nothing worse than a pretty boy who knew it, Song thought.
+
+“It can be said that the Academy’s purpose is to run the Watch,” the colonel elaborated, “and that is the first half of the answer. The second half, naturally, is the why.”
+
+She gestured at the room around them, drink in hand.
+
+“Is it ambition that drives us as a covenant?” Colonel Cao asked them. “Duty, tradition, any of half a dozen other pretty words?”
+
+No one quite dared to risk an answer as the older Tianxi set down her drink
+
+“It is not a simple question to answer, but the effort is worth it. We begin with the two contrary, unpleasant truths of our order: the Watch needs to exist and the Watch cannot be governed.”
+
+That was a bold statement to make, and it landed into utter silence.
+
+“Consider how the order stands,” Colonel Cao invited them. “The Conclave rules us, but who is it made of?”
+
+She flicked a finger at her drink, the noise resounding in the room.
+
+“The captain-generals of free companies spread across half of Vesper, who if not for the rules of the cloak would be as likely to war with each other as the night,” the colonel said. “The many lieutenant-generals of the Garrison, each a jealous petty king elbowing at their rivals for a greater cut of the treasury.”
+
+Song was amused to notice that quite a few faces in the room had soured. As well they should, considering who had sent them to Scholomance.
+
+“Even if the Conclave had half as many seats it would struggle to make decisions,” Colonel Cao said. “It hasn’t been able to elect a Grand Marshal since the Century of Dominion, and smirking men will tell you it is all on purpose, that this way more power remains in the hands of the Conclave, but that is a shallow conceit.”
+
+She sneered.
+
+“No one would be able to get one elected even if they tried, the votes simply split too many ways.”
+
+The colonel raised a finger, as if to ward off objections.
+
+“That is why we have committees, you will say,” she said, and indeed there was a faint rumble of agreement. “The Conclave is too large, goes the argument, so it gives authority to smaller, leaner assemblies that may exercise its will.”
+
+Colonel Cao did not hide her disdain at the notion.
+
+“As if that were not merely cutting up fresh fiefdoms in an order that’s made up a thousand too many.”
+
+That argument, Song noted, was landing better with the free company students than the Garrison ones. Not unexpected, considering the Garrison was much closer to the Conclave as a rule – most of its funding came through it.
+
+“You’re not to be Laurels so we don’t get lost in the philosophy, and you’re not to be Masks so don’t go chasing shadow plots,” Colonel Cao said. “Authority is a coin minted in gold and steel, and if you follow these you will find that the Watch creaks because it is ever pulling itself apart.”
+
+A hard smile.
+
+“The free companies chafe under the rule of the distant Conclave, which they say takes gold and gives precious little back. They fight and die on foreign shores while bureaucrats feed their rewards to ingrate militias.”
+
+More than a few smiles from the free company crews, but that was unlikely to last.
+
+“The Garrison complains that they must clip their wings to appease the captain-generals, who hoard wealth and glory so they might have no rivals. All the while they suffer insults for doing the duties glory hounds cannot be bothered to.”
+
+As if a lever had been pulled, the smiles moved to the other side of the room.
+
+“The Conclave complains it faces a hundred demands and no compromises, both sides of the abyss complaining of the tightrope it must walk.”
+
+No one seemed taken with that particular position, Song mused, which in a way went to prove the colonel’s point.
+
+“At the end of the day,” Colonel Cao said, “policies that benefit the free companies often hinder the Garrison and the reverse is equally true. Compromise displeases both sides and appeasement only whets appetites.”
+
+She took her drink in hand again.
+
+“So why hasn’t the Watch come apart at the seams? You wonder.”
+
+She drank, set it down.
+
+“We are why,” the colonel said, and though she did not raise her voice something about it had everyone sitting at attention.
+
+“There is a Stripe in every free company, every fortress, every session of the Conclave,” Colonel Cao said. “We sit at every table, speak at every council and conspiracy of the black.”
+
+She leaned forward.
+
+“We do not merely raise officers but induct them, for when one gains great success they are invited to study at the Academy,” she said. “We bring in the influential and stack committees, teach Stripe to promote Stripe. We’ve spent centuries and mountains of gold on making the Watch a culture, from something as simple as the color of our cloaks to establishing jargon enough it might as well be a different dialect.”
+
+The colonel smiled, unpleasantly.
+
+“We are not a covenant, children, we are aconspiracy.”
+
+And despite the severity of her expression, whispers bloomed at that. How could they not?
+
+“You want to know what our purpose is? The Academy is the largest, richest and best organized conspiracy on Vesper and its sole purpose is to ensure that the Watch keeps functioning.”
+
+The colonel laughed.
+
+“It’s why we’re larger than all the other covenants put together, why every time we overstep and offend the others never sink the knife too deep,” she said. “Because they know that, for all our arrogance, without us it falls apart.”
+
+The dark-haired woman leaned back against the counter.
+
+“We make free companies share bids instead of fighting for contracts,” Colonel Cao said. “We make garrisons send their powder to their rivals instead of hoarding them, break deadlocks and broker compromises and do everything necessary ensure that the cogs keep turning no matter how many grains of sand get stuck.”
+
+The older Tianxi wagged a finger in warning.
+
+“It doesn’t matter who sent you here, whom you owe and what they want,” she said. “You are Stripes, now. You have a higher calling, a duty to make the decisions that need to be made so that the wall between Vesper and horror keeps standing.”
+
+The colonel snorted.
+
+“Look around you,” she ordered. “Some of those faces will belong to rivals and enemies, for that is the nature of ambition. But do not ever forget, not for one moment, that those enmities are personal. That they must be set aside for the greater good of the Watch, no matter how bitter the pill to swallow.”
+
+She drank the last of her drink, bringing down the cup.
+
+“And you will swallow that pill,” Colonel Chunhua Cao flatly said. “Or soon you will find yourselves out in the cold, and believe me – after being inside, there is no worse place to be.”
+
+—
+
+Marshal de la Tavarin sat on his wall, the rest of them standing beneath him on the same grounds where six of them had died over the last hour.
+
+“As the man charged to initiate you into the Skiritai, I am meant to teach you our ways,” he informed them. “As all the teachers sent by covenants will, each of them giving you tests and speeches and sharing little secrets.”
+
+He snorted.
+
+“Nowadays, well, the Watch isn’t what it used to be,” the Marshal said. “Like an old lion grown more mane than mangle. We’ve been at the top too long, children, it’s made some of us tack on some fancy notions to the truth of what we are.”
+
+He idly twirled his cane.
+
+“Now, the Stripes they like to think they run the Watch and through it the world,” he flashed a grin. “Most of the time it’s worth it to let them keep thinking that so you don’t have to deal with the forms.”
+
+A sigh.
+
+“The College is all questions,” the Marshal said. “What’s this light, law, this clock? And yet somehow they forget to ask the most important question of all.”
+
+He leaned it, to the very edge of the wall.
+
+“Who’s paying for all this?”
+
+There was a spatter of laughter in which Angharad did not share.
+
+“Masks are spies you don’t get to hang, which is the worst sort of spies,” the Marshal continued. “You’ve got to rattle their cage now and then, remind them that blackmail only works if the other side doesn’t put a bullet in your brains.”
+
+Only for the end of the list did he straighten.
+
+“The Akelarre, our cousins in the Guildhouse, they’re sensible enough,” he praised. “You can count on them in a tight spot, if they don’t end up melting their brains.”
+
+He wrinkled his nose.
+
+“The trouble is their witch’s circle is older than the Watch, and sometimes they forget they’re part of it. Don’t complain too much about that, though, since they pay most of our bills.”
+
+The laughter was even thinner on the ground. Nervous would only squeeze so much out of them.
+
+“All these other covenants, they’ll tell their children they’re what keeps the Watch going,” Marshal de la Tavarin informed them. “They’re the most important part, the crowning glory. I’m not here to tell you that, because the truth’s a little simpler: in every way that matters, you are the Watch.”
+
+This time when he smiled there was nothing roguish or foolish about it. It was a cold slice of ivory and silver.
+
+“Everything else exists to serve us,” the Marshal said. “The other covenants were made to arms us, to inform us, to find our enemies and bring us where we need to be to kill them. They are the spear-carriers of the Skiritai Guild, nothing more or less.”
+
+He exhaled dismissively, mustache fluttering.
+
+“Our order’s gotten long in the tooth so all these philosophers sprang out of the woodwork to tell you all the special things that the Rooks are,” he contemptuously said, “but those are just words. Our order is a gun, and you are the bullet: without you there is no point.”
+
+It sounded true, Angharad thought. And sensible enough
+
+“You are Militants: the god-reaping sickle, the silver swords of Iscariot. The army that thrice slew Lucifer and shut the gates of Hell.”
+
+Angharad straightened, as did many around her. Thrice? She had only heard of two.
+
+“Look around you, at this fine fellowship of valor,” the Marshal encouraged. “Take it in.”
+
+It was a hesitant thing, but smiles were shared. They died at the words that followed.
+
+“By the time you leave Scholomance, half of those you see will be dead.”
+
+You can’t be serious, someone called out, and many mutters matched it. Not that the old man seemed displeased.
+
+“Why, children,” he grinned in silver, “did you think we came by all those fancy titles by accident?”
+
+He set his cane on his lap.
+
+“It takes seven years of flawless service or a victory against impossible odds to be considered for the Skiritai, out there in Vesper,” the Marshal said. “Scholomance is different, you’ll tell me. We are the finest, the handpicked, the chosen.”
+
+He shrugged, as if conceding the point.
+
+“That you were,” he agreed. “You were chosen to undertake a process that makes only two things: corpses and silver swords.”
+
+Angharad was not sure she would truly have believed him, had she not seen blackcloaks drag out six corpses in the span of an hour. Now she knew better.
+
+“They gave me five years to make Militants out of you, and that leaves no hour to spare for kindness,” the Marshal said.
+
+His tone was mild, conversational.
+
+“I will burn weakness out of you, children,” Marshal de la Tavarin said. “Cruelly and ways that will scar you for the rest of your days. But it will never be without purpose, and those of you who survive will be worthy of being called Skiritai.”
+
+This time he did not get so much as a whisper.
+
+“I tell you true, this is your first and last warning,” the old man said. “So go back to your beds, children and decide if the reason you’re here is worth risking your head. I will allow students to withdraw until the hour of tomorrow’s class.”
+
+His mouth smiled, but not his eyes.
+
+“After that, the only way out you can leave is in a coffin.”
+
+# Chapter 18
+
+Chapter 18
+
+Song was the first back to the cottage.
+
+She came in, wiped her boots and hung her cloak. Her musket was placed against the wall – until a proper weapons rack could be acquired – and she put away her powder in a bag she had hung from the wall for that very purpose. The sword belt joined the cloak as the last step, but for once putting away her affairs in an orderly matter brought no comfort. She felt… she wasn’t sure, in truth. Empty? Perhaps simply tired. It had been a long day.
+
+The Tianxi made her way to the kitchen, trussed up her sleeves and got started on the evening meal. Chicken, rice and fresh tomatoes. No spices save salt, which was cheap and plentiful in Allazei. Her mother would have disowned her for a meal like this, but though it was simple fare the portions would be plentiful and it was not difficult to cook. It could serve as a placeholder. By the end of the week Song intended to begin a rotation so that responsibility for meals might not be entirely on her shoulders, alternating between the members of her brigade.
+
+She had also been considering a chore sheet, considering the amount of work yet in need of doing. The cottage was still filthy, the library needed to be catalogued, the garden emptied of weeds, furniture needed to be bought and carried… the list went on. And though Song knew that when she was finished with the meal she should change into the work clothes she’d acquired in town and get to cleaning, the thought was frail. As if she were not certain of her own intentions, as if she were…
+
+“I am not buckling,” Song hissed down at the pot of rice.
+
+So there had been a setback. Colonel Cao had marked her a fool before her entire set of peers at Scholomance and her name would remain on that board until she erased her shame. That did not mean she would fail. It had been a lesson she must learn and the sting would only help her remember. The colonel was right, her approach had been lukewarm: she had neither hidden what she deduced to secure an advantage nor revealed it to everyone so she might earn gratitude.
+
+The worst of both worlds: she well deserved the loss of a point.
+
+Song set to preparing the chicken, carefully cutting and sprinkling with salt as she went. It went into an iron pot which was placed over the flame. Her distress, she decided, was only because she needed to purge the curse. She would ask Maryam to have a look tonight. It had not been long since the last purging, but it may be that Tolomontera – a great aether well, she had been told – made matters worse. Yet what she needed even more than that was a plan. A way forward, a way to rise.
+
+Song did not anticipate her brigade would be too difficult to convince to take the trial, but that alone was not enough. She needed a way to redeem her reputation. A way to turn the tide, to catch up to… Her fingers clenched. Always behind, Nianzu had told her, slurring. You can’t fight fate, Song. No matter how we struggle, we’ll always end up behind. But what would he know?
+
+“Should I follow you and disappear down a bottle, gege?” she bit out. “I won’t-”
+
+It smelled burnt. Swallowing thickly, Song looked down and saw that in her fugue she had left the chicken unattended too long. The top was still pink, but when she flipped the cuts she saw they had charred stripes. The Tianxi swallowed. If she cut them out perhaps it wouldn’t show? No, they’ll still see I cut out parts. Perhaps if she sliced every piece in two, then – no, idiot, they would notice the quantity was too small. One of them would ask. They would know.
+
+Hands shaking, tearing up like a fucking child, Song did the only rational thing she could: she put the pot off the fire, went outside with a shovel and dug a hole in a corner of the garden. She emptied the burnt chicken into it – she’d have to buy another to replace it from her own funds – and filled the hole. She had to hurry, they could be back anytime now. Song opened the windows to get rid of the smell and cleaned the iron pot before doing the recipe properly this time.
+
+When her cabal began arriving one after the other, Song was ready. She welcomed them with a smile and a meal and her hand remained on the chisel as they all sat together and ate. Like a proper brigade, led by a proper captain.
+
+“Would you mind if I closed the windows?” Angharad asked, polishing off the last of her rice. “It is getting rather chilly.”
+
+Song’s hand twitched. The windows. Utter fool that she was, she had forgot to close the windows.
+
+“I’ll do it,” she said, hurriedly rising to her feet.
+
+Only she was sloppy in her haste, her knee caught the table and the shake tipped over a cup of water and – Abrascal caught it before it could spill. Her jaw clenched so tightly it hurt.
+
+“Song,” Maryam slowly said, “are you-”
+
+“Fine,” she bit out.
+
+She strode to the windows and closed them abruptly. When she turned back towards the table it was to the sight of two concerned faces and Tristan Abrascal’s mask. And why wouldn’t they be concerned, when she was making a scene like a child throwing a tantrum? She forced herself to breathe out, smoothed out her tunic.
+
+“My first covenant class did not go as I would have preferred,” Song said.
+
+Some of the tension left the room. That was no achievement, when she had been the one to put it there.
+
+“Mine either,” Maryam volunteered. “Our professor effectively washed his hands of me and I’ve been forced to make other arrangements.”
+
+She made her way back to the table, carefully. As if her feet were made of porcelain.
+
+“That is highly improper,” Angharad frowned, and Maryam tensed. “It is a professor’s duty to attend to all students as equally as they can.”
+
+The Izvorica shot her a look and said nothing, which still a stark improvement over the entire last month. Song crossed her legs and sat on the floor again, back straight. She reached for her cup.
+
+“I found a teacher and framed the Forty-Ninth’s patron for arson,” Abrascal casually said.
+
+She choked on her mouthful of water, glaring at the thief since that timing had most definitely been deliberate. He smiled back innocently.
+
+“Is that what Masks do?” Angharad hesitantly asked.
+
+Meaning – is this otherwise dishonorable act permitted because it is your duty, and thus honorable in a different way? The Pereduri was not difficult to understand, once you grasped the tint of the spectacles she looked at the world through.
+
+“You probably don’t want to ask too many questions about that,” Abrascal honestly replied. “Still, I can tell you I’ll be working at the Chimerical two afternoons a week. I’ll let you know the days as soon as I learn them.”
+
+“My own afternoons will be filled four days out of five,” Angharad contributed. “Third day is to be a rest day.”
+
+Maryam cleared her throat, earning glances.
+
+“And how was your class?” she asked, sounding almost challenging.
+
+“Six of us died,” Angharad replied.
+
+Gods. The silence that put into place lasted until the plates and remains were taken away and Song brewed a pot of Someshwari tea. It was cheaper on Regnant Street than the Republican leaves, and with good reason – their tea was inferior in every way. Only Abrascal declined a cup. It was Song who broke the uncomfortable quiet.
+
+“There is a price to the privileges of Stripe students,” she said.
+
+She took out the trial bounty she had taken from the board, carefully folded, and set it down on the table. It made its way around, getting a raised eyebrow from Maryam and an interested look from Angharad. Abrascal was harder to read, but if she must she would peg him as thoughtful.
+
+“It must be complete by next week or I will be sent away,” Song frankly told them. “Every Academy recommended is in the same situation.”
+
+The only man among them snorted.
+
+“Ouch, poor Forty-Ninth,” Abrascal said. “They’ll be stuck doing two.”
+
+A fine argument for why few cabals would want two Stripes, and also for why no Academy recommended would want to command a cabal of leftovers. An incompetent brigade would not bring up your score high enough to pass by the year’s end, however eager they might be to obey you. Besides that, the way the thief had phrased his sentence was promising. It implied he was willing to participate, and Abrascal had been the most likely holdout in her mind.
+
+“This is all we have to go on?” Maryam asked, staring at the paper.
+
+She had been the last to receive it.
+
+“It is.”
+
+The Izvorica sighed, passing the bounty back to Song. She did not fold it again, and made a note to smoothen it out later tonight with weight pressing down on the sides.
+
+“Well, I won’t turn away the coin,” Maryam said. “When did you have in mind?”
+
+“Sixthday afternoon,” Song replied.
+
+After the elective classes, though she would leave a wide margin of time to avoid possible inconveniences. She would have been more comfortable earlier in the week, but it was better to let her brigade settle in properly instead. They confirmed the split of coin and where in the city they would have to journey before they could be escorted to the trial – a place on the outskirts of Scholomance, which had them speculating the trial would be within the school.
+
+The conversation soon trailed off. Maryam volunteered to wash the dishes, Angharad went out into the garden for her evening exercises – most nights she spent half an hour out there doing drills with her blade – but the surprise was when Tristan lingered at the table with her. Song had reason to remain, not being done with her tea, but he himself had none. Unless he wanted to speak with her, that was. The Tianxi cocked an eyebrow and waited.
+
+“I need information,” the gray-eyed man said. “How can you see gods?”
+
+Her heart clenched. She put down her cup of tea before it became visible there was a tremble to her fingers. Her hands went down onto her lap, hidden by the table.
+
+“Pardon?” Song said.
+
+“You can see contracts,” Abrascal elaborated. “But do you know of a way people could see gods?”
+
+Not her, she realized with relief. He did not mean her. She kept her face smooth.
+
+“I expect there are contracts out there that might allow this,” she said, mouth gone dry. “Why?”
+
+He grimaced.
+
+“All right, cards on the table,” he said. “Do you know of a way for devils to see gods?”
+
+“Once annealed, devils become a fixed shape in the aether,” Song mused. “It may be that lets them sense gods, though outright sight seems a stretch.”
+
+“Hage could see my patron god,” the thief flatly said. “Hear them, too.”
+
+Song let out a low whistle. Her own god did not visit enough for this to be a risk, but it was useful to know.
+
+“Thank you for the warning,” she said, inclining her head.
+
+He hummed.
+
+“Well, I suppose it’s not like I got nothing for it,” Abrascal said.
+
+She sipped at her cup.
+
+“No?”
+
+“Hands are expressive,” he said. “Those with training, they often keep them out of sight when trying to hide something.”
+
+As she had at the start of this conversation, damn her. Had she given herself away? The gray-eyed man studied her face, half-frowning.
+
+“Well, there are things we don’t ask,” Tristan Abrascal said. “I’ll leave you to your tea, Song.”
+
+He backed up from the table and rose to his feet even as her fingers clasped the side of the cup so hard her knuckles paled. He was not so smug as to wave her way before heading up the stairs, into that stargazing tower he had claimed as his bedroom, but it still felt like she had just been slapped in the face. Abrascal had no reason to keep her secrets. If he told the others… It could turn their entire year against her, the knowledge she could peer at their deepest secrets with nothing but a glance. Even those who cared nothing for the Dimming would-
+
+“Easy now.”
+
+Song sucked in a breath, finding there was hand on her shoulder. Maryam was half-kneeling at her side, arms wet with a sheen. She smelled like food scraps and wetness.
+
+“Think of the sea,” the other woman said. “Tide comes in, tide goes out. Make yourself see it in your mind.”
+
+She barely felt Maryam take the cup out of her hands and set it on the table, struggling to do ask asked.
+
+“Match your breath to it,” the Izvorica murmured. “It comes in…”
+
+Song breathed in.
+
+“It goes out.”
+
+By the time her heartbeat had settled, she did not dare to meet Maryam’s eyes.
+
+“What did he say, Song?”
+
+The tone was flinty.
+
+“Little,” Song tiredly said. “It is-”
+
+Staring down at the table, she sagged.
+
+“I am, by score, now the last of the Stripe students,” she confessed. “I have failed you all.”
+
+“I doubt that,” Maryam said, sitting down by her side. “What happened?”
+
+The story tripped its way out of her, every word of it sounding like pathetic whining to her ears.
+
+“That colonel sounds like a real bitch,” the Izvorica mused.
+
+“Maryam,” Song hissed.
+
+The pale-skinned girl shrugged.
+
+“We agreed we’d be honest with each other, when we started this,” Maryam said. “So I’m being honest: that Cao woman sounds like a real bitch.”
+
+“She’s a highly respected officer,” Song told her.
+
+“Agree to disagree,” Maryam easily replied.
+
+“The last time you used that sentence, you saddled our cabal with Tristan Abrascal,” Song muttered.
+
+“And it’s been lovely having him,” she replied, then frowned. “Though he should have known better to prod you when you’re like this.”
+
+Song straightened.
+
+“I am not like anything,” she said.
+
+Maryam said nothing, then sighed and passed a hand through her dark hair.
+
+“The first I took a ship,” she said, “I wasn’t able to keep down a meal or sleep for three days straight.”
+
+Song’s eyes snapped her way, the surprise plain on her face.
+
+“They had to drug me,” the Izvorica said. “And I wasn’t much better when I woke from that. It took time before I learned I could close my eyes and not wake in chains, but before we docked I had learned. And no sailor on that ship ever mocked me for it.”
+
+Maryam leaned in, squeezed her shoulder.
+
+“Your ship is still out there on the black, Song,” she said. “But you’ll get there, I’m sure of it.”
+
+She stayed there long after the Izvorica had left, until Angharad had returned from her exercises, sitting there along in the lamplight with a lick of cold tea at the bottom of her cup. Staring at the leaves mucking up at the bottom, the silver-eyed Tianxi wondered if this was how it had begun for her brothers.
+
+And if one of her sisters would sit down, one day, and wonder if this was how it had begun for Song.
+
+—
+
+Their first class had taken place in an impressive lecture hall, but Saga took place in what could only be called a library.
+
+The room was all tall stacks and chandeliers, filled with sets of tables fitting ten each. Only the library was near empty of books, with only a few stacks near the bottom filled with volumes. They were all copies of three books, which the professor insured were to be claimed once each per cabal. Professor Tenoch Sasan, still as disheveled as yesterday, had used much of the empty room to prop up large polished stone slates. After yesterday’s… eventfulness, Song found the professor’s assertion that his class would be more classical a relief.
+
+“As a class, Saga will seem like the odd man out to many of you,” Professor Sasan said. “Compared to Warfare and Teratology, or even Mandate, I will concede that its direct use is less obvious.”
+
+The man was a good speaker, Song thought. Engaging and easily heard.
+
+“In practice, however, you will find that much of our work involved digging up the secrets of the past,” the professor said. “Vesper is riddled with the scars of old wars, with buried horrors and wonders. My charge in this class is not to teach a love of history – though if I can, I will – but to equip you to understand what you will encounter out in the world.”
+
+He cleared his throat.
+
+“You need to be able to tell Antediluvian ruins apart from those of the Second Empire,” Professor Sasan said. “To understand why Cathayan is spoken in some parts of the Someshwar, why realms bordering Izcalli share the same gods and customs while being estranged from the Grasshopper King’s rule.”
+
+The professor grinned.
+
+“You need to understand why Sacromonte remains one of the great powers of Vesper while commanding less than a tenth of the territory of even the smallest of its peer powers,” he said. “And while we can answer all these questions through the realities of the present, those answers will be incomplete – because the end of a trajectory cannot easily be understood without knowing its source.”
+
+He marked the largest slate thrice.
+
+“We look back, students, so that we might better understand what is ahead,” Professor Sasan said. “And despite the best efforts of time and men, there is much that was left behind for us to learn from.”
+
+He opened his arms.
+
+“Our history, as a rule, is divided into three periods. Who might give me the name of the very earliest?”
+
+Tianxi history was divided into eleven periods so for once Song was entirely in the dark. Both Angharad and Abrascal were among those that raised their hand, however, and the latter was called on.
+
+“Antiquity,” he said.
+
+“Indeed,” Professor Sasan enthusiastically said. “As in all things historical naming an era is a contentious issue, but ‘Antiquity’ is the most common term used for the period beginning with the First Empire, the realm of the Antediluvians, and ending with Morn’s Arrival – that is, the wave of desperate refugees arriving in the wake of the First Empire’s destruction who founded Vesper as we know it.”
+
+He filled in a line with the word Antiquity, then lowered his hand to the second.
+
+“The second period is the Imperial Calendar,” the professor told them as he wrote the words, “so named for the way it broadly matches the span of the calendar used by the Lierganen Empire – though that calendar was, as we will cover, largely fantasy. It ends with the Second Empire itself. The most popular date used for this is the Thirteenth Betrayal. and as a scholar I must agree: it effectively ended Liergan as a state and unleashed the Succession Wars.”
+
+The professor opened the question to the class again for the third period, and this time most raised their hand – Song included. It was an easy enough question, which a small Izcalli girl answered quietly enough she was twice asked to repeat.
+
+“That is correct,” Professor Sasan said. “The third and most recent period is that of the Centennial Calendar, which began eight hundred and three years ago. Barring eventfulness, all of you will end your lives in the current century – that is, the Century of Smoke, which has only barely begun.”
+
+After that opening the professor spent the better part of an hour getting the class to fill in the three periods with lesser stretches of times and great events – adding the Old Night, the Tumult, the Iscariot Accords – as he sorted through answers and explained what went on and what stayed off. As answers began to trail off, he eased them to the end of the exercise.
+
+“While I would love to continue talking you ear off,” Professor Sasan said, “all of we general classes teachers are under instructions to give nothing more than a short introductory lecture this week – so that you might better settle into your covenant classes.”
+
+He set down his chalk.
+
+“Before dismissing you, however, I leave you with a thought and an assignment,” he continued. “History is partial, my students. It takes sides, damns and justifies, because we do and it us to who write it. Never confuse it for a cold science squabbling only with facts – and understand that the distinctions we draw within this discipline are not some ultimate truth but very much for our own won convenience.”
+
+He gestured towards the great slate he had filled.
+
+“Consider this,” Professor Sasan said. “These three periods of history, are they the sum whole of all that ever was in Vesper?”
+
+A click of the tongue.
+
+“Of course not,” he said. “This world existed before the Antediluvians came.”
+
+Professor Sasan grinned.
+
+“That is my assignment for you,” he said. “Crack open the books you’ve received and find me the answer to this question: what existed before the First Empire, and how do we call that distant era?”
+
+—
+
+After Professor Sasan’s jovial lecture, Song was not quite sure what to expect when the following morning saw the Thirteenth dragging themselves through the bowels of Scholomance to the buried crypt where they would be taught Teratology.
+
+It had taken them a mere quarter hour to reach the Saga classroom once they’d entered Scholomance,, but this time it was easily twice as long to follow the spikes in the ground adorned with the yellow ribbons. Song watched the god of this place follow them from the corner of her eye as they passed through halls and hallways, a half-sunken chapel whose deep waters no one dared approach and finally circling stairway surrounded by a darkness that seemed to swallow all light.
+
+“I will dare to hope Scholomance shuffles the journey to here next week,” Abrascal breathed out after they reached the bottom of the stairs. “That last part was unsettling.”
+
+“I could do without the chimes in a wind that does not exist,” Maryam admitted.
+
+“I am nearly certain I saw something moving under the water, back in that chapel,” Angharad grimaced.
+
+“We are nearly there,” Song assured them.
+
+The Teratology classroom, described to them as a crypt, lived up to the words. It was all arching stone and dim dampness, with lined up writing desks beneath oil lamps and walls covered with lemures stuffed or embalmed. Not only small ones, either, for a winged snake with exquisite rainbow-colored scales hung off the ceiling from one end of the room to another. The four of them claimed desks near the middle, where nothing loomed so close that Song would keeping looking back, and settled in. They were not the only ones unnerved by the journey to the classroom, or uneasily eyeing the jars and silhouettes on the walls. The crypt was more broad than long, and the front was a slightly raised stone dais where a desk had been placed. Their professor sat behind it.
+
+He was a tall, slender man in his forties wearing an elaborate black tunic. Tianxi, his long black hair kept in an elaborate topknot held in place by a phoenix-shaped pin. Thin mustache and goatee were carefully styled, his eyes black as a beetle and almost as shiny. He watched the students enter impassively, sweeping to his feet only when the last had arrived.
+
+“I am Professor Yun Kang, of the Peiling Society,” he announced, his voice smooth as velvet. “I will teach those of you capable the essentials of Teratology.”
+
+Passing by his desk, he snatched a long baton of dark wood. It was polished enough to reflect lantern light.
+
+“You will call me professor or sir,” Professor Kang informed them. “Anything else will see you ordered out of this room.”
+
+He began striding across his low dais, forcing the students to follow him past pillars and the heads of their fellows.
+
+“Teratology is the study of the monstrous,” he said. “That which has been changed by the touch of aether or Gloam, the lares and the lemures. It is the knowledge that will save your lives out in the dark, allow you to tell apart pithy and peril when encountered in service of the Watch.”
+
+He scoffed.
+
+“Scholars have dedicated their entire lives to Teratology and found this time to be all too short,” Professor Kang said. “My sole expectation of you as students is that most will learn the bare necessities and a handful of fortunate souls will rise to understand the sheer breadth of this discipline.”
+
+The dark-haired man came to a stop.
+
+“We have barely begun to plumb the depths of what exists beyond our small islands of Glare in this sea of darkness,” the professor said. “And the little we know shifts decade by decade, as the world does.”
+
+Professor Kang strode across his stage, arms folded behind him.
+
+“Teratology is an ever-changing field,” he lectured. “Not only must we follow the whims of nature and of the Ancients, but the foolishness of men can also change a land and fauna.”
+
+The professor’s dark eyes swept through the desks, almost lazily. Song felt her stomach sink. There was something about that stare…
+
+“Indeed, near the turn of the century an entire region that had been under regular Glare for centuries was condemned,” Professor Kang said. “Besides the colossal amount of death and ruin this caused, it is worth nothing that an entire scheme of fauna and flora was also irrevocably changed. Even should the Glare be returned, many of the changes will remain.”
+
+He paused. Song swallowed.
+
+“Can anyone name the region in question?”
+
+A dozen hands went up, but Professor Kang did not so much as glance at them. Those dark eyes pinned her like a butterfly to a wall, and his lips quirked unpleasantly. A hand left his back and he pointed the baton directly at her.
+
+“Captain Song Ren of the Thirteenth Brigade,” he said. “Answer the question.”
+
+She breathed in.
+
+“It is the Republic of Jigong,” Song replied with forced calm.
+
+“Very good, very good,” he thinly smiled.
+
+He turned away, making as if to stride across the stage again, but she knew better. A heartbeat later he had turned back towards her, tapping his baton against his chin pensively.
+
+“Song, if you would,” Professor Kang idly said. “Would you happen to know what foolish, accursed family was responsible for the worst disaster Vesper has known since the peak of Succession Wars?”
+
+She grit her teeth.
+
+“The Ren family, sir,” she replied.
+
+“Why, Song,” he said. “That happens to be your surname. Surely that is a coincidence.”
+
+The silence in the hall was almost oppressive. Song sucked in a breath.
+
+“Answer me, Ren,” Professor Kang coldly said. “Or walk out of this hall. I will not suffer disruptive students.”
+
+“It is not a coincidence, sir,” she forced out.
+
+“Ah, I do recall hearing something along those lines,” the dark-haired man idly said. “Your grandfather was the one responsible was he not? You are from the direct line of descent of the single worst traitor in the history of the Republics.”
+
+She kept staring ahead.
+
+“Ah,” he silkily said. “I understand. Such a famous girl, you must believe yourself above answering when your teacher addresses you.”
+
+“I do not know what to say,” Song woodenly said.
+
+“Understandable,” Professor Kang sighed. “I can only praise you for recognizing the utter worthlessness of any words you might utter.”
+
+He tucked his hands behind him again.
+
+“If you must inflict your presence on me, Ren, you will at least have the decency to never speak unless spoken to,” the professor said.
+
+She swallowed.
+
+“Yes, sir.”
+
+He thinly smiled.
+
+“I did not give you leave to speak,” he said. “This is your third and final warning.”
+
+Humiliating as that had been, the stares that came after were worse. It felt like half the class was watching her face, some smirking and others contemptuous. The stares with pity in them burned the harshest.
+
+“The teacher is in front,” Angharad coldly said when the student of her turned to her eye like an animal in a cage.
+
+It shamed those closest to stop staring, but the attention only barely waned. And Professor Kang was watching it all from the front, just waiting for her to speak up and give him reason to cast her out. Once it became clear she would not give him the excuse, he chided her for distracting the class and announced that the entire first month of class would be dedicated to the study of what set apart lares and lemures from animals.
+
+“Teratology is best understood not as a state or a catalogue but as a natural system,” Professor Kang said. “To best allow you to grasp this early in our time together, we will study a well-documented occurrence of such a system shifting.”
+
+And as Song’s stomach sung, the professor went on to explain how for that entire first month they would study how the Dimming had changed the lands of Jigong, their fauna and flora and inhabitants. Every excruciating detail of the consequences of her grandfather’s sin, not only dragged out for everyone to see but studied and tested on. Only a hundred of the four hundred and three students of Scholomance were in this room, but she knew without a doubt that by the end of the day word would have spread through all Tolomontera. The Dimming and her family ties to it might as well been nailed to her forehead.
+
+Captain Wen had warned her that one of the teachers had it out for her, had he not?
+
+Well, Song had found him.
 
