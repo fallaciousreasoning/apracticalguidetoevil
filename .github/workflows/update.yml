@@ -22,6 +22,14 @@ jobs:
         run: |
           python apracticalguidetoevil.py
 
+      - uses: docker://pandoc/core:2.9
+        with:
+          args: -o "Pale Lights.epub" "Pale Lights.md"
+
+      - uses: docker://pandoc/core:2.9
+        with:
+          args: -o "A Practical Guide to Evil.epub" "A Practical Guide to Evil.md"
+
       - name: Commit & Push Changes
         run: |
           git config user.name github-actions[bot]
