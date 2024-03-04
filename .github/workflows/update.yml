@@ -1,0 +1,30 @@
+name: Rescrape
+
+on:
+  schedule:
+    - cron: '0 8 * * SAT'
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - uses: actions/setup-python@v4
+        with:
+          python-version: 3.8
+          cache: 'pip'
+      - run: pip install -r requirements.txt
+
+      - name: Rescrape
+        run: |
+          python apracticalguidetoevil.py
+
+      - name: Commit & Push Changes
+        run: |
+          git config user.name github-actions[bot]
+          git config user.email github-actions[bot]@users.noreply.github.com
+          git commit -am "[Automated]: Update books"
+          git push
