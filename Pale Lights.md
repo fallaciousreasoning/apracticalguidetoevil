@@ -40593,3 +40593,543 @@ He pushed off.
 
 Angharad was beginning to suspect she was headed to a very different kind of gathering than she had thought she was.
 
+# Chapter 33
+
+She could feel the eyes on her as she walked down the hall.
+
+Whispers and stares, smirks and anticipation. Word of Song’s exoneration from the death of four students had made the rounds of Scholomance like a circling vulture, first as rumor then as fact. Every single brigade patron on Tolomontera had been instructed to report the facts as determined by a formal investigation – and four cabals were promptly disbanded, their handlers transferred away. The way Song heard it, the events becoming ‘official’ had actually lessened interest as the truth was quite time compared to some of the rumors.
+
+Until word began going around about Professor Kang’s unfortunate encounter, anyway, which made the whole affair juicy all over again.
+
+The other cabals had been gossiping about the coming confrontation for days, placing bets like it was to be a dog fight. It was a minute-long walk from door to door in this last hallway, a straight line with no obstruction, but the end still felt like it had snuck up on her. Song paused before the threshold, breathed in. It was not hesitation if she was just catching her breath.
+
+Tristan casually stepped between her and a pair of gawkers, fiddling with his pistol and hiding her face from them as if by happenstance. Song hid her surprise – they had reached something of a truce over the last week, but the friendliness was but a layer and one that tended to thin whenever Maryam was not present.
+
+She did not acknowledge the kindness and neither did he, which made it easier to swallow.
+
+Raising her chin, Song made herself stride through the threshold. The almost crypt was better lit than usual, lanterns having been set down on the sides, but it was otherwise unchanged. Rows of desks and pillars, a menagerie’s worth of stuffed corpses and glass cases, and up front on the dais the desk and – huh. A tall, dark-skinned woman with brown eyes and hair pulled into knots encircled by golden bands at the base. No sign of Yun Kang.
+
+Song walked to the usual desk almost in a trance, barely even noticing as the others joined her. It was barely five minutes before the last students walked in and the professor in front pushed off the desk.
+
+“You, in the seat by the pillar,” she said, pointing at a chubby Someshwari. “Close the door.”
+
+She turned to the class without checking to see if she was being obeyed.
+
+“You may call me Professor Cence,” she said. “As Professor Kang is not yet capable of walking without assistance, I will be teaching this class in his stead.”
+
+A pause for that to sink in.
+
+“He should be returning next week,” she added. “If not, I will likely be returning.”
+
+Whispers buzzed like a hive freshly kicked. So many stares were directed at the back of Song’s head it felt like they were pressing against her scalp. A hand was raised from the back, getting a nodded permission from Professor Cence to speak.
+
+“Is it true he tried to get a student killed?”
+
+Song turned, finding she did not recognize the one who spoke – an Izcalli boy with no contract to reveal his name. Impossibly, the weight of the stares grew. Even the professor glanced her way, before returning her gaze to the other student.
+
+“Accusing a member of the Watch of a crime without proof usually fetches a caning,” Professor Cence mildly said, adjusting the collar on her uniform. “Given the rumors, I will spare you discipline this once. There will be no second chance for any of you.”
+
+That killed any boldness students might have been inclined to. The dark-skinned professor wasted no time digging into the lessons after that, picking up where Kang had left. Song felt a little cheated by the fact that she was not as interesting a lecturer as the man trying to kill her, though the lack of constant questions thrown her way more than made up for it.
+
+The Tianxi found herself ignored the first two times she raised her hand to answer a question opened to the class, as if Professor Cence was overcorrecting for her predecessor, but she was allowed to explain the process by which crops grew in Gloam-covered lands – skotosynthesis, feeding on darkness – and received an approving nod for it. Song did not raise her hand again for the rest of the lecture, even after the quarter-hour break that separated the two sections.
+
+Part of her winced at what was to come, but it was necessary and her own design besides. She still waited until they’d walked out the gates of Scholomance, out of sheer practicality.
+
+“Here will work,” Song quietly said.
+
+Maryam nodded under her hood while Tristan gave a too-sharp grin. He was the only one of the three who enjoyed it, when they erupted into a loud argument – Song accusing him of stealing brigade funds, him accusing her of being cursed and Maryam playing peacemaker for a few moments before being called half-hollow and joining the fray. It was loud, vicious and utterly mortifying to be part of but it did what it was meant to accomplish: dozens watched as Tristan made to strike her and was held back by Maryam.
+
+There had been witnesses enough, Song decided after they stalked off, that by the time she attended class in the Galleries this afternoon rumors would have spread. Enough that Ramona would be willing to believe her when she offered to sell Tristan Abrascal to the Forty-Ninth.
+
+—
+
+Tristan Abrascal slept like he was trying to burrow into the ground, even when drugged. Curled on himself, as if trying to wedge himself into the cracks of the world. Song checked his pulse, fingers lingering not a moment longer in deference to his dislike of being touched, and withdrew with a satisfied nod. The mixture and dosage were the thief’s own work, but he had asked her to check on his pulse once in a while to ensure he’d not accidentally killed himself.
+
+The heartbeat was not slowing or weakening, so as far as she could tell he’d be fine.
+
+Song left him in his corner, behind the crates, and climbed back up the ladder into the pale light of the Orrery. The shrine she had picked as the meeting point was small, barely large as the cottage’s kitchen and only two stories high. The selling point was that the door had been bricked in so it could only be accessed by climbing a rope to the roof and then taking a ladder down inside. Even more useful was that time had torn town everything around the strangely empty shrine for two blocks, giving her a wide open field to defend. Song lay down on the roof, pulling her coat close as she waited with her loaded musket.
+
+All that was left to do was wait, and laying there alone her head felt full of too many thoughts. Instead of letting it wander, she made herself go through the plan again.
+
+Looking only at martial might, dealing with the Forty-Ninth was not overly difficult.
+
+Since Song was the one setting the meeting, all she needed to do was pick a good perch surrounded by open grounds, let them pass the point of no return then spring an ambush. Muchen He was the real threat among the brigade, so opening the fight kneecapping him with salt munitions was a must. Four would be left after that: Captain Ramona, Tengfei Pan, Huang Pan and Fara.
+
+Huang Pan was a Savant, chubby and lacking a fighter’s calluses. As a fighter, he was a nonentity beyond his ability to pull a trigger. The Malani woman, Fara, had been somewhat of an unknown before Song made some inquiries and learned she was Arthashastra Society. Historian track, according to Zenzele. Able to fight but not a fighter and not contracted. Marginal threat.
+
+Neither Ramona nor Tengfei would be so easy to handle, both being trained and physically fit.
+
+The Thirteenth would be at risk of losing that skirmish of four against three, and even should they win the odds that someone would get killed were unacceptably high. If helped was sought, however? Song figured that Angharad alone would be capable of sweeping through the whole Forty-Ninth if Muchen was incapacitated. If Song reached out to the Thirty-First at large, if striking from ambush the outcome was already decided.
+
+The complication preventing that was, ironically enough, their worst fighter: Huang Pan.
+
+As a means of tracking, Song would consider her fellow Tianxi’s contract average. The Six-Sided Plum Blossom had granted Huang the ability to divine whether a single specific entity – object, living or divine – was in one of the cardinal directions or not. The range to the ability was nine li, the old Cathayan measure translating to short of three miles. It must be a truly ancient deity, for it not to use the imperial scales. Or at least one whose worship had hit its peak before the Second Empire.
+
+Regardless of that interesting detail, it must be said that to hunt a fugitive Huang Pan’s contract was helpful but in practice still inferior to a well-trained hound. As a scouting tool, however? Now it became a headache. To meet the Forty-Ninth Song had naturally been forced to set a meeting place, which meant that after they approached Huang Pan could be asked to use his contract on it.
+
+He could then confirm whether any member of her cabal was in that location, which was Tristan had to be there. None of it would have been possible without his presence, and thus assent.
+
+Now, assuming Captain Ramona was not fool – and Song did not believe her to be one – she would also have Huang check for potential threats the Thirteenth was known to have some ties to. Like, say, Angharad Tredegar or Ferranda Villazur. Maybe even Tupoc, as he’d stepped into a confrontation between their cabals once. They would be immediately caught out and the Forty-Ninth would simply leave, the entire plan falling apart at the start.
+
+That meant the only two people who could be there were Song and Tristan, the latter tied up as prisoner. As trust between herself and the Forty-Ninth was understandably low, Song had demanded that only two of them come take the merchandise as any more than that would make it trivially easy to double-cross her at the last moment and simple take Tristan. It wasn’t as if Captain Ramona would actually pay her so much as a copper if she could avoid it.
+
+Of course, Muchen He backed by either Ramona or Tengfei could still likely beat her in a fight if they got close enough. But Song had known neither of the latter would come.
+
+Across the open field, Song glimpsed Muchen He approaching with a hooded figure slight enough it should be Fara and smiled a hard smile.
+
+As she’d expected. If Tengfei came with Muchen, Ramona would fear they’d go around her and sell Tristan themselves to get Tengfei Pan his captain’s seat back. Only if Ramona came with the Skiritai instead, she was risking Tengfei getting the support from the other two to double-cross her from the back instead. The Lierganen captain coming to Song had made one thing clear: her hold on her cabal was weak, and if she did not bring home a victory Tenfgei would supplant her again.
+
+It was somewhat heartening for Song to realize her brigade was not the only one drowning in internal strife.
+
+Song did not allow her musket’s muzzle to peek out over the edge as she gauged the winds, saw the curls of force in the air she would need to work with to shoot Muchen He in the head. Her finger never touched the trigger, but it was a calming thing to know she could snatch his life right out of him should she wish him. Only when they were less than a hundred feet away did she call out.
+
+“Hands out in the open,” Song said. “No sudden movements.”
+
+“We come in peace, Captain Song,” the hooded figure called back.
+
+The voice confirmed her to be Fara. Good, Song could handle her if that came down to blades.
+
+“I’m sure you do,” she said. “Do it anyway.”
+
+Muchen, she saw in the dark, looked amused and somewhat approving. When they came close enough not to need to raise their voices, he was the one who asked how they would do the trade.
+
+“I have him in here,” Song said. “Fara will come up to help me bring him out.”
+
+“Ramona insisted on him being tested,” Muchen replied.
+
+“Tested for what?”
+
+“Being awake, and this being a trap,” the other Tianxi said. “Simple needle test, nothing inhuman.”
+
+Song made a show of considering it, even though she had already suspected they would want something of the sort and prepared. There was a reason Tristan was drugged.
+
+“Fine,” she conceded, “but there’s a change of plans.”
+
+“A third is all you’ll get,” Fara snorted. “The captain was clear on that.”
+
+“And a third is what I intend to get,” Song sharply replied. “I will be coming with you down to the port, to verify I am truly receiving such a sum.”
+
+“That was not the deal,” Muchen said.
+
+“It is the one on offer,” Song coldly replied. “Take or leave it.”
+
+They hemmed and hawed, tried to argue, but deep down all knew the Forty-Nine would fold. They were in too deep and her demand was not unreasonable.
+
+Ten minutes later the three of them – carrying a fourth – were on their way south. When they joined the rest of the brigade, she was greeted by Tengfei Pan leveling a pistol at her head.
+
+“Lovely,” he said. “A third of the bounty just handed itself back to us.”
+
+What a waste of a handsome face, she thought. She flicked a glance at Ramona, whose sharp scarred face was unreadable.
+
+“My condolences,” she said, at least halfway meaning it.
+
+Tengfei snarled, but his arm was pulled down by Muchen.
+
+“Think,” the other man flatly said. “She has been methodically cautious so far, do you truly think she came to us without contingencies?”
+
+Song deliberately ignored Tengfei, knowing it would anger him more than anything she might say. Irrelevance was the pond he saw himself drowning in.
+
+“I have come to ensure my share will be correctly split,” she told Ramona. “Shall we get on with it, or do we first need to indulge another tantrum?”
+
+“I don’t know,” Captain Ramona mused, tapping her chin. “Teng, you got another one in you?”
+
+He did not.
+
+—
+
+Trading in flesh, Song learned, was brisk business.
+
+They hid in a gutter warehouse by the docks, Tristan unceremoniously stashed behind a pile of rubble. Tengfei Pan was sent out to the Palmyran, slipping through a crumbling part of the wall and returning a quarter hour later with the caravel’s captain. The tall Someshwari woman was well into her fifties but she still had smooth skin a girlish air about her, helped along by her golden nose ring and long braid. She did not introduce herself, but then she did not need to. Chameli Kalra had a contract with the Sixfold Matrimonial Snake, so her name hung in golden letters above her head.
+
+To constrict others with a touch was a fearsome power, Song mused, but Captain Chameli’s price was an unpleasant one: a trickle of venom, fed directly into her belly. Even recurrence immunity would only help her so much with that.
+
+“This the boy, then?” Captain Chameli flatly asked.
+
+“That he is,” Ramona replied. “And drugged too. Song?”
+
+“He drank a full dose of mafeisan,” she lied. “He should be out for at least another hour.”
+
+Tristan should, in truth, be awake by now. The poppy milk should have worn off on the way, according to the dosage he had himself measured.
+
+“That makes things simpler,” the captain approvingly said. “We need to be careful: some galleon docked an hour ago and spat out a hundred sailors, it shook the harbor guards awake.”
+
+“We need to move him tonight,” Ramona said. “When goes missing people will look.”
+
+Eyes flicked to Song, who shrugged.
+
+“I have the cabalists in hand, but our patron is a bloodhound,” she said. “He’ll come sniffing around.”
+
+Captain Chameli grunted.
+
+“I never said we wouldn’t do it tonight,” she replied. “Only that I’ll need one of my boys to bring a barrel first. We’ll make it look like he’s water supplies.”
+
+“Handling that part is on you,” Ramona said. “We’ve fulfilled our end of the bargain.”
+
+She raised her hand, rubbing thumb and forefinger. The Someshwari scoffed.
+
+“You get paid when he’s on his way, not a moment before,” she said. “Wait here.”
+
+They waited in strained silence as the Someshwari strode away, disappearing into the dark. Even had talking so close to the docks not been a risk, Song suspected they would have stayed silent. She could feel the tension in the air, the coil tightening. To the Forty-Ninth, this was the end of a long and rocky journey.
+
+Which was true enough.
+
+Captain Chameli was back, quicker than last time, with a satchel bag a thick-bearded Aztlan man whose arms were like steel bands. He was carrying a wooden barrel, which he set down without even a grunt.
+
+“Where’s the meat?” he asked.
+
+Tristan was pointed out to him, and it was distressing how easily the sailor pulled him up and stuffed the barrel with his body. The Someshwari captain provided a lid with two breathing holes on it, which the sailor stuck in with a single knock. He then hoisted up the barrel experimentally, for the first time showing some strain, and put it down.
+
+“I can,” he told his captain. “Just not at a run.”
+
+“It’ll do,” Captain Chameli grunted. “Get him going.”
+
+That had the Forty-Ninth ruffled, several reaching towards weapons, until the older woman rolled her eyes at them. She tossed the satchel bag at Ramona’s feet.
+
+“The coin is in there,” she said. “I’ll stay until you are finished counting.”
+
+The Lierganen student knelt and popped open the buckles, everyone – even Song – leaning in to look at the inside of the leather bag. What awaited was stacked rolls of the largest gold coins had ever seen, which Ramona began removing. She reached out and was handed one by Huang, who then flinched when Tengfei glared at him. Ignoring the byplay, Song tested the weight and studied the coins. Ten a roll, larger than even the largest coins from the Imperial Someshwar.
+
+They were stamped with the image of a thicket of olive trees on one side and a griffin rearing up on the other, betraying the Sacromontan origins. These were, Song realized with a start, selvas. Tribute coins, they were called, as they were minted to be worth five golden ramas coins and so useless for day-to-day use. Of the Sacromonte currency they were the rarest coins, as despite the name tributes paid to the city were usually in ingots instead of actual coinage.
+
+There were ten rolls inside, which meant the Forty-Ninth had just been handed a sum of five hundred ramas. That was the yearly income of a wealthy trader, she thought, or an aristocrat with a respectable estate. It was, she calculated a heartbeat later, more than half over what a brigade of four would receive over an entire year at Scholomance. Gods, no wonder they had been willing to take so many risks. Even some of the princelings would think twice for such a sum.
+
+There was a thump as a roll was thrown at her feet, then a second.
+
+“There,” Ramona said. “As agreed, a third.”
+
+It was not, Song almost said. Counting the roll already in her hand, three coins should be removed from another roll then two silvers provided from elsewhere. Approximately. On the other hand, by the cold looks she was receiving from the cabalists of the Forty-Ninth she suspected pushing her luck would end badly. Instead she tucked away the roll she held in her belt bag and crouched to add the other two.
+
+It was overfull, part of a roll peeking out, which felt almost obscene.
+
+“All finished?” Captain Chameli drily asked.
+
+“I am,” Song said. “Ramona?”
+
+“All paid up,” the Lierganen replied. “A pleasure doing business with you, captain.”
+
+“Sure,” the Someshwari snorted. “If we meet again, I won’t know you.”
+
+Without so much as a nod to any of them, Chameli Kalra turn to show them a clean pair of heels and walked away. They watched her disappear into the shadows of the street.
+
+“Well,” Ramona mused, “they can’t all be charmers.”
+
+A snort from Fara.
+
+“Let’s head back,” Muchen grunted. “Staying here is a risk.”
+
+“Agreed,” Song said, putting on feeling.
+
+She took the lead, taking them towards Coatl Street – to the right of the cut through the Triangle they’d taken to get to the docks, but similar in length. None objected, though the pace she took was brisk enough she had to slow for a panting Huang. Bringing irritation to her fore, she let them pass before her save for Captain Ramona who stayed at her side. They still reached the place in time.
+
+Song’s eyes lingered on mottled red shutters that looked only a stiff breeze away from falling off their hinges. The corner of Coatl Street and Lippy Lane, the door by the stooped red shutters. This was it.
+
+“Well,” Ramona cheerfully said, “that was a productive night, wasn’t it?”
+
+A prelude to their parting ways.
+
+“It’s not over yet,” Song Ren replied.
+
+In a single, smooth gesture she drew her pistol and shot Muchen He in the back of the knee. Skiritai were Skiritai, so he caught the movement – and though he could not move quickly enough, a porcelain arm sprouted to covered his knee. The salt munitions tore through it like it was wet paper, blood and bone shards splattering the ground.
+
+There was an utterly still moment, as if no one else could quite believe what she had just done.
+
+“What the f-” Ramona began, but then the door flew open and chaos reigned.
+
+A bolt of darkness struck Huang Pan in the side, his sleeve catching with black and oily flames, while Tupoc leaped out through the doorway with a loud whoop – his segmented spear glinting in the light. Song tossed away her pistol reached for her blade while Captain Ramona drew hers, Tengfei Pan letting out a surprised yelp when someone threw what sounded like a rock at his head.
+
+Fara took a skillfully thrown hatchet in the leg, Maryam stepping out of the same alley as Tupoc’s signifier.
+
+“Ren,” Ramona snarled. “You cursed-
+
+She moved as she spoke, swinging wildly, and Song’s lip curled with contempt. Losing your head was no way to keep it. A step back, ceding the ground, and Ramona swung again – Song caught her wrist with her free hand, tugging her already overextended form forward. She smashed her guard into the other woman’s nose, shattering something and cutting into the cheeks.
+
+Ramona stumbled back, shouting, and Song kicked her in the stomach. That tripped her, and as she fell Song calmly approached as she kept an eye on the rest of the skirmish. Tengfei had been beaten by someone, likely Tupoc, but the Izcalli was now putting his spear at the wounded Muchen’s throat.  Maryam had needed help from Expendable to take down Fara, but they had that handled and Huang Pan was kneeling with his hands behind his head.
+
+No longer on fire, at least.
+
+“It’s finished,” Song said, kicking the sword out of Ramona’s hand.
+
+The captain tried to reach for her pistol, but this time Song’s boot hammered into her chin. She swallowed a scream and did not try again. Maryam, hood down and bloody hatchet in hand came to join her.
+
+“This the captain, then?” she asked.
+
+Song was too slow to answer, another stepping into her shoes as the Fourth moved to secure the wounded of the Forty-Ninth.
+
+“The very one,” Tupoc drawled. “She’s having a rough night, our friend Captain Ramona.”
+
+Song knelt by her, the Lierganen’s bloodied face thick with hate. She spat.
+
+“You fucked it all up,” Ramona gasped. “It was a perfectly good deal, the rat for the gold, and you just-”
+
+“All are free under Heaven,” Song coldly replied. “We’ve killed kings to teach Vesper that lesson, Ramona. Did you truly think I would abjure it for coin?”
+
+“Ugh, now it smells all sanctimonious in here,” Tupoc drawled, leaning against his spear and fanning his hand before his face. “Have the decency to just torture her instead, would you?”
+
+She ignored him.
+
+“The warehouse with our effects,” Song said. “Where is it?”
+
+“Fuck you,” Ramona rasped. “What are you going to do, hi-”
+
+Before Song could so much as reply, Maryam drew her hatchet at hacked into Ramona’s foot – it sank between two toes and bit down until it hit bone, the Lierganen screaming hoarsely into the night. The Izvorica, cold-eyed, then wrenched it out to the sound of a second scream.
+
+A heartbeat of silence, then a low chuckle from Tupoc.
+
+“That one’s on me,” he confessed. “I didn’t think Khaimov was listening.”
+
+He was again ignored.
+
+“Tristan’s still on the ship,” Maryam evenly said. “I’m not wasting my time being pleasant about this, slaver. If you want to enter Watch custody with limbs still attached, answer the fucking question.”
+
+Ramona, shivering in pain and bleeding, looked up at Maryam Khaimov and saw only ice staring back. She shivered again. Song said nothing when the gaze returned to her, merely cocking an eyebrow.
+
+“Soulless fucking hollow,” she spat, then grit her teeth and turned to Song. “Septim Street, a few minutes east of the tinker workshop. The house with the green roof, the stuff’s in the basement.”
+
+Maryam’s hand rose again.
+
+“It’s all I know,” Ramona snarled.
+
+The Izvorica was eyed the other foot, but Song caught her gaze and shook her head. It was one thing to use violence as part of an interrogation, another to toy with a prisoner. Maryam grunted, then leaned down to wipe her hatchet on Ramona’s clothes. The Lierganen flinched, in no small part because the other woman chose to do it an inch below her neck.
+
+“Once again, the Tianxi ruin everything,” Tupoc complained. “You could have let her strike the other foot, at least, make it match.”
+
+Song would admit, to her mild shame, that on grounds of pure symmetry she considered it for half a moment. Instead she rose to her feet and dusted off her coat.
+
+“There will be garrison officers waiting for us on Regnant Avenue,” she said. “We only need one of them to confess to have a reason to search the caravel.”
+
+With a full company of armed watchmen, which would put every sailor on that cursed boat under arrest when they found a student imprisoned inside. They’d get to cool their heels in a goal for a few days before the Watch had them all shot and the Palmyran was appropriated as criminal property.
+
+“Try the Malani first,” Tupoc said. “She’s already had to pay up with Lady Knit, she’ll do anything to avoid doing it again.”
+
+That was, unpleasantly enough, probably good advice. Song opened her mouth to reply when she was interrupted by a ruckus in the distance – a few streets down, lanterns were being lit at the docks and shouts echoing across the cobblestones.
+
+“Song,” Maryam urgently said, “what’s happening?”
+
+Fuck, Song thought, silver eyes dipping between the islands of lantern light to see what it was that had men shouting.
+
+“The Palmyran is trying to sail away with Tristan on board,” she hissed. “Tupoc, get the prisoners to the Watch and tell them we need to move now.”
+
+The Izcalli raised an eyebrow even as she reached for her musket.
+
+“And what are you going to be doing?” he asked.
+
+“Stopping them,” she said, and broke into a run.
+
+—
+
+Tupoc was not one to listen to sensible orders, so Song was not surprised when he ignored hers and followed her down the street as Maryam trailed behind them. The surprise was that he’d bothered to order Alejandra Torrero to do what Song had asked of him before taking off.
+
+The real insult was that she’d had a head start and he was still pulling ahead of her.
+
+He was the first to run through the covenant pillars, but Song better saw what was happening out on the docks. The Palymran was still at the leftmost dock, but it was leaving. The dockworkers were arguing with a pair of large sailors untying the knots keeping them moored – and there was only one left – but neither were actually trying to stop them. The caravel was allowed to leave whenever it wished, this was all just very irregular.
+
+She was the second past the pillar, but she slowed and Maryam shot past her as she brought up her musket. She’d hoped she would not have to fire it tonight – her arm was still fragile – but there was no time to hesitate. Slowly walking forward, she took aim and pulled the trigger.
+
+Red bloomed on the first sailor’s forehead.
+
+As he dropped the dockworkers threw themselves down and the other sailor panicked, reaching for a cutlass as Song began to reload. Clean, powder, ball, aim. The man was halfway through hacking down the ropes when Song’s shot pulped his throat. She broke into a run after that, hoping to catch up after the others, but horror caught in her throat when she saw Captain Chameli on the caravel deck with a blade out – and cutting the rope on her end.
+
+Even as she ran, the Palmyran began to push off the docks.
+
+“No,” Song shouted.
+
+She was too far, she’d never get there in time, but the others – a glance told her they were short too, Tupoc reaching the very end of the dock as the caravel came clear of it. She saw him hesitate to leap for a moment, then back down. Maryam, who had fallen behind, was bent over and muttering when Song caught up to her.
+
+A Sign hung before her, but by the time Song was close enough to feel its hum in the air it had collapsed.
+
+“Come on,” Maryam whispered. “Come on. Work.”
+
+She drew the Sign again, trails of oily darkness, but it dissipated. The Izvorica yelped, smoke wafting off the tip of her fingers. Maryam’s face was the picture of anguish, eyes rimmed red, but even so she tried again.
+
+“Work, damn you,” she hissed. “I know you can.”
+
+The Sign thickened, buzzing like an angry hive, but Song could already tell it would fail. It felt angry, out of control. Maryam’s mind had clouded. When it shattered, it was into jagged shards that melted a strip of the signifier’s sleeve. The Izvorica swallowed.
+
+“Maryam,” Song said, “you cannot-”
+
+“Work with me,” Maryam croaked out. “Please, just this once. Work with me.”
+
+The plea echoed, rang like a bell into a world suddenly gone quiet.
+
+And this time, when Maryam Khaimov reached for the dark, it came to her like an eager hound.
+
+Fingers traced the Sign in hurried strokes, hers and the other’s both, until the Sign hung in the air like suspended obsidian – large as a torso, rippling like water.
+
+“Come back here,” Maryam snarled, and slammed her fist through the Sign.
+
+Only instead of screams and melted flesh Song saw the Gloam collapse into a spinning sleeve of crawling characters, hovering an inch above Maryam’s sleeve. In the distance, between the stripes of Orrery light, strands of Gloam coalesced into half a dozen torrents of darkness that slammed into the sails of the Palmyran.
+
+They swelled inwards, pushed by the Gloam winds, and the caravel slowed to a crawl before stopping outright. There was shouting, which only grew louder and more panicked when the masts groaned and began to bend backwards under the furious winds – the caravel’s aft smashed into the dock with a thunderous crack.
+
+And then the Gloam was gone, Maryam dropping to her knees and throwing up all over the docks. Song reached out for her, hesitantly, but between heaves the Izvorica slapped away her hand.
+
+“Go,” she forced out. “Ship.”
+
+A whoop ahead: Tupoc had not hesitated at all, it seemed. She could not afford to either.
+
+Behind her the harbor guards were shouting, and she dared hope they would muster to storm the ship. She must buy them time to get there. Leaving Maryam behind, she ran for the edge of the docks. The caravel was not a large or a tall ship, but it was still too high for a mere leap to get her onto the deck. She had to climb the back rigging, hearing on the deck above a pistol being fired and someone screaming in pain.
+
+She climbed over the edge to find a sword being swung at her, tumbling forward as it sliced through the air. She threw herself into the sailor’s leg, tripping them down, and then rolled away just as someone took a potshot from the forward deck. She turned just long enough to rip out her pistol and unload it in the tripped sailor’s belly, rising to her feet as she watched Captain Chameli standing at the wheel with a furious look on her face.
+
+The Someshwari woman was looking at the docks, which were being swept by a tide of armed blackcloaks.
+
+“Lazar,” the captain shouted. “Get the boy. We need a hostage.”
+
+The sailor answering the call was a one-eyed, skinny cabin boy who ran towards what should be the captain’s cabin. Song ran after him, around Tupoc laughing as he swept his spear between two sailors with cutlasses. One of them was now missing most of her teeth. The cabin boy, Lazar, got to the door before she could and wrenched it open-
+
+And got a chair smashed into his face, Tristan grunting with effort.
+
+The cabin boy dropped and the gray-eyed thief blinked in surprise, as if surprised at how well that’d worked. Though he should have been a bound prisoner the whole time and untouched, he had somehow gotten a massive bruise on his cheek and a cut on his scalp. He was also no longer tied up, so Song had some guesses as to how that had happened.
+
+“Song,” he said. “What in the Manes is-”
+
+Song saw the light of the flint spark just in time, grabbing him by the neck and throwing them both down. The bullet tore into her coat and she felt a flash of heat, but when she rolled over she barely felt any blood. A graze, not a hit.
+
+“Shit,” Tristan said, helping her up. “Come on, we need to jump into the-”
+
+Vision swimming, she yanked him out of the way of the swing. The large sailor from earlier, the one who’d carried the barrel. He looked furious and- once, twice, thrice. A volley was unloaded into the man’s back as blackcloaks swept the deck screaming for everyone to kneel. Song did, punch drunk but hardly deaf, and a heartbeat later Tristan followed suit.
+
+“Fuck me,” the thief murmured. “We did it.”
+
+“We did,” Song said, if he caught the surprise in her voice he was kind enough to say.
+
+—
+
+In the end, only two sailors from the Palmyran survived: the cabin boy with the missing eye and the woman whose teeth Tupoc had shattered.
+
+Both were clapped in irons after being dragged off the ship, bruised and bloody, and the rooks keeping guard were looking at them as if they were vermin. Song helped Tristan off the caravel, the thief limping – though he’d deemed his leg not broken – and leaning against her. He was noticeably uncomfortable at the touch, so she set him down by Maryam’s side. The blue-eyed woman was no longer emptying her stomach, but there were traced of bile on her chin and she still looked nauseous.
+
+The docks were getting crowded, she saw, as another few prisoners were dragged in by hard-faced blackcloaks. The Forty-Ninth were made to kneel under the pillared temple that served as the gate to the docks, watchmen with muskets in hand looking over them.
+
+Tupoc’s second had duly notified the garrison officers that Wen had asked to be waiting, which meant Song was able to secure the withdrawal of the Thirteenth and the Fourth with but a conversation. She was too tired to deal with Tupoc quite yet, even though manners demanded she should make an attempt, so she doubled back.
+
+Song still had one conversation left before the curtain call. Maryam was passed out and snoring when she returned, the gray-eyed thief watching over her like a hawk.
+
+“It might be best if she slept at the Meadow tonight,” Song whispered. “I have never seen her wield Gloam on such a scale before.”
+
+Tristan looked down at the Izvorica fondly.
+
+“Leave her for a bit more,” he said, then groaned and stretched out. “We are due a talk, anyhow.”
+
+Song inclined her head. They did not go far, only to one of the many stone benches near the dock walls. He sat first and she kept room between them when following. For a moment they sat there in the dim lights of the Orrery, watching the stripes of pale carving across the distant dark.
+
+“I owe you,” Tristan said, sudden and blunt. “What do you want for it?”
+
+She did not answer immediately. The urge was there to ask him to stay with the Thirteenth, but she knew better. He would accept, she thought. The Sacromontan was, in his own way, ruthlessly scrupulous about debts. He would do it, but then Tristan would see being part of the brigade as chains and her as his debtor.
+
+And he was not the kind of man to ever trust a debtor.
+
+“I would like,” Song finally said, “for the two of us to have an honest conversation.”
+
+He studied her for a moment.
+
+“Are you sure it can’t be anything else?” he asked, tone almost whining.
+
+“Certain,” Song drily replied.
+
+His goddess leaned over his head, saying something Song could not hear, and she could see his cheek muscles tremble the slightest bit as he forced himself not to react.
+
+“Proceed,” he said. “I think I have a concussion, anyway, which is about two thirds of honesty.”
+
+She hesitated, but not even a heartbeat. Breath before the plunge.
+
+“I can see your goddess,” Song said. “And your contract.”
+
+He cocked an eyebrow at her.
+
+“I’m aware.”
+
+The red-dressed goddess leaned in too close and tried murmur something into Song’s ear. The closeness was overly familiar, but the knowledge that she was not truly ‘there’ helped make it somewhat tolerable.
+
+“I cannot hear her, however,” Song noted.
+
+“Lucky you,” Tristan frankly said.
+
+Her lips twitched at the utterly outraged looked on the redclad goddess’ face, and the apparent furious berating that ensued. Not that the levity was destined to stay for long.
+
+“I have never heard of anyone being visited so often by their god without turning into a Saint,” she said. “I have been expecting you to turn into one for months, and…”
+
+She frowned, looking for the right words.
+
+“That you did not turn into one was almost as alarming,” Song admitted. “It meant you were breaking the rules, somehow, and I could not hope to predict the consequences.”
+
+The thief stared at her, grunted.
+
+“It’s been-”
+
+Song raised a hand to interrupt him.
+
+“You don’t need to tell me,” she said. “I do not bring up the matter to seek answers of you. It has been pointed out to me that I have not earned the right to ask them from you.”
+
+He grimaced.
+
+“I can understand the concern,” Tristan said, and it was an olive branch of sorts.
+
+He bit the inside of his cheek.
+
+“It’s been this way for years,” he said. “If I was going to turn into a Saint, I already would have.”
+
+“That is reassuring to hear,” she admitted. “I expect having been exposed her wiles for years will have inured you some.”
+
+He slowly blinked.
+
+“Her what now?”
+
+“Her wiles,” Song repeated, stressing the syllables in Antigua. “Did I mispronounce it?”
+
+“Oh Manes,” Tristan muttered, “you can’t hear her.”
+
+“I cannot,” Song hesitantly confirmed. Again.
+
+The thief met her eyes square on and laid a hand on her shoulder, face seriously.
+
+“Song, Fortuna is terrible,” he said, tone heartfelt. “And I don’t mean it in some eldritch way, I mean that she is bad at existence.”
+
+Song paused. Opened her mouth, then closed it. Swallowed.
+
+“She couldn’t trick a child into doing her bidding even with an entire barrel of candied dates,” Tristan said, taking back his hand. “She has lost arguments to pigeons.”
+
+Pigeons. As in plural?
+
+“So all the talking,” Song trailed off.
+
+“Today she’s mostly been complaining about how Hage banned her from the Chimerical and insisting I should buy Maryam some blue ribbons we saw on Templeward,” he said.
+
+A pause.
+
+“They’re overpriced,” he added. “I’m not paying silver for those.”
+
+Song felt a little faint. The goddess, Fortuna, she was only one of the troubles between them but certainly one of the larger ones. A constant presence she must pretend not to see, a poisonous whispering ghost trying to tip the thief past the line of Sainthood.
+
+To learn she had been rhetorically defeated by at least two pigeons was something a blow to her believed understanding of the situation.
+
+Song passed a hand through her hair, somewhat at loss as to what she should say. Apologize, for having never asked? It seemed meaningless when they both knew he would never have told. She settled on something simpler, if no less true for it.
+
+“My god is also a jackass,” she told him. “I sympathize.”
+
+His face went still, for a moment, and then to her surprise he burst out laughing so loudly it echoed across the water. He swallowed it, held it in, but then their eyes met again and it escaped his belly as Song found herself joining in. By the time she stopped her cheeks ached and her belly hurt. It took a while for the two of them to gain back their breath, the pants their only sound aside from the quiet lick of the sea against the docks.
+
+“All right,” Tristan suddenly said. “Fine.”
+
+Her heart caught.
+
+“Fine?” she asked.
+
+“I make no promises for how long,” the thief said.
+
+“I did not ask for any,” Song serenely replied.
+
+Tristan grunted, sounding displeased.
+
+“I already bought the carrot seeds, it’d be a waste not to use them,” he argued.
+
+“It would be,” she agreed.
+
+He scowled at her.
+
+“The lack of smugness makes it worse,” he complained.
+
+“I have no idea what you’re talking about,” Song Ren lied.
+
+Tonight, she decided, had been a good night.
+
