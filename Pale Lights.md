@@ -41133,3 +41133,755 @@ He scowled at her.
 
 Tonight, she decided, had been a good night.
 
+# Chapter 34
+
+Even with Ferranda’s help it took Angharad an hour and a half to prepare herself for the evening.
+
+Her hair was pulled back into neat braids bound by glass beads, her eyebrows freshly plucked and her eyes painted with black henna. The most care, however, had gone into fashion. Angharad had decided to hew close to Pereduri fashion, in part because she simply could not afford a dress’ worth of inyosi fabric. Malani wax-print, as it was called away from the Isles, was expensive even in the heartlands of Malan: out here the price of even a single bolt was ruinous. Ingwenya cotton would suffice, and in her opinion breathed better anyhow.
+
+Besides, with House Tredegar being struck from the rolls of nobility it was debatable whether Angharad was still allowed to wear wax-print. As she was no longer a subject of the High Queen her sumptuary laws should not, in principle, still apply. And yet. It was Malani fabric, and a daughter of the Isles who would wear it. Part of her hesitated. Some habits, she thought, would be long in the shaking.
+
+Pereduri gowns tended almost universally to the low-waisted and tight, with personal inclination expressed through necklines, sleeves and skirts. Angharad settled on an Izcalli cut, a straight line beneath her collarbone that left her entire neck and much of her shoulders bare. The cut was popular in Malan as well, though not sleeved as she chose: puffed at the shoulder and slimming down to end at the wrist.
+
+It left the first few silver stripes on her arm bare, as much a decoration as the pair of orange Uthukile bead bracelets matched the red and yellow stripes of the dress fabric. A wide cowhide belt circled her waist, fitted with her saber’s sheath. And that made for accessories enough. She had chosen, in deference to her means, not to pay a visit to a jeweler.
+
+For an unmarried noblewoman the traditional skirts would be paneled, with the train just short enough one could easily walk, but Mistress Lerato had instead suggested a loose wrap that would show off a parted red petticoat and elegant soft leather boots. I rarely get to dress a woman with such long legs, the seamstress had said, it would be a waste not to use it.
+
+The effect was just a touch scandalous, the sort of thing Mother had loved wearing, so in a fit of nostalgia Angharad agreed even though the boots were really quite costly – made by another shop on Templeward, recommended by Mistress Lerato. A wardrobe appropriate for formal occasions was always expensive, she reminded herself, but no less necessary for it.
+
+Still, she was glad of the wrap skirt and parted petticoat when she made her way to the guesthouse near the eastern end of Templeward – there would have been no handmaid to pick up a longer trail if it dirtied on the street, and to use duelist’s straps for anything but their stated purpose was quite uncouth.
+
+Having parted ways with Ferranda halfway down the street when her soon-to-be captain ducked into a clockmaker’s shop to browse the trinkets, Angharad was alone when she arrived at the Colored Arches at precisely ten before seven. Shortly before she was expected, though still late. Lord Thando had informed her the gathering would begin before but she was to come later, to allow for any last moment objections to her presence to be raised should there be a need.
+
+If one was raised and upheld it was always possible that she would be dealt the humiliation of being refused at the door, but Angharad doubted that would be the case. Odds were at least one soul within might enjoy insulting her, but most would not and that would carry the day – why force bad blood with all of them where there had been none? Simpler to refuse her the invitation in the first place. Not unaware she was dithering out of nerves, Angharad straightened her back and finished making her way down the street.
+
+The Colored Arches, to her mild surprise, looked more like a tavern than the kind of banquet hall she had been expecting. It was a long, sloping building whose wooden façade had been recently built but was painted a discreet dark green. Its only mark was a hanging sign displaying a hut made of colored streaks of light, a similarly discreet reference to one of the eldest spirits of Malan: the Cloud-Brewer, known to delight in harvests and feasts.
+
+She rapped her knuckles against the painted door only once before it opened.
+
+A man in dark green livery promptly ushered her in with a smile, welcoming her in the crisp Umoya of the Middle Isle’s heartlands. Dark-skinned as only the folk of those Glare-scorched lakelands could be, the servant cut a neat and friendly figure as he guided her through a short antechamber where another servant wiped her boots and she was offered a basin of warm water to wash her hands from the stink of the streets. Her black cloak – she had elected not to further thin her funds by having one made – was skillfully taken off her while the first of the servants led her towards the door.
+
+“Lord Thando Fenya asked for the honor of bringing you in, my lady,” he said. “He should be along momentarily.”
+
+“Thank you,” she said, inclining her head, then cocked an eyebrow. “Yanga or Madevu?”
+
+He looked surprised at the mention of the two principal regions of the heartlands, but pleasantly so.
+
+“Madevu, my lady,” he said. “Near the city of Inende, at the beginning of the cataracts.”
+
+“Oh, further west than I would have guessed,” Angharad told him. “I never had the pleasure of visiting Inende, alas, as the dueling circuit always chose Ukuzi for the contests.”
+
+A shame. Ukuzi was remarkably easy to reach, being at the confluence of several great rivers, and the second largest city of the heartlands was a bustling center of industry. Yet the expanding reach of stone and steel had swallowed much of the surroundings. In contrast, the western reaches of Madevu were still wild and the great waterfalls there were said to be a thing beauty.
+
+“There is no better road than a river,” the man quoted with a chuckle. “Besides, my lady, it rains much the year in Inende. It is from the High Isle’s westerwinds.”
+
+Was it now? Angharad had never heard such a thing before and was rather charmed that Peredur’s occasionally temperamental weather seemed to be passing to its neighbors as well, but before she could ask of these westerwinds the door opened. A servant offered her a smile, brushing back her bound hair, and stepped out of the way so that Lord Thando Fenya could go through.
+
+The man, she would admit, cut a finer figure than she would have expected of a man not blessed with particularly good looks. His long-sleeved doublet and matching puff trunk hose were in colorful inyosi fabric, displaying eye-catching geometric patterns in blue, white and red but over it he had thrown a long, open black jerkin that went down to his thighs. She had not noticed this morning, but the inside of his collar has some subtle blackwork sown to match it.
+
+He had so many gold rings on his fingers and tinkling bangles on his arms he would hardly have been able to wield a sword even if he had one belted at his hip instead of a bejeweled dagger.
+
+“Lady Angharad,” he happily said. “And early, I see!”
+
+“Am I?” she asked. “I can wait, if there is need.”
+
+“I would never dare,” Thando chuckled. “Come, let me show you to the salon.”
+
+She smiled back, turning to nod her thanks at the servant whose name she had never learned – only to find him gone, along with all the others who had lent her a hand. Impressive training. Thando walked her down a short hallway, then through an open door to an almost wistful sight: a richly decorated drawing room filled with nobly born peers of her age. Just like a tournament evening, she thought.
+
+Thando stepped in ahead of her and theatrically swept his arms, claiming attention from all the guests.
+
+“It is my great pleasure,” he announced, “to introduce Lady Angharad Tredegar of Llanw Hall.”
+
+Angharad gave a shallow curtsy – not the lady’s curtsy but the duelist’s, one hand on her saber – and was met with a retort volley of curtsies and bows. A quick look through the room told her that, counting herself and Thando, there were eleven guests in the hall. At once more and fewer than she had been expecting. Only two servants stood within, waiting to the side with alert faces, though one immediately approached her with a tray of crystal glasses.
+
+“A Totochtin red, my lady, if it please you,” the servant offered.
+
+“It does,” Angharad replied, deftly claiming a glass.
+
+Ancestors, it really was like a circuit evening – there too, no one would be caught dead drinking Malani wine. The Isles were known for their beers and liquor, not the fruit of the vine. As her tacit sponsor for the evening, Thando did not throw her to the wolves but instead stay with her to make introductions and ease her into mingling. Pure happenstance, of course, that this came with the side effect of deepening their association in the eyes of the other.
+
+She could not tell if he was still trying to recruit her, but he was going out of his way to make ties – and to make them in the eyes of these guests. You have enemies here, Thando, she thought. Or at least foes. One did not wage a war of maneuver with scarecrows.
+
+As if to test her, or warm her up, they began with one of the easier figures – and one passingly familiar from the general classes.  Lord Kasigo Njezi, a fresh-faced man with a boyish grin, was from the Twenty-Third Brigade. His doublet was ingwenya cotton, like her dress, and subdued in pattern if not in color. His hose was an unremarkable pale cream, drawing the eye instead to his elaborate boots – soft, knee-cavalier boots in calfskin with beadwork rims.
+
+Unlike Thando, he had slender sword at his hip.
+
+“I had hoped to see you on these evenings,” Kasigo said, shaking her hand enthusiastically.
+
+That it had not even occurred to him to offer to kiss it was, Angharad would admit, somewhat charming.
+
+“It is a missed opportunity not to have earlier conversed,” she replied.
+
+Lord Kasigo, she learned, was a Laurel – diplomat track, like Zenzele, who he seemed acquainted with. And not unaware of the feud binding him to Musa Shange, by the look he shot Musa at the mention of Angharad’s friend. The way he changed the subject to the coming Theology report after that, almost hasty, let her place him in the pecking order here: he was at the bottom, relying on being inoffensive to maintain his position at the table.
+
+She steered them out of the conversation not long after, pretending not to notice how Thando’s calculating eyes took her measure all the while. He must have judged her fit for greater challenges, who they ought out afterwards: a pair, of which knew only a man she misliked.  Musa Shange was the first to talk, and she had to admit he looked like a woodprint of a courtier: his doublet thin and with an elongated diamond of an opening to display his muscled chest and stomach, paired with an open jerkin richly lined with fur and tapered hose.
+
+Musa wore no jewelry save for a heavy ivory medallion hanging on a golden chain, inscribed with a prayer to the Sleeping God on one side and what must be the Shange heraldry on the other, but what did that matter when not a single article of clothing he wore would have fetched less than gold?
+
+“Lady Angharad,” he drawled. “We meet again.”
+
+“Lord Musa,” she replied, inclining her head. “Good evening.”
+
+At odds or not, it was only with the man’s assent she had been able to come here tonight. That warranted manners from her, and even some cordiality. The other Skiritai promptly committed the courtly equivalent of stepping on Thando’s foot by introducing his companion before the other man could.
+
+“I present you Lord Zama Luvuno,” Musa provided. “Signifier for the Eighth Brigade.”
+
+Any brigade with a number below ten was not to be trifled with, much less a Navigator who she might have thought a soldier from the contour of his silhouette. Angharad traded a curtsy for a short nod. Lord Zama was not much inclined to conversation, it seemed.
+
+“Lord Zama is royal blood twice removed,” Thando added, not to be cheated of his role entirely.
+
+That would make him two generations of descent from the child of one of the Queen Perpetual’s many consorts – a diluted relation, admittedly, and by the laws of Malan not royalty at all. Her Majesty’s blood, however, carried a certain prestige no matter how rare the drops had grown. The man was handsome enough in his golden doublet that Angharad understood why the High Queen might have wanted one of his kin as consort. Not her sort of dish at all, but it had been well-cooked.
+
+Lord Zama rolled his eyes at the words, but nodded in confirmation. That made twice.
+
+“Apologies,” Angharad began, “but are you perhaps…”
+
+The man nodded again. Mute, then. Unfortunate, as Angharad barely knew anything of sign language – and not of the one in common use, anyhow, but the naval one taught to her Mother. Izcalli finger-talk was considered the Vesper standard, and was significantly more elaborate. No pun intended, although she would take it.
+
+Unfortunate twice over was that Lord Musa evidently did know finger-talk, and signed something at Lord Zama that had the man chuckle. Angharad spent most of the ensuing talk trying to ferret out the nature relationship between the two as Musa translated for the other lord. Not one between the sheets, unless they were skilled at keeping those signs away from prying eyes, but it was friendly enough. Something was itching at her, though, and it took her a moment to realize what.
+
+Musa was treating the other man like an equal, which she’d almost never seen from swordmaster.
+
+Neither is vassal to the other, she decided. She knew little of the Eighth Brigade, but it was well-backed enough that the Ninth’s own connections warranted no precautions from Lord Zama. While chewing on that, she almost missed when the talk turned to the ‘Abbey’, the site of the classes for the Akelarre students. It was Musa translating for Lord Zama that dragged her back into the moment.
+
+“He wonders if you were aware that your fellow cabalist Maryam has not stepped foot in the Abbey proper since the first day,” Musa said.
+
+“She has found other instruction, I hear,” Angharad shrugged. “I am not greatly involved in Maryam Khaimov’s affairs.”
+
+“It would be strange to have a Triglau in one’s cabal,” Thando mused.
+
+“Agreed,” Musa said. “Though I suppose being able to bring a servant even in Scholomance would have its uses.”
+
+Chuckling, even as Angharad frowned.
+
+“She is a student,” she reminded them, though she did not go as far as saying ‘same as us’.
+
+It was too close to a lie for comfort.
+
+“No one says otherwise,” Musa dismissed, “but service is in their blood, Lady Angharad. Left to their devices, they would collapse back into barbarity and destroy all the industry we brought to their lands.”
+
+That might be true, Angharad assessed, but was being spoken with a phrased certainty that was making her rather uneasy – so was the way Lord Zama nodded, as if this were known fact.
+
+“She is Izvorica, not Triglau,” she informed them instead of arguing the point. “A people within the greater whole, I understand, but distinct.”
+
+Lord Zama’s fingers flashed in a quick sequence, Musa snorting at the sight.
+
+“Pereduri indeed,” he translated.
+
+Angharad was beginning to dislike Lord Zama.
+
+Thando, perhaps sensing the rising tensions, eased them out of the conversation and by claiming he was in need of drink. Angharad followed him towards the tray-bearing servant, enjoying the respite.
+
+“As I mentioned this morning,” he murmured, “this hall is heavy with the opinions of the south and the heartlands.”
+
+“You do not share their thoughts, then?” Angharad asked.
+
+“My kin are career watchmen, which makes me abolitionist by default,” Thandi said, though he did not sound all that enthusiastic about it. “But it is, well, did you ever hear about that mess up in Isilide about four years back?”
+
+It took her a second to place the name. A city, well in the north of Malan but short of the Low Isle.
+
+“The riots that had cloth workshops set ablaze,” she recalled. “An accident, I heard.”
+
+Disorder always brought ruin.
+
+“It was no accident,” Thando flatly said. “The lady of Isilide opened new wax print workshops and manned them with slaves. It is a profitable trade good, Angharad, but also profession. Skilled workers with lifelong training and patterns kept within their families. The new workshops paid not a soul inside and so they sold their cloth at half the price.”
+
+Which would have been death on the old workshops. Only nobles were allowed to wear inyosi, so the greater profit in it for merchants was in truth from sales abroad. Even if the new wax print was of lesser quality, traders would likely choose it – the margins would be strikingly better, and it wasn’t as if some Someshwari lordling would be able to tell the difference.
+
+ “So they set the workshops on fire?” she said, appalled.
+
+“And threatened to do the same to any opened in years to come,” Thando said. “They were feted as heroes in the city, so the lady had to back down.”
+
+Angharad felt torn – on one hand, to rise against one’s sworn lady was dishonorable. On the other, there was honor in acting to defend one’s kin and calling. Thando shrugged, taking the glass of red from the tray he had come to fetch.
+
+“I will not speak to the souls of these Izvorica,” the Malani said after a sip, “but slavery is mostly to the benefit of the rich. Besides, it is not good for the health of a realm to have too many slaves.”
+
+Slowly she nodded. That much seemed plain truth: the Izcalli had more slaves than anyone in the world, though they called them serfs, and their nation was constantly wracked with unrest. Besides, Mother had mentioned that the western colonies were all the property of the crown and the greatest izinduna – though lesser lords were beginning to form associations to pool their means in order to sponsor their own.
+
+“What happened to them?” she asked.
+
+“The workers?” Thando blinked. “As I told you, the lady backed down. A few arrests were made for appearances but that was all.”
+
+“The slaves, I mean,” Angharad said.
+
+“Ah,” Thando grimaced. “They were, I hear, inside the workshops when those were set aflame.”
+
+Angharad breathed in, looked away and drank deeply of her wine. One could go for a long time sifting through that for a speck of honor.
+
+“Come,” Thando said, sounding almost sympathetic. “This one should be more to your tastes.”
+
+The Pereduri felt a twinge of resentment at how well he had pegged her when she was introduced to Captain Emeni Maziya of the Twenty-Ninth, a wonderfully tall woman whose green and yellow off-the-shoulders gown bared impressively muscled shoulders and the contours of a generous figure. Malani preference for high-waisted gowns could be forgiven, when serving to prop up such a… cause.
+
+“A pleasure,” Angharad smiled, bending to kiss her hand.
+
+A hand with callouses to match the iwisa at her hip, she noted, a round-headed mace that saw more use in ceremonies than war but would crack a skull nonetheless. And a woman would not, Angharad mused, get hands like these without regularly swinging it around.
+
+“Flatterer,” Lady Emeni laughed. “You see, Fanyana? This is how it’s done.”
+
+Her companion, Fanyana, was a sullen man with a plump face and a tightly buttoned jerkin that was a veritable riot of silver scrollwork and silver buttons. Even the long sword at his hip was silver, be it the sheath or grip. His hair was a neat cloud that Angharad suspected must have taken twice as long to style as her own.
+
+“I am not so free with my lips, Emeni,” he stiffly replied.
+
+The man was taller than her, Angharad realized, but stood so stooped one hardly noticed.
+
+“Lady Angharad,” Thando stepped in, “I give you Lord Fanyana Khosa.”
+
+A pause.
+
+“Yes, from those Khosa.”
+
+Angharad almost goggled at the man. The same House of Khosa who were the once-kings of the March, last of the Malani highborn to kneel when the High Queen unified the Middle Isle? Angharad saw little of those great warrior kings in the scowling man, but she supposed it was not her place to judge. The House of Khosa had been an unbroken line of izinduna since the Union War, and such a thing merited great respect.
+
+To be a lord or lady on the rolls one needed only to be born nobly, but to be induna was something greater – set above by the Queen Perpetual, marked as great. That distinction it was something that could be passed to your children, but not by their own unless they earned the honor anew the same way you had. That is to say by owning land on the Isles, commanding troops and carrying out a deed worth the recognition of the court.
+
+The Khosa had achieved this without fail since the Century of Loss, Angharad could believe in that even if the Khosa in question did not so far impress.
+
+Alas, as they chatted on the most neutral matter Thando had been able to offer up – whether or not the Uthukile winter storms were the single worst on Vesper – Angharad was grieved to deduce that the bountiful Lady Emeni was likely involved with Lord Fanyana. While she would never complain at such a woman leaning forward so frequently, it was not for her eyes but the red-eared Khosa’s that the charms were being displayed.
+
+Lady Emeni also seemed acquainted with Ferranda, asking of her health, though Lord Fanyana was visibly indifferent to the matter. He thinks it beneath him, Angharad decided. He might not even be wrong, given his birth. More interesting was when the charming captain mentioned her recent tea with Captain Nenetl of the Third, a hint as to where she stood. A foe to Musa Shange, almost certainly, given the infamous enmity between Nenetl Chapul and Musa’s own captain.
+
+If Angharad was to look for allies here, Emeni Maziya was a good start. That and she must be careful not to make too much of a mess pressing her intentions, else Lord Fanyana was likely to oppose her on the simple grounds of misliking crassness.
+
+Still, Lady Emeni’s continued advances were so cheerful a seduction that the Pereduri left their company rather cheered. Lord Fanyana was a gloom cloud, but not entirely without humor – his quip about the great curse of the Towers Coast being called the Imperial Someshwar had been quite droll.
+
+“Ah, the last four are together,” Thando mused. “Into the breach, Angharad.”
+
+He hesitated.
+
+“Do not take the twins personally.”
+
+As forecast, the last four guests were standing by an elegant Tianxi landscape while sipping at their drinks. Three of them women, the sole man introducing himself so happily and so eagerly that Thando did not even have the time to preempt him.
+
+“Awonke Bokang, Third Brigade,” he said, shaking her hand. “Capital to meet you.”
+
+His doublet was positively dripping with colored beads in the Uthukile style and he wielded a Low Isle accent thick enough it would not flinch under bombardment. He was Umuthi society, she soon learned, and most interested in the saber her uncle had gifted her. So was the second of the lot to be introduced, Lady Lindiwe Sarru.
+
+That one Angharad had already known the surname of, for she was Skiritai.
+
+“Impressive work with the chimera yesterday,” Angharad told her, trading duelist’s curtsies. “It was skillful strategy how your crew trapped it into the house.”
+
+“And you with that satyrian,” Lady Lindiwe replied. “It was rather satisfying to see one handily dispatched after the last chewed up most of that crew on our first day.”
+
+“Salvador’s contract allows us to take risks most cannot,” Angharad demurred.
+
+She took a close look at the woman for the first time, noting that for one who spoke Umoya like a southerner it was unusual for her to be bearing a saber a hand’s span longer than Angharad’s own – and even though Lindiwe Sarru was shorter than her! Her dress was classic Malani court attire, high-waisted yellow inyosi fabric with dark brown double lines adorned by matching rings. The high collar and layered sleeves paired with a long train, almost trailing behind, had been the fashion in the capital last she heard.
+
+Not so the two green skirt ribbons fluttering on her side, which no matter how dainty could only be duelists’ straps – meant to hike up the skirt and tie it back to the belt to free the legs should there be a need for a duel.
+
+“A surfeit of humility,” Lady Lindiwe frankly said. “Still, I am glad to finally have another Skiritai among us. Next time I ask have these little evenings moved on the evening of the week I did not spend the afternoon in a fighting pit, perhaps I will get fewer comments.”
+
+Ah. Angharad had wondered why the event was moved by a day, though for the same reason freshly outlined she had not been inclined to complain.
+
+“I would not count on it.”
+
+She turned to the speaker. The twins, Thando had called them, and they were very much that. More to Angharad’s delight, the pair were slender beauties with sultry dark eyes wearing silver bands with striped veils going down their backs.
+
+At first glance they seemed to be wearing the same striped black and white ingwenya dress, but it was an illusion – the positions of the black and white were reversed, on both the veil and their elegant paneled dresses. Their wear was different from her own Izcalli cut not due to the cloth but by virtue of having silver netting over where Angharad’s shoulders were bare, and the pearl necklaces they wore: one broad, halfway down the shoulder, and the other at the base of the beck.
+
+As with everything else, they contrasted shades with each having one necklace of black pearls and the other in pale.
+
+“If I might introduce the ladies Branwen and Morcan of House Emain,” Thando said. “They may even, at some point this evening, deign to reveal which is which.”
+
+“I would not count on that either,” the rightmost twin noted.
+
+Even if she had never heard their names, that faint undertone to the Umoya would have told Angharad they were Pereduri as surely as the low waist of their dresses. They both cocked eyebrows at her and offered their hand to be kissed, which presented Angharad with the delightful dilemma of which knuckle to grace first. She chose the first to address her, to an inscrutable expression from both beauties.
+
+The leftmost twin then addressed her in Gwynt, which Angharad grasped parts of. Something about ‘gray’, ‘region’, and a term meaning ‘sea-and-stone’ that was an old-fashioned byword for Peredur itself. The lady spoke quickly and in an antiquated manner, however, so Angharad was soon lost.
+
+“I did not understand you,” Angharad replied in the same tongue.
+
+The twins shared a look, one of them sighing.
+
+“Evidently,” Lady Emain replied, in Umoya.
+
+“It was a pleasure, Lady Maraire,” the other Lady Emain added.
+
+The use of House Tredegar’s name on the Malani rolls of nobility was a clear dismissal, which Angharad would admit stung a bit. She had hardly met any others from home since leaving it, to have such a distance put there from the start was something of a blow.
+
+As did the fact that she had come across beautiful Pereduri twins only for them to be… unnecessarily scathing, to put it gently. Between Emeni being taken with the Khosa earlier and now this, the dinner was looking to be slim pickings. It was a little unfair of the world to make it so. Neither Lord Bokan nor Lady Lindiwe seemed all that surprised by the way the ladies Emain had acted, or the way they then walked away after the barest sketch of a curtsy.
+
+“I think Morcan is the one with the small black pearls,” Lord Awonke noted as they watched the pair retreat. “She glares like I am insect, not a rat.”
+
+It was an effort for her lips not to twitch.
+
+“She has to be Branwen,” Lady Sarru contradicted in a murmur. “She only implied that my entire bloodline are fresh-faced upstarts underserving of nobility the once, which would make her the friendly twin.”
+
+“Is House Emain so ancient?” Angharad asked. “I would not call myself unlearned in the matter of the peerdom but I am not familiar with the name.”
+
+Admittedly it sounded like a name from southwestern Peredur, which she was less learn in, but if they were a great house she was certain she would know of them.
+
+“The sisters are descended from two war captains that came to Peredur during the First Landing,” Thando provided. “Or so is claimed.”
+
+That was a hallowed lineage, Angharad would concede. Most of the first ships to land to make shore on the duchy’s stony beaches had been slaughtered by the old lords of the land, save for a few distinguished captains who raised driftwood halls after either wedding or vanquishing the locals. Often a little of both. In a sense those captains had been the eldest nobles of Peredur, though few of these ancient houses were now prominent.
+
+Given that Peredur was said to have been the first land reached by the ships of Morn, which kept sailing to the Middle and Low Isle after a grisly blooding, it was an old argument that their bloodlines could be considered the first nobles not only of Peredur but of all Malan. And thus the noblest of all, by some interpretations. Mostly from those who would benefit from such an honor.
+
+“If they had anything to boast of but their blood, they would,” Lady Lindiwe drily said. “I would not be surprised to hear House Emain rules naught but a manor and a stony beach.”
+
+Angharad slid her a look. Some might describe the lands of House Tredegar in such a manner, though of course there was more to them than that. She was debating what to say when a bell was gently rung, drawing the attention of the guests to the same smiling man who had greeted her at the door.
+
+“Dinner is ready,” he announced. “If you would follow?”
+
+Handed the opportunity to let the matter lie, Angharad took it.
+
+—
+
+A single, long table was to host the veritable banquet they were served.
+
+As the guest of highest birth, Lord Fanyana Khosa sat at the head of the table and the rest of them settled five on each side. Angharad found herself between Thando and Lord Zama, which at least simplified the matter of conversation. On the other side the closest were Lord Kasigo and Lady Emeni, both of which were glad sights. Well, for the pleasure of the eye more one than the other but conversationally speaking the balance was closer.
+
+Malani feasts were long, drawn-out affairs and this looked to be no exception. The first service was a traditional chicken and vegetable stew, exquisitely spiced, and in its wake maize beer was brought out. Angharad had finished her wine, so she accepted a cup. With the beer now on the table, conversation began in earnest. News from abroad, at first, as was custom.
+
+“It may be war is brewing in the Someshwar,” Lord Fanyana shared, living up to his seat. “The Ramayans are squabbling with the Upani over their eastern enclaves.”
+
+That was met with some cheer, as war in the Imperial Someshwar tended to be good for business. With the roads made unsafe by roving armies, sea trade always picked up. That and should the war last too long Sunflower Lords were like as not to get involved, which would then see steel and powder rise sharply in value.
+
+By the time fresh steamed bread was served along with curry, the discussion had moved instead to Thando’s intriguing mention of a flurry of diplomatic delegations between the Ten Republics.
+
+“It is an open secret that the Sanxing were busy courting the central republics to support their colony plans when the Dimming happened,” Lady Emeni opined. “Like as not, now that the situation in Jigong has hit the bottom of the barrel they are taking the pulse of the current sentiment.”
+
+More than a few glances slid Angharad’s way at the mention of Jigong, which was understandable. She was still nominally under the command of a Ren, something which everyone present seemed to understand the meaning of. It might not have been so at the beginning of the year, the Pereduri supposed, but Professor Yun Kang had ensured otherwise.
+
+“It is said that Song Ren of the Thirteenth is a direct relation of the man behind the Dimming,” Musa lightly said.
+
+Angharad sipped at the beer. Only to be expected that Musa would be the one to bring her into this, so she had been keeping one eye on the rest of the table. One reaction stood out: Lady Lindiwe Sarru rolling her eyes. No friend of Musa’s, then. She’d not had the opportunity to learn what brigade the other woman belonged to yet, but it was now her intention to.
+
+“Chaoxiang Ren was her grandfather,” Angharad replied. “Though she was born years after the event in question, of course. Her personal honor is unstained.”
+
+Murmurs of agreement all around, but the general sentiment was plain: bad goods, broken goods. No fault of hers, but best kept at arm’s length. She pushed down the urge to argue. Angharad’s  disinclination to share more on the matter saw the subject move on, towards talk of unrest in the Kingdom of Sordan over terms of peace. The Treaty of Concordia had been signed eighteen years ago, and seen Sordan become a tributary of Izcalli while the port of Concordia was ceded to Malan. Some Sordans were said to be agitating for the trade port’s return to the fold.
+
+“We would not need to hold it at all, had they not bent over the for izzies during the Sordan War,” Lord Awonke snorted. “Without a royal fleet base in the Trebian, Izcalli is sure to try to close the Auric Strait when they next have themselves a war.”
+
+Angharad had never been all that interest in matters of greater policy, but it was common knowledge that one of the main goals of the Queen Perpetual over the last two centuries had been ensuring that the Auric Strait, connecting the Straying Sea to the Trebian, could never be closed to Malani ships by the Kingdom of Izcalli. Or anyone else, for that matter.
+
+“Everyone shafted Sordan during the peace of Concordia,” Lord Kasigo opined. “Malan, Izcalli, even the Watch when they brokered the whole affair. They have reason to be angry, not that it will lead to anything but the royal fleet anchoring a squadron in bombardment range of their capital.”
+
+Lord Zama signed, Musa leaning forward to read his fingers before speaking.
+
+“Or the Grasshopper King sending Doghead Coyal to scare them back into submission,” Musa conveyed.
+
+Some snorts, but Angharad raised an eyebrow.
+
+“I am unfamiliar with the name,” she said.
+
+“One of the leading generals in Izcalli, rumored to be the throne’s favorite,” Lord Fanyana informed her, for once looking engaged. “He led the Izcalli forces in the Sordan War and by all appearances he is one of the finest military minds of our age – at the Battle of Narba he defeated three armies in a day.”
+
+“And he is said not to be Izcalli by birth, only Aztlan,” Lady Emeni added. “Scandalous, yes?”
+
+It was, given that the Atzlan realms around Izcalli were more likely to yield serfs than high-ranking generals when the Sunflower Lords got their say. The traditional round of sport was had at the expense of the Izcalli inability to build so much as a barn without having a round of civil war and emptying a Someshwari village. When the roast mutton, pumpkins and carrots were served – cattle being on the plate signaled this was the main service – conversation turned to the latest about everyone’s associations.
+
+In other words, gossip.
+
+“I hear that fallen noble from the Nineteenth, Barboza, got into a fistfight with a cabalist from the Twelfth,” Thando shared. “There was shouting about a bathtub.”
+
+“Lierganen nobility,” one of the Emain twins noted. “Almost a lie.”
+
+There was some laughter at that, and Angharad near smiled. The ladies Emain, while openly indifferent to the talk of politics, seemed much more interested in this sort of talk. Lord Zama, noticing her cup was empty, silently offered to fill it with maize beer again. It would have been rude to refuse, given his higher rank, so Angharad nodded. It was only her second cup, she still had room.
+
+The Pereduri ladies then traded a few sentences in Gwynt between themselves, which had Thando leaning towards her.
+
+“How well do you understand that?” he asked in a murmur.
+
+“Not well,” she admitted. “The only word I caught was ‘mouse’, though it could also have been ‘thistle’.”
+
+“Unfortunate,” he said. “I had hoped someone would finally understand their asides.”
+
+Angharad hummed.
+
+“A curiosity, if you would,” she said.
+
+He cocked an eyebrow.
+
+“Her brigade?” she asked, discreetly gesturing towards Lady Lindiwe.
+
+His smile was knowing.
+
+“Tenth Brigade,” he said. “Closely tied to the First.”
+
+And the First, from what Angharad recalled, was foe to both the Ninth and the Third. Yet Lady Lindiwe had been quite cordial with Lord Awonke, who was actually of the Third, and that might mean the enmity there ran very shallow. So it might be possible to muster both of them for the same cause, Angharad thought. What she needed to find out was how likely that pair was to support Zenzele being invited purely to pull at Musa’s ear.
+
+She drifted back into the conversation after nodding Thando her thanks, finding out that talk had turned to how that ‘Tupoc fellow from the Fourth’ had managed to get the captains of the Thirty-Sixth and Thirty-Eighth so frothingly angry that the latter had drawn a pistol on him right there in the Galleries. That prompted Angharad to share a few choice stories from the Dominion. Half the table shook with laughter when told them about his almost ending up in a cage, and booed how he called himself a defender of the weak when stepping in the way of an honor duel.
+
+Sleeping God, the man had only been on the island a few weeks longer than her. How was he already this disliked?
+
+By the time of the next service – dumplings and sour milk – she felt like she had a handle on the currents of the table. She sipped at her cup of beer, filled anew by Lord Zama even though she had barely touched it, and considered the levers she might pull at. The following service should be dessert, followed by a second round of mingling over drinks, which would let her try her hand at getting Zenzele his invitation. The only way for it was to gather enough supporters that Musa refusing would make him look worse than accepting, and the count for that was… troublesome.
+
+The Emain twins were likely to sit it out, and Lord Zama unlikely to slight the man he was friendliest with. Lindiwe, Awonke and Emeni were a solid foundation if she could sway them. Thando would likely help, for a price, and Lord Kasigo would side with the victors. That meant the man she needed on her side, the hinge of it all, was Fanyana Khosa. That would be tricky to achieve, but Angharad found herself hiding a smile as she sipped at her beer.
+
+It felt exciting, to be back here in this room. Doing what she had been raised to do, with people she understood. Another breath of fresh air.
+
+Dessert was traditional, sweet corn pudding, and when Lord Zama again filled her cup with beer Angharad realized she had made what her father called the beginner’s mistake: being so taken with her own schemes she had failed to consider there might be others afoot. Maize beer was not a strong drink, but the kind served at feasts was stronger than the usual kind. She had not had enough to make her drunk, but enough to loosen her limbs some. And if she drained that cup, then the refreshments later? Then she would be.
+
+So now she must consider another question: why was Lord Zama trying to get her drunk?
+
+The easy guess was that Musa might try his hand at another challenge tonight and had decided to get the odds on his side, but that did not seem much like the man. While not exactly without wiles, Angharad thought Musa Shange would simply be too proud to claim a victory in this manner. There was something more to it. What did Musa want? With her, likely little. But his captain had charged him with courting Angharad for the Ninth.
+
+That was the thread Angharad needed to follow to unwind this to the source.
+
+Horse trading of gossip continued over the pudding, Angharad not touching her beer and digging in s quickly as was polite to fill her belly further. A shame, as she rather enjoyed the delicacy and would have preferred to savor it. What is the angle at work, she wondered, and how can I use it for my own purposes? What had her at a loss was that Musa hardly even glanced at her, more interested in table talk about the Forty-Fourth having run into blem and ran with the legs tucked between their legs, and did not seem to be moving to muster against her.
+
+He was not pulling strings, or maneuvering. Was all this simply Lord Zama having a surfeit of hospitality? She had her answer when the last of the plates were cleared and the servants brought in small cups of distilled palm wine. A liquor on the stronger side. And Musa rose to his feet, smiling, to offer a toast.
+
+“To our latest addition,” he said, raising a glass to Angharad.
+
+The man was trying to get her drunk, no doubt about it. She could not refuse a toast to herself, so she matched him – as did most the table – and drank the palm wine. Only she used an old trick of her father’s refraining from swallowing. She then pretended to chase the strong liquor with maze beer, instead spitting out the liquor into that cup. Musa wanted to achieve something by getting her drunk, and so far her only hint was that two at the table had not drunk of the toast.
+
+The first was facing her, so it was the natural choice.
+
+“Do you not enjoy palm wine, Lord Kasigo?” she idly asked.
+
+The fresh-faced man looked embarrassed.
+
+“I was raised Serene Redeemer,” he replied. “I do not drink alcohol.”
+
+He brow rose. To a Universalist with her all Redeemers were hardliners, but the so-called ‘Serries’ were one of the starker sects of the faith. Their claim to fame was a doctrine that the soul must be kept serene to be closer to the Sleeping God, emptied of earthly distractions. Like drink and music, most famously. So taken aback was she that a moment passed with her at a loss as to what to say, Kasigo stepping in.
+
+“It is uncommon in noble households, I know,” he said, “and I imagine yours was quite different. Most Pereduri are Universalists, yes?”
+
+And before Angharad could open her mouth, the second to abstain stepped in.
+
+“Ah, Kasigo, I must stop you,” Lindiwe Sarru smiled. “You approach a mistake.”
+
+The man shot her a surprised look.
+
+“Do I?”
+
+“Indeed,” she said. “Tredegar, you see, is not from a noble household.”
+
+Dead silence followed, filling the room to burst. In it, Angharad could hear of a noose pulled tight.
+
+“Pardon?” she evenly asked.
+
+“Correct me if I speak untruly,” Lady Lindiwe said, tone pleasant for all the strong language, “but was House Tredegar not  struck from the rolls of nobility, its holdings placed in the care of the crown?”
+
+Eyes cold, Angharad met her gaze. Lindiwe – no, Sarru now, the Pereduri owed her no further courtesies – was being quite obvious in seeking to force a duel.
+
+“All titles are set aside when taking the black, Sarru,” she replied. “Is that untrue?”
+
+She laughed.
+
+“Must I explain to you,” Sarru said, “the difference between a title being set aside and stripped?”
+
+“It seems it is I,” Angharad flatly replied, “who must explain to you the meaning of the word courtesy.”
+
+“Manners are one thing, lies another,” Sarru said. “Everyone here joined the Watch while titled, and by this virtue warrant invitation to such a gathering. Everyone except you.”
+
+She had two threads to pull: Musa’s captain wanted her in the Ninth and Lindiwe Sarru had not been drinking. Intending a duel from the start? Yes, she decided. Though giving great insult, the other woman was not speaking with particular venom or anger. She was simply speaking the words needed to get what she wanted.
+
+And Angharad saw no way to slip out of the noose.
+
+“Your words stain my honor,” she said. “Withdraw them.”
+
+“No,” Sarru happily said.
+
+Stiffly, the Pereduri rose to her feet.
+
+“Blades, then.”
+
+“First blood?” Sarru asked.
+
+“Surrender,” Angharad coldly denied.
+
+“A woman after my own heart,” she laughed, rising as well.
+
+The rest of the table erupted, but more in excitement than outrage. The only to look miffed was Lord Fanyana, though more at the mess than the words. Angharad stepped aside servants were sent for to prepare the drawing room for a duel, ignoring Thando’s quiet words as she closed her eyes and tried to put it all together.
+
+Musa would not want to help Sarru, who was friend to his own captain’s foe. So why had he asked Lord Zama to get her drinking? Even had she imbibed another round or two of palm wine she would not have been made incapable, only…
+
+Sloppy.
+
+Musa was not helping Sarru, he was harming Angharad. He must have figured out Sarry would press for a duel and wagered that with some drink in her she would make a mistake and gravely harm a member of the Tenth. Which would draw both the First and the Tenth down on her head, and that of any brigade she was part of. Ferranda would not be able to withstand such grand enmity, not when the Ninth was already at odds with her.
+
+But Captain Sebastian Camaron could, and would no doubt extend his protection with a smile – should Angharad join the Ninth Brigade.
+
+“What a snake,” she murmured. “I almost missed it.”
+
+“Angharad?”
+
+She opened her eyes, finding Thando Fanya frowning at her.
+
+“The captain of the Ninth reaches into this room,” she said. “Perhaps he should be taught a lesson.”
+
+“Dueling a friend to his foe will do no such thing,” Thando said.
+
+“No,” she agreed. “That will have to come later.”
+
+To their honor, none of the servants looked uneasy when told to prepare for live blades being bared. Nor should, they since nearly all of them were Malani. The only detail left to put together, Angharad thought, was why Sarru was so eager for a duel. She could not ever recall giving the woman offence. When offered a pin to steady her skirts by a woman in green livery, Angharad took it and slid it in after some adjustments.
+
+Her stride would not be fully free and she disliked fighting in soft boots, but it was nothing crippling.
+
+She handed her sheathed saber to the officiant – Lord Fanyana had been volunteered – and after Sarru did the same, she gave the noblewoman a cool glance. Her duelist’s straps had pulled her skirts, revealing fighting boots Angharad could only envy. There could be no doubt she had come with this in mind. The two of them stood there, no one else close enough to overhear, as their weapons were inspected.
+
+“This all seems most unwarranted,” Angharad said.
+
+“Does it?” Sarru mused.
+
+“What have I ever done to earn your ire?”
+
+Lindiwe Sarru’s smile was a cold thing.
+
+“I tire, Tredegar, of hearing talk of butter,” she said. “Of the mirror-dancer among us, how she must be the finest Skiritai in our year. Praise after praise after praise.”
+
+Her dark face tightened.
+
+“Time to give them something else to talk about,” Sarru said.
+
+She shot the other woman an incredulous look.
+
+“Gossip is what this is all about?”
+
+“If you do not grasp that in this school rumors are the only currency of status, then you are a very great fool indeed,” Sarru scorned.
+
+Lord Fanyana returned their sabers, which was for the best. The only answers Angharad had it in her to give now would lead to this ending in a corpse. The center drawing room had been cleared of furniture, everything put up against the walls, and the great round carpet on the ground was designated the dueling. The rest of the guests kept to the sides as the two of them walked to the center of the carpet, Angharad’s stride angry.
+
+She forced herself to smooth out her anger. Giving her opponent power over her mindset was the first step to defeat. They turned to face each other.
+
+“Draw,” Lord Fanyana said.
+
+Angharad slid out her blade.
+
+“Begin.”
+
+She pulled on her contract and-
+
+Nothing? No, everything was there. Everything but the woman she was facing, who was missing from the glimpse entirely.
+
+-the power of the contract withdrew, and now there was a triumphant grin on Lindiwe Sarru’s face.
+
+“I knew it,” she quietly said. “Not your reflexes, but those of others. You can read how muscles will move, it’s how you always know how to kill the lemures.”
+
+Angharad forced herself to put on a hint of dismay and bury her relief very, very deep.
+
+“There will be none of that with me, though,” Sarru told her. “I’m a shadow, you see.”
+
+And then it began.
+
+Sarru was shorter than her, but the longer length of her blade would make up for it some. It will be either lightened or slow, Angharad as the other woman fell into a high guard. Best to learn which quickly, for it would inform her approach: she took a middle guard took, stepped forward and then to the side. Sarru moved to keep facing her, her stance seemingly easy to keep, and Angharad tried a feint – towards the chest, then sweeping down to the foreleg.
+
+Sarru smoothly moved a step back but her blade did not so much as twitch. Slow, Angharad decided. She was limiting her movements to keep from committing to a mistake she would not be able to take back. Then victory lay in offence.
+
+Angharad Tredegar breathed out and moved.
+
+Quickstep, closing range, and a cut to the arm – Sarru parried, all crisp textbook clean, and the riposte went for her face. Snorting, Angharad slapped aside the blow and wove past her guard. She would have had her knee kicked out under her for it, if she’d not circled first. Sarru moved to match, Angharad feinted, forced her blade low to protect her knee, then pivoted again. The Malani struggled to keep up, half a beat behind, and Angharad kept up the pressure.
+
+Blow to the neck, getting an awkwardly angled block, and she slammed the pommel of her saber on Sarru’s chest. She drew back with a pained groan, guard askew and Angharad saw the opening. The golden road. Draw back the blow, press the blade and then thrust her wrist: the base of her blade would come to rest against Sarru’s throat, death blow withheld.
+
+Her hand moved, and then it all went to shit.
+
+Lindiwe Sarru pressed back against her press, sweeping back with – she shouldn’t have been able to, the weight of her blade working against the strength of her wrist, but here we were – her own blow, Angharad ducking under what should have been victory and getting elbowed in the face. She rolled back, narrowly avoiding a blow that would have sliced up her flank deep, and smoothly rose in a high guard.
+
+“Your saber’s not heavy at all,” Angharad said. “You were baiting me the entire time.”
+
+“Candlesteel alloy,” Sarru smiled. “Meant for the slaying of spirits, but your blood will suffice.”
+
+“Come and draw it, then,” she scorned. “Or is the only sharp edge on your tongue?”
+
+A twitch of anger, and with nothing left to hide the Malani finally went on the offence. A feint that Angharad ignored, a blow she turned aside but she had good footing and a quick wrist: they both danced away rather than choosing to slice up each other’s cheek. Perhaps it was time to find out how Sarru dealt with saber locks, Angharad mused. The other woman was not slight, but the Pereduri would pit her arms against the other woman’s any day.
+
+She tried not to think too deeply on how she was beginning to enjoy herself.
+
+The noblewoman slid forward, stride smooth, and – and the door burst open. Angharad stilled halfway through a saber stroke. As did Sarru, though not so quickly she did not bring her blade to edge of Angharad’s guard. The rat.
+
+It was a man, she saw, in Watch black. Regular’s uniform with cloak over it, and on his collar was pinned a golden braid. A commander’s mark, she had learned in Mandate. What is a commander doing he– and then the face sunk in. The short hair, the brown eyes and tall stature. The neatly trimmed beard with a hint of gray and the Tredegar nose.
+
+“Uncle?” she croaked out.
+
+Commander Osian Tredegar – he had been a captain, as far as she knew! – swept the room with his eyes and spared the situation what could only be called a deeply unimpressed look.
+
+“Disgraceful,” he said. “This is Scholomance, not the royal court. Sheathe those blades before I have you both running laps around the harbor until the sweat leaves some room inside for common sense.”
+
+She flinched back, lowering her blade. Sarru shot her a look, as if wondering whether this had been arranged.
+
+“This is matter of honor, Commander,” she said, “it is not-”
+
+“It is not the place of officer of the Watch to duel,” he calmly interrupted her. “It is, in fact, strictly against regulations.”
+
+A thin smile.
+
+“As you are still students this is not a breach, but it proof that you are still very much arrogant children,” Osian Tredegar said, then glanced at Angharad. “Sheathe that bloody sword, girl. I’ll not say it again.”
+
+Feeling very much like she should be looking down at her boots, Angharad did. All the others had been silent, until Lord Fanyana cleared his throat.
+
+“If I may ask for your name, sir?”
+
+“Commander Osian Tredegar,” her uncle replied. “Umuthi Society, currently on assignment for the Obscure Committee.”
+
+The handful of watchmen charged with overseeing Tolomontera? His words earned a ripple. The Emain twins were the only ones visibly unimpressed, trading sentences in Gwynt. Her uncle fixed them with a steady look.
+
+“Oh, but I know who you are,” he said, baring his teeth. “Sticks with bad hair and noses up in the air? You must be Ceridwen’s daughters.”
+
+A snort.
+
+“She was a snobby brat as well,” Uncle Osian said. “There is a reason she was pushed into a pond on the night of her debut.”
+
+Far from being offended, to Angharad’s horror the pair were now looking at him with almost starstruck expressions.
+
+“No offence was meant, Commander,” the leftmost twin assured.
+
+“Mere curiosity,” the other added.
+
+“I’m sure,” he replied, rolling his eyes, then turned his gaze onto the rest. “Considering that my own niece was involved in this foolishness, I will turn a blind eye this once. I invited you, however, to ask your brigade patrons what participation in honor duels while serving a term in the Watch will do for your prospects.”
+
+From his tone, it was nothing pleasant. Perhaps, if Angharad was very lucky, no one would think to mention during his stay that this was the second duel she was fighting in less than a month.
+
+A vain hope, with Wen Duan around.
+
+Part of her, she would admit, took delight in all these better born sorts shuffling awkwardly out of the drawing room like embarrassed children. Sarru was the last to leave, leaning in for parting words after sheathing her sword.
+
+“This is not over,” she said.
+
+“So close to a lie, Sarru,” Angharad chided.
+
+She snarled as she pulled away, a servant closing the door behind her and leaving Angharad to stand alone with her uncle. Who was looking somewhat unimpressed with her.
+
+“What made you think this was a good idea?” he asked.
+
+ “My honor was impugned,” she stiffly replied. “What else should I have done?”
+
+A long moment passed.
+
+“Sleeping God, you sound like your mother,” he sighed. “Our father used to say she took to the sea because she’d picked all the fights there were to be had on land.”
+
+Shaking his head fondly, Uncle Osian pulled her in tight and she leaned in eagerly. He was, she notice just not quite tall enough to rest his chin on her head. He made to withdraw after a moment but Angharad tightened her grasp, leaning her forehead against his shoulder, and he relented. It was a long while before they parted.
+
+“Look at you,” he grinned, looking enchanted. “So tall now! When I last saw you, you did not even reach my chest.”
+
+“I was only nine,” Angharad laughed.
+
+And a lot more interested in her live steel lessons than her visiting uncle at first, although that’d changed when he began giving gifts. That Izcalli paperweight in the shape of a two-tailed snake had been her favorite, keeping a place of honor on her desk for years. Osian’s brown eyes took her in, scrutinizing.
+
+“You’ve your mother’s nose and build,” he said, “but the rest is all your father’s, I’m afraid.”
+
+She straightened in pride. Gwydion Tredegar’s good looks had made him the darling of Pereduri peerdom, once upon a time.
+
+“Would that I had gotten his charm as well,” Angharad ruefully said. “I would end up in fewer duels.”
+
+“Oh, I doubt that,” Osian snorted. “Malani lordlings are like tomcats – lock a couple of them in a room and some fur’ll always go flying. We have to train it out of them before the Watch can get a use of the virtues.”
+
+He shrugged his shoulders.
+
+“Besides, your mother saw to it you know you way around a blade, which I wager will serve you better in the long run than any amount of wiles.”
+
+“It has helped me on Tolomontera,” Angharad admitted.
+
+He beamed.
+
+“I had a feeling you would do well here,” Osian said. “The Militants prize talent above all and they’ve the cleanest inner workings of any covenant.”
+
+A thoughtful pause.
+
+“It helps that most of their chief officers are complete lunatics,” he added.
+
+“Are you sure you should be telling me this?” Angharad asked, half-serious.
+
+“Nothing you won’t learn in Mandate eventually,” Osian dismissed, “though I expect they’ll coach it in nicer language. Still, enough about the Watch. How have you been? Are you enjoying your time with the Thirteenth?”
+
+Ah. Angharad cleared her throat embarrassedly.
+
+“I have been settling in,” she said. “I did not expect there to be quite so many scholarly classes, but I am keeping up with the work – still, I must confess that Warfare and my covenant classes remain my favorite.”
+
+“I wish,” he said, sounding somewhat chagrined, “that your favoring the fighting pit full of monsters came as a surprise.”
+
+She blinked in surprise. How strange, why would he? Still, she set that aside for the embarrassing part.
+
+“As for the Thirteenth Brigade, we are to part ways,” Angharad said. “We have had differences too difficult to reconcile, so I will be transferring to the Thirty-First for at least a few months.”
+
+Her uncle’s face clenched.
+
+“I – you,” he said, then licked his lips. “I’m sorry to hear that, because it won’t be possible.”
+
+The noblewoman frowned.
+
+“I don’t understand,” she said.
+
+“You must stay with the Thirteenth for at least the next few months,” he said.
+
+She goggled at him.
+
+“Why?”
+
+“Because in three weeks you will be leaving for the Asphodel Rectorate as part of that brigade, heading out for your yearly test,” Osian said.
+
+She almost laughed at the absurdity of the words, until she saw his face was dead serious.
+
+“Uncle, I have not been on Tolomontera for a month,” Angharad said. “How could I possibly be ready for this test?”
+
+“That has been taken into consideration, and you’ve been given an easier assignment because of it,” Osian said. “But the timetable cannot be moved, Angharad. I had to step on quite a few toes to get it changed.”
+
+“Help me understand,” she quietly asked.
+
+“The Thirteenth was picked for one of the Asphodel assignments when it was formed,” he said, “because the Rectorate is a quiet spot in our backyard. Unfortunately, the situation as changed.”
+
+He grimaced.
+
+“At the turn of the year, the Rectorate announced that it discovered an Antediluvian shipyard beneath the island,” Osian said. “Which would be bad enough, but there was also a massive imperial cache inside among which was the largest find of tomic alloys in a century.”
+
+Angharad breathed out, parsing the implications. Great wealth, of course, but more importantly-
+
+“They will be able make skimmers,” she said. “The old kind from the First Empire, not the smaller modern ones.”
+
+“They already can,” Osian grimly said. “When the Rector revealed all this to the diplomatic envoys of every successor-state, he also showed them the first skimmer the shipyards made – no larger than a caravel, but my friends in the Deuteronomicon tell me the aetheric engine’s twice the size of anything the Tianxi can make.”
+
+“And this brought enemies to their doorstep,” Angharad guessed.
+
+“That’s one way to put it,” he snorted. “The Krypteia are predicting that within six months there will be civil war with foreign power involvement. Whoever gets their hands on those shipyards tips the balance of the Trebian Sea their way, Angharad – you must go now or you’ll be heading into bloody mayhem.”
+
+“I would not have to go at all, if I were not part of the Thirteenth,” she carefully said.
+
+He grimaced again.
+
+“That is unfortunately untrue,” he said. “Your killing the Cerdan boy ensured the Obscure Committee won’t send you to Sacromonte and it’s been judged the odds are too high you’ll get assassinated if you’re sent to the Riven Coast – that house has friends among the pirate kings. Asphodel is the only destination in the cards for you.”
+
+“Surely there are other brigades taking tests there,” she tried.
+
+“Four will be sent,” Osian agreed.
+
+“Then,” she hesitantly tried, “would it not be possible-”
+
+“It’s too late, Angie,” he softly interrupted. “I burned most the favors owed me last year so I did not have the pull for this on my own. I had to get help from Colonel Zhuge.”
+
+“I am unfamiliar with the name,” she admitted.
+
+“He is the officer who recommended Song Ren,” her uncle said. “A well-respected Stripe with a command on the Rookery. I had to lean heavily on his connections. We made… arrangements, and they all involve your being part of the Thirteenth.”
+
+A reluctant halt.
+
+“I gave my word.”
+
+Angharad bit her tongue, better to swallow the sharp words wriggling on them. It was a grave disrespect for Uncle Osian to make promises on her behalf, but she owed him debts greater than words could convey. She would have died a hundred times over, if not for his interventions.
+
+“I have already told Song I intend to leave the Thirteenth,” she finally sighed.
+
+“I cannot stop you from doing that,” Osian frankly said. “But if you do, Angie, the wheels come off the carriage. Colonel Zhuge pulls his support, almost certainly, and what follows will be… unpredictable. Messy.”
+
+He rubbed the bridge of his nose, mind wandering.
+
+“I’ll be pulled out of the trip, at least,” her uncle said. “Buried in a workshop for a few years even if I don’t get demoted. You’ll still be going to Asphodel, but if the patron and those who gave recommendations for the brigade you join get involved-”
+
+Osian trailed off, frowning.
+
+“You are sailing there as well?” Angharad asked.
+
+He nodded.
+
+“I’m part of the delegation negotiating for tomic materials and the designated Umuthi instructor besides,” Osian absent-mindedly said. “I’m to discreetly lend a hand to Song Ren on Asphodel using those appointments. Zhuge let me be the face for this whole deal so if it crumples it’ll be coming down on my head, but-”
+
+“I’ll do it,” Angharad said.
+
+Ancestors, how could she do anything less? After all he had done for her it would have been abominable to turn on him. His head swiveled her way.
+
+“I could try to get you transferred to another of the brigades going,” he tried. “The colonel will get snippy, but I could still hold up my end of the bargain with him.”
+
+“I don’t suppose the Thirty-First is one of them?” she asked, but it was half-hearted.
+
+She would not wish this debacle on them, and if they were not involved she could not conceive of asking them to be. It would be a poor repayment of their kindness indeed to drag them into this. Osian shook his head.
+
+“The Fourth, Eleventh and Forty-Ninth,” he said.
+
+So Tupoc, Imani Langa or the band of fools after Tristan’s bounty. To think Song would be still be the finest pick of the lot. And then it hit her: Imani Langa. The bargain she had struck, the Infernal Forge for a letter to her father and aid freeing him. She could not get the damned thing if she was not on Tolomontera. Panic rose, but she fought it down. Imani was bound for Asphodel as well, she would have to understand.
+
+Wouldn’t she? What if she didn’t?
+
+Angharad dimly realized that was on a ship seaward bound, and the lights behind her were growing dreadfully distant.
+
