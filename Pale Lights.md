@@ -42593,3 +42593,487 @@ Song shot him a look that made it clear she was not fooled by the pretense in th
 
 “It appears our journey to the Asphodel Rectorate is not so distant as we were made to believe,” Song Ren said, “and that I have a great deal to speak with Angharad about.”
 
+# Chapter 36
+
+Angharad should be in bed.
+
+Safely under her sheets back in the Triangle, the door locked and trusted comrades in the rooms around hers. Or at a tavern by the docks, drowning her fear in the noise of revelry. Or even with her uncle, who had sought her company but she had forced herself to turn down with precisely spoken words – every last one tasting of ash on her tongue.
+
+Instead she was out here in the dark, a fool on a fool’s errand. The golden Orrery lights were distant, disdaining to light her travels, so Angharad Tredegar carried with her an isle of light. A lantern, shuttered down to the very barest slice, casting a trembling circle of paleness around her. Like a fairy ring from the old tales, keeping the spirits out.
+
+Not that the monsters stalking this night would heed it. Angharad was a long way from home, and here the old laws of Peredur were but whispers on the wind.
+
+She had followed the boulevard for what felt like hours. A broad, nameless road of great pavement stones turned smooth by time and rain. Straying would have been faster, through ruins and empty canals, but Angharad knew better. She felt the eyes on her, waiting beyond the cast of her lantern. Patient, silent. Hungry. Let them come out in the open, if they wanted her. Let the nightmares step into the light.
+
+Captain Phalani had warned her they hunted as a pack, so she knew better than to believe the beast was alone when it slunk into sight.
+
+The lycosi stepped out of a gutted house’s belly, its walk somehow like a spider’s crawl– weightless and too-quick, unnatural to the eye. It was furred and had a wolf’s head, but there ended the resemblance to the lupines of the Dominion.
+
+The lycosi stood tall on bent legs not much like a hound’s: the proportions were off, the lower part of the leg almost as long as the upper. More like a man’s arm than a beast’s leg. The back legs were thicker at the leg, for leaping, and mangy gray-black fur hung loose on the frame. It had no ears, instead curved horns not unlike a ram’s, and its eyes were an eerily round black. A serpentine tongue hung loosely from the opened maw of yellowing fangs, its legs ending in almost overgrown claws curving like a hawk’s.
+
+It approached without hurry, bait to draw her eye while the others crept up from behind.
+
+“My people,” Angharad told the lycosi, “they despise wolves.”
+
+The Pereduri breathed out, straightened her back and slid out her saber. She should be in bed. Wandering Port Allazei alone at night, it was a fine way to get yourself killed. And yet her she was.
+
+“My mother, she said it is because our soil is poor and cattle is as much our lifeline as the sea,” the mirror-dancer said. “My father, though, he said the root is deeper. An old story.”
+
+She gently put the lantern down on the ground. Its light narrowed, the pale shrinking and ceding the rest of the world to shadow.
+
+“In those days before the Isles were bound as one, there was once a great ruler called Queen Branwen,” she said. “Have you ever heard of her?”
+
+The first came from behind, claws scraping so lightly against the stone there was hardly a sound. But hardly still was, and the mirror-dancer had a keen ear.
+
+The monster stepped into the light, the monster bled.
+
+The fur was thick and the skin beneath tough as leather, but a single stroke split open the lycosi’s shoulder – it drew back with a whine, spilling black ichor.
+
+“There are as many tales about Queen Branwen as there are grains of sand in an hourglass,” Angharad said, “but the most famous is not of her rise but her old age. When her might had waned and younger, hungrier queens came for her lands.”
+
+The dance had opened in earnest and she saw them now, lurking beyond the rim of pale. Black eyes and wicked horns, the pearly glint of open maws. Right and left, charging. The bait looming at her back, skulking ever closer. The wounded one, just beyond the edge of the light. All patient, but so was she.
+
+One and two and three, like the rocks swinging on ropes in the backyard that was now as much a land of the dead as this graveyard city.
+
+Angharad stepped forward at the very last moment, the charging lycosi crashing into each other – shoulders tangled, spinning away with growls. And in that moment where they had been as a single ball of fur and fury, they stood between Angharad and the skulker like a wall.
+
+She slid into that opening smoothly, going for the wounded beast – which fled, away from the lantern’s light and towards a collapsed shop on the edge of the boulevard. Trap, she decided, and did not follow. A fifth must be lying in wait. Angharad withdrew back to the circle, spinning her sword hand to limber it.
+
+“Aged was she, Queen Branwen, but she met her rivals on the field,” Angharad said. “And three of these hungry young queens did she fell, before the last speared her through the throat.”
+
+The runner had not returned, and the hidden one remained out of sight. The three that remained fanned out, spread around the fairy ring of pale. Left-middle-right, moving to encircle. No matter how quick Angharad was, she could only face one direction at a time.
+
+“But Branwen’s daughters dragged her corpse away from the battlefield,” she said, “and as their mother had taught them, put the body in a great bronze cauldron they had never before been allowed to touch.”
+
+Angharad softly laughed.
+
+“And after a night in the water, Queen Branwen rose from the cauldron a living woman.”
+
+It happened like this: Angharad Tredegar moved to the left, towards that edge of the circle, and the monsters moved with her. Left-wolf, watched, eyes cunning. Middle-wolf snarled, but right-wolf cut before it. It darted past the rim of the light, howling, and-
+
+(A skull split open, right-wolf dropping, but from behind middle-wolf leaped.)
+
+-and Angharad Tredegar clicked her tongue. Right-wolf had gone low, legs all askew, and she took the blow it offered. Waiting until speed and mass forbade turning back, then flicking her wrist and slicing through the leg just below the articulation. And as in the glimpse, the beasts sprang their trick. Left-wolf moved, to bait a pivot from her, while middle-wolf leaped.
+
+Pin and strike, as old a song as the world had known bloodspill.
+
+Only, as the lycosi she had crippled tumbled further down the boulevard, Angharad swung around her back foot and raised her saber point first.
+
+When the middle-wolf leaped, she extended her arm almost gently and stepped into the kill: the point pushed into the beast’s throat just below the maw, clean and deep, before Angharad pivoted outwards. She ripped the blade out just before the now-dead lycosi fell past her, turning to face the last unwounded.
+
+“Thus was the power of the cauldron, won from a great spirit in her youth: so long as Queen Branwen did not break with honor, should her daughters lay her to rest in the waters for a night she would live again.”
+
+That dark-eyed beast licked its chops, gaze darting between its dead fellow and the crippled one. A snarl and it slowly backed out of the light. Angharad loosened her stance, an eye on the one whose leg she had cut through.
+
+The lycosi that had left the light bolted. Ran for it without whimper or growl. Clever thing.
+
+A glance behind told her the beast whose shoulder she had wounded had, too, disappeared into the dark. The fifth and last never even came into sight. She turned to the last, three-legged one. It was limping away.
+
+ “From summer to winter, Queen Branwen fed the crows,” Angharad said. “Always she stood her own champion, her word iron, and though twice more she was slain twice more she returned. She buried so many crowns the tale goes they are found by plows to this day.”
+
+Angharad followed behind the beast, calmly. Her steps on stone rang of the inevitable.
+
+“So when winter brought truce, her rivals plotted,” she said. “They sent a beautiful singer to Branwen’s daughters, to seduce them, and whisper thus: if your mother cannot die, how can you ever rule after her?”
+
+The beast had wits, more than most lemures. It grasped it would not be able to lose her after mere moments. It slowed, feigned tripping even as it bled ichor all over the stone.
+
+“We cannot slay our mother, Branwen’s daughters replied. All the world curses such an act. You need not lay a hand on her, the singer whispered. Only, when she dies anew and you bring her to the cauldron, open the gates of your hall and flee. She will not return, and none will ever curse your name.”
+
+Angharad stepped into the trap, approaching, and saw the lay of the attack in which muscles tensed. Left back leg, the front right leg at an angle: fangs, belly height. She struck half a moment before it attacked, splitting open the skull between the horns and spilling brains and black all over the cobblestone. It died before it could even grasp what was happening.
+
+She stood over the corpse, softly panting, and closed her eyes. Pricked her ear, but nothing crept through the night.
+
+“Spring came, and Queen Branwen fed the crows,” Angharad said. “Yet her rivals were not without mettle, and she was slain once more. Her daughters brought her to the cauldron but, seduced by the singer’s words, opened the gates of the hall and fled.”
+
+She flicked the ichor off the blade, reaching for the cloth tucked away in her coat and wiping the steel clean. Ichor left to linger was death on a good blade, worse than blood or seawater.
+
+“And during the night,” Angharad murmured, “a wolf crept into Branwen’s hall. Past the cold hearth and the empty tables, until it found a corpse in a cauldron. And it ate, the beast, ate its fill. Gobbled her up until nothing was left.”
+
+She sheathed her saber.
+
+“Queen Branwen did not rise again Her kingdom fell, her daughters reigned over nothing and were accursed as traitors,” Angharad said. “And wolves? Wolves we despise, for their fangs know nothing of honor and dishonor.”
+
+She walked away from the corpses without a single glance back. Perhaps the creatures would know better than to trouble daughters of Peredur, when they next hunted in the night. Or perhaps not. Perhaps Father was right, and the only bargain to be had with wolves was the exchange of violence. Blade and fang, order against disorder.
+
+As a girl, Angharad had scorned the daughters. Of course she had, seeing herself in the fearsome Branwen who so fed the crows. Now, though, she must wonder. Did it make her one of the daughters, that a pretty singer had charged her with treachery? Yet a fear lurked beneath that answer, a deeper whisper.
+
+Or was she now the wolf, blind and bloody fangs in the service of the wicked?
+
+Angharad took up her lantern, resuming her journey, but not before pulling at the collar of her coat. It felt cold out, all of sudden.
+
+—
+
+How could a woman find the footsteps of a ghost?
+
+Angharad had been given a map by a liar’s hand, but those lines of ink on paper proved too weak a lantern to catch the trail of Tristan Abrascal. The thief had marked a rooftop with a stolen grenade, shattered a roof to fall into the hidden path below it, but these parts had many roofs and many of them were broken.
+
+Her haystack was made of needles.
+
+She rode the nameless boulevard as long as she could, but it spat her out in a rat’s nest of small, cramped alleys twisting every which way. As if trying to flee some ancient shame, each wriggling like a worm. The liar’s map only bore the broadest strokes, boulevards and avenues, and what lay in between was like most of Imani Langa’s words: empty. So were these streets, surrendered to silence and dust.
+
+Out here it was only her, the lantern and what lay waiting in the dark.
+
+Angharad raised her lantern to peer through the broken shutters of a once-shop – was there anything on this island but ruins and ruination? – but the darkness was shallow. It fled before the slice of light, too weak to be a gate into the Witching Hour.
+
+Shallow, she realized, but not silent.
+
+Dark eyes went to the edge of the window, and there she found a drop of water sliding past the edge. Down the wall, but the droplet refused to be swallowed by the dust. And when her gaze slid back up to the windowsill it was to see a rivulet. Then a second, the streams spilling down until the empty window was as a gutter mouth spilling a river.
+
+Angharad drew back warily, but the scent caught up to her. Salt. Seawater, it was seawater. So far from the docks that seemed impossible, but… No, there was an answer. One she dreaded, but an answer nonetheless.
+
+“Fisher,” she said. “You are here.”
+
+What the wind whispered in her ears was not words, for the Fisher did not speak in them. It was what her mind forced them to be, for that was a burden it could bear – buckle under, but bear.
+
+“You are lost.”
+
+It was the sound of thread being pulled taut, of a life on the edge of a knife. Angharad swallowed. He did not mean the streets the lantern light was lapping at. A question burned tongue and it was not wise to ask it, but she must.
+
+“Tintavel,” she said, licking her lips. “It is old, but you are older yet. Can you… do you know how to break someone out of it?”
+
+“Strength is the key to every lock.”
+
+She grit her teeth.
+
+“You know nothing, then,” she bit out.
+
+The Fisher did not answer, but neither did it leave.
+
+She could see his mark from the corner of her eye. Water flowing just out of sight, just out of the lantern’s reach. So dark one might think it liquid night, gone when she looked, like a mirage. Swallowing, part of her wishing that the attention of the spirit she was bound to were in any way a comfort, Angharad headed deeper into the dark.
+
+And whispers came with hers.
+
+“Your father,” the Fisher said, and the word was almost fond, “once told me them. The words you offered to the dark.”
+
+Angharad flinched, gaze chasing after the too-quick water. She could smell nothing but salt.
+
+“My father spoke to you?” she asked.
+
+She had suspected, else how could he send her down the right path, but to hear it said…
+
+“Branwen’s tale,” the Fisher said, ignoring her startled question. “Would you like to hear it?”
+
+“I know it already,” she said.
+
+A laugh like teeth clenched so hard they cracked.
+
+“You only know the lie.”
+
+Angharad shivered. Cold or fear? It did not matter. The answer was not in doubt.
+
+“The truth,” she said, “is always better than the lie. Always.”
+
+“Nothing is always,” the Fisher said. “But Branwen tried.”
+
+And so Angharad ventured into the dark, carrying with her only three things: trembling light, steel and the tale of an old monster.
+
+“There is only one law, the eldest law, and its name is extinction. But the Crow-Queen was clever, and the clever fear always fear to end.”
+
+Three corners Angharad turned before she understood that the street had curved and she was now behind where she had begun. Her jaw clenched. What lay ahead of her, save growing more deeply lost? She could not read the lay of this maze at all. It was as if the dark was fighting her, turning her away.
+
+“Branwen wove a net out of maybe, and journeyed to where the world cracks,” the Fisher said. “There she cast the net and caught her death, like a fisherman catches fish.”
+
+Angharad was no navigator, or even much of a huntress. Neither was she a roof-treader, a thief for this manner of night, and surrounded by walls that seemed to close in from beyond the ring of pale she felt as lost as the Fisher had claimed her to be. She could not read the lay of the maze, no. And she did not have the strength to open that lock. So what could she read?
+
+Ebb and flow, she thought. Not thief’s work but a mirror-dancer’s. That much she could do.
+
+“The Crow-Queen pulled it up wriggling and laughed. She could not die if her death was not free to catch her, so she fashioned a cauldron of bronze and a lid for it. Her death she threw inside, and tightly bound the lid with chains so it could never escape.”
+
+Ambling through the maze, Angharad stopped looking for paths and instead let herself feel it. Like Mother had felt the tides and winds, a knack beyond what charts and compasses could tell her. A battle had taken place here, and treading those cobblestone streets with her hands trailing against the walls Angharad could almost see it unfold in her mind’s eye.
+
+Tristan catching sight of a member of the Forty-Ninth, hiding. Sniffing out the ambush. Where to from here? Not through, not back. They would catch him, or follow. Up, Angharad thought. She ran her hand up the stone wall, looking for purchase. There were arches across, that would be the way. She climbed, the loose masonry of the old houses making it easy, and followed the shade within her mind.
+
+The Fisher went with her, the water ever just out of sight but his words always reaching.
+
+“Branwen, clever queen, grew fat and happy. Made daughters. Rivers went dry and mountains became hills, but she did not die. This was known, and her secret coveted for few are clever and many are hungry.”
+
+Tristan, from his perch, would not fight. No, first he would watch. Count his foes, learn what he would be headed into. And then what? Not run, there was no point. The enemy had a contract. He must first cripple them so they could not catch up. Angharad moved across the grass-and-vines strewn rooftops, moving towards the thickest knot of streets. The natural confluence of the maze, where the Forty-Ninth would have laid their ambush.
+
+The noose Tristan had fought to slip. 
+
+“The Crow-Queen did not share her secret, for if she did the prison of her death would be known. Thus she was warred on, but could not die. Yet her daughters could, and though the queen won her wars many of her daughters were slain.”
+
+It would have happened here, Angharad thought. The girl Fara taken unaware, silenced. Muchen He catching on, climbing. Blades coming out. Angharad, two rooftops deeper, finally found she found what she was looking for: a roof with rough hole at the center. Collapsed, from its jagged shape, and recently enough that no vine had spread through it.
+
+Angharad made the jump across the street easily enough, wondering if she could have made it silently. Not if wearing a cloak, she thought. Tristan had, when he silenced the Malani girl he’d then crippled.
+
+“Branwen’s daughters asked for her secret, that they might war for her deathless,” the Fisher said. “But the queen refused. Convening in secret, they decided thus: if they could not be made deathless, they would instead take their mother’s deathlessness.”
+
+Standing on that same rooftop with the breeze at her back – and it was the right roof, the faint scorch marks around the rim of the collapse made that clear – Angharad took a moment to look back behind her. At the battleground, seeing how carefully Tristan had threaded the needle and played an entire brigade like pieces on a board before being caught.
+
+Angharad had been taught how to use her surroundings in a fight, maneuver with the terrain, but in the end all her methods sprang from the strength of her arm. What the thief had done, weaving his weaknesses into a rope, it was tactics she would struggle to match. And improvised, too.
+
+The Sacromontan might not be a fighter, but that did not mean he was not dangerous.
+
+“They betrayed her,” Angharad quietly said. “Like in the story I told. Branwen’s daughters.”
+
+“They ate her,” the Fisher said. “To eat her deathlessness.”
+
+Angharad flinched. Not only kinslayers but cannibals? Few crimes were fouler.
+
+“After, the daughters stood in a circle and chose one of them to test. But the daughter was struck dead, for the secret was not in Branwen’s flesh, and they wailed. Fearful of what they had done, they sought to bury their sister with honor.”
+
+Her fingers clenched. She could see it, how the threads pulled together.
+
+“The cauldron,” she said. “They opened the cauldron to bury her in it.”
+
+The Fisher laughed and it was a dreadful thing: a cold wind rattling through the door, a lover’s kiss refused.
+
+“Branwen’s death sought her, at last,” the Fisher said. “It found her in her daughters, and that settling changed them. Broke and rent them, bent their names.”
+
+She could feel the old spirit’s glee.
+
+“The hungry, empty things that were thus made they called wolves. And so their kind is reviled, for they carry in them treachery and death.”
+
+Angharad did not reply. Her gaze moved to the hole, the gaping maw. It was flooding: entire rivers of seawater coming from beyond the lantern’s light, falling past the edge. The curtains disappeared into the dark. It was the way into the Witching Hour, the Fisher was telling her as much.
+
+And more troublingly still, he wanted her to go inside.
+
+“Tristan,” she quietly said, “said he could not use his contract within. Is your strength greater than his spirit’s, then? Or will you be barred entry as well?”
+
+“You do not listen,” the Fisher said.
+
+He sounded irritated, if a mountain could be irritated.
+
+“Then tell me again,” she bit back.
+
+“What rules you, Angharad Tredegar?” he asked.
+
+She blinked, opened her mouth. Closed it. Angharad had loved stories, as a girl. And she could see the lesson in the Fisher’s, however bloody the telling.
+
+“Fear,” she said. “Branwen died because of fear. Hers and that of her daughters.  That is your meaning. All this, elder, to chide me?”
+
+“Fear is the bridle of failure,” the Fisher said. “Are you the horse or the rider?”
+
+Silence. Her fingers clenched.
+
+“I do not fear Imani Langa,” she said. “I do her bidding only-”
+
+And then he was gone. Every trace of water, every whisper, every touch on her soul. Feeling strangely empty, Angharad was left to look down at the pit of darkness. Alone again with her lantern and the dark. It had not been a lie, what she said. She did not fear Imani Langa. But perhaps it had not been the truth, either, for she feared what lay behind the ufudu. The reach and power of the Lefthand House, what it could grant and withhold.
+
+The Fisher did not care, she thought, that was she was striking a bargain with a servant of Malan. It was not in his nature to care for such things. What mattered to him was the why. That she acted not for her own purposes but out of fear. Angharad swallowed.
+
+Yet what else could she do? Nothing. There were only dead ends ahead, save for the dark at her feet.
+
+“Defense is delay,” Angharad whispered.
+
+It was the voice of a woman trying to convince herself.
+
+She stepped forward.
+
+She fell.
+
+—
+
+Not knowing how she came to be there, Angharad stood above and under Hell, looking up.
+
+Smoke filled the sky, canvas to ruinous red light as the Grand Orrery’s pale glare failed to pierce through – instead showing as a harsh, austere glare made out behind the curtain. And beneath her, ancestors…
+
+She froze, choking on her own breath.
+
+Smoke and screams on the wind. Salt in the air, the distant crash of the sea and… no, this was not Llanw Hall. She was atop a hill, but one crowded by houses and warehouses. Not looking down on river and fields of green. In and out she breathed, until her heart had calmed and her hands no longer trembled. She could feel sweat on the small of her back, as much from the wet heat in the air as the cold water that had filled her belly.
+
+The Hell beneath her was of a different kind. It was a city swallowed by battle, a tide of fire and steel and blood. Tolomontera looked… not young, but younger. Now that her heart was no longer thundering she recognized where she was: the summit of the Old Playhouse, at the very top of the stairs. East of the docks, and from this perch she could see a city falling.
+
+The ramparts around the docks had wooden protections atop them – hoarding, Song had called them – but large swaths were aflame. The battle had spilled past the docks, into the streets, though there was still fighting around the edges. Thunder rolled out from the bay, drawing her eye. Anchored in the water were a dozen carracks, shrouded in smoke from the cannons. They were not the only ships. There were wrecks in the water, and crowding the docks were Watch galleasses flying black banners.
+
+Tightening her fingers had Angharad realizing she still held her lantern. Swallowing dry spit, she turned her gaze north. Fighting there as well, not far past the tip of the Triangle. There were not as many lights as by the fort that was to become the Watch barracks, where a large pitched battle was taking place, but she could see a Watch force had driven deep into the city.
+
+ She shivered in the wind, despite the heat. Far west, at the edge of the city, there were lights and smoke as well. The Watch must be attacking Allazei from land on a second front.
+
+From up here it felt like a dream, or perhaps the sketch of some errant nightmare. If she went below, though…  But she must. It had taken more than a night’s span to take Port Allazei, yet Angharad doubted she would have so long in this half-dream. The Witching Hour would spit her out sooner or later, so she must hurry. Though not without care. Maryam had said death in here would kill her in truth, and though Angharad knew herself a fine blade there was little she could do against a company’s worth of muskets, or grapeshot.
+
+If either existed yet. The cannons out in the water were slow to fire and seemed to miss the ramparts as often as not.
+
+Her gaze dragged further north, where she must go. The Infernal Forge was her desire, and she knew who held it: the King of Hell himself, or at least his reflection in this aether-place. Lucifer, the liar had told her, was the one to cast the treasure into the aether for spite of the blackcloaks. She must find him before he did, and where he must be was plain: the hulking silhouette in the distance, glaring down at the port. Scholomance, not yet called that.
+
+Where would a king be, if not in his palace?
+
+So down Angharad went, down the steps and into the ancient nightmare.
+
+The Old Playhouse stood broadly between Hostel Street and the bottom of Templeward, so she cast her path northwards. If she reached Templeward, she could follow the street to the tip of the Triangle and make her way from there to Arsay Avenue. That should take her straight to Scholomance, here as it did in the waking world.
+
+It was a dreamlike thing, walking through these empty and hauntingly familiar streets.
+
+And though the city felt like a ghosts’ assembly, it was not: torches ahead, none of them burning pale. They must belong to hollows, for darklings saw in the dark better than men but not perfectly: they, too, used torches to get around.
+
+On approach, she understood her mistake. Now and then, Templeward Street was one of the largest streets in the city, one of the great arteries. It was only natural for hollows to be barricading the bottom of the street, stacking a hodgepodge mixture of plank palisade and mounds of furniture. Angharad did not dare come too close – they were sure to have warriors watching the side streets – but even from a distance she could see the defenses bristling with spears and crossbows.
+
+Armed men in coats of mail and leather were shouting and-
+
+The barricade burst into shards of wood and flesh. Angharad saw a cannon ball bounce on the cobblestones past it, whisked out of sight. Half the warriors fled, but a woman in a plumed helm raised a banner atop the barricade and shouted in a hollow cant. The warriors began to rally, until the second cannon volley raked through what was left of the barricade and carved bloody furrows through the defenders.
+
+Gone was the piled furniture, leaving behind a carpet of broken wood, and gone was the bravery of men.
+
+The sight had her swallowing in fear, but she mastered it. This nightmare was not for her, for she was but a passenger through this nightmare. The violence was the key to this lock: when the Watch – for it must be them manning the cannons – were done bombarding, they would storm the street. When the fighting lines collided, Angharad would cross Templeward into the Triangle and make her way north from there.
+
+It now struck her as suicide to stay on the great street, which was sure to see much fighting.
+
+She drew back a few blocks and began to circle past the height of the broken barricade, keeping her ear pricked for further cannon fire. None came. The rooks would be advancing soon. As she closed in on the side of Templeward, she realized that the darklings had emptied the street for fear of cannons. They had scattered into the houses and shops on the sides, into the alleys. She hid herself, quieting her breath and kneeling close to the ground. Waiting.
+
+When it began, it was not with war cries but with screams: no fools they, the blackcloaks had brought up their cannons and leveled the houses on either side of the shattered barricade.
+
+Thunder rolled, scything through the houses in sprays of wood and stone. Walls and rooftops collapsed, the hollows trapped within screaming. A few charged out bearing swords and spear, chain mail and plumed helmets gleaming red in the light of the fires, and Angharad got her first glimpse of the Watch at war.
+
+Black-cloaked men and women, companies of pike and sword with the front led by bulky, unwieldy muskets. Officers shouted, the Watch frontline knelt and before the darklings came close enough to even throw spears a volley erupted in plumes of smoke.
+
+Only corpses were left in its wake.
+
+“Reload,” an officer with captains’ chevrons shouted in Antigua. “Down the avenue, fourth company! We don’t know how long Colonel Vidal will hold.”
+
+The Watch was pushing north, she realized, to reach the fighting deeper into the city. Some earlier offensive must have gone wrong. No matter: this aether playacting was no war of hers.
+
+Angharad waited until she heard crossbows twang and war cries resound before she sprang into movement, running out of the dead end into the street then across Templeward. She heard shouts in hollow tongues behind her, even a shot whizzing past, but did not slow. There was no light on the other side, only a winding street turning north. That corner would be her salvation, keeping her out of the sight of the-
+
+Two men, facing away. Keeping guard. One tall, the other slender – both garbed in steel with red plumed helms. They heard her coming, as much from her running as the shouts, and were already turning when she stumbled onto them. Taken aback, Angharad stepped back and it gave the taller one time to raise his spear. The other one fumbled for his sword even as her saber cleared the scabbard. The tall one thrust the spear, forcing her further back, and at the head of the alley she glimpsed a woman aiming a crossbow.
+
+Cursing, Angharad rolled under a spear thrust as the bolt went wide only to catch a kick in the stomach. Grunting in pain, she gripped the boot with her free hand and used it to trip the man – who went toppling with a shout. She rose, another bolt whistling past her, and found the slender one had his sword in hand. She feinted high and he backpedaled, so much that her follow-up came short.
+
+Instead of carving halfway through his jaw with the swing she only cut the lip, the tip of the saber instead hitting the edge of his helm and sending it tumbling off his head.
+
+The warrior moaned in pain and fear, drawing back, and Angharad aimed her blow. Only it sank in, then, what she was looking at: a pale-skinned boy, his lip cut and brown eyes wide. Utterly terrified. He’d barely known how to use his sword, and now she could see that how chain mail fit him ill. Too large, too loose. He was not even a hollow, Angharad reminded herself, but some illusion of one.
+
+Neither sparing nor killing him held any meaning at all.
+
+And still her blade halted against his neck. She grabbed him by the hair, instead, and tossed him onto the other man as he tried to get up. From the corner of her eye she saw crossbowwoman was aiming, so she fled. More shouting, none of which she understood beyond the anger, but as she headed deeper into the Triangle the sounds became distant. They must not be pursuing.
+
+She knew better than to slow her steps.
+
+Running through the streets of the dark mirror of a city she had come to know, the Pereduri stayed off the avenues as she cut north towards the upper half of the Triangle, then once there adjusted west closer to Regnant. There were few lights along it, so if she was lucky… but she was not. A quarter hour in she was forced to hide by a large column of armed men going down Regnant Avenue and its surrounding streets, grim-faced and singing in hollow cants.
+
+She took refuge on a rooftop, pressing down against the tiles as the edge of the column filed past her.
+
+Their arms and armor were disparate: chain mail and leather cuirasses paired with spears and warhammers and arquebuses. Not an army so much as a patchwork of them, few of which matched. There were so many banners she could hardly tell them apart, like a cloth mane on the snake of steel that was their column. Once the main body of the procession had passed, the narrower breadth meant they stuck to Regnant alone and she was able to slide down from her perch.
+
+The journey resumed.
+
+Unwilling to risk running into another column, she headed back northeast. Back towards the upper third of Templeward, as the narrowing near the summit of the Triangle made the distance between it and Regnant mere minutes now.
+
+She saw the fighting before she heard it, columns of smoke and firelight. Near the tip of the Triangle, the same men the blackcloaks further south on Templeward sought to relieve. How had the blackcloaks made it so deep into the city? Killing her curiosity, Angharad forced herself to think. It was hard, as if her very mind was wading through water. Tiredness, perhaps. Could a soul even get tired?
+
+Her best shot of getting at Arsay Avenue, she decided, was to skirt around the edge of the fighting. It was less likely to be guarded.
+
+She headed towards the sights, sound soon catching up. Powder shots and screams echoed across the cobblestone, all below hellish lights writ on smoke. Lightning struck in the distance, thunder rolled and in that spurt of light Angharad saw the corpses ahead. Strewn across the street like discarded dolls, half a dozen blackcloaks lay unmoving on the stone. Her steps stuttered but she pressed on, raising her lantern higher.
+
+They had been killed from behind, she read in the lay of the dead. Struck as they fled by blades and arrows, though the arrows were then ripped out.
+
+One of the corpses let out a rattling breath, blood bubbling from the corner of her mouth, and Angharad reached for her saber before realizing  it was not a corpse at all. Kneeling by the survivor, she gently turned her over on her back as the blackcloak moaned in pain. The woman was tanned, for a Lierganen, and her faced dirtied with soot.
+
+Lying face down there had been no visible wound on her, but now Angharad could see a gaping hole in her belly. A gunshot, and from close up. The survivor’s eyes fluttered open, unfocused, and stayed on Angharad’s coat. Black as her own ragged uniform.
+
+“Water,” she croaked. “Please, wat-”
+
+She began coughing, spitting out blood. Hers was not the kind of wound one survived without a fine physician and a great deal of luck – neither of which were at hand. It was an uncomfortable notion to go through the affairs of corpses, but Angharad forced herself to look for a canteen among the dead. A man with sergeant’s stripes had one, and after unscrewing it Angharad took a sniff. Water.
+
+She knelt back by the survivor’s side, easing a trickle into her mouth. She slowed when the woman choked, but soon the ragged breathing eased some.
+
+“Thank you,” the survivor rasped. “Ma’am. Sorry, I can’t see your rank. My vision’s swimming.”
+
+“I am a student under Marshal de la Tavarin,” she replied. “To become Skiritai.”
+
+She would not lie even to the ghost of a ghost.
+
+“Militant,” the woman breathed out, as if awed. “Never met one of you before. I’m Miren, Miren of Saraya. Third Regiment, under Colonel Vidal.”
+
+The same colonel the Watch forced had mentioned earlier. Her guess had been right, then, it was this same regiment that the blackcloaks sought to relieve.
+
+“What happened, Miren?” Angharad asked.
+
+She coughed again, struggled for her breath.
+
+“The devils opened the gate, like that Mask said,” Miren said. “Let us in. We rolled the defenders on that big street, Templeward, and the colonel drove us north. To secure the tail end some long road that crosses half the city, leads straight to the Lightbringer’s palace.”
+
+Arsay Avenue, Angharad thought. The very road she was headed to.
+
+“You did not make it there,” she said.
+
+“No,” Miren bitterly laughed. “The plaza, it looked empty. We didn’t see the man until the vanguard was close enough to shoot.”
+
+Angharad blinked.
+
+“One man?”
+
+Miren feebly tried to reach for the canteen and Angharad gently pushed her trembling hand down before pressing the metal rim to her lips again. After a few moments of drinking, the dying woman sighed.
+
+“Sunless House,” she panted. “Sunless House. It was fucking archbishop, straight out of the Fall.”
+
+“What happened?” she asked again, tone gentle.
+
+“They went mad,” Miren said, hands shaking. “Some started clawing at their own eyes, screaming about how nothing is real, and the others…”
+
+She drily swallowed, trembling.
+
+“They turned on each other,” she whispered hoarsely. “I saw Rolando put a dagger in his own sister’s back and Cassander shot our captain in the head. Without a word, just shot him.  None of them saying nothing, their eyes all white, and…”
+
+She was sobbing, Angharad lay a comforting hand on her shoulder, but Miren shook her off.
+
+“It didn’t stop after men died,” she got out. “They tore into the bodies like animals, gorging on the flesh. I ran. Gods, I know I shouldn’t have but-”
+
+“You did well,” Angharad murmured.
+
+“He was standing in the middle of it,” Miren feverishly whispered, as if she hadn’t heard. “Just a man, dark hair, soft face. Arms behind his back, looking at us like we were dogs doing a trick. Just one man and he stopped the entire regiment cold.”
+
+Misery Square, Angharad realized with a shiver of dread. There was only one large square in that part of the city, and it was Misery Square. Only Angharad was getting a whiff of the horrors that had earned it the sobriquet.
+
+“The back of the column broke and ran,” Miren rasped. “Only hollows were lying in wait, ambushed us. It was a slaughter. I… someone shot me, didn’t see who.”
+
+She licked her lips and Angharad eased a trickle into her mouth again.
+
+“You don’t live through a gut shot like that, do you?” Miren quietly said.
+
+Angharad swallowed, shook her head.
+
+“I won’t make it back to our lines,” the soldier said. “And it, it hurts ma’am. Please.”
+
+The Pereduri flinched.
+
+“Please,” Miren begged.
+
+It is not real, Angharad reminded herself. Just the impression of a night on aether. How long had it taken the real Miren to die, lying face down against the stone with that hole in her belly? An hour, two? How long before cold numbness triumphed over the pain?
+
+“Close your eyes,” she said.
+
+“Thank you,” Miren whispered, and did.
+
+Angharad slid her saber out of the sheath, as quietly as she could.
+
+“I read, once, that in the summer the streets of Saraya are as a carpet of flowers,” the noblewoman said.
+
+Miren smiled.
+
+“Like snow made of petals,” she said, “falling from the-”
+
+Angharad slid the blade between the third and fourth ribs, deep into the heart. Death was not instant, almost never was. Angharad held her hand, whispering to think of the flower blooms in the light as Miren bled out. It took short of two minutes, the rook already weak from the gunshot. Eyes burning, Angharad forced herself up and ripped the blade free. She cleaned it with the cloth, sheathed it with hands that suddenly felt fragile.
+
+“Rest well, Miren of Saraya. Until the Sleeping God wakes,” she whispered.
+
+Angharad stayed well clear of what was not yet Misery Square.
+
+—
+
+Miren had warned her so she moved carefully, but they still took her by surprise.
+
+She was mere minutes away from the dead watchmen when the ambush was sprung. The only warning was the twang of a crossbow loosing a bolt, and Angharad threw herself a shop door, bruising her shoulder but avoiding death. The darklings swept down the street, a throng a dozen strong bristling with arms – and there were more crossbows at the back. Shapes on rooftops, too, moving more like devils than men.
+
+Unlike other darklings, none of these shouted war cries in their hollow cants. And though they moved swiftly, there was a stiffness… to the movement.
+
+Staying out in the street was death, so Angharad kicked at the door she had smashed into. The latch broke, and inside she found – Miren? The sight gave her pause for half a heartbeat, just long enough for the woman to slash at her shoulder with a knife. Coat and flesh parted, Angharad letting out a hiss as the false blackcloak grinned in triumph. She drew back half a step, readying to charge in, and checked on the other warriors…
+
+Only to find them gone. All of them. She glanced back through the door and found only darkness inside, the false Miren vanished.
+
+“What is this?” Angharad hoarsely whispered.
+
+Sword high, she stepped through and-
+
+-Angharad stumbled through a doorway, landing on her hands and knees. She barely had the time to glimpse golden light on stone before she threw up. It was as if her stomach was being wrung out of her, squeeze by painful squeeze. When the last foul heave passed her lips she was left panting, looking down at her own sick, and drew back on her knees. She wiped her mouth with her sleeve.
+
+The wound, she remembered, patting at her side.
+
+Only there was no mark on her coat, and when she shrugged it off to pull up her sleeves no trace of the cut on her flesh. Only the soul entered a layer, Maryam had said. Only a soul could be wounded within. It was only a cut, Angharad reminded herself. Certainly nothing good, but hardly a death. It was not as if a soul could bleed out.
+
+She rose to her feet, legs trembling, and her head swam with vertigo. Angharad sucked in a breath, part of her wondering if the air here had always been so hot. Above the golden light of the Grand Orrery moved, and with that sight came a delayed realization.
+
+Angharad was back, out of the Witching Hour.
+
+She had failed.
+
