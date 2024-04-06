@@ -34703,7 +34703,7 @@ Angharad smothered a grin.
 
 They parted in amusement. Barely two street corners later she ran into Captain Nenetl of the Third, in conversation with two others, but the Izcalli called out to her and made introductions.
 
-“Izel Coyal, meet Angharad Tredegar,” she said.
+“Izel Coyac, meet Angharad Tredegar,” she said.
 
 Izcalli, she thought from the name. A tall, strong-shouldered man who seemed hairless even by the standards of Aztlan stock. He nodded a greeting, which she returned.
 
@@ -41459,7 +41459,7 @@ Angharad had never been all that interest in matters of greater policy, but it w
 
 Lord Zama signed, Musa leaning forward to read his fingers before speaking.
 
-“Or the Grasshopper King sending Doghead Coyal to scare them back into submission,” Musa conveyed.
+“Or the Grasshopper King sending Doghead Coyac to scare them back into submission,” Musa conveyed.
 
 Some snorts, but Angharad raised an eyebrow.
 
@@ -43076,4 +43076,550 @@ She rose to her feet, legs trembling, and her head swam with vertigo. Angharad s
 Angharad was back, out of the Witching Hour.
 
 She had failed.
+
+# Chapter 37
+
+Treachery was afoot: the carrot seeds were gone.
+
+Maryam might have been complicit in the crime, for when informed of this she offered no aid. Only profuse mockery, including some very unkind moralizing about how he who lived by petty larceny was doomed to be defeated by it. Petty. Petty! For once he was in full agreement with Fortuna, this was unacceptable talk. No, Tristan would have to thoroughly investigate this matter and prove her treason, rightfully relegating her to taking Theology notes for the both of them next class.
+
+Now, if only his only ally in this grand work were not utterly incompetent.
+
+“Maybe she used her eldritch Navigator powers to disappear them,” Fortuna suggested.
+
+She was sitting atop a tree branch, the red trail of her dress trailing as she swung her legs.
+
+“You are a goddess,” Tristan reproached. “How is anything eldritch to you?”
+
+“I was only phrasing it this way for your sake,” she ineptly lied. “I think your field was cursed to be barren by a witch, it is the only reasonable explanation.”
+
+Tristan wondered if she was being blatantly wrong on purpose. Even odds, he figured: it might simply be that she had not been paying attention to the entire affair beyond the amusement of outrage. The thief knelt in the dirt, carefully feeling out the soil. He had sown seeds rather liberally yesterday, but there was not so much as a single stray one left. Whoever had done this had acted methodically, and with malicious intent.
+
+“Could be a devil ate them,” Fortuna suggested.
+
+He rubbed the bridge of his nose.
+
+“I resent that this last guess is the closest we have come to a working theory,” Tristan admitted.
+
+“You need to listen to me more,” the Lady of Long Odds happily said. “I have all sorts of ideas.”
+
+Not unlike a mangy dog had fleas, and about as respectably.
+
+“It could have been foreigners,” he finally said.
+
+It was a long and honored Sacromonte tradition to blame foreigners for troubles ranging from the rising price of bread to why your daughter had been caught half-naked with the neighbor’s son in the back of the shop. It would have irresponsible not to consider foreign involvement, one might argue. If they were an infanzon.
+
+“I am no longer sure I want to be involved in this,” Song Ren drily said.
+
+He flicked a glance back, finding the Tianxi standing at the edge of the garden with steaming mugs of tea in her hand. Tristan squinted her way, not having caught the approach. Had Maryam sent her accomplice to sabotage the investigation?
+
+“I don’t know what it is you’re thinking, but I am almost certain I should feel insulted by it,” Song noted.
+
+“Your help would be most welcome,” Tristan said, not openly adding as soon as I am certain you are not part of this conspiracy.
+
+Fortuna, lending her ‘help’, immediately leaped down from her branch began crowding the captain. She stepped in too close, peering into Song’s eyes like some nosy tia trying to find out their color, and gestured at one of the mugs as if asking to take it. To Song Ren’s honor, she had never once fallen for this cheapest of ghost trickeries.
+
+Unfortunately for Song, Fortuna had taken it as a challenge.
+
+Purely for spite of his goddess, Tristan rose to his feet and ambled over to take the tea. No, he realized, not tea. At least not the proper kind: this was brewed… peppermint? Surprised but not displeased, Tristan actually took a sip for reasons beyond politeness. Peppermint was good for digestion and stomach pains, as well as tasting fine enough.
+
+“I have run the numbers for the brigade funds,” Song said. “I believe we could go as far as ten ramas.”
+
+Tristan chewed at his lip thoughtfully.
+
+“Hage will bleed us if he realizes I’ve gold to slap on the counter,” he said. “The easiest way to avoid that would be asking for something in particular, not merely going fishing.”
+
+She hesitated for a moment, brushing back her long braid.
+
+“Ask about the local criminals,” Song finally said. “The rest we can get from the official reports on Asphodel, but that kind of knowledge will not make it onto them.”
+
+Tristan gave an absent-minded nod. It had been an unpleasant surprise to learn that they were headed to Asphodel in three weeks, leaving them to scramble for preparations. Song had borrowed books from that fancy hidden Stripe library, but books would only get them so far. Hage was almost certain to have access to Mask reports on the Asphodel Rectorate, or Krypteia gossip just as good, and Tristan approved of asking about the local coteries.
+
+“We’ll need to know our way around the underground no matter which of the contracts we end up getting,” he mused. “Getting the lay of the coteries in advance is a good investment. I would not be surprised if the Masks had a contact on the ground, either.”
+
+Song’s impressively well-connected uncle had leaked to her in the letter how assignments would work: there were four contracts outstanding, and it would not be decided until they reached Asphodel which brigade received which. The man had not gone into details  about the contracts – could not or would not – but had mentioned that two were investigations, one an exorcism and the last a hunt.
+
+Only the exorcism was likely to take them out of the capital, and not far. Even then finding the remnants of an old god was sure to be easier when you had a way to reach out to the people who could tell you which of the latest disappearances had been paid for.
+
+“I expect that might be beyond our means to buy,” Song said, “but if the opportunity knocks…”
+
+“Barely a day rich and already a spendthrift,” he teased.
+
+She rolled her eyes.
+
+“Maryam’s ties to Captain Yue could end up fruitful as well,” Song noted. “As the senior signifier on the island, she might be in the know for Asphodel affairs.”
+
+“We lose little by asking,” Tristan shrugged.
+
+The two stood there in silence for a long moment, sipping at their mugs. Song was the one to break it.
+
+“Not a single seed left, I see,” she said.
+
+Those last two words were not a figure of speech when coming out of Song Ren’s mouth. Tristan was not yet sure to what extent she could discern details, but she could read book script from across a room without any trouble. Part of him itched to ask how that would pair to, say, a telescope but theirs was not so comfortable a relationship that he could.
+
+“Such meticulous extermination can only be the result of an enemy attack,” Tristan said.
+
+“There are probably at least two birds, yes,” Song agreeably replied.
+
+He paused.
+
+“A what now?”
+
+Song considered him for a moment, then her lips twitched.
+
+“Maryam didn’t tell you.”
+
+“Her treacheries are endless,” Tristan coldly said.
+
+“She told me she saw a bird up on the roof yesterday,” Song informed him. “A magpie, by the description, though an unusually large one.”
+
+“And she failed to tell me this because…”
+
+A rusty groan, one of the drawing-room windows being cracked further open from the inside. They had been getting eavesdropped on.
+
+“Because I thought it would be funny,” Maryam called out.
+
+“See,” Fortuna mused, leaning against his shoulder. “I told you a witch was behind this.”
+
+“Bruja,” Song slowly said. “Did she just call Maryam a witch?”
+
+“Nothing less than she deserves,” Tristan sniffed.
+
+He turned a squinting look up at the roof, but there was no trace of the alleged magpie. How had it made it up here, anyway? Sakkas had said that this place could only be found by those who already knew where it was, but no lock was perfect. If the Gloam working laid into this place was as a surrounding curtain, birds might have simply flown over it.  Or perhaps the magpies had nested there for generations? An impressive lineage, if true, though Tristan could not recall ever seeing or hearing a bird here before.
+
+“A recent arrival, do you think?” he said.
+
+“I am uncertain,” Song admitted, sounding fascinated. “It could be that an animal is not enough of a ‘mind’ to be turned away by the defense and our presence drew interest. More might come if that is the case.”
+
+“A siege, then,” he muttered, then cleared his throat. “I will have to draw from brigade funds.”
+
+A wary look.
+
+“What for?” she asked.
+
+“To make a scarecrow,” Tristan fiercely replied. “I yet have carrot seeds: I might have lost a battle, Song, but the war has just begun.”
+
+“I was right,” Maryam called out through the window.
+
+—
+
+It was a mark of Captain Yue’s rank that she had a solar inside the walls of the chapterhouse.
+
+Though not a small building by any means, much of the insides of the Akelarre headquarters was taken up by the Meadow so private rooms were virtually unheard of. There were dorms for Navigators to sleep in, libraries for restricted works and a few small study halls, but all these were shared. The captain’s large solar on the upper level was not, though Yue had crammed so many devices and books inside that a room as large as the cottage’s drawing room somehow felt cramped.
+
+Maryam had learned, over the last few weeks, to tell when she was in for a pleasant afternoon by gauging the enthusiasm on the scarred captain’s face when she was ushered into the solar. Briskness meant it was drudgework ahead of them, checking options off a list not out of belief they were possible but to be through, while on the opposite end of the scale a broad grin meant things were going to get… exciting.
+
+Like being rowed out into a shallow part of the bay and dropped into the sea with stones tied around her feet exciting.
+
+“Ah, Maryam, just in time,” Yue grinned, and the Izvorica almost cursed.
+
+It was going to be one of those, then. The older woman hurried her in, closing the door behind and guiding Maryam past a fresh pile of books – nearly all of which had iron girding and a lock, meaning they were from the deepest part of the restricted library – and the same half-eaten plate of fried rice that had been balancing precariously on the end of a table for three days.
+
+The sheer number of precious instruments in here, from astrolabes to orreries to a set of beautifully engraved ring dials, had been intimidating at first. There was a fortune’s worth of devices surrounding her, many of them of intimidatingly fine make. Nowadays, though, they mostly felt like the clutter that they were. Yue eased Maryam into the usual cushy armchair, then headed across the room to a large, broad silhouette under a pale sheet.
+
+“That is new,” Maryam noted.
+
+“So it is,” Yue happily said. “Had it brought up this morning.”
+
+She theatrically tore off the sheet, which she had obviously put there herself for this very purpose. What lay under looked halfway between a water maze and an Izcalli calendar: an upright stone disk, almost man-sized with layered circles within. Each circle was connected to another by some shallow notch and at the heart, instead of a large motif of an Izcalli calendar, was a gaping hole the size of the Izvorica’s head.
+
+Captain Yue presented it with a flourish, visibly pleased with herself.
+
+“Well done,” Maryam hazarded. “I am… impressed?”
+
+The older Navigator wrinkled her nose.
+
+“At least some put effort into the lie,” she complained, then sighed. “Think, Khaimov. Does this remind you of anything?”
+
+To Maryam’s mild shame, it took another few seconds before catching on. It was the size that had distracted her: the other disk had been barely the size of two fists, and the patterns on the surface significantly more complicated than these.
+
+“The Kuru Maze that Professor Baltazar showed us on our first day,” she said. “The device that lets one gauge their Grasp and Command.”
+
+“You could consider this beauty the bastard cousin of a Kuru Maze,” Yue said, patting the disk.
+
+“I don’t feel any conceptual symmetry from it at all,” she frowned. “The draw of a Kuru Maze is that it restricts manipulation of Gloam. This looks, well, like…”
+
+“A big chunk of rock,” Captain Yue cheerfully said. “Because it is. Not a drop of anything conceptual here. It’s an Izcalli invention called a stele stone.”
+
+“Ominous,” Maryam noted.
+
+The Kingdom of Izcalli – and all the other Aztlan states, to be fair – had a fondness for carving skulls onto everything and their naming sense tended to the funerary. Even Captain Totec had a saltshaker sculpted to look like a dancing skeleton he was inordinately fond of.
+
+“You know how it is with Izcalli,” Yue said. “No matter how sound the scholarship, their scholars don’t take anything seriously until there’s a body count supporting it.”
+
+“The Kingdom of Izcalli is the leading light in metaphysical anatomy,” Maryam loyally said. “No one else understands souls half as well.”
+
+“Yeah, they sure burned a lot of candles studying those,” Captain Yue drily said. “But I seem to recall the man who initiated you into the Akelarre is from Izcalli, so I’ll let you off this once.”
+
+She slapped the stone again, like a farmer at market endorsing their prize pig.
+
+“Stele stones,” Yue said, “are made when a significant number of people die on top of them.”
+
+Maryam blinked, having not expected it to be so literal.
+
+“They used to make these from physician’s floors,” the Tianxi said, “but these days I understand some lords have a racket of ordering their dying serfs to go and lay on top of them so they can sell off the stones.”
+
+The Navigator shrugged.
+
+“It does assure steadier supply.”
+
+Captain Yue’s notion of good and evil tended to run along ‘things that make my work easier’ and ‘things that make my work harder’, which meant she had all the sympathy of an iron rod but also that she was remarkably lacking in bigotries.
+
+“And the advantage to lugging around corpse rocks is…”
+
+Maryam trailed off leadingly.
+
+“Think it out,” Captain Yue said. “The stone used here is basalt, which on the Ban scale of aether sensitivity is lower-middle.”
+
+Maryam hummed. To qualify as middle sensitivity on the Ban scale, a material must be affected by aether phenomenon not directed at it. The study of the effect of metaphysical forces on physical objects was usually considered a part of alchemy, but inevitably it was a matter of interest to both the Peiling Society and the Akelarre Guild and as a result the terms for it were drawn from a dozen different disciplines.
+
+It was a real mess of everyone borrowing from each other and contradicting each other’s works.
+
+The Ban scale had been used by Cathayan architects for over a century before the Akelarre adopted it, justifying this by noting the imprisoned scholar-concubine who’d first created it had been a signifier and thus the scale had always been part of their scholarly wheelhouse. While not the most exact out there, the Ban scale had the benefit of being made into a series of rhymes that translated well to most the major languages of Aurager – and thus was remarkably easy to memorize.
+
+Lower-middle meant the material in question was affected by nearby aether phenomenon, but not unduly sensitive. For example a cutter, with its aether engine, could dock at a basalt dock and there would be no trace left on the stone. A death on top of the stone slab, though? That strong, instant release would leave some kind of mark.
+
+Yue had mentioned physicians as the original source, which likely meant painful ends at the hands of cutters. Many deaths, though, and evidently the Izcalli lords out there seemed to think that sending the sick to die on the stone would work just as well. It’s not about the nature of the death, then, it’s about the numbers.
+
+“Saturation,” Maryam said. “Stele stones are basalt saturated with aether.”
+
+Yue cocked an eyebrow.
+
+“And what would be the use of such a thing?” she asked.
+
+“You called it the bastard cousin of a Kuru Maze because those constrict the use of Gloam,” she slowly said. “This would do the same for… aether?”
+
+“Are you asking me or telling me?” Yue said.
+
+She chewed at the inside of her cheek.
+
+“Nav,” she said. “Logos, I mean. It goes through the aether, so a stele stone is meant to constrict the use of one’s logos.”
+
+“Good,” the Tianxi smiled. “That is essentially correct.”
+
+She waved a hand.
+
+“The reality is slightly more complex – the maze carved on the surface is because of metaphysical continuance, a concept you won’t be learning about for some time yet. Suffice it to say that moving your logos through the channels in the stone is more difficult than, say, simply wrapping it around the disk.”
+
+“Why are we testing my logos at all?” Maryam asked.
+
+It was one of the few parts of signifying she’d never had any trouble with. She was, she fancied, a much defter hand with hers than most of her peers.
+
+“Because I told you to,” Yue easily replied. “Come, I will show you how it functions.”
+
+Maryam was always careful sending out her nav with Captain Yue around, knowing herself a candle besides a bonfire. It would have been easy for the other woman to snuff her out without even meaning to. Yue had asked her this time, though, and would be careful. It was an odd feeling, how the other woman coaxed her soul-effigy – like being a raft being pulled along in a galleon’s wake.
+
+Yue guided her all the way to the opening of the stele stone, then goosed her nav as warning. Maryam withdrew, did not follow her in. Instead she tried to feel out what tracing the pattern did to Captain Yue’s nav, what coiled and what tensed. When the captain withdrew, after what could not have been longer than thirty heartbeats, she was faintly panting. Yue brushed back her braid on her shoulder, smoothing it back into place to hide the burns on her cheek and ear.
+
+“It is a good control exercise,” Captain Yue said. “We will not teach logos manipulation until third year, as it’s much too easy for a beginner to rip out their own soul, but if my theory is correct you will have little choice in learning the basics early.”
+
+By now Maryam knew better than to ask her to elaborate. If she intended to, she would have. Instead she gathered herself and felt out the entrance of the stele stone pattern. All she had to do was trace it, not fill those wide furrows, but to make one’s nav was fragile had its dangers: Maryam slid in a rope, not a string. Immediately she felt the saturation’s effect. Most objects were inert when felt out with nav, like dull contours in a world of colors.
+
+The stele stone instead buzzed like flies’ wings, and she had to keep a firm grip on her nav lest it be swept astray.
+
+She was surprised to find it rather easy, at least at first. She just had to thread in her nav, which took concentration but not much difficulty. Halfway through the first loop she began to grasp what Yue had been hinting at by ‘metaphysical continuance’. Maintaining the thread she had woven while continuing to push forward was significantly more difficult than she had thought. She had assumed the trouble would rise like the slope of a hill, but two thirds of the way through the first circle she felt like she had to climb a wall instead.
+
+“Fuck,” she muttered.
+
+“Further,” Yue quietly said. “You need to finish the first ring.”
+
+Gritting her teeth, Maryam pushed on. She might not have made it had she not realized she could cannibalize her own earlier work. She could thin the rope and make it into string. It eased the pressure, though she still only barely made it to the notch leading to the second circle. She threaded past it by a hair, breathing out, and – the pull took her by such surprise she tumbled all the way back to halfway through the first circle.
+
+“What in the-” she snarled, firming her grip.
+
+The pull gave when she pushed back, but as she tried to reclaim the grounds lost she felt as if something was pushing against her. A hand on her shoulder, a pulse of Gloam.
+
+“That’s enough,” Captain Yue said. “I have what I need, withdraw.”
+
+Maryam was tempted to rip herself out, but forced herself into a controlled retreat instead. One should never treat their soul-effigy lightly. When she came back into herself she was panting, covered in sweat, and Yue eased her back into the seat. She spent some time gathering her bearings while Yue puttered about pouring something into cups, pressing a metal goblet into her hand. Maryam took a sniff.
+
+“Brandy?” she asked.
+
+“It will take the edge off that brutal migraine you’re about to have,” Yue said. “Drink.”
+
+Maryam grimaced but did. It burned going down, but there was a faint aftertaste of apricot that took the edge off the lingering in the mouth.
+
+“What was that?” she asked. “Something fought me, it felt like. Was it the stele stone?”
+
+“The stone had aether presence but not consciousness,” Yue replied. “It cannot fight you.”
+
+She leaned back against one of her tables, though she had to push back a strange overlarge bronze compass.
+
+“What has puzzled me about your condition from the start,” Yue said, “is its seemingly contradictory nature.”
+
+“I don’t follow,” Maryam frowned.
+
+It seemed rather plain to her: her Command was lacking because it was sabotaged by an aether entity.
+
+“First we established through layer diving that the cause of your measure imbalance is an aether entity,” Yue elaborated. “Seemingly straightforward, if an unusual case. But then I put you through about a third of the possession tests known to the Akelarre Guild and none of them turned up a thing.”
+
+The Izvorica’s eyes widened in alarm.
+
+“You said I wasn’t possessed,” Maryam said. “That those were-”
+
+“To ascertain the nature of your ties to the entity, yes,” Yue dismissed. “And they were. Possession is a layman’s term, ultimately, evoking some dollmaker hollowing a man and walking around with his face and memories. In practice relatively few aether entities are capable of this.”
+
+“You thought it was some lesser parasite,” she slowly said. “One that a possession test would unmask.”
+
+“An unusual case, as I said: an entity that gorged on your emotions unhindered for so long it became something nearly unique,” Yue agreed. “Only you have none of the physical markers of this. Therefore, I resorted to the submersion test.”
+
+“An individual submerged in the sea with no physical tie to above will achieve metaphysical isolation,” Maryam quoted. “You wanted to establish whether it had an anchor to me.”
+
+“And it did,” Yue smiled, “else you would have been capable of signifying under water without trouble just as you did in the layer. Thus we established that the entity had an anchor on you, but that your body showed none of the usual markers. Now, it might have been that we simply needed to get into the more invasive possession tests…”
+
+Maryam swallowed. Sticking needles in her body and making her Sign during was not considered invasive? Making her eat a lodestone, Sign and then throw it up had been one of the easy tests? Gods. She was almost afraid to ask.
+
+“… but that is a brute method answer, Maryam, forcing a circle into a square peg. I found a more elegant solution: what if that anchor was on a material part of you without being a physical part?”
+
+And there the reason for the use of the stele stone became clear.
+
+“My logos,” Maryam breathed out. “Shit, it latched onto my logos. I use it to signify, so every time I trace a Sign-”
+
+“It contends against you, ‘pulling’ the other way, and thus in practice reducing your Command to that of a child’s,” Yue finished. “Interestingly, that it latched on to your logos it also likely why it hasn’t slurped up your soul despite being tacked on to you for years.”
+
+Maryam swallowed, mouth suddenly gone dry.
+
+“Pardon?”
+
+“Think of your logos as a straw, permitting only so much to be drunk at once,” the older woman said. “The most fascinating part is, however, that the parasite seems to have adapted to you to some extent, feeding solely on emotions that you reject or suppress. It grew nearly symbiotic.”
+
+“And screws up my signifying,” the Izvorica flatly said.
+
+“And that,” Yue agreed. “Happily for you, the violent reaction the entity had to your using the stele stone confirms another part of my theory.”
+
+“It’s a bit of an asshole?” Maryam suggested.
+
+Yue smiled thinly.
+
+“It goes two ways,” she said. “Through your logos it can feed on you, but…”
+
+“I can also feed on it,” Maryam said. “You’re sure?”
+
+“It will not be possible to confirm it until I have some particular equipment prepared,” Yue said, “but I believe the chances are very high.”
+
+Maryam licked her lips.
+
+“What would it do, feeding on it?”
+
+“Retrieving your past aether emanations, for one,” Yue said. “Though they will not be as linear and differentiated as when you emanated them. Secondly, well, think of it this way – though we Akelarre manipulate Gloam and navigate aether, we are ultimately creatures of the Glare. This entity, however, is not. It should perceive Vesper in some fundamentally different ways.”
+
+“That sounds dangerous to absorb,” Maryam said.
+
+“The mind is a wonderfully elastic thing,” Yue said. “It will take what it can and a little more, then the rest will be buried or shed away. I expect, at the very least that devouring the entity will make major qualitative improvements to your logos.”
+
+On top of restoring her Command, presumably. That did sound tempting.
+
+“And it would be safe?” Maryam asked.
+
+The captain burst out laughing, hiccupping and slapping her knees until she was almost tearing up.
+
+“Oh gods no,” Captain Yue chuckled. “Anything but. But the alternative is it being forever latched onto your logos, so the notion of there being a choice here is largely decorative.”
+
+She was, Maryam grimly conceded, not wrong about that. She made herself breathe out, calm.
+
+“Equipment, you said,” she tried.
+
+“Worry not, my dear,” Yue grinned. “It will be ready before you take that ship to Asphodel. I greatly look forward to the results.”
+
+The Izvorica nodded, then hesitated.
+
+“Out with it,” the captain said.
+
+“Song mentioned that the entity she encountered had a soul,” she said.
+
+“Yes, as you mentioned before,” Yue acknowledged. “While Song Ren’s contract is an interesting tool, she has not real grounding in metaphysics. I expect she saw the traces of some soul the entity ate before latching on to you, or emanations fresh enough they could be confused for you.”
+
+“And if you are wrong?” Maryam asked.
+
+“Then I get the pleasure,” Captain Yue grinned, “of starting this puzzle from scratch.”
+
+—
+
+The Emerald Vaults was not large enough an establishment to loan private rooms, but their garden did have small gazebos that lent an appreciable degree of privacy.
+
+Though they had agreed on six at the beginning of Warfare, Song arrived ten minutes early. Lierganen tended to have their evening meal late, but given the widespread provenance of the students – and indeed of watchmen in general – one could not assume the dinner room would be empty even at this hour. She was lucky: only one of the gazebos remained unoccupied, and she promptly claimed it before someone else could. Talk on the terrasse was too likely to be overheard, it would not suit at all.
+
+Only a few of the tables were occupied, she saw as she followed the servant in, with black-clad youths sharing tapas and drinks. She recognized few faces within, the only one of note the towering Someshwari man that was the captain of the Twelfth. Song received a few curious looks, but now that there was gossip about the Forty-Ninth she was not as interesting a subject of rumor as she had been – at least until the Thirteenth’s involvement in that affair came out.
+
+The servant in neat livery bowed after presenting her the last of three gazebo and she nodded in confirmation. It was pretty piece of work, a round pavilion of whose skeleton was intertwined metal and wood with silk sheets hung as walls to curtail sight and sought. Song ordered a cup of Sanxing green tea and settled into the cushioned seats, readying herself to wait.
+
+To her mild amusement, she had barely tugged her coat back in place when Angharad arrived – just slightly less early.
+
+The dark-skinned noblewoman must have swung by her lodgings, for despite having had Skiritai class this afternoon she wore a fitted regular’s uniform. Like most clothes, Angharad wore these well: she was tall and shapely, which did not hurt, and had the effortless posture of someone whose fingers had been smacked when she did not sit straight as a child. The gloves were new, though. The same she had worn in Warfare.
+
+The braids had been redone recently, Song noted, and her face was schooled into a polite society mask. A taught thing, that. Song would know, having learned the same at her mother’s knee.
+
+She had always seen just enough of herself in Angharad Tredegar to make mistakes over her.
+
+“Song,” the Pereduri greeted her.
+
+“Angharad,” she replied. “Please, be seated.”
+
+They hardly waited three breaths before a servant was with them, asking what might suit the lady. Wine, to Song’s mild surprise. There was some small talk, but short and halting. Neither of them felt like getting into it with the conversation that loomed. Their orders arrived together, perfectly timed, and the servant retreated after another bow. Song sipped at her tea. Exquisite, as everything served in the Emerald Vaults always was.
+
+“I received a letter from my granduncle,” she said. “It shed some light on what you implied when we spoke yesterday.”
+
+Uncle Zhuge had been unusually loquacious in that letter, even. He usually preferred to speak instead of committing anything to paper, the well-honed instinct of a man who had spent decades in one of the most cutthroat Garrison postings around. This time, though, he had laid out details – even if through implication and idiom, careful to give nothing a Mask reading that letter might be able to use. Reading between the lines, the situation on Asphodel significantly had changed due to the Rectorate’s find beneath their island – long believed emptied of all Antediluvian treasures.
+
+Instead all the great powers were eyeing that shipyard and the find of tomic alloys hungrily. Diplomats, spies and saboteurs would be sailing the way of Asphodel even as he wrote and civil war on the island was nearly sure to ensue. As the Watch had contracts with the Rectorate, the tests were now likely to take place during civil strife. A significantly greater of risk for the students than what had been desired.
+
+The trouble, after that, had been making the massive bureaucracy of the Watch actually do something about it.
+
+“My uncle informed me it was a significant effort to get the tests pushed up,” Angharad shared.
+
+Song almost hummed. Vague talk, likely repeating the words of the man in question. The Pereduri had not actually been told the details, then, despite having one of the main actors present. Song’s own letter, despite becoming a veritable garden of euphemisms when reaching the matter of politics, had been rather more informative on the subject.
+
+“It would be career suicide for them to try and take this back, if you were considering it,” Song told her. “They had to bring a motion to the Conclave while it was in session.”
+
+Angharad blinked.
+
+“I thought Tolomontera under the authority of the Obscure Committee, no longer the general Conclave,” she said.
+
+Song nodded.
+
+“That is correct,” she said. “But that committee was granted that authority by a sealed session – meaning it cannot be formally appealed to the way an open committee would be. In other words, since it does not openly exist it cannot be directly petitioned.”
+
+“Surely the Conclave would dismiss any motion regarding these matters regardless,” Angharad frowned. “It would be contradicting its own grant of authority otherwise.”
+
+“Indeed,” Song agreed. “And the first quarter of any session of the Conclave is usually dedicated to dismissing such improper petitions. Theirs was added to that docket directly – the trick, you see, was to have it dismissed in the right way.”
+
+The Pereduri looked a little lost, so she took pity on her.
+
+“There are two manners of dismissal,” Song explained. “The first is ‘peremptory’ – that is, immediately thrown out. The second is ‘assignation’, when the Conclave deems there is already a committee in charge of this matter and sends the petition to them.”
+
+“The dismissal being of the second sort would see their petition sent to the Obscure Committee,” Angharad slowly said. “Is that it?”
+
+Song smiled and sipped at her tea. A simple sentence but not so simple an achievement. The Conclave was a cutthroat arena of rival factions, so unless votes were mustered for your improper petition in advance – by reaching out to factions that would whip up the votes, or brokers that could deliver a bloc beholden to them – such petitions were always dismissed peremptorily. Uncle Zhuge had made a veiled reference to playing off two Garrison factions against each other and trading some favors to free company brokers.
+
+They had still only narrowly reached the threshold for assignation, a mere five votes above the line.
+
+“Essentially,” Song replied. “The powers brought into the matter were not insignificant, Angharad. If they were then humiliated by the motion they supported being retracted by the very officers that brought it forwards…”
+
+“They would take revenge for that egg on their face,” Angharad flatly said. “Wielding the very same influence that was called on.”
+
+There had been no way for Uncle Zhuge to know that Song’s brigade would come so close to splitting at the seams within a month of making it to Scholomance. He had assumed competence on her part, and it shamed her that she had proved him wrong.
+
+“Part of the bargain struck between our sponsors was aid and preferential treatment from your uncle, given his direct involvement in the journey,” Song delicately said. “It is not impossible for his part to be held up while you are not part of the Thirteenth. There are other brigades going to Asphodel.”
+
+Angharad snorted.
+
+“Which am I to choose – Tupoc’s lot, the Eleventh or the Nineteenth?”
+
+Song hid her surprise. The Forty-Ninth, which had been the fourth on her uncle’s list, had been disbanded and thus could not feasibly participate. She had not known who would replace them, however. Osian Tredegar must have told his niece.
+
+“I was under the impression you were on fair terms with Captain Langa,” she said instead.
+
+Angharad’s lips thinned.
+
+“Not so fine as that,” she curtly said. “I would not go under Imani Langa’s command.”
+
+Song sipped at her delightful tea, choosing her words with care. Were Commander Tredegar not present on the island and one of the leading officers of their expedition to Asphodel besides, she might have been tempted to wield strong words here. With the man in consideration, though, she could not. Osian Tredegar had proved himself a fierce and ruthless actor in the defense of his niece.
+
+“I will take your word on it,” Song said. “Yet this brings us to similar trouble: were you to sail out with the Thirteenth, you would be under my command.”
+
+A pause to let her light words sink in.
+
+“You have expressed an unwillingness for this in the past.”
+
+Angharad’s jaw locked.
+
+“I would not shame you by refusing an order before others, but I-”
+
+“No,” Song flatly interrupted. “Allow me to be perfectly clear: if you walk around as part of the Thirteenth and I am made responsible for your actions, you will be subject to my authority. If you cannot tolerate this, there are two other brigades for you to pick from.”
+
+“I have given my reasons for not wanting to be under your command,” Angharad stiffly said.
+
+“That is your prerogative,” Song said. “As it is mine to refuse taking on a soldier who has told me they’ve no intention of obeying me.”
+
+“And the others will?” she bit out. “Tristan and Maryam-”
+
+“Are none of your concern,” Song coldly replied.
+
+“You cannot go to Asphodel with only three cabalists,” Angharad replied just as coldly.
+
+Ah, predictable. Song had seen that one coming, and indeed spent part of the day wondering who she should round out the Thirteenth with should Anghard not intend to accompany them. A fighter, it would have to be, but who would agree? The difficulty was in finding someone who would be willing to leap feet first into the pit when they could instead wait and take their test when better prepared.
+
+The solution had, therefore, been to find someone already in the pit.
+
+“I expect it would take me somewhere around an hour to secure another Skiritai,” Song said. “There happens to be one deeply in my debt and eager to clear his name.”
+
+One of the few ways Muchen He’s reputation could be salvaged when it came out what the Forty-Ninth had been involved in would be a display of trust from his purported victim – like, say, Tristan Abrascal publicly welcoming him into the Thirteenth Brigade. Rumors that Muchen had been Song’s spy and collaborator would begin sprouting without even need for sowing.
+
+That the man would accept was not really in doubt; if Song would have to ask still was.
+
+Angharad frowned but did not call her a liar. There was still enough respect between them for that, or at least the Pereduri thought it possible she might not be lying despite knowing little of the affair. The Pereduri grimaced.
+
+“I am not wrong, for not wanting to take your orders,” she insisted.
+
+“Neither am I for refusing to be responsible for someone else’s cabalist,” Song replied.
+
+She drained the rest of her cup.
+
+“Good tea,” she said. “There is still time before we leave, Angharad. You know my terms – if they do not suit, speak with the other captains.”
+
+She made to rise, but Angharad put a hand on her forearm to hold her back.
+
+“That is,” the dark-skinned woman said, then swallowed, “please sit down.”
+
+“It seems to me this conversation has come to a natural end,” Song gently said.
+
+She flicked a steady glance at Angharad’s gloved hand. She withdrew it as if burned.
+
+“I understand how what I asked would be unacceptable for you,” Angharad said. “It’s, I-”
+
+She sighed, kneading her forehead. The sign of weakness was so unlike her that Song slowly slid back into her seat.
+
+“I was overly confrontational, given what I requested,” Angharad said. “For that I apologize. I slept poorly and find myself in a difficult mood.”
+
+Song’s eyes narrowed. That was one time too many she acted out of sorts. It would be irresponsible not to investigate, a failure of her duty as a watchwoman.
+
+“Your gloves,” she said. “Why are you wearing them?”
+
+Angharad blinked.
+
+“It is a cool day,” she said.
+
+No cooler than the last.
+
+“Did you buy them today?” Song pressed.
+
+“I,” Angharad frowned. “Yes, I think?”
+
+Memory irregularities. Second string.
+
+“Ah,” Song said, putting on a pleasant smile. “Let us continue the conversation, regardless. Would you call the waiter?”
+
+Angharad jerkily nodded, leaning out of the gazebo to catch the man’s eye, and the moment she was facing the wrong way Song smoothly drew her pistol and pointed it at her chest. Angharad stiffened.
+
+“Song, what in the name of-”
+
+“Do not turn,” Song calmly replied, “or I will pull that trigger. Your brigade plaque, is it on you?”
+
+“In my pocket, yes,” Angharad angrily replied. “What is this?”
+
+“Take it out,” she said.
+
+Visibly furious, the Pereduri began to reach for it but Song clicked her tongue.
+
+“Take off the gloves first,” she said.
+
+Angharad blinked, as if confused.
+
+“What?”
+
+“Take off the gloves first,” Song slowly repeated.
+
+“I don’t understand,” Angharad slurred, speaking if through molasses. “What do you-”
+
+Song cocked her pistol. Fear should push through.
+
+“Take off your gloves and put the plaque in the palm of your hand,” she ordered. “Right now.”
+
+Angharad blinked in confusion, but she tugged off a glove and plucked out the silvery plaque.
+
+“What now?” she scorned, holding it up. “Am I to-”
+
+The smell of burning flesh stole the words out of both their mouths. Third string. A heartbeat later the creature began screaming through Angharad Tredegar’s mouth and it all went to the dogs.
+
+For once in her life, it brought Song Ren no pleasure to have been right.
 
