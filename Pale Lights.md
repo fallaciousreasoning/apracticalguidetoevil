@@ -43623,3 +43623,491 @@ The smell of burning flesh stole the words out of both their mouths. Third strin
 
 For once in her life, it brought Song Ren no pleasure to have been right.
 
+# Chapter 38
+
+Song put on her formal uniform for the hospital visit.
+
+It was a gesture of respect, at least to her people, and she suspected that were she awake Angharad would understand better than most. Malani lived and died by appearances, after all. By now the way to the healing ward was almost painfully familiar, but she refrained from heading there directly after her Strategy class ended. If she did, the odds were decent she would run into the Thirty-First on a visit of their own.
+
+The prospect of making stilted small talk with Ferranda Villazur and her cabal over Angharad’s unconscious form was rather unpalatable, so she held back until late in the afternoon.
+
+Tristan was busy losing a battle of wits with a bird – one that her eyes confirmed was no lemure, thankfully – and Song had not even bothered asking Maryam if she wanted to join her on the visit, so it was alone she stood as she reached the gates of the hospital. The bored pair of guards at the gate waved her in after asking for her brigade seal, hardly even glancing at it.
+
+The gray-robed attendant at the front was rather more dutiful, noting the number on the seal and asking who she sought to visit and why.
+
+“Angharad Tredegar,” Song replied. “Merely to look in on her.”
+
+The other woman nodded, writing it out in Antigua. But a few years older than Song, the stranger had the Cathayan look and must have been raised back in Tianxia for she had a thick eastern accent.
+
+“Wendi?” Song curiously asked, accenting the word as they did out east.
+
+The gray-robed attendant started in surprise, then smiled.
+
+“I lived in the republic until the age of ten, yes,” she replied in Machin.
+
+The eastern dialect was older than proper Cathayan, but shared common roots with the dead tongue that Cathayan had been carved out from – it made everything said in it sound rather stiff, which was why in plays the common conceit about characters from the Republic of Wendi was that they were pompous blowhards. Likely it did not help that the Duchy of Wendi had been the last Tianxi realm to become a republic.
+
+“By the accent I would call you a Mazu girl, but the name tells me otherwise,” she continued.
+
+Song’s lips thinned. It had not been safe for the Ren to stay in Jigong, after the Dimming. Part of the deal her grandfather had cut was for the authorities to allow the family to head into exile. Her father had relatives in the Republic of Mazu, who had granted the Ren use of a country estate before distancing themselves from the family as much as they could without breaking zunyan.
+
+While Song had been raised almost entirely by those born in Jigong, it was not the first time she heard that there was a tinge of the Mazu crispness to her way of speaking. Exile took its toll in small ways as well as the great.
+
+“Is my cabalist in a private room?” she asked, firmly moving away from the subject.
+
+The estate in Mazu had but a small household guard protecting it. It was secrecy that had let it remain untouched, and Song had no intention of speaking on the matter of where exactly she had lived before enrolling in the Watch.
+
+“She is in one of the wards, yes,” the attendant briskly replied. “While there is no guard, only restricted access, you will have to undertake a Judas test before entering after leaving.”
+
+Wise, considering the dangers of possession. Song placed her hand against what appeared to be a nail-sized piece of brumal silver – worth as much as a diamond of the same weight – and waited out the appropriate length of time, casually eyeing the attendant’s open ledger. She glimpsed there the names of Ferranda Villazur and Zenzele Duma writ on different lines, as well as “C. Tred.” appended at the end of those same lines.
+
+As Ferranda was not formally Angharad’s captain, Song realized, the infanzona had likely been refused entry and been forced to seek permission from someone who could grant it. Captain Wen should have been the one consulted, but with Angharad’s own high-ranking uncle present the gray robes must have felt comfortable bending the rules some.
+
+The notion of Ferranda having to jump through some hoops amused, unkind as the thought was. While the other captain had not poached so much as picked up, it had not endeared her to Song either way.
+
+The attendant from Wendi marked an X after Song’s name when the Judas test ended, then declared her free to visit. The directions led her to a ward across the hall and further down than the one where she had been laid to rest after the attack, but it was not a long walk. The door did not make a sound as she cracked it open, well oiled, and neither did it when she closed it behind her.
+
+There was only a single oil lamp lit inside, but Song did not reach for another: it made little difference to her eyes. Laid on the bed was Angharad Tredegar, tucked under her sheets.
+
+Her wrists were tied to the head of the bed by shackles.
+
+Song sighed and slid into the seat to the right of the bed. The other woman was, well… physically she looked mostly fine. A small burn on her palm where the brigade seal had touched flesh and some bruising on the cheeks from when she had been wrestled down onto the ground. Calling what had followed the outing of her possession a brawl would be doing it too much honor.
+
+The parasite in her mind had bade her to run and she had, but Song shouting about possession mobilized a garden’s worth of students in a heartbeat and Angharad was wrestled down without truly fighting back – she’d not been so far gone as to turn on watchmen. Save for some attempts to buck those holding her down, the Pereduri had given them little trouble before the garrison arrived to seize her.
+
+Whatever the officers had done after taking her away, though, left marks: her face was wan, her expression sickly and she covered in old sweat. No visible wounds, but how much did that really mean when dealing with an aether entity? The door was soundless, so it was the change in the air that tipped off Song – her hand reaching for her pistol by reflex, until she caught sight of a black coat and forced herself to pull it away.
+
+The stranger stepped through, raising an eyebrow.
+
+“Ancestors, it’s dark in here,” the man who could only be Commander Osian Tredegar said. “Light another lamp, would you?”
+
+“Sir,” she said, rising to her feet and saluting.
+
+“This isn’t a parade ground, at ease,” the man snorted. “The lamp, yes?”
+
+Song swiftly got to it, sneaking a look at Angharad’s uncle from the side as she reached for the matches. The two Tredegars only shared some looks – mostly the nose – but the ring on Osian’s hand bearing the two-tailed snake of House Tredegar confirmed the relation. He was, Song noted, taller than Angharad and in fine shape for an Umuthi. Very fine shape, she noticed, eyes lingering on those broad shoulders. That finely cut beard lent him the look of a distinguished older man, and he had an easy smile.
+
+A smile currently directed at her, because she had been caught looking.
+
+Clearing her throat and looking away with burning cheeks, Song lit a second oil lamp and tried not to turn into cinders from sheer mortification.
+
+“Sit,” Commander Tredegar invited, still smiling. “As her captain, you are entitled to know of her health.”
+
+Song slid back into her seat, yet feeling like she should be snapping a salute as she did.
+
+“I am surprised to see her still bound,” she admitted.
+
+“Standard procedure after possession,” Osian Tredegar dismissed as he settled in a seat on the other side of his niece. “Tomorrow they will test her again with brumal silver to confirm she is free of the parasite, but there is no expectation that anything remains.”
+
+“Glad news,” Song said, and meant it.
+
+“Some of the few to come out of this mess,” the older man sighed. “You have my thanks for acting when you did, Captain Ren. It was a… close shave, I have since been made to understand.”
+
+Song almost winced. A close shave with an aether parasite was sure to leave marks even if you survived it.
+
+“Yes, that is about the right reaction,” Commander Tredegar agreed, seeing through her restraint. “The dollmaker did a number on her: she will not be able to walk without help for weeks and it will take weeks more before she is anywhere near a fighting fit.”
+
+She raised an eyebrow.
+
+“That may cause difficulties with her Skiritai class,” Song said.
+
+“Between the coming departure for Asphodel and her having psychosomatic wounds, she will be exempt from the monster-fighting,” Osian Tredegar said.
+
+There was enough confidence in his voice that the should sounded like a will, which Song was aggrieved to admit she found rather attractive. He probably did not even write poetry, she told herself. There was no need to admire him too much.
+
+“I expect Marshal de la Tavarin will find something else to occupy her,” she said, definitely not blushing.
+
+“No doubt,” Commander Tredegar agreed. “The man’s dossier has more seals stamped on than a tourney board and any Skiritai that lives past sixty has a record to make Ramayan novels seem tame.”
+
+Song made a disgusted moue at the mention of those things masquerading as literature. The Yellow Earth was right to try and have them banned, they were blatant propaganda: the ‘charming’ Ramayan captains always ended up tumbling doe-eyed, beautiful Tianxi maidens from an old noble family dispossessed by wicked, greedy revolutionary merchants. Which were not at all like the virtuous, appropriately money-oriented Ramayan merchants exalted by such tales.
+
+Even worse, the authors cribbed from each other’s monologues. Song could forgive propaganda but not plagiarism.
+
+“A fearful thing to consider,” she drily replied.
+
+He smirked, settling more comfortably in his seat, and did not deny it.
+
+“It was good of you to come and visit,” Commander Tredegar told her.
+
+His tone sounded approving, which she did not think warranted.
+
+“I am still her captain,” Song said.
+
+“On paper,” the older man said, then cocked an eyebrow. “I must admit that Angharad was rather vague on the reasons why she believes there must be a parting of ways between you. What happened?”
+
+Song’s lips thinned. In principle, she did not have to answer that question. While Osian Tredegar was a superior officer, he was not her superior officer. He would be when they left for Asphodel, however, so even had she been truly reluctant to tell him she would have been wary of poisoning the well.
+
+“We had a disagreement over the death of Lady Isabel Ruesta,” she finally said. “It took place back on the Dominion but she since learned details of it.”
+
+The dark-skinned man frowned, though not at her. He was fighting to recall the name, and after a few moments the frown went away.
+
+“The infanzona with the borderline contract,” Osian Tredegar said. “Some sort of supernatural charm?”
+
+Song nodded. Close enough. It was interesting to hear that Isabel Ruesta had been marked as an edge case. Mind control contracts were forbidden under the Iscariot Accords, but the Accords’ throughline was that they should govern only supernatural matters – and the most insidious part of Isabel’s contract, how it trained perception, was not something forced on by the contracted god.
+
+The contract helped setting that perception, certainty, but it did not force it onto a mind. To declare it illegal on that basis would have been difficult, given that purely mundane social maneuvering could achieve much the same effect.
+
+“She took a bullet to the head,” the silver-eyed woman mildly replied.
+
+Commander Tredegar snorted.
+
+“Well, these things happen when you go around using charm contracts on people,” he said, then raised an eyebrow. “I take it my niece was involved with Lady Ruesta?”
+
+“Despite every attempt at fostering better judgment, yes,” Song darkly replied.
+
+To her surprise, she was faced with what appeared to be genuine sympathy.
+
+“Her mother had dreadful taste in lovers as well,” Osian Tredegar sighed. “Angharad comes by it honestly.”
+
+He paused.
+
+“Given the fool gallantry that infects Peredur like an honorable outbreak of the clap, I expect my niece would take poorly to a woman she was courting having an accident.”
+
+“You seem indifferent to the notion,” Song observed.
+
+“If the Ruesta girl was using a contract on Angharad, I’m more likely to give a medal than a reprimand to whoever put an end to it,” Commander Tredegar said.
+
+Though there was an implicit invitation there, Song kept silent. After a moment, the dark-skinned man inclined his head in acknowledgement. He would not press the matter and she had no intention of speaking further on it.
+
+“Despite your disagreement,” he said, “she seems to believe staying with the Thirteenth for Asphodel is the wisest course.”
+
+“She implied as much,” Song warily said. “We were discussing terms when I noticed the discrepancies in her behavior.”
+
+Commander Tredegar grunted in acknowledgement, and she was glad he did not ask any further. It was to his honor that the man knew where to draw the line in where to meddle – while the commander could have forced Song to take in his niece without any terms at all, the Tianxi would have been rather soured on the affair if he had.
+
+“Regardless of where that matter falls, I am to give you a hand in the coming months,” Osian Tredegar said. “Colonel Zhuge arranged for my appointment as the Umuthi instructor, which grants me some influence in choosing which brigade will get which assignment when we reach Asphodel. You will be provided the opportunity to choose when the time comes.”
+
+“You have my thanks,” Song said, inclining her head.
+
+He smiled thinly.
+
+“I have no intention of ever crossing Shilin Zhuge,” he said. “He might have that scholarly Tianxi pleasantness down to an art, girl, but he also puts up on his wall the calligraphy of rivals whose careers he buried.”
+
+Commander Tredegar leaned.
+
+“However polite it may be, it is still a row of bloody scalps.”
+
+Now that was uncalled for. It was only proper for a respected scholar to display calligraphy and reflect on the hand of those encountered. She cleared her throat.
+
+“One’s handwriting reveals much of one’s character, and thus helps grasp their virtues and flaws,” Song said, a tad reproachfully.
+
+Just a tad. He was still a commander.
+
+“So the Tianxi claim, yes,” Osian Tredegar drawled. “I must confess to a degree of skepticism on the matter.”
+
+He dismissed the conversation with a wave of the hand before she could reply, rising to his feet.
+
+“I have already taken up too much of your time,” he said. “I will leave you to your visit.”
+
+“That is kind of you,” Song said.
+
+Part of her was considering if she should stay longer than she had first planned since he might be there to pay attention to the length of the visit. Perhaps she should have brought a book. The tall man slowed by the door, then half-turned with an idle look on his face.
+
+“Oh, one last thing,” Commander Tredegar said. “I am curious – do you have any notion of why my niece might have entered a layer?”
+
+She blinked in surprise.
+
+“None,” Song said. “She would not have done so on purpose, I expect: another of the Thirteenth entered a layer by accident, earlier this term, and in the aftermath our Navigator made it very clear how dangerous it is.”
+
+She cocked her head to the side.
+
+“Is that where she encountered the mara?”
+
+“We cannot know for sure before she wakes,” Osian Tredegar precisely replied, but his face was grim.
+
+He inclined his head.
+
+“Thank you for your time, Captain Ren.”
+
+“And yours, commander,” she murmured, returning the gesture.
+
+The door closed behind him with nary a sound and her silver eyes flicked to his niece’s sleeping form as silence settled on the room. What have you been up to, Angharad?
+
+Song Ren found she had no idea, and that worried her more than she cared to admit.
+
+—
+
+Angharad woke with a headache drumming against the inside of her skull.
+
+She groaned, her body throbbing with a dull pain settled deepest in her bones. Eyes fluttering open, she found herself looking at a stone ceiling bathed in lantern light – she tried to get up, but the muscles of her midriff were like jelly. She twitched once, then fell back onto the pillows propping her up. A hand came to rest on her forehead.
+
+“Easy now.”
+
+She craned her neck to the left, but it was as if she were watching through a looking glass. She blinked forcefully, feeling filth caked up on the corner of the eye, and the vagueness came into focus. Osian Tredegar was standing over her. There were dark circles around his eyes. Angharad tried to speak up but her mouth was dry at sand. She licked at her cracked lips, but it helped nothing. She coughed.
+
+“Wait a moment,” Uncle Osian said.
+
+He leaned back while Angharad’s tongue sought the wet of her own spit, trying to remember how she had ended up here. It came to her after a heartbeat. The layer, the ambush. Song drawing a pistol on her, then the distant recollection of ripping down a curtain of silk and being tackled into a bed of flowers.
+
+ “How long?” she managed to rasp out.
+
+“Three days,” Osian replied, then clicked his tongue. “Lean back a little.”
+
+She obeyed as best she could, even that small movement difficult. He poured the water into her mouth, gently, and part of her could not help but think of that woman in the layer. What had her name been? Miren. Miren, she’d been called. Angharad drank down gulp after gulp until he eased off the skin, then licked her lips. They were just as cracked as before, only wet. She leaned back down into the bed, letting out a rattling sigh.
+
+“My bones hurt,” she got out.
+
+“It is a psychosomatic injury,” Uncle Osian told her. “Your bones have not been physically hurt, but the damage done to your soul is resonating with your body.”
+
+A pause.
+
+“Bones and aching are good signs,” he added. “Sharp, localized pain is often the herald of permanent damage.”
+
+Angharad swallowed.
+
+“What happened?”
+
+“Captain Ren figured out you were possessed and called on help to wrestle you down until the garrison could take you into custody,” her uncle said. “The first purging attempt went poorly, so you were drowned before a second was made.”
+
+Her fingers clawed into the sheets.
+
+“Drowned?”
+
+“In sea water,” he added, as if that were the part that mattered. “A temporary measure, Angharad. You were immediately resuscitated, as is done with sailors. It weakened the mara enough it could be expunged without… drastic measures.”
+
+“Drowning is not drastic?” she asked.
+
+“No,” he mildly said. “It is not the silver casket, or trepanation. Count yourself lucky the parasite did not have longer to burrow into you, else there would have been no choice but to use these.”
+
+Angharad’s eyes were weak, everything out of her direct stare trembling, but that mildness warned her and watching her uncle’s face confirmed it: he was furious. A tight, contained sort of fury but fury nonetheless.
+
+“Uncle?” she asked.
+
+“I am told,” Osian continued with a forceful calm, “that the entrance wound into your soul was unusually neat. Such injuries, I am again told, usually occur when the soul is attacked while outside its mortal shell. As it would be when walking a layer.”
+
+She swallowed. The urge was there to walk the line, try to dance around with words, but she pushed it down. Angharad could barely even think straight, and he was owed better anyhow.
+
+“The Witching Hour,” she admitted. “It felt like a small cut, nothing more. I did not know my opponents were maras.”
+
+Was that why they had moved so strangely? It must be why they had vanished after scoring a single blow, anyhow. Commander Osian Tredegar leaned back his chair, face calm as a windless pond but his dark eyes burning.
+
+“Do you know what a mara does to someone, when given time?”
+
+She weakly shook her head.
+
+“To enter it first takes a bite of your soul,” Uncle Osian said. “Then it presses itself into that gape, replacing it, and begins spreading through you like roots.”
+
+His tone was the sort of even that came from forcing yourself not to shout.
+
+“It eats your memories, your very being to spread,” he said. “First the parts that know its existence and how to get rid of it. By then, it has influence enough it can begin to nudge you – urge decisions that are felt to be whims or fancies.”
+
+His fingers drummed against the arm of the chair, just a little too hard to be quiet.
+
+“After that the mara begins eating the parts of you that know how to talk,” Osian said. “Then those that know how to move. When it has that, it will make you head into isolation so it can hollow you out entirely away from witnesses.”
+
+He closed his eyes.
+
+“Men call the creatures dollmakers because that is what returns afterwards: a doll moved around by the mara, passing as whom it used to be while the parasite looks for its next prey.”
+
+The fingers had ceased drumming. Now they were clutching the end of the armchair, hard enough it creaked in protest.
+
+“What in bloody-handed Branwen were you thinking, girl?” he snarled. “Heading into a layer on your own, without a Navigator or so much as an ally to pick you up should you be unable to walk home afterwards. Are youtrying to get yourself killed?”
+
+Angharad looked away. She was not a child, to be chided so.
+
+“It went fine, until the very end,” she said.
+
+“You were fucking hours away from no longer knowing how to talk, Angharad,” Osian half-shouted, then closed his eyes.
+
+He took a deep breath, ripped his hands off the chair and closed them into fists before setting back down gently. His teeth were clenched when he began talking again, but his voice had lowered.
+
+“If your captain had not, with admirable wits, caught on to your situation you would currently have all the vocabulary of ten-year-old child,” Osian said.
+
+She looked down at the hands in her lap.
+
+“I underestimated the risks,” she admitted.
+
+“You overestimated yourself,” he harshly corrected. “As things stand, it might well be months before you cease having shaking fits. Even when you grow able to stand you will require the use of cane.”
+
+She breathed in sharply, panic rising.
+
+“But it is not…”
+
+“Permanent?” Osian finished. “No, lucky you. The senior Akelarre in port lent a hand and tricked the mara into leaving with only minor damage. Some memory loss was inevitable the moment it ate part of your soul and your wits will remain fragile for a few days yet, but most of the damage was psychosomatic. When the mara ripped itself out of your soul, it was not gentle.”
+
+Angharad bit her lip. Part of her felt like weeping, if only out of frustration. At having lost things she would not even remember, but worse yet at what it meant that she would be unable to move around without a cane. She could not head back into the Witching Hour. To try that dark night without being able to run was suicide in long form.
+
+And as that realization did sink it, she closed her eyes and let her head sink into the pillow.
+
+She swallowed the sob, for what good would it do? This was it, then. She had failed so utterly she could not even try again. Her last chance of seeing her father, of ever freeing him, had just slipped through her fingers because she was the sort of fool to hesitate when shown the same face twice in a dream. The sounds that ripped themselves out of her stole the wind out of her uncle’s sail. She heard him sight, and when she opened his eyes he was rubbing at the bridge of his nose.
+
+He looked as exhausted as she felt: another failure for the pile.
+
+“Why?” he tiredly asked. “Tell me that, at least. Why did you insist on going gallivanting through a murderous aether nightmare? You entered through the same passage as the boy in your brigade, it was not a coincidence.”
+
+“I-”
+
+Cannot was on her lips, but it would be a lie.
+
+“It was not for me,” she finally choked out. “But on the behest of another.”
+
+Her uncle’s eyes hardened.
+
+“No teacher would be fool enough to send you into a layer so unprepared,” he said. “Who?”
+
+“I was not forced,” Angharad said.
+
+“That does not mean you were not leveraged,” he flatly replied. “Who, Angharad?”
+
+She lowered her gaze.
+
+“It might be unwise to say,” she got out.
+
+There was a long moment of silence, then Osian Tredegar softly cursed.
+
+“It’s the ufudu, isn’t it? This all reeks to Hell of the Lefthand House.”
+
+It was over, then. Even the suspicion was enough to finish this. She was finished. What point was there in hiding anything now, in even trying to lie? Angharad swallowed, then nodded. She felt so sick to the stomach that if she spoke she would start to throw up and never stop.
+
+“They shouldn’t have anything on you that,” he began, then stopped. “Llanw Hall. Someone survived. They stole someone out of the ashes?”
+
+“Father still lives,” she croaked. “I was shown a drawing of him with an arm missing. But uncle he’s – they tell me he’s kept in Tintavel.”
+
+Beyond the Watch’s reach. Beyond everyone but the Lefthand House’s.
+
+“Gwydion,” Osian Tredegar said, speaking the name like it was the worst sort of curse. “Of course Gwydion survived it all and now comes back to haunt us all. I should have bloody known.”
+
+“The Watch can’t get me into the Black Mountain,” Angharad desperately said. “But the Lefthand House-”
+
+He cut her off with a sharp gesture.
+
+“Will deliver just enough of what they promised you to keep you on the hook and never a drop more,” Osian said. “To them things are most profitable with your father inside Tintavel and you willing to do most anything to get him out.”
+
+“You think I don’t know that?” Angharad snarled back. “I’m not a fool, uncle, I know I can’t trust the ufudu.”
+
+She clenched her fist.
+
+“But what else is there?” she desperately. “What else am I supposed to do, just leave him to die in there? I can see no other way. Crooks they may be, but they are the only ones offering.”
+
+“What did they ask you to do?” Osian asked.
+
+She hesitated.
+
+“Child,” he gently said, “either you can tell me now or we can have that conversation with a Mask in the room.”
+
+She licked her cracked lips.
+
+“The Infernal Forge,” Angharad said. “The one the Lightbringer is said to have tossed into the aether when Tolomontera fell to the Watch.”
+
+“Of all the raving lunacies,” her uncle said, rubbing at his forehead, then frowned. “No, no. Of course the High Queen is after one, word is the Krypteia smashed her last a few years back. The ufudu are even toeing the lines of the Iscariot Accords – they’re not taking the device, they’re coming into its possession.”
+
+Angharad frowned, lost.
+
+“What do the Accords have to do with this?” she asked.
+
+“Having Infernal Forges is forbidden under them, save for those in the Watch’s vaults and those within the walls of Pandemonium,” Osian said. “But the wording had to be careful, for many were hidden in the wake of the Second Empire’s fall  and no power would agree to unknowing possession being an Accords breach. Else having one buried in your countryside could get you interdicted.”
+
+“So it is allowed?” she slowly said.
+
+“No,” he said. “Having one in your nation’s ‘possession’ is not illegal but using them, studying them, hiding them and seeking to obtain an Infernal Forge is.”
+
+Angharad blinked, confounded.
+
+“But I am being solicited for this task,” she said, “surely…”
+
+“Surely, if proof ever emerges of it, the High Queen will apologize for the actions of a cell of rogue ufudu and execute those involved as an apology,” Uncle Osian said. “If the Forge makes it to a hidden facility, she will line up some minor noble ‘aiming to usurp her’ to take the fall and lose his head should the Krypteia sniff out the lair and bring proof of its existence too solid to deny.”
+
+Now she felt sick in an entirely different way.
+
+“That is obscene,” she said.
+
+“It has happened at least twice I know of,” Osian replied. “Not in my lifetime, but the last was as recent as the second decade of the Century of Sails.”
+
+Not even a hundred years ago.
+
+“It is the Queen Perpetual herself who signed the Iscariot Accords,” Angharad insisted. “With her own hand. The sheer dishonor of breaking her own word…”
+
+“Oh, she ever respects her word,” Osian mildly said. “Only sometimes her subjects do not. Out of her sight, of course, and she rectifies this when it is brought to her attention. What else can be asked of her?”
+
+Angharad opened her mouth to object, but the older man gestured curtly.
+
+“We can have that talk some other time, when the both of us are better rested,” he said. “The ufudu is the one that sent you into the layer?”
+
+“They said the Infernal Forge should be in one of them,” Angharad said.
+
+“It might well be,” Osian said, “but you are unsuited to finding it. A sword only gets you so far in a layer. Navigators are the answer and they have tried and failed to obtain the Forge in the years Scholomance was closed. Although…”
+
+He frowned.
+
+“Aether responds to strong emanations,” Osian said. “A focused enough sense of need could have served as a compass of sorts. One growing stronger the more urgent the need became. Were you given a date?”
+
+“The end of the year,” Angharad quietly said.
+
+She bit her lip. It was out now, but part of her could not help but tremble at what was yet to come. But there was a wild hope, that her uncle might help her through her failure. If he lent a hand, surely…
+
+“Uncle, I know I cannot-”
+
+“No,” he coldly cut, “you cannot. I will not turn my back on my oaths to the Watch and ignore this.”
+
+Horrible as that end was, there was also some relief. It was out of her hands, now.
+
+“I will confess it all, then,” she tiredly said.
+
+“Had you done anything worth confessing, that would be good of you,” Osian mildly said. “But you have not. The worst you can be accused of is not immediately reporting an agent of the Lefthand House, but that is not against the rules on Tolomontera.”
+
+“So you want me to… cease,” she said.
+
+He eyed her for a long moment.
+
+“I could ask,” he said. “But you won’t, will you?”
+
+Her fists clenched, however weakly. Angharad said nothing. It was better than lying.
+
+“If you return to the layer in this state, you will die,” he plainly said.
+
+“Then I will arrange for others to do so on my behalf,” she replied. “Beg and bargain as I must.”
+
+“That will also get you killed,” Osian said. “It will make its way to someone who will look into it – either some Mask student looking to pass their class, or some Stripe looking to raise their score. You will be a commendation on their record by year’s end.”
+
+She gritted her teeth.
+
+“I cannot just abandon my father to die in a cell,” Angharad told him. “I know it would be wiser, uncle, the clever thing to do. But it is not who I am.”
+
+She breathed out.
+
+“I have only weeks until I must leave,” she said, “and while on Asphodel my search will have to end. I cannot-”
+
+“That,” Osian Tredegar softly said, “is not entirely true.”
+
+Her eyes fell on him, light as a feather. He passed a hand through his hair.
+
+“That cache found on Asphodel,” he said. “It is suspected to include an Infernal Forge, though the Rectorate has not reported as much.”
+
+Angharad swallowed.
+
+“You mean…”
+
+“I will not turn on the black, not even for my blood,” Osian said. “But were it to be obtained from the Rectorate instead, that would be… a pill I can swallow.”
+
+“You mean it?” she breathed out.
+
+His expression hardened.
+
+“Do not pin hopes on this,” Osian Tredegar said. “I will report suspicions that the Lefthand House got their hands on a Forge the moment their agents sail with it. That is as far as I will to bend, and ancestors willing the Second Fleet will catch that ship on its way back to Malan.”
+
+He grimaced.
+
+“But as far as that, I will help you,” he said.
+
+“Thank you,” Angharad almost wept. “Truly, uncle, there are no words-”
+
+“Do not thank me too soon,” he quietly said. “For this I want an oath of you.”
+
+She leaned in, so quick it hurt her tender neck.
+
+“Never again,” Osian said, “will you ask me to bend my oath to the Watch, or do the same.”
+
+Slowly she nodded.
+
+“And whoever that ufudu is?” he said. “We will cut their throat when the business is done. I’ll not have the sickness spreading any further.”
+
+A few weeks ago, Angharad might have balked at that. No longer.
+
+“I will wield the blade myself, when the time comes,” she promised.
+
+Osian breathed out.
+
+“All right, then,” he said. “Tell me everything.”
+
+She did.
+
