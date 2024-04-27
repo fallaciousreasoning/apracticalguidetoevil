@@ -45241,3 +45241,283 @@ Sakkas let a trill of agreement.
 
 The magpie let out a pleased cackle-call, Song blanched and Tristan only grinned wider. Yes, he decided as he stroked his bird, this would do nicely. It would do nicely indeed.
 
+# Chapter 40
+
+The galleon cast a long shadow across the dock, all of them waiting standing within it.
+
+It was barely three in the morning, and though Tristan was not unused to keeping night hours few of his companions shared the habit. Maryam kept leaning against him, half falling asleep on her feet, and he could only roll his eyes. Had she refrained from visiting the Abbey last afternoon she would be better rested, but now that Captain Yue had given her those eerie rings that helped with her Signs she was near obsessed with practice.
+
+Tredegar shuffled to his left, earning a curious glance as he absent-mindedly caught Maryam’s sleeve so she would not tip over. The dark-skinned noble had been uneasy since they left the Rainsparrow Hostel, tightly wound enough she’d looked like she wanted to decline when sailors had come down the ramp to take their bags onto the ship. There was something up with Tredegar these days, and he was growing increasingly sure it wasn’t some petty schoolyard affair.
+
+Someone laughed closer to the water, one of the instructors. Sound carried far out here, and the Allazei docks were somehow both empty and swarming. There were but a handful of garrison soldiers keeping an eye from their posts by the docks, but the great galleon called the Gallant Enterprise was a hive of activity – though now that the black-clad sailors had brought in all the crates it was the ship’s deck that was the heart of it.
+
+Not that the Thirteenth was alone on the docks, far from it, for all that the talk was sparse and quiet. Odds were that they’d only be sharing a ship with the others on the dock for a few days, but Tristan still found them worth assessing.
+
+Captain Wen had made it clear that should some disaster strike the student brigades could call on the Asphodel watchmen or the diplomatic flotilla, doing so without a great need would wreck their performance on the yearly test. The only people the Scholomance cabals would be able to call on were the instructors and each other. In other words, the muster that’d showed up here would be the available roster for their time abroad.
+
+He was far from the only one to have realized that. Song had been reading everyone’s contracts from under the brim of her hat and the others were looking at the Thirteenth just as intently – if without magic silver eyes. It was just the four of them standing together, too, as their patron had abandoned them in favor of an omelet cornet and ‘conversation with people I actually like’.
+
+Some of those out there Tristan was passingly familiar with.
+
+The Fourth kept clannish distance from everyone else, almost glaring, but Tristan noticed they were less skittish with each other than they had been at the start of the year. If Bait was to be believed the monthly fights for who got to have a name were mostly halfhearted formalities nowadays and the unpleasant names stuck on them had been used so much any sting had long been sanded off.
+
+Tupoc caught him looking and stared back with unblinking pale eyes, subtly mouthing ‘in your sleep’ before slicing a finger across his throat. Charming as ever.
+
+A new detail about the Fourth was how their patron, Lieutenant Mitra, was standing with them staring off at the distance. The Someshwari was narrow-faced but broad-shouldered, mostly standing out because of his unkempt hair and beard – both which spread about in long, disorderly strands. He also looked rather gloomy, helped along by eyes bearing dark circles. A glint of light caught on the ring he bore, prompting Tristan shake Maryam awake and discreetly gesture that way.
+
+“Does the ring mean anything?
+
+She blinked at him a moment, smacking her lips, and only then actually began seeing the things around her.
+
+“Um,” she eloquently replied. “Silver is the mark of a Master of the Guild?”
+
+He cocked an eyebrow, his next question silent. He was no Akelarre, to know whether a ‘Master’ should be counted some grand dignitary or messenger boy.
+
+“The captain on the Bluebell was a master as well,” Maryam said, blue eyes now fully awake.
+
+At that he hummed, nodding his thanks. Captain Sfizo had supposedly kept a horde of crazed lares from continuing to flood the ship before almost casually caging the Saint – though admittedly only after several had wounded it for him. Still. Lieutenant Mitra was not one to trifle with, then. Hage had once mentioned that most Akelarre did not take up ranks higher than captain by old custom, preferring to sort themselves by hidden ranks inside their guild instead.
+
+Song leaned in close to both of them, pitching her voice low.
+
+“This Qianfan, you know him?”
+
+Their gazes moved to the brigade standing closest to the Fourth, the Eleventh. That one bore relatively few surprises, but the Tianxi just mentioned had been one.
+
+Captain Imani Langa and Thando Fenya were mostly accounted for, as was their Skiritai hatchet man: a Sacromontan by the name of Salvador who Tristan would be giving a very wide berth. The man reeked of coterie in all the worst ways, and Tredegar apparently holding in him high esteem from shared Skiritai classes only made him deadlier to the rat’s eye. A killer who knew when to keep it in the sheath was twice as dangerous.
+
+Their fourth member was the aforementioned Qianfan, a tall Tianxi boy – and a Navigator student, hence Song’s question to Maryam.
+
+“Barely in passing,” Maryam replied. “He’s one of the most frequent visitors to the Abbey cells.”
+
+Like the Thirteenth, the Eleventh had been abandoned by their patron – he was one of the two chatting with Wen, a heavyset Lierganen man with a shaved head and face displaying fierce jowls and the broken jaw of a street tough. A deceptive appearance, as Lieutenant Joaquin was from the Peiling Society and a mathematician of some repute as well as their designated Mandate instructor.
+
+That decision was made all the more interesting by the identity of the third patron in that little circle: Captain Oratile was a Stripe, the patron to the Nineteenth and also the chosen Teratology instructor. That the dark-skinned Academician would not be the one teaching them Mandate had come as something of a surprise.
+
+The Nineteenth seemed surprised when she left them behind to join the other patrons, perhaps hinting at a soft hand overseeing them. Tristan looked that way the least, for… practical reasons. Tredegar cleared her throat softly, dark eyes staring the Nineteenth’s way, and he almost winced in advance.
+
+“That girl is still glaring at you,” Tredegar told him.
+
+Cressida Barboza, as it turned out, had not gotten the last Aetheric Warfare slot or forgiven him for his role in that outcome. Their captain wasn’t getting involved, at least – Tozi Poloko, she of the ridiculous haircut and lying eyes. Song liked the Izcalli officer some, but something about her reminded Tristan of those merchants that gouged desperate youths on bread prices and made it seem like a favor all the while.
+
+Beside the captain towered Izel Coyac, a broad-shouldered man with powerful arms and stubble for hair. Umuthi, Tristan had learned when he asked around, and regarded by other tinkers as both a skillful hand with a tool and a rather friendly fellow. Going by the hairlessness and what he suspected were bindings under the tunic at chest height, Coyac was also corregido – a man once believed a woman.
+
+The last of them, Kiran Agrawal, was another of Tredegar’s seemingly endless Skiritai acquaintances. The Someshwari spearman was friendly enough he’d come over to greet her, and he had the grooming habits of someone born to coin. No one else kept their beard and mustache that neat. Mind you, the jewelry alone would have told Tristan that: it looked like real gold. Song had quietly noted him to be a contractor, though she’d not elaborated.
+
+“Pretend you don’t notice,” Tristan whispered back.
+
+“A spurner lover, Tristan?” Tredegar teased. “Already?”
+
+Much as he balked in being made a figure of fun by someone who had thought Isabel Ruesta was in any way a good idea, getting scathing would only draw attention to them.
+
+“We had a slight disagreement over class scheduling, that’s all,” he vaguely replied. “Nothing too heated.”
+
+“That is not a heatless glare, Tristan,” Tredegar told him. “I have some expertise in spurned glaring, and would rank this firmly in the upper half of the species.”
+
+“How is Captain Imani, Angharad?” Song mildly asked.
+
+The Pereduri coughed into her fist, looked away and commented on the mildness of the breeze so early in the morning. Tristan shot Song and grateful look that she pretended not to notice, then let his attention drift to the last pair waiting on the docks. They stood away from the other instructors close to the ramp leading onto the galleon.
+
+Commander Osian Tredegar, Angharad’s uncle, was one of those roguishly fashionable types that infanzonas would cause a minor society scandal with before setting aside for a more respectable marriage. He was rich but also an Umuthi, which was a shame because Tristan was not fool enough to try lifting the gold of someone who could make aether traps. Rather amusingly, Commander Tredegar had been trying to get out of a conversation for the last fifteen minutes but the other side was not taking the hint.
+
+Sergeant Kavia was a short, middle-aged Someshwari whose rank was suspiciously low. Her looks were unremarkable and her black hair kept in a bun, but she bore a bejeweled shield on her back along with two swords at her hip and one of those strange bladed Someshwari circles called chakram. That one had Skiritai written all over her, in Tristan’s opinion.
+
+Alas, whether or not Commander Tredegar would eventually be able to escape with dignity from that conversation was to remain unknown, as shouts from above ended their common wait. A Watch officer on the deck of the galleon shouted for them to come aboard and be received by the commodore, which gave the older Tredegar an excuse to hurry up the ramp. The rest of them began to follow after.
+
+“There should still be an instructor missing,” Song frowned.
+
+Tristan almost smiled. He could understand why she’d believe that, as nearly all of their shared classes and the covenant ones had a face to them. Lieutenant Mitra for Theology and the Akelarre, Lieutenant Joaquin for Mandate and the Savants, Captain Oratile for Teratology and the Stripes. Even Captain Wen for Saga and the Laurels – poor Thando, sole Arthashastra student and about to inherit Wen’s full attention for hours at a time.
+
+Sergeant Kavia should be covering Warfare and the Skiritai, which left Commander Tredegar for the Umuthi and thus one seat glaringly empty.
+
+“I’d be rather surprised,” Tristan said, “if the Mask were not already aboard.:
+
+—
+
+It was tradition for the captain to welcome passengers aboard, and Song suspected that most would have been eager to rub elbows with the collection of covenanter instructors boarding the Gallant Enterprise even should they be disciplined to humor mere students. Commodore Trivedi instead looked at them all as if they were a tedious chore. Either the woman was well-connected enough to think the passengers beneath her, or commodore was likely the highest rank she would ever attain.
+
+Competence alone was not enough to make it into admiralty ranks.
+
+“Welcome aboard,” Commodore Trivedi blandly said. “My officers will bring you to your quarters. Accommodations will be made for your… classes, but I will not brook any wandering around and getting in the way of my men.”
+
+She paused, forced a half-hearted smile.
+
+“I may extend dinner invitations, should time allow. Dismissed.”
+
+Some of the instructors seemed amused, others irked, but it was Captain Tozi that drew Song’s eye. There was something like contempt in the other woman’s gaze. They did not linger on deck, however, for Commodore Trivedi’s word was law on her own ship – and another few, as she led the entire diplomatic flotilla headed to Asphodel. Naval lieutenants escorted them into the belly of the beast, Song taking in every scrap of detail she could. And one truth became obvious quick enough.
+
+Unlike the last galleon they had been on, the Gallant Enterprise was a fighting ship.
+
+It was not a groaning old dog coming apart at the seams but a modern warship with fortified decks and forty gleaming culverin cannons. There were around hundred sailors crewing it and by the looks of it almost as many soldiers.
+
+The students were promptly assigned quarters above the cargo hold, splitting three cabins between them. Luck of the draw had the Thirteenth score one of the smaller private ones and the Nineteenth the other, thus inflicting the sharing of close quarters with Tupoc onto the Eleventh. Song offered the gods due thanks for this, burning an offering to Menshen Zhu for having kept both evil spirits away from her door.
+
+She bunked above Angharad while Tristan took the bed below Maryam’s, the four of them unpacking their affairs as much as they intended to for the length of the trip. Beyond a short stop at the port Lavega, where the Gallant was to link up with the rest of the flotilla, it was not planned for the ship to make landfall before reaching Asphodel – meaning they’d be splitting their time between this room, the dining hall and whatever could be borrowed for teaching purposes.
+
+Wen knocked at their door shortly after, informing them they were to return to sleep but that there would be a wake-up call in a few hours. The instructor had agreed that classes were not to be skipped even on the first day. There was no argument from the Thirteenth, Maryam’s short spurt of wakefulness already turning to smoke, and they gladly collapsing onto their narrow bunks after snuffing out the lamp.
+
+Song woke when the ship passed through the Ring of Storms, the noise and movement stirring her out of sleep, but she went back to sleep before they were even through.
+
+At the seventh hour Captain Wen hammered at their door, tossing a bag full of grain biscuits and salted meat when Angharad sleepily opened the door. The Pereduri narrowly caught it.
+
+“Water barrels are down the hall,” Wen told them. “You have forty-five minutes to ready for class.”
+
+They rushed to eat and dress, Song and Angharad padding away to the barrels to wash – a handful of the others were there as well, looking as if the manner of their awakening had been no gentler than the Thirteenth’s. Song returned with a clean face and neck but to a sight that had her wondering if she was still asleep: Tristan, sitting on his bed, was feeding a rotund black cat a piece of biscuit from the pack.
+
+“Is that Mephistofeline?”
+
+“It’s either that or one of the lard cuts grew fur,” Tristan replied.
+
+Mephistofeline, indifferent to the insult, kept eating up the crumbs and biting at his fingers.
+
+“Well,” Song muttered, “I suppose we know who your instructor will be now.”
+
+“And Cressida Barboza’s as well,” the thief muttered. “That I could have done without.”
+
+There was a loud snore as Maryam twisted in her covers, arm slipping past the edge of the bunk bed and hanging loose.
+
+“You let her go back to sleep,” Song accused.
+
+“She cursed at me in her native tongue,” he drawled back. “I’m not getting anywhere near her when she does that – not as long as she sleeps with a hatchet under her pillow, anyway.”
+
+The silver-eyed Tianxi sighed.
+
+“Fine, I’ll take care of it,” she said.
+
+There was an unloaded musket to use as a stick. Song paused when reaching for it.
+
+“That biscuit is coming out of your share, by the way,” she said.
+
+He snorted.
+
+“If you’d tried one, you would know it’s not great loss.”
+
+Ship rations rarely were any good, admittedly. It was a narrow thing, but Song was able to ensure her brigade was awake, dressed and not starving by the time Sergeant Kavia came to gather everyone. She counted the heads, as if they were sheep returning from a wander, and then led them through the depths of the ship. There she bade them good luck and knocked at the door.
+
+And that was how seventeen students found themselves crammed into a small room smelling vaguely of anchovies just before the turn of eight, as the door had opened to reveal the rictus grin of one Captain Wen Duan. Saga, it seemed, was to be the first class.
+
+—
+
+None of the other students had dealt with Wen before, save for Tupoc, and it showed from the sheer amount of baffled, offended and sympathetic looks that the Thirteenth received within five minutes of everyone being stuck in a room with the man.
+
+The Eleventh was told to sit further back because Captain Imani was ‘too distractingly Uthukilen’, Tupoc was complimented on having managed to trick so many people into listening to him since they’d last met and Captain Tozi Poloko’s surname was almost certainly deliberately mangled in pronunciation. Not that the Thirteenth was spared, as Maryam was informed he’d known livelier corpses. After rounds of insults barely camouflaged as him taking attendance, to Song’s relief the captain actually deigned to begin teaching them something.
+
+“While you are all living monuments to staggering levels of ignorance about the world around you,” Captain Wen Duan casually said, “I’m not paid anywhere near enough to put in even a token effort in mending that sad reality.”
+
+He reached behind his bench, taking out a bulky cloth sack and setting it on his knees before pushing his glasses.
+
+“We’ll settle for you gaining a modicum of understanding about the nation we are all sailing to.”
+
+Untying the ropes around the head of the bag, he reached insides. The better part of seventeen gazes followed the gesture.
+
+“We’ll start with the basics,” Captain Wen said. “Can one of you tell me what the capital of Asphodel Rectorate is?”
+
+Hands rose, Song’s one of them, but she paid closer attention to the faces than who Wen would pick. Captain Tozi was no surprise, and neither was Thando Fenya – he was a Laurel, after all. More interesting was Alejandra Terrero from the Fourth. Not all Navigators concerned themselves with the lay of the seas, but it seemed like Tupoc’s signifier might be one of them.
+
+“Fenya,” Wen said. “Amaze me.”
+
+“Tratheke,” Lord Thando said. “The name is derived from words in the Cycladic cant meaning ‘singing box’.”
+
+A noise of approval. Wen reached inside the bag, producing a small orange.
+
+“Tratheke is where we will dock and where three out of four assessment tests will take place,” he said.
+
+He then turned a look on Thando.
+
+“Here,” the bespectacled man said. “Have a praise orange.”
+
+To the Malani’s honor, he caught the orange that Wen tossed him and mostly hid his confusion. He best start getting used to the feeling, as Thando Fenya was the only Arthashastra Society student headed to Asphodel and thus he would be suffering the undiluted Wen Duan dosage during the afternoons.
+
+Song almost pitied him for that. Almost.
+
+“All right,” Wen said. “Now, who runs the place?”
+
+Now that was an interesting question, she thought. In principle, the answer was the rector of Asphodel – currently Lord Rector Evander Palliades the Third, ninth ruler of the relatively recent Palliades dynasty. The Rectorate, despite the name, was effectively a monarchy in practice. The complicating factor here was that, reading between the lines of every book on Asphodel she had got her hands on, the office of rector in general and the Palliades family in particular had been losing their grip on the reins of power for the last eight decades.
+
+Thando’s hand went up again, though it went ignored, and this time it was Tupoc’s hand that went up along Captain Tozi’s.
+
+“Poloko,” Captain Wen said. “What have you got?”
+
+“Lord Rector Evander Palliades,” she said, then frowned. “Second of his name.”
+
+Wen tossed her an orange, which she caught with a pleased smile.
+
+“Don’t go smiling, that was a shame orange for getting it wrong,” the captain told her. “Song, try to redeem your covenant.”
+
+The look Captain Tozi turned on her for that was rather cool. Ugh, and she was the captain Song most wanted to cultivate ties to. The Tianxi cleared her throat.
+
+“Asphodel is ruled by its lord rector, but the office is advised by the Council of Ministers, an advisory body made up from great nobles,” she said. “The Ministers have a degree of control over courts and the treasury.”
+
+Wen only cocked an eyebrow, evidently considering the answer incomplete, so she pressed on.
+
+“There is also the Trade Assembly, an association of the wealthiest merchants of Asphodel, whose leading magnates control the trade keeping the Rectorate afloat,” she continued. “While they have no official authority, they have a great deal of informal influence.”
+
+The reason the Palliades were still rectors even though their blood claim was weak and there was mounting discontent was that the Ministers and the Assembly were at each other’s throats. The heart of it was about land: the nobles controlled great estates they guarded jealously, keeping the magnates from turning their wealth into power by buying land. Both sides tried to pull the Palliades their way to check their enemies, allowing the family enough leverage to continue squeaking through,
+
+Captain Wen nodded.
+
+“This is a praise orange,” he informed her before tossing it.
+
+She snatched it up despite his best effort at lobbing it low enough it’d slip her grasp. Tupoc got a praise orange as well for identifying the island of Arke and its iron mines as both the source of much of Asphodel’s current wealth and the reason it had been fighting with the Duchy of Rasen regularly for the last two centuries. Captain Tozi redeemed herself by explaining that the city of Tratheke was built out of massive Antediluvian ruin, which many believed to have been a university of sorts.
+
+Imani was thrown a shame orange for a lacking answer regarding the closest diplomatic ties of the Rectorate were – according to her, Sacromonte and the Watch.
+
+“Sacromonte backs the Rectorate, and encourages it to fight Rasen as standing policy,” Wen agreed. “You’re right about that. But the old ties to the Watch have grown weak – Asphodel is mostly clear of monsters and the Rookery now buys grain through the City instead. Who’s stepped into that gap?”
+
+Song knew the answer, as it was good as plainly writ in Trade in the Trebian, Ninth Sails Edition, which was why she knew the way the question had been phrased was a trap. While Thando Fenya correctly identified Tianxia as a growing trade partner for the Rectorate – the southern republics were famously gluttons for iron – he was still thrown a shame orange. Song took some small pleasure in elaborating on his answer when prompted.
+
+“The Kingdom of Malan imports large amounts of cattle from Asphodel,” she added, “as the native breed of sheep is highly prized in the Malani heartlands.”
+
+Something about it producing fine wool without taking sick in the warm weather. Which meant the Malani had ties to the Council of Ministers, as only the nobles had large enough estates to raise cattle on that scale. And since the Trade Assembly controlled the iron shipping to the Republics, which kept them rich enough to compete with the nobles, the magnates had ties to Tianxia. It was no wonder that the Watch believed there would soon be war in Asphodel, given that two powers stronger than the nominal ruler of the state were in bed with foreign interests.
+
+Song knew better than to believe the Republics were anything less than cutthroat in their efforts to dominate the Trebian trade.
+
+“Now, perhaps I am too hopeful a man but I choose to believe that the lot of you are capable of understanding the basic implications of what has been said here,” Captain Wen said. “Now, consider this: the Asphodel Rectorate has unveiled the existence of a functional Antediluvian on its home island, the capacity to build cutters and that it secured a large cache of tomic alloys.”
+
+He paused.
+
+“Then consider further that all of these great and mighty boons are inside land that is ruled over directly by the lord rector of Asphodel, allowing young Evander Palliades to entirely cut out the aristoi and the magnates.”
+
+Captain Wen leaned in.
+
+“What does that sound like to you?”
+
+“Blackpowder,” Kiran Agrawal grimly said.
+
+“Elaborate,” Wen said.
+
+It was another than answered – Angharad, to Song’s mild surprise.
+
+“A great source of revenue not hampered by the Council of Ministers would allow the lord rector to muster funds and soldiers to assert authority over the nobility again,” she said. “To call the magnates to heel would then be trivial.”
+
+“You two can split the orange later,” Wen mused, setting it down on a barrel. “Broadly speaking, that assessment’s correct – the Palliades have a chance at ruling Asphodel in more than name again, if they survive the next few years. That Lord Rector Evander kept secret the shipyard find until the very last moment indicates he understands the dangers ahead.”
+
+The bespectacled man rolled his shoulder.
+
+“There will be eyes on you from the moment we dock at Trathekes,” Wen warned them. “Traditionally, the Watch can be said to be on the side of whoever holds the seat of lord rector. In practice, however, the power of the countryside aristoi means our men at Stheno’s Peak had to cultivate good relationships with them to be able to move unhindered through their lands.”
+
+“Surely,” Bait slowly said, “neither these ministers nor magnates would try to hinder us when our contracts are to the benefit of Asphodel.”
+
+Wen laughed.
+
+“There’s war coming for that isle, boy,” he said. “If it looks like the Lord Rector will win it, the old nobles will reach out to their Malani friends and the merchants send letters to the Republics – they know a resurgent Palliades family will bury them. There’s not a scrap of sharp steel on Asphodel that will not be scrutinized for allegiance, and though you are students you wear the black.”
+
+He clicked his tongue.
+
+“Behind you stands the weight of armies and fleets, children,” he said. “Your personal opinions matter little, but these grand men will dissect your every step like augurs trying to read in such entrails the intentions of the officers above you.”
+
+And if the Watch decided to back a faction, Song read between the lines, it might very well tip the balance their way. Malan and the Republics were powerful, but the Watch was closer – and could more easily commit more of its strength. Yet the Watch could not take sides, as Professor Iyengar had told them in that first lesson. To do so would be a poison lethal to the order.
+
+“You will have to tread lightly,” Wen Duan said. “Which is why we’re now going to spend the rest of this morning learning names .”
+
+Skeptical looks.
+
+“Whose names, you ask?”
+
+“No one asked that,” Tristan muttered.
+
+“Ah, my first volunteer,” he happily replied. “And, of course, it is the names of every great family, trade cartel and court official on Asphodel.”
+
+He cracked his hands.
+
+“And in case you were wondering, every mistake will be punished.”
+
