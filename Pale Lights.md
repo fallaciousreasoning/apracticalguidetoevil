@@ -45521,3 +45521,633 @@ He cracked his hands.
 
 “And in case you were wondering, every mistake will be punished.”
 
+# Chapter 41
+
+With Wen’s impromptu torture session come at an end, they were released to stretch their legs and eat a bit before heading out to their afternoon covenant classes.
+
+While the other instructors came to pick up their students and guide them to whatever room they’d secured for the lesson, Tristan was not so blessed. He waved off Song’s concern, telling her it was handled, then spent fifteen minutes looking through their cabin for the note Hage should have planted. Insult and injury, it was not him that found it but Fortuna.
+
+“Under the pillow,” she chortled happily. “I can’t believe you missed that.”
+
+He gritted his teeth.
+
+“It was too easy, I was sure that-”
+
+“Sure that you were right, but you were wroooooong,” the Lady of Long Odds taunted in a singsong voice.
+
+Infuriating as Fortuna was, he had greater concerns. The handwriting was Hage’s, which confirmed his suspicion as to his instructor’s identity – to some extent – and explained the following sadism. Hage had decided their class was to be had at midnight on the galleon’s forecastle. Attending that class would have been made easier by the devil getting permission from Commodore Trivedi for his students to traverse the ship, but he explicitly had not. Neither would he get involved if his students were caught and punished.
+
+This forced the seeking of some diplomatic compromises, which was how Tristan found himself standing in the deserted hallway with a rapier’s point resting against the hollow of his throat.
+
+“A month’s delay,” Cressida Barboza said, pushing in the point slightly.
+
+Smiling, Tristan kept his pistol steadily pointed right at her head. It was not yet cocked, not that she would be able to tell from this angle.
+
+“Come now,” he said. “A truce until we return to Tolomontera seems much more reasonable. Scholomance business in Scholomance, yes?”
+
+“Ira got my seat,” Cressida hissed. “I’m locked out for the year.”
+
+“I heard,” he replied. “A shame that you decided to align yourself with her.”
+
+The glare that earned him was a baleful thing but what of it? Angry as she was, Cressida could not deny she was the one who had set aside their arrangement. He’d no longer even been involved in the matter when she was beat to the punch by Ira. Besides, they both knew this was posturing. If she opened his throat with a blade she’d be executed before the Gallant even reached Asphodel, which meant she was making a show of threat and fury to leverage him.
+
+“You owe me,” she said.
+
+Thus, and now that? That would not do. He cocked the pistol pointedly.
+
+“I do not,” the rat coldly replied. “Count yourself lucky I am not inclined to further pursue the matter of your bearing arms against me.”
+
+He saw the flicker of satisfaction in her eyes and knew in that heartbeat he’d been had. She sighed theatrically and slid her rapier back in the sheath.
+
+“I will count us even, then,” Cressida said, as if it were some great concession instead of him falling for her trick. “Have you thoughts on getting up to the deck?”
+
+Fuck, he unhappily thought. He had just thrown away good leverage for nothing because she had gotten under his skin. He could go back on that, refuse it, but would it be worth it? No, he decided after a heartbeat. Not when there had been genuine anger in those glares back at the docks. Better to take that loss, consider it an investment into appeasing her.
+
+“Fine,” he spoke through a snarl, playing up the anger.
+
+The greater the appearance of indignation, the more she would believe she had won off him and the further she would be appeased. If he was to pay up, he’d milk it for all it was worth. The thief lowered the pistol.
+
+“How much rope did you bring?” Tristan asked.
+
+She cocked her head to the side.
+
+“You’d be surprised,” Cressida Barboza said.
+
+—
+
+Maryam had not been sure they would be allowed to use Signs while on the ship, so it was a pleasant surprise to learn they had permission.
+
+The real trouble, Lieutenant Mitra told them, had been securing a room where they could practice. Repeated use of Gloam in a small space tended to taint the location, so they could not practice anywhere near or food or where people might sleep. That was probably why they’d ended up standing in a cramped room full of stacked cannon balls in crates. Upon the door being cracked open to reveal this, the signifier from the Eleventh – Qianfan – asked in that surprisingly high-pitched voice of his why they did not simply use the same practice room as the galleon’s Navigator.
+
+“She does not have one,” Lieutenant Mitra replied. “Our fellow guildswoman is more officer than practitioner, these days. It’s not so uncommon with these ambitious types: she’ll keep her Thalassics polished and leave everything else to assistants.”
+
+He paused.
+
+“Know that the Akelarre Guild is not immune to the degeneration that is the end of all things, built or born, and remember that decay into death is the only journey,” Lieutenant Mitra added.
+
+The stringy man then clapped his hands, smiling.
+
+“All right! So, who here believes they have mastered the Bayonet? Form it thrice in a row without a mistake and I’ll tip you my dessert rations at dinner.”
+
+Maryam found herself sharing a martyred look with Alejandra Torrero, who while generally disgusted with everyone and everything not part of the Fourth Brigade was always willing to commiserate over their instructor. That Lieutenant Mitra was her brigade’s patron did not seem to have inured her to his ways.
+
+It was already the third time since they’d gathered for class that the lieutenant had used the word death and it had not yet been five minutes. It would be a little less unsettling, Maryam mused, if the gloom were not so cheerful.
+
+“Come, you two,” Lieutenant Mitra called out to them. “The inexorable end of all things is no excuse for dawdling!”
+
+Over the ensuing hours of practice, Maryam Khaimov learned three things. Well, four if you counted the confirmation of her already-held suspicion that signifying in a room full of crates was awkward and difficult when the practiced Sign made holes in whatever it touched.
+
+Working with the metal scraps they’d been given to pierce through, however, was very helpful in helping her refine the results of the Bayonet in a way that practicing the Sign in the Abbey had not been able to. The Bayonet was an Ancipital Sign, and one of the most straightforward from that branch: through tracing the Sign one gathered Gloam to themselves, shaped it into a long and thin blade and then released it through contact with a surface. Usually the next surface the burdened hand made contact with, though skilled signifiers could delay and withhold.
+
+As Gloam ate into most anything save Glare, the Bayonet was quite lethal if used on a person but it was also a Sign with a lot of secondary applications. Captain Yue had told her it was nicknamed the ‘Akelarre lockpick’ by virtue of the fact that putting a Bayonet through most locks tended to scrap that lock, and there were a hundred more small uses for what was effectively a Gloam knife.
+
+Actually trying to pierce through metal, though, showed her that the Bayonet had that shape for a reason. If the blade was forged too broad it did not pierce so much as scorch, and if it was too short then it tended to burst like a thrown tomato when the Gloam sunk into the surface. Which might have had its uses, if it did not burst so close to her fingers – Maryam did not have so many of those left as to get careless with them. Lieutenant Mitra noted her adjustments with approval.
+
+“The Bayonet was designed to instantly kill a grown man through touching either their forehead or occiput,” the Someshwari said. “You need the length to punch deep enough past the skull.”
+
+He, uh, rather sounded like he was speaking from experience. Maryam reminded herself that no one who had been named a Master of the Guild in their thirties was to be taken lightly.
+
+Regardless, lesson aside she had come to three conclusions. The first was that Qianfan was one of the finest signifiers of her age she had met: he traced elegantly and flawlessly, like a Tianxi scholar writing characters. He was also faster than them, having already finished a third perfect Bayonet by the time Alejandra began her second and Maryam was still tying a bow on her first.
+
+Lieutenant Mitra duly awarded him the extra dessert along with a helpful reminder that the grave was the birthright of both prodigies and lackwits.
+
+The second conclusion was that Alejandra Torrero had not ended up in the Fourth because she lacked skill as a signifier, which Maryam had figured was the most likely explanation for anyone believing joining up with Tupoc Xical a sound notion. The scowling Lierganen was, with the Bayonet at least, quick and clean. The reason why cabals would not have wanted to snap up became clear the first time she traced a Sign: whenever Alejandra pulled on the Gloam, her skin above the waist pulled taut and soured like old milk.
+
+She looked like a sickly, corrupted corpse.
+
+That distressing appearance would have been enough for the pickier cabals to overlook her even if such a turn was not almost certain to come from a botched obscuration, something known to cause… instability in a signifier, over time. Tupoc, no doubt, had found that a virtue: he seemed to be collecting such dangers, what with Expendable apparently having little control over his shapeshifting contract.
+
+No doubt any day now they’d learn that the tinker had turned herself into a literal powder keg and that Bait was some sort of bloodsucking ghost.
+
+The third thing Maryam learned was that Lieutenant Mitra, for all his debonair fatalism, could still be given pause. It came out when he asked about her rings, frowning at her admission their use helped her trace Signs in spite of some difficulties. He suggested practicing without them, to wean off reliance. Disinclined to out the full details of her situation while there were another two students badly pretending to put up their targets as they eavesdropped, Maryam directly reached for the largest gun in her armory.
+
+“I was told to use them by Captain Yue,” she said.
+
+Lieutenant Mitra winced at that, through the disheveled beard.
+
+“The same Captain Yue with the…”
+
+He gestured at the side of his face, where Yue had burns scars only mostly hidden by her hair.  Maryam nodded. Reading between the lines of how much time Captain Yue had to spend on her many curiosities, Maryam had long suspected that she had a light touch as senior signifier of Port Allazei. Given Yue’s general impatience with things and people that did not interest her, that might be for the best.
+
+“Well, I’ll not argue with the woman who did Caranela,” Mitra said. “I am in no particular hurry to reach the inevitable.”
+
+“That’s twice now I’ve heard that name,” Maryam said. “Carenela. It is a town?”
+
+“Was.”
+
+Alejandra Torrero, her face still a sallow ruin, outright ceased pretending she hadn’t been eavesdropping on their conversation. Now that she was no longer pulling on Gloam her face began to slacken, but it would take minutes yet before she returned to her usual appearance.
+
+“Caranela was a town out in Old Liergan that the Watch put in quarantine when it caught the yellow plague, some decades ago,” Alejandra said. “Most everyone died but it didn’t spread, so there was a lot of praise. It’s one of those stories bandied about whenever the blackcloaks go recruiting in the region.”
+
+Her eyebrow rose, looking like stripe of fur on a carcass. Maryam had seen enough corpses not to flinch, but it was a sight.
+
+“I never heard talk of an Akelarre being involved, though.”
+
+“You would not have,” Lieutenant Mitra said. “As I understand she was quite young, still a sergeant. Yue was part of the quarantine force and lobbied for the adoption of a policy. The yellow plague, you see, has a survival rate of one in ten. It is one of the worst diseases we know of.”
+
+Mitra smiled thinly.
+
+“Sergeant Yue went to her superiors and sold them on an idea: the Akelarre Guild has a great many experiments it would like to conduct that would likely kill the subject, but the Watch cannot go around acting like a pack of black-clad children of Necalli.”
+
+Maryam was not sure she liked where this story was headed.
+
+“Thus her proposal was that, in situations like Caranela, Watch officers should be allowed to attempt those experiments if an argument could be made that they would result in fewer deaths than expected.”
+
+“We were never told this in Mandate,” Qianfan said, joining Alejandra in shedding pretense.
+
+Unlike the Lierganen girl, who wore her appalment as openly as she could while her face was tainted, Qianfan seemed indifferent at the implications. More interested in the details than the blood soaking them.
+
+It is not a lesson for first years,” Lieutenant Mitra said. “Besides, the policy had since been clipped. After a bloody mistake out in the Someshwar, the Conclave made amendments and now the proposed experiments need to pass before a committee. And even then, should the trials then be proved unnecessarily cruel or lead to more deaths than anticipated, there are grave consequences.”
+
+And with the Watch when men talked of grave consequences that first word tended to be literal. Yet the story, Maryam thought, was not quite finished.
+
+“But they let her try her idea,” Maryam said. “In Caranela, I mean.”
+
+I’ve been called a lot of things, over the years, Captain Yue had told her that night. And one of those sobriquets she’d spoken had been butcher of Caranela
+
+“They did,” Lieutenant Mitra said.
+
+His expression was stiff and he did not elaborate.
+
+“Did it work?” Alejandra pressed.
+
+A moment of silence.
+
+“Two in ten survived, instead of one,” Mitra finally said.
+
+“She was right, then,” Maryam quietly said. “She saved lives.”
+
+Dark eyes turned to her and his lips thinned.
+
+“So she did,” Lieutenant Mitra acknowledged. “But she did it by opening the belly of children with silver scalpels, so none argue that the Butcher of Caranela did not earn her name.”
+
+—
+
+Captain Oratile was almost bluntly direct, which was rare with Malani, but Song did not dislike it.
+
+“Colonel Cao dropped assigned readings for you onto my lap and she is much higher up the food chain than I am, so you’ll be doing them dutifully,” the dark-skinned officer informed them. “I hope you enjoy reading about the industries and shipping of our order, because there’s about a month’s worth of that ahead of you.”
+
+“I do not,” Tupoc politely told her.
+
+“That’s a shame,” Captain Oratile mused. “For you, anyway. I won’t be reading your reports, Cao can have that pleasure since she asked for them in the first place.”
+
+Sadly, Tupoc appeared charmed by the open dismissal. The captain’s forthrightness had yet to dent, and drew the eye more than anything else about the Malani. Captain Oratile was, after all, quite mundane in appearance. Neither short nor tall, neither ugly nor fair, and while her hair was tied up in braids they were not particularly long. Even those eyes were an unremarkable brown, without so much as fleck of other color. She had some calluses on her hand, a fighter’s mark, but did not have that particular killer’s gait that Skiritai so often did.
+
+No, if there was anything at all about the Nineteenth’s patron that stood out it was that easy confidence. Captain Tozi cleared her throat.
+
+“When we spoke on Scholomance, ma’am, you mentioned some teaching ambitions,” she said. “Has that changed?”
+
+Song was coming to notice something interesting about Tozi Poloko: she never truly deferred to anyone. She was polite, did not truly overstep, but sometimes it peeked through that Tozi did not particularly consider her superior officers to be superior. What she had just said was a decent enough example. While it was politely and respectfully phrased, it was still very much a student telling her patron what to do.
+
+Song wondered whether that was the doing of Tozi’s contract. It must do strange things to one’s sense of danger, to know the most likely source of your death at all times. To her it seemed the kind of pressure that would forge either fearlessness or cringing cowardice.
+
+“I’ve a proper class prepared for Teratology, worry not,” Captain Oratile waved away.
+
+She then took a second look at her assembled class, the captains of the four brigades, and sighed at what she saw. They’d gathered in the captain’s own cabin, which she appeared to share with Sergeant Kavia by the sheer number of weapons being hoarded, and in truth it was a little tight in here. Enough that Imani Langa was seated on one of the beds instead of a stool, which given the choppiness of the seas outside Song somewhat envied.
+
+“Look, the lot of you are on what the Academy informally refers to as the ‘upper’ track,” Captain Oratile said. “Upper in contrast to the ‘lower’, which is what most Stripes go through: a finishing school for officers, qualifying them for a particular kind of command and bringing them into the Stripe circles of patronage.”
+
+She rolled her shoulder, leaning back against her desk.
+
+“You, however, are being groomed for high-ranking positions. Not in the way that those going through the Academy’s upper track are, future colonels and captain-generals, but in that you are being formed to lead formations of covenanter cabals.”
+
+Imani cleared her throat, earning a nod of permission from the captain.
+
+“Are we to understand,” she said, “that you went through the ‘lower’ track yourself?”
+
+“I did,” Captain Oratile easily replied. “What I’ve done for the last half-decade, children, is lead a Garrison company to catalogue the lemures of the Tower Coast. That position means wrangling both Savants and Laurels while not burning through assigned funds too quickly. Hence, a Stripe was sent for.”
+
+Some twitching lips all around. While none denied that the three societies of the College made great contributions to the Watch, they were also very prone to squabbles and infamously terrible with money. It was an old joke in the black that if you sent three society robes to buy food at the market they’d come back with a book, a friend and toolbox then complain to the Stripe about the lack of supper.
+
+“While I’ve mostly served as an officer in the regulars I have also studied as a teratologist, which made me suited to the command and saw me sent up to Academy in the first place,” Captain Oratile said. “I’ll not belabor the matter of my personal history further: my experience is with a specialized command, and I expect the trajectory of our respective careers will radically differ.”
+
+She sighed again.
+
+“That is what has me wary of teaching you.”
+
+She drummed her fingers against the table.
+
+“Now, what I can offer you is some advice in dealing with local authorities and other Watch forces,” Captain Oratile said. “I’ll not force it on you, and your readings aren’t going anywhere, but feel free to draw on my experience during these hours if you would like.”
+
+Straightened backs at that, and from everyone. Even Tupoc saw the worth in such lessons, and why should he not? The overwhelming majority of the people they would have to deal with over the length of their careers were either locals or rank-and-file watchmen. At Scholomance covenanter students gathered like hothouse flowers, but after graduation arithmetic would inevitably win out: fewer than one in ten watchmen belonged to a covenant.
+
+“That would be most agreeable,” Song carefully said.
+
+The dark-eyed captain glanced at her, then hummed.
+
+“Fine,” she said. “Some of you will pursue contracts within Tratheke. Before you do, the first thing you need to do is pay a visit to the head of the city watch – called the lictors, in the capital.”
+
+As Captain Oratile began to warm up to her subject Song reached for her book and pen. A small command run by a Stripe, with a handful of other covenanters beneath her and specializing in particular assignments. The Nineteenth’s patron could not possibly know, but what she’d led for half a decade was precisely the kind of free company Song Ren intended to form after graduation.
+
+—
+
+Tristan had spent most of the afternoon counting watch rotations on the deck right above where the students lodged, which only reinforced that the plan he’d first come up with was the most feasible way forward. If it’d been only sailors on board sneaking through might have been feasible, but hatefully enough Commodore Trivedi appeared to be using the soldiers being ferried to Asphodel as guards.
+
+Competence in one’s adversaries was a vexing thing. Tristan would have preferred to make enemies only of fools, but he had yet to master such discernment. One could only dream.
+
+“Would you hurry?”
+
+Pressed against the wall, he shot Cressida a dark look. She returned a roll of her eyes. Fortuna popped her head through the wall a moment later, shaking it. Only then did Tristan ‘risk’ peeking past the door. By pleasant happenstance, there was no sailor or soldier in a position to see him do this. As he had no intention of tipping his hand to the other Mask regarding his goddess, he was resorting to the pantomime of being overly careful instead.
+
+It was irritating Cressida greatly, which he counted as a side benefit.
+
+Padding quietly across the wooden floor, Tristan ghosted across the gunnery deck. If the Gallant Enterprise were an older warship there would only be one, but for this luck was on their side: there were no fewer than three. It meant patrolling them all was not feasible, as since the gunnery decks took up so much room some of them had to be used for sailors to sleep. The lowest deck had been near certain to be the one so designated, in their shared opinion, and they’d been right.
+
+Not that being caught by sailors would be any better than the soldiers.
+
+That was why the two Masks were very, very careful as they made their way to the closest gunport. Loud snoring warned them of company long before they made out the sleeping forms in the hanging hammocks. The real test came when they’d stepped past a bearded man who slept like the dead and knelt by the gunport. Both checked with their fingers, but the oil they’d brought proved unnecessary: the hinges were already well taken care of, unlikely to scream.
+
+They still took their time cracking the gunport open.
+
+In continued silence, Tristan tied the rope around his waist and secured it to his belt just in case. Cressida opened her bag silently, handing him the wall hammer and spikes. That she was better equipped than he for the work of robbery had been fortunate but Tristan thought it might graduate to being a concern in the coming weeks. Sliding on leather gloves, he nodded at her in the dark. She tied the rope to a hook in the wall, knelt by it and nodded back.
+
+After that, there was nothing to do but climb. Tristan had not attempted anything of this scale since the tower back on the Dominion and had not bloody missed it. As they’d discussed Cressida gave him only a little rope at the start, enough he could hang slightly beneath the gunport mouth and begin the climb, only loosening her grip once the rope began pulling upwards.
+
+The spikes dug into the wood well enough, and unless Cressida cut the rope Tristan was not at risk of dying even if he fell, but the whole affair was still a nightmare. The side of the ship was a slippery hell, any slightly off angle sending his boots skidding, and there were lights moving on the deck above so he couldn’t hurry – he had to wait, arms aching, until the lamps went away.
+
+It was a climb that would have taken him mere minutes in the open, but as they must it took him near twenty and he came damn close to falling when a brass cap he rested his boot on halfway unscrewed. Near a quarter of that time was spent just before the edge of the top deck, waiting for room to climb and pull Cressida up after him.
+
+It was easier for her: once on deck, he tied the rope to one of the railings and tugged four times to signify it was her turn. Much as he would have rather let her climb, the lights on the deck at the back would be returning soon. He helped pull her up instead, as quickly and silently as they could, and they hid behind barrels when a pair of sailors passed by them chatting quietly in Umoya.
+
+After that making their way to the foredeck was just a question of patience. The sailors were not truly looking for someone sneaking about the deck, more interested in watching the dark waters for some approaching ship or storm. The pair slipped across the open space, then up the stairs on the side of the commodore’s cabin and to that narrowing space before the prow.
+
+Hage was waiting there, sitting on the bottom of the bowsprit – a large, inclined mast aimed towards the front of the ship – with a purring Mephistofeline splashed onto his lap like a veritable puddle of cat.
+
+“You are early,” the devil said, tone disapproving.
+
+“You always complain I am late when I’m not,” Cressida shot right back.
+
+Tristan shot her look, only barely hiding his surprise. She was already familiar with Hage? He’d refrained from asking her about it, concerned he was more likely to reveal he was being taught by the devil than find out anything new, but perhaps he should have. Hage, as disinclined to miss anything as always, bared the least fearsome of his teeth in a smile.
+
+“She followed you back to the Chimerical some time ago,” the devil said. “Though you do not share a class.”
+
+“He did not need to know that,” Cressida said, frowning.
+
+Ah, so she was a student of poisons then. It was always a good idea to keep track of one’s meals, but it looked like Tristan was going to have to get methodical about it.
+
+“It is fair trade,” Hage replied, “as you are about to learn something of his. There is a reason this class is to take place outside.”
+
+“I assumed sadism,” Tristan said.
+
+“That one’s a given, really,” Cressida noted. “Even if there is another answer, there’ll be a pinchful of sadism on top.”
+
+“No, children,” Hage sighed. “It is because of this.”
+
+He pointed a finger up, prompting their eyes to follow, and for a heartbeat Tristan thought they’d fallen for a petty trick. But then he caught sight of the silhouette perched on the rigging, black against the pierced dark of firmament. The large magpie cocked its head to the side, letting out a cackle-call.
+
+“Sakkas?” Tristan blinked. “What are you doing here?”
+
+“Of course the bird has a name,” Cressida muttered, sounding pained.
+
+The magpie let out another call, shuffling back and forth on the rigging, before taking flight and landing on the deck. There it walked about with a straight back, as if posing its feathers for their eyes.
+
+“Tormenting my cat is what he’s doing,” Hage flatly said. “He keeps baiting Mephistofeline to leap into the water.”
+
+Said cat had gone utterly still on the devil’s lap, eyeing Sakkas with wide and greedy eyes. Tristan had seen that look often enough he let out a shout of protest as Mephistofeline burst out of Hage’s grasp, leaping for the magpie, and he was stepping in to chase away the glutton when he saw there’d been no need – the magpie deftly hopped up, wings aflutter, and as Mephistofeline sloshed against the floor it landed on the cat’s back before letting out a triumphant cackle.
+
+His Infernal Highness took to that poorly, meowing furiously and flopping onto his belly to mixed effect as he tried to bat down his foe. Sakkas flew off before he could, landing on the railing and shuffling about in a victory parade. Tristan’s lips twitched up into a smug smile. While he was, of course, a proponent of peace if there was to be any bullying he was not displeased that it would be Sakkas on the clear winning end.
+
+“That bird was not worth revealing what class I’m in,” Cressida flatly said.
+
+“No,” Hage acknowledged, “but awareness of whatever lies inside was.”
+
+Tristan’s jaw clenched.
+
+“So there’s really some entity possessing it.”
+
+“It is a bird, Tristan,” Hage said. “Given the small size of their minds, it would take less than a day for the intelligence that seized the body to be the only intelligence. It is not possession but replacement.”
+
+Oddly enough, that made him feel somewhat better about it. Cressida’s concern, understandably, was more practical.
+
+“What’s inside?” she bluntly asked.
+
+“Difficult to tell without a Navigator digging into it,” Hage casually said. “It is, at least, not a complicated intellect. Cleverer than a dog but less so than a child.”
+
+“You don’t seem worried,” Tristan observed.
+
+“It appears to have some sort of fondness for you,” the devil said. “I do not believe it capable of deception, so you might consider it a sort of lesser spirit following you around.”
+
+Even on a ship heading away from Tolomontera, which was charming but also a little worrying. Perhaps speaking with Maryam about taking a look – without harming Sakkas, obviously – was in order. The old devil stretched his body lazily, his cat slinking back to his boots to beg for comfort petting he was immediately indulged in.
+
+“By the looks of it, the two of you climbed up the side of the galleon to reach here,” he idly said. “Well done, though it was the riskiest of the methods. We now pass the second part of the lesson.”
+
+The two of them leaned in, which made it all the worse when Hage began shouting for the sailors on deck to run here. The devil grinned with all his teeth, savoring their dismay.
+
+“Now we find out if you can make it out of the ship’s gaol before morning.”
+
+Well, there went his night’s sleep.
+
+—
+
+While Angharad would concede that what Captain Oratile was teaching them fell under Teratology, it was a rather different sort of class than what she was used to. The Malani captain, instead of dragging them through a dozen books and theories in search of some eldritch truth about the nature of spirits, had set down three maps of the island of Asphodel and begun addressing knowledge of a more practical nature.
+
+“As you can see Tratheke is set in a large valley between two mountain ranges,” the captain said. “The farmland around it is the most fertile on the island and Tratheke Valley is the most densely populated region of Asphodel.”
+
+She put down a small black stone atop the inscribed outline of the capital.
+
+“The city’s unusually clean and lacks slums, so it’s short on the kind of lemures that usually become part of metropolitan food chain,” Captain Oratile said. “Symbiotic breeds of lares will abound, however – mostly myrmekes, the kind that feed on trash, but you can expect coronals on the outskirts.”
+
+A cleared throat from Thando Fenya.
+
+“I am unfamiliar with the species,” he said.
+
+“They look like ravens,” Captain Oratile said, “but are in fact a kind of hard-shelled mollusk. They hunt mostly through their emanations, which are adhesive and trap insects as well as small animals.”
+
+Angharad was not the only one to make a moue of disgust. Tristan leaned in with interest, though he still looked like an exhausted, bedraggled cat – he’d stumbled into the cabin at four in the morning, muttering something about the hatefulness of devils, and delicately refused to deny any rumors about him spending part of the night in the ship gaol. The captain rolled her eyes, then set down two white stones: one on each side of Tratheke Valley, near the mountain ranges hemming it in.
+
+“The Tika and Toli mountains are regularly patrolled, but given the sparse sources of Glare the presence of lemures cannot feasibly be stamped out,” Captain Oratile told them. “That means lemures will descend into the valley from there, most frequently packs of lesser breeds like lupines. Larger creatures like ursals or manticores might get displaced as well, but usually because they are sick or wounded.”
+
+As the captain began expounding about the spirit breeds in the mountains, it became clear to Angharad why Asphodel continued to have lemure troubles even though it was a well-populated island that had been settled for hundreds of years. Tratheke Valley, holding the capital and rich farmlands, was under the direct rule of the Palliades family of Asphodel. The rest of the island, however, was parceled into a headache-inducing maze of noble estates.
+
+Malani noble holdings were not necessarily contiguous, alliances and inheritances had seen to that, but it was frowned upon for one’s properties to be too widely spread. How could you properly serve as a noble when three estates on different sides of the Isles all required your hand? It was considered proper to trade land with other nobles in such situations, a wisdom contrasted to the nightmare that was the Imperial Someshwar – where a traveler could walk a mile and owe road tolls to ten different lords.
+
+The noble houses of Asphodel made the Someshwari look tame.
+
+Oh, the eastern peninsula beyond the Toli mountains was not so bad. The coast had been parceled like thinly sliced cheese, but further in the demesnes were larger. It was the mountain valleys and the western third of Asphodel – rocky coastlands around a large plateau – that were so divided that the map noting whom the territories belonged to had more letters than lines on it.
+
+How could a land defend itself from the depredations of the Gloam when there were more border steles than roads? Lemures raided into Tratheke Valley because the Asphodelian nobles had to pick and choose which of their holdings they would defend and few would be inclined to keep their soldiers in small, desolate mountain holds when they had richer prizes to ward. It was a truth long known to the Kingdom of Malan that even a rich land could be poor, if it had a weak king.
+
+“The Nitari Heights are known for their nemeans, but you’ll find the base of those cliffs is much more dangerous and the summit,” Captain Oratile continued, laying down a white stone on the great western plateau. “Great snakes nest in the caves and tunnels there, and at least one brigade among you will be headed out to the region to hunt a Ladonite dragon.”
+
+Startled faces all around. Even Angharad winced the thought of facing such a creature, which she had looked into since it was on the Steel list. Ladonite dragons were massive winged snakes with front legs, prone to digging lairs high up on cliffsides. They hunted men, as all lemures, but also ravaged orchards. Not for love of the taste of apples and peaches, but because the fruits fermented in their bellies until they became a liquid the dragons could spew out as gouts of flame.
+
+“Ladonites aren’t habitual ravagers, unlike most lemures we call dragons,” the captain told them. “Very territorial, yes, but they don’t usually venture out of that territory much. That the one the Watch was contracted to kill has been burning manors is quite unusual.”
+
+Despite Oratile’s clear expectation otherwise, her words did not cause a great well of interest in picking that fight. Fighting a mad Ladonite dragon was, arguably, even worse than fighting the regular kind. That Tupoc was the sole exception to this, eyes almost shining, boded ill for the fortunes of the Fourth. For once Angharad would wish that lot the best.
+
+“Well,” Captain Oratile said, “that finishes the outline.”
+
+ She paused.
+
+“I would recommend ink and paper,” she said, “as we are now to discuss the weaknesses – physiological and tactical – of the lemures you are most likely to encounter.”
+
+—
+
+It was mightily frustrating for Angharad to be unable to participate in the sparring, forced instead to stand leaning on her walking stick while the boys fought. Sergeant Kavia had secured permission for her to practice with a pistol, so the time was not entirely wasted, but even that small exercise exhausted her quickly. It was a constant source of irritation, that merely going up a set of stairs was enough to see her panting and red-faced.
+
+Expendable’s practice spear was slapped aside, Kiran Agrawal following through with a feinting thrust that had the Malani leaning back – only for the other man to hook around the side of his neck and swing, toppling him smoothly. Angharad almost whistled in appreciation. Kiran, she was learning, was much better with a spear than his performance in the Acallar had indicated.
+
+He was trained to fight men, not beasts.
+
+“Kill,” Sergeant Kavia called out. “Take a few minutes, drink some water. Velaphi, you need to work on discerning feints. I’ll have a drill for you to keep practicing on your own time. Your captain’s a spearman, yes?”
+
+Expendable nodded, pulling down his wide-brim hat over his face when the sergeant tried to catch his gaze.
+
+“It’s a simple one-three, you should have no trouble teaching it to him,” the older Skiritai said, and he nodded again.
+
+Still perched atop a table, legs folded, Sergeant Kavia then cocked a brow at Kiran.
+
+“Agrawal, you need cut out those lohacarya flourishes,” she said. “Velaphi’s not good enough to use them against you yet, but some out there will be – you won’t be marrying up by doing well in a courting tournament, boy, so just go for the goddamn killing blows.”
+
+The other Someshwari grimaced.
+
+“Yes ma’am,” he said. “I have already been told it’s a bad habit.”
+
+Sergeant Kavia waved it away.
+
+“It’s common in our Someshwari recruits, and no worse a flaw than the Tianxi drilling their children like every fight will be fought with a line of spears around them,” she said. “We all come to the Watch with blinders on.”
+
+The sergeant’s eyes then moved to Angharad.
+
+“And?”
+
+“Neither crossed the circle,” she replied.
+
+That was her own exercise: Sergeant Kavia had walked a circular path around a part of the sparring area, and Angharad had to keep track of whether or not either man left the circle after entering it. It was to train her perception of room and help her learn the spacing used by spearmen.
+
+“Correct,” Kavia grunted. “Who came closest?”
+
+“Kiran,” she immediately said. “When he drew back to bait Expendable just before the end.”
+
+The older woman hummed in approval, sounding pleased.
+
+“You’re getting them more often than not now,” she said. “We’ll be moving on to the next exercise soon.”
+
+Angharad almost smiled, pleased that despite her state she could do well at something. Thankfully the sergeant was a fountain of exercises, betraying the breadth of her experience as both a Skiritai and a drillmistress. Not that she must be without charm beyond these bounds, as it was not nothing for her to have been able to talk an officer into allowing them use of the mess hall for their class.
+
+They’d had to move the benches first – though not the tables, which were screwed into the floor – but there was a respectable amount of room. The sergeant was skilled with both sword and spear, and for both the classes they’d had so far had begun by facing the other two in a spar while Angharad was made to watch the circle. Only after that did they move on to drills and shooting.
+
+Sergeant Kavia was an experienced monster slayer, with good advice on many subjects, so Angharad would have enjoyed her afternoons a great deal if not for one little detail. One that she could almost count down to, since the others had gone to get water from the barrel in the corner and thus walked just out of hearing range.
+
+“So,” Sergeant Kavia too-casually said, “is your uncle married?”
+
+She tried to pretend she had not heard the other woman, eyes on the others getting ladles of water, but the silence stretched. Reluctantly, the noblewoman cleared her throat.
+
+“Not as far as I know,” Angharad said.
+
+“Lover – man, woman?”
+
+Well, she supposed her uncle had been free to take one ever since he left behind Peredur and the duty to marry for the sake of House Tredegar. Not that discreet allowances were not allowed in even a third child, so long as reputations were not blackened, but the marriage market being what it was a man with no known lovers tended to be seen as preferable. Angharad could not recall her mother ever talking of her uncle’s potential dalliances, however, and would not have shared her knowledge of such even if she had.
+
+“I did not ask.”
+
+Sergeant Kavia clicked her tongue disapprovingly, as if Angharad had somehow let her down.
+
+“I’m going to have to ask Duan,” she complained, as if this were also Angharad’s fault. “He’s going to be just terrible about it, I can tell.”
+
+Desperate for anything at all to change the subject, Angharad cast her net for the first thing she could think of.
+
+“You mentioned yesterday that you have spent near thirty years in the Watch,” she said.
+
+Kavia looked amused, as if aware of the intended distraction, but nodded nonetheless.
+
+“I enrolled at thirteen, then made skopis at nineteen after cutting my teeth on the Sordan War,” she said.
+
+Angharad’s brow rose.
+
+“If it is not indiscreet to ask, if you have served for so long then why…”
+
+“Am I a sergeant?” Kavia grinned. “Because with my age and record, they’d stick me in a committee otherwise. I sock a couple of superior officers in the face whenever they try to promote me, nowadays.”
+
+Angharad could almost admire that, though a detail from earlier stuck out to her.
+
+“I had not thought the Watch involved in the Sordan War,” she said. “Was it not between the Kingdom of Sordon and the Kingdom of Izcalli?”
+
+With rumors of other nations supporting Sordon discreetly, to prevent Izcalli from ever holding the two shores of the Auric Strait at once.
+
+“We’re involved in all the wars, Tredegar,” Sergeant Kavia told her. “Whenever the great powers have one, so do we: shoving back into the grave whatever crawls out having gorged on the bloodshed. Doghead Coyac is one of the better Izcalli warlords, but he broke armies aplenty – that many corpses always wakes something up.”
+
+Angharad slowly nodded.
+
+“I heard,” she quietly said, “that such horror might be coming to Asphodel.”
+
+“Pray you’re gone before that, girl,” Sergeant Kavia grunted. “Wars are bloody business, but civil wars are much worse. It’s one thing for men to fight, but when a nation turns on itself it doesn’t stop there.”
+
+She spat to the side.
+
+“Civil wars get gods involved, you see, and that’s when the wheels really come off the carriage.”
+
+The Pereduri looked down at her hand, at the way her fingers had tightened around the head of her cane without her even noticing it. She did hope the war only came before she had left, cowardly as it was of her. What could Angharad do in this state, if war did come?
+
+Only hide or die, and one was nearly as bad as the other.
+
+—
+
+Commodore Trivedi flatly refused the request made for the Gallant’s passengers to be allowed ashore at Lavega, reportedly informing Commander Tredegar that she had no intention of risking missing the tide because they felt like wandering.
+
+The sole concession she was willing to make was that students and instructors were allowed on deck for an hour after the supplies were loaded, while she settled the last affairs of the flotilla ashore and the crew rested. Song found herself enjoying the sensation of the wind on her face after two days stuck below, even though the smells carried by the small port behind her were… flavorful, to be kind. She kept her eye on the half dozen ships anchored out in the bay instead, another fighting galleon and four older carracks as well a sleek silhouette that must belong to a skimmer.
+
+Song had asked her brigade to leave her standing alone for a particular reason, so she was not surprised when she heard footsteps approaching. The very purpose of where she stood was to make herself approachable, after all.
+
+Captain Tozi rested her elbows against the ship railing, folding her arms, and Song was almost surprised she did not need to push up on the tip of her toes for it. The other woman stayed silent for the moment, looking out to the water. It was not a small force that the Watch was sending to Asphodel, after all. Only two modern fighting ships, but Asphodel’s own home fleet would not be massively larger than the flotilla.
+
+“Have you given thought,” Tozi finally said, “to which test you would prefer?”
+
+“Some,” Song replied. “You?”
+
+“Some,” Tozi agreed.
+
+Now that they were halfway to Asphodel, they had been told in detail of the nature of the contracts ahead. The brigades would ask their patron to aim for one in particular, then the instructors as a whole would debate which brigade should get which and make their decision. Song was reluctant to tip her hand too quickly, but a bargain with Tozi would be advantageous here.
+
+Should both Commander Tredegar, Captain Wen Captain Oratile strongly argue for particular arrangement it would make up a large portion of the assembly and weigh heavily on the debate. Not a sure thing, but good odds.
+
+“I’ve no taste for the hunt,” Song shared.
+
+Not only was the Thirteenth unsuited to taking on a Ladonite dragon – their finest fighter was not fit to fight – the task would take them to western Asphodel, out in the wilderness of the noble estates surrounding the Nitari Heights. None of her brigade were inclined to such rangings.
+
+“Neither do I,” Captain Tozi said. “And as we once discussed, the exorcism out in the hills seems more trouble than it’s worth.”
+
+The Rectorate believed that outside the city, out in Tratheke Valley, some remnant god was pulling back together and causing troubles. Missing cattle, silhouettes moving at night, strange growths. That contract would not be as much of a journey as heading west for the hunt, more along the lines of expeditions followed by returning to the capital for bouts of research, but Song did not want to take Maryam into god troubles before her friend had better mastered her Signs.
+
+“Wise,” Song replied. “That leaves, I suppose, only the two investigations.”
+
+Both of which would take place in the city of Tratheke but running along rather different lines. Song knew the one she wanted, but getting Tozi to choose the other might be tricky.
+
+“Tracking down the killer would require particular skills,” she said.
+
+The Rectorate believed that a contracted killer was acting in the capital, and the preliminary Watch investigation agreed: the wounds on the corpses had not been inflicted by steel or powder. With ten dead bodies to the name and the Tratheke city watch having failed to so much as catch sight of the killer, the Lord Rector was turning to the Watch to deal with the issue.
+
+“A Mask, you mean,” Tozi mildly said. “I also happen to have one in my brigade.”
+
+“Yours is nobly born,” Song said. “Arguably, that makes her the perfect fit for sniffing out the cult.”
+
+Nobility took to cults like dogs to their own vomit and Asphodel’s was no exception. Most such cults were relatively harmless, trading boons with lesser gods for secret altars and ceremonies, so the Watch merely kept an eye on them without intervening. The cult of the Golden Ram, however, had grown enough of late to warrant attention. The Lord Rector, concerned it might be serving as the mortar for a noble conspiracy, had requested that the Watch unmask the leadership ring of the cult.
+
+A highborn Mask would be a fine match for that task. Tozi frowned.
+
+“I mean no offense,” she said, “but apprehending that murderer will be fighting work. You are a fair hand with steel, I’m sure, but at the end of the day only one of us has a Skiritai walking without a cane.”
+
+Song made herself thin her lips in displeasure.
+
+“If the investigation takes time she could yet recover,” she said.
+
+Tozi shot her a flat look.
+
+“Look, we both know digging up a cult could take months while taking the killer could over in less than a week with a little luck,” she said. “I do not begrudge that you want to get off the island as swiftly as possible, but the Nineteenth is simply the better pick for this.”
+
+Song grimaced, then gave a jerky nod.
+
+“That may be the case. I can concede.”
+
+“And I’ll remember the favor,” Tozi acknowledged.
+
+And from the Izcalli’s perspective a favor was being done: if Commander Tredegar and Wen argued for the Thirteenth to get the murder investigation they were not guaranteed to secure it but they were sure to open the debate enough any brigade might end up claiming it.
+
+Fortunately for Song, she had been aiming for the cult investigation from the start.
+
+The Thirteenth could have done well with the other, but the Tianxi knew she had the perfect bait to make the cult reach out: Angharad Tredegar. Also known as a beautiful highborn young woman with a recent injury, the very kind of recruit that a cult like the Golden Ram would be hungering for. Between Song’s eyes being able to pick out contractors, Maryam’s nose for sniffing out disturbances in the aether and Tristan’s knack for getting where he shouldn’t the Thirteenth was almost tailor-made for that contract.
+
+“Odds are the Fourth will try for the hunt,” Tozi told her. “Xical is gagging for it.”
+
+“The Eleventh would be capable as well, but I don’t see them straying too far from the city if they can help it,” Song agreed.
+
+Imani Langa had not approached Angharad on the ship, where prying eyes were difficult to avoid, but Song had not forgotten what she was after. The captain of the Eleventh want to avoid the hunt at all costs, since it would take her brigade away until the end, and if Imani could not get an investigation that left the exorcism.
+
+“Then it seems we have our tests,” Tozi said, and offered up her hand.
+
+Song shook it, smiling as she began to think on how to spend her favor.
+
+—
+
+The plan had been for the morning to belong to Theology, but with news trickling down from Commodore Trivedi that they would be reaching Asphodel late in the evening the plans were changed to Mandate. That lesson, Wen told the Thirteenth, was perhaps the most important they would get on the boat. They ought to pay attention closely, he said, so Maryam dutifully set out to.
+
+Beginning with their unusual teacher.
+
+Lieutenant Joaquin was a study in the dangers of going by first impressions. Though he had the looks and build of a scrapper, with a shaved head and hard eyes, he proved polite and almost soft-spoken. Tristan had mentioned he was by repute a mathematician, which the man elaborated on when bringing up the burning question on everyone’s lips: why he was the one teaching Mandate where there was a Stripe on board.
+
+“I have, for the better part of the last decade, served as the lead intermediary for a Peiling Society venture,” Lieutenant Joaquin said. “The Society has been attempting the predict the trajectories of the moving objects of firmament through mathematics, in order to create a living map of Vesper’s ceiling. Its theories naturally require observation to be proved or disproved.”
+
+He folded his hands behind his back.
+
+“As a result, stargazing towers need be built across disparate regions of Vesper,” Lieutenant Joaquin said. “This has required from me negotiation with nobles of all stripes and familiarity with a variety of foreign laws – as well as a grasp of where the Watch falls within these.”
+
+He paused.
+
+“It is up to your Mandate teachers on Scholomance to teach you philosophy and organization,” Lieutenant Joaquin said. “I will, instead, attempt to impart you with some practical realities going forward: what your powers, duties and boundaries are as Watch student brigades operating on Asphodel.”
+
+That this was being done on the ship, Maryam thought, was a reminder of how rushed their tests were. Those lessons should have been given by Professor Iyengar at Scholomance, but why would she when everyone else’s trip abroad was still months away?
+
+“Now,” the lieutenant said, “the Rectorate is a signatory of the Treaty of Blancaflor. Can any of you tell me what this means?”
+
+Imani Langa was first to raise her hand, and so called on though others followed after her.
+
+“A Watch officer in the course of discharging a contract has the rights of detainment and petition,” she recited.
+
+“Good,” Joaquin nodded. “Now, explain what these are – and where their limits lie.”
+
+Through a staggered round of answers coming from multiple mouths, Maryam was allowed to piece things together. The Treaty of Blancaflor was, historically, the great compromise that put an end to the incessant wars between a fledgling Watch and Sacromonte over control of the Trebian Sea. In exchange for some major concessions – Sacromonte being the mediator for all Trebian states, the supremacy of Sacromontan currency and some hefty trade privileges – the Watch had been allowed rights in the region that other realms had balked at granting, some refusing outright.
+
+The right of detainment was that a Watch officer, Song in the Thirteenth’s case, could order the temporary detainment of any lowborn man or woman, so long as they were not an official in service of the ruler. If a motive recognized by the Treaty was not then produced the detainee would have to be released with compensation, but it was still a hefty right.
+
+“How well we are able to enforce detainment depends on the strength and tolerance of the local rulers,” Lieutenant Joaquin said. “On Asphodel, for example, traditionally servants of the rector’s household and even the palace at large have come to be considered ‘officials’. We cannot detain them.”
+
+The shaved man raised an eyebrow.
+
+“Should you, in the course of a contract, need the ability to interrogate such a servant or even a lord – what would be your recourse?”
+
+The answer, as it turned out, was the earlier mentioned ‘right of petition’. Given the occasional urgency of Watch duties and how ignoring that urgency could have dire consequences, under the treaty officers could directly petition the rulers of a state in which they had taken a contract. Said ruler would immediately receive the petition allowing that officer to interrogate, investigate or otherwise bother someone beyond their authority and decided on an answer, becoming fully responsible for any consequences ensuing from a refusal.
+
+It was, of course, not quite so simple as that.
+
+“In practice, the right is only as strong as the ruler we deal with,” Lieutenant Joaquin told them. “In Asphodel, the lord rector might not be able to let us detain a minister even if we had evidence of cult involvement simply because doing so would result in civil war. We would have to reach out to other aristocrats to broker an arrangement or threaten the use of force.”
+
+He paused.
+
+“For the duration of your time on Asphodel, your right to petition will be exercised only through your patron,” he said. “You will have full freedom of the right of detainment, but abuse of it will have consequences.”
+
+A hand went up, and Tupoc Xical cleared his throat when he received permission through a cocked eyebrow.
+
+“The Iron Law,” the Izcalli said. “It that not also one of our rights?”
+
+“That one is not granted by Blancaflor but by the Iscariot Accords,” Lieutenant Joaquin noted. “Hence why I intended to turn an eye to it later. Still, there is no harm in an early detour. Since you seem so interested, Xical, tell me: what is the fourth clause of the Iscariot Accords, the same colloquially known as the ‘Iron Law’?”
+
+The pale-eyed man straightened.
+
+“The Watch may kill any who have broken the Iscariot Accords and be made to stand trial for this only by the Watch itself,” he said.
+
+“Willingly broken the Iscariot Accords,” the lieutenant corrected. “Though admittedly the wiggle room there goes both ways.”
+
+Maryam’s brow rose.
+
+“This seems,” she said, “like a clause that would be even more difficult to enforce than the rights we have discussed.”
+
+“Which is why it frequently is not,” Lieutenant Joaquin told her. “Yet it is the foundation of our authority regardless. The lawful and moral right to purge corruption wherever it is encountered is what makes us more effective than most local authorities even with our limitations.”
+
+He paused.
+
+“Consider this – even if the Grasshopper King were contracted and plotting with a god of the Old Night, killing him would lead to war. Killing the lessers in this conspiracy and then bringing the evidence to great lords of Izcalli, however, might well see the king quietly removed instead.”
+
+He swept through them with his gaze.
+
+“What I described is only be possible if we have the right to pursue and kill members of the conspiracy, which we gain through the fourth clause. It could be said that the Iron Law is the method and privilege through which we keep the world afloat,” Lieutenant Joaquin said, then his brow rose. “That is why any watchman below the rank of captain exercising it without orders will be hanged unless they have a very good reason for it.”
+
+What a tightrope the blackcloaks walked, Maryam thought. Every power and privilege subjected to an eternal tug-of-war between need and practicality. How often watchmen must trip and fall on either side of the rope and be buried for it.
+
+“Inkwells out,” the lieutenant ordered. “I will now list the clauses of Iscariot Accords you are allowed to enforce even as students, including the rare circumstances in which you would be able to exercise the fourth clause.”
+
+A steady look.
+
+“I should not need to explain,” Joaquin said, “that if any of you resort to the Iron Law without true need, being expelled from Scholomance will be the least of your troubles.”
+
+The weight of his words quelled the room, but in her it birthed a question.
+
+“Do you expect we’ll need to use it, sir?” Maryam asked.
+
+What did he know that they did not?
+
+“There’s a Tianxi saying,” he said, “that goes something like this: ‘treasuring a jade ring becomes a crime’. It means that to own a precious thing invites disaster through the greed of others.”
+
+Lieutenant Joaquin clicked his tongue.
+
+“Asphodel is weak, and it owns a treasure,” he said. “So keep your hands on steel, children: the kind of jackals that are about to come calling won’t stay their hand for fear of what a black cloak means.”
+
