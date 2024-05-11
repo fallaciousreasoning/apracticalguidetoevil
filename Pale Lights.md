@@ -46151,3 +46151,715 @@ Lieutenant Joaquin clicked his tongue.
 
 “Asphodel is weak, and it owns a treasure,” he said. “So keep your hands on steel, children: the kind of jackals that are about to come calling won’t stay their hand for fear of what a black cloak means.”
 
+# Chapter 42
+
+To Song’s mild embarrassment, she did not figure out why Commodore Trivedi was being so unpleasant before Wen told her.
+
+“The Gallant Enterprise was diverted to pick us up at Port Allazei,” the large man said. “She’s miffed that the flagship of her flotilla – and herself along with it – was made to play ferry for students and officers of lesser rank.”
+
+“None of us had any influence on that order,” Song pointed out.
+
+Not even Commander Tredegar, with his gold and connections, would have been able to influence the deployment of one of the Garrison fleets. The admiralty was infamously territorial.
+
+“Trivedi’s in no position to take out her anger on those above,” Captain Wen shrugged. “So we get to bear the brunt of it instead. She’ll try to keep us off deck even when we near Asphodel, mark my words.”
+
+It was not the retaliation that angered Song so much as the pettiness of it all. All the instructors aboard were members of a covenant: though they might not be of higher rank than Trivedi, the commodore was passing on useful connections out of foolish spite. Proving Wen right, along with word that Asphodel was in sight orders came down to stay below deck until the Gallant Enterprise had docked. Fortunately, the instructors were getting just as restless as the rest of them.
+
+After half an hour of packing up their things and combing through their cabins to be sure nothing was left behind, the order was politely ignored. The brigades were made to line up in the hall and the instructors led them up to the deck like a line of lost ducklings.
+
+“It is her ship,” Angharad quietly said. “She could have us all detained with a single order.”
+
+The Thirteenth was at the back of the line, so  no one aside from Expendable was close enough to overhear – and the Malani seemed distracted, constantly pulling at his collar.
+
+“She will not,” Song just as quietly replied. “That would have to be reported, and then the good commodore would have to explain why she saw fit to confine us in the first place.”
+
+“She could invent a reason for it,” Angharad grimaced.
+
+No doubt at the discomfort of calling a superior officer a liar even in a hypothetical.
+
+“Which would be contested by a member of every covenant of the Watch, ensuring the matter would be thoroughly investigated,” Song pointed out. “It’s simply not worth it for her to push the matter.”
+
+The Pereduri hummed in agreement.
+
+“It is a poor leader who hands out punishment where it is easy instead of where it is deserved,” Angharad finally said.
+
+Strong language, coming from her. As predicted the commodore was furious but she did not risk a confrontation and instead sent stiff-faced officers to inform the instructors that passengers were to head to the forecastle, where they would not be in the way of her crew. The crew was doing fine, in Song’s eyes, and there was plenty of room. Yet much like it would be too much trouble Commodore Trivedi to push the matter of their coming, it would be the same to defy her repeatedly.
+
+The brigades and instructors moved to the front of the ship, beneath the sails, and while the older blackcloaks huddled in a circle passing around what looked suspiciously like a flask of liquor the students were left to their own devices. The sight of a tall, burning light in the distance brought home how soon they would be arriving, so general nerves put paid to any notion of politicking.
+
+“That light is the Collegium, I assume?” Tristan asked.
+
+He was squinting into the wind, though occasionally his gaze drifted. Perhaps looking for Sakkas, the increasingly suspicious bird that had reportedly followed them from Tolomontera.
+
+“It is,” Song confirmed. “And only so visible because we are during the Asphodelian night.”
+
+The capital had been built by the Antediluvians, so it was no surprise that the firmament above it provided Glare to the island. Night and day in Asphodel were regional, if not all that complex: one great Glare light shone down on thirds of the island for eight hours at a time, laterally, while another larger but shallower light swept through the center of the island vertically before disappearing in the sea to the south, later reappearing in the waters to the north to resume it slow downwards journey.
+
+In practice, Tratheke and the surrounding valley had a day and night of twelve hours while the eastern and western thirds of the island had staggered eight hour ‘days’ and must make do with lamps for the rest. The old histories claimed the entire island had once had the same twelve-hour days, but that when the Second Empire ransacked the place they had knocked askew one of the mechanisms and created the discrepancy.
+
+Song was not sure she believed that. While Liergan had undoubtedly crippled Asphodel in ways that resounded to this day, it was equally true that Asphodelian histories tended to blame any and all troubles on the Second Empire.
+
+With the wind at their back and the waters around Asphodel largely free of dangers – Raseni pirates occasionally sailed the region, but even the boldest reavers would steer clear of a flotilla flying the black – they made good time to the Lordsport. While their gazes had naturally been drawn to the eastern third of the island, where a great curtain of Glare light faintly tinted gold fell like rain, the lanterns of Asphodel’s largest and wealthiest port soon claimed their attention instead.
+
+Tratheke proper was further inland, but it was connected to the port by a massive Antediluvian causeway so the Lordsport was usually considered part of the capital even though it should rightly be counted as an outlying town. Not that that any such mundane concerns claimed so much as a thimble’s worth of room in the mind of Song Ren when finally the port came into the sight. The Tianxi had seen one of the largest ports built by the hands of men, in Mazu, so she had thought herself prepared.
+
+Only the Lordsport had not been built by the hands of mere men.
+
+The structure towered over a cliff, a gargantuan hangar with two levels: one at water height and the other at the summit of the cliff. Its frame was a brass alloy keeping up a curved ceiling made from massive panes of glass, and the length extended past the edge of the cliff and over the water, where brass walls descended into the deeps.
+
+It formed a kind of interior harbor at the bottom, its water eaten away at by the teeth-liked lengths of the stone docks, but the true wonder of it was the machines. The space between every dock had metal frames in the water into which ships could slide, and intricate clockwork mechanisms sprouting out of the cliffsides brought up the hidden underwater platforms on which the frames rested all the way up to the top of the cliff – where matching docks waited hundreds of feet in the air, jutting from the top of the cliff like upper teeth to the jaw.
+
+A large carrack was beginning to descend from its perch as the Gallant Enterprise sailed into port, the brass pistons beneath the platform letting out huffs of steam as they smoothly lowered the ship back to the water.
+
+“What utter madness,” Angharad murmured.
+
+“There are ten such platforms, though only eight still work,” Song told her. “Raseni ships shot at the cliffside clockwork last time the duchy was at war with the Rectorate, and despite Tianxi mechanists being sent for the best they could achieve was prevent the damage from worsening.”
+
+“There’s lifts at the bottom of the cliff,” Tristan noted. “I’m guessing those are used to bring up everything that’s not a ship.”
+
+She confirmed as much with a nod.
+
+“Those are modern work, not ancient, and have been rebuilt larger half a dozen times,” Song informed him.
+
+“Would have been smarter to just make a port where there wasn’t a cliff,” Maryam grunted. “So much for the wisdom of the ancients.”
+
+She shot the other woman an amused look.
+
+“The cliff at the summit of the Lordsport is the end of a great metal hall that connects directly to Tratheke,” Song informed her. “The city is at almost the same height as the top of the cliff, which I expect is why the port was built this way.”
+
+“A metal hall?” Angharad prompted, cocking her head to the side.
+
+“About a mile long. It had once had great carts pushed along furrows in the floor by aether engines, but both carts and engines were taken by Liergan,” she said. “Now it is a glorified road, though one free of rain and well suited to carriages.”
+
+Which in and of itself was still worth envying. Keeping a widely travelled road between the Lordsport and the capital proper in a fit state for commerce would not be inexpensive – the Republic of Mazu was a largely coastal territory, but the upkeep of its share of the old royal highways was said to be a costly thing. Shouts sounded as the Gallant Enterprise began to pull into port, so Song shook off the distraction.
+
+Soon they would make landfall, and the moment they did their tests would begin. This was where it began, she knew. Where she either took the first step in pulling the Ren out of the pit, or where she fell into it with the rest of her family.  Song clenched her fists.
+
+She would not fail, because she could not afford to.
+
+—
+
+Tristan would admit to being somewhat grateful the ship was not going to be brought up the cliff.
+
+While his mind knew that the machinery would not fail, that it was Antediluvian work that’d worked for centuries and no doubt been studied by generations of mechanists for the slightest loose gear, his blood ran cold at the thought of being on a ship lifted like some kitten picked up by the scruff of the neck. Fortunately, as the Gallant Enterprise was a warship and had not come to Asphodel to trade there was little to unload onto the Lordsport docks save students and instructors.
+
+Commodore Trivedi gave them a cursory nod as goodbye, then headed back to the aftcastle. She shouted orders to prepare for immediate departure so the ship might make shore near Stheno’s Peak and disgorge the garrison soldiers it was ferrying as well. That, however, was not the thief’s concern. The pack of dockworkers, soldiers and the one richly dressed woman on the docks were. The Rectorate had left a delegation to wait at the Lordsport for the blackcloaks it’d contracted.
+
+The money took the lead, as tended to be the way of things.
+
+“Welcome, welcome,” the fair-haired woman called out. “It is Asphodel’s great pleasure to welcome the Watch to its shores.”
+
+Tristan looked her up and down, raising an eyebrow. Merchant. The Rectorate, like most of Trebian nations, had its own sumptuary laws – on top of the Sacromontan ones, which they were all bound to follow through the Treaty of Blancaflor – and Hage had drilled both he and Cressida on their details. Not only would it help them tell the standing of those they faced, it was necessary knowledge should they intend on disguising themselves. Those lessons were how Tristan could now tell that the stranger was walking a very fine line.
+
+Oh, the ocher dress was merely opulent but there were little details. Malani wax-print clothes were for nobles only, but the blonde woman wore only a capelet of checkered blue-white-ocher – which, by local law, would count as an accessory instead. Only highborn could wear more than a single piece of gold jewelry, so she wore a golden hair chain that curved behind the ear to take the appearance of dangling earrings then looped around the neck to become a layered chain necklace.
+
+It must be wildly expensive and so impractical that to put on it must require a maid, but still a single piece of jewelry. The wealth and clear intent to thumb the nose at the Asphodel sumptuary laws told him who was standing on the docks long before she finished her introduction: a member of the Trade Assembly, the island’s great merchant magnates.
+
+Captain Oratile was the one to step forward to answer her, the Malani’s bag hoisted up against her shoulder.
+
+“A pleasant reception,” she blandly replied. “May I know whom I address?”
+
+“I am Mistress Maria Anastos, owner of a trifling few ships,” the stranger said. “I came to oversee some matters at port, and since our Lord Rector could not spare someone of proper standing to greet you I thought to lend him a hand in the matter.”
+
+He discreetly rolled his eyes at Song, whose lips twitched. If she had not been waiting for them he would eat his own hat – and he’d gotten his tricorn back, so it was not an oath to take lightly. Several officers among the soldiers looked angry at her words, but the richly armored middle-aged woman they kept looking at only seemed bored. Bribed, if he had to guess. Not that it was unexpected for the Trade Assembly to have sunk its claws into the top officers of the greatest trade port in Asphodel.
+
+“Unnecessary courtesy, Mistress Anastos,” Captain Oratile blandly said. “The formal delegation from the Rookery has yet to arrive, we are here on contract.”
+
+“Ah, but I hear you are from the infamous Scolomancia,” Maria Anastos lightly said. “How spendthrift of our ruler, to entrust the safety of our homes to students. Why, I simply had to take a look at these valiant youths.”
+
+Not without reason did foreign rulers tolerate the Watch sending out green students on contracts: the blackcloaks waved all costs on them. It helped only lesser contracts were picked for the tests, the sort where failure would not have disastrous effects. Tristan had thought it a recent scheme, but Song informed him the practice was old as the school. The Watch liked to use it as a tool of diplomacy, handing a few free favors to regional powers it wanted to get in good with.
+
+“Our handpicked candidates thank you for the praise,” Captain Oratile said, sounding faintly bored even as she remained perfectly polite.
+
+There was a flicker of irritation in the magnate’s blue eyes before she put on a smile.
+
+“I look forward to hearing of their performance,” she said, then paused as if a thought had just occurred to her. “The lay of Tratheke can be difficult to grasp, for newcomers. It would not do for watchmen to get lost, so you are all welcome to visit the trading hall at any time for… directions.”
+
+Even as she spoke her gaze swept across the brigades, as if to make clear the students would be able to accept that invitation when instructors were not around. As if satisfied by whatever she saw, the magnate then nodded.
+
+“May you fare well on Asphodel, rooks,” Maria Anastos said.
+
+She turned and strode away, calling for one of her escorts to have her carriage readied, and left them to stand there awkwardly with the soldiers and dockworkers. The captain settled matters with these quickly, in contrast to the affair just ended, and within moments they were walking up the docks to the bottom of the Lordsport with a sergeant for escort.
+
+Even at this late hour Tristan found there were men out and about. The guards looked half asleep, save for those standing near three docked warships that must belong to the Asphodel home fleet, but the foot of the cliff was livelier. Past the stone docks they came onto a metal floor, some alloy of iron and brass almost warm to the touch – though it could only be seen in patches, covered by generations of dust and dirt as it was.
+
+Beyond the stretch of warehouses and customs halls waited a sprawling bazaar, half its shops still open if largely deserted. It was full of the staples of the western Trebian, Sarayan spices and Cratesi silverwork displayed along with Kastei jugs of oil and wine, but also of goods from further abroad. Expensive Tianxi porcelain and ceramics, set atop a tide of cheap workshop goods. Most of these were peddled by locals, he gauged, but there was a surprising number of merchants with the Cathayan look about them.
+
+It was one thing to hear that the Republics had become one of the greatest trade partners of Asphodel, another to see it at work.
+
+It was perhaps fifteen minutes on foot, carrying their affairs – the black cloaks and heavy armaments earned quite a few stares – to one of the lifts. That one was guarded by a pair of soldiers instead of dockworkers, neither of which argued with the sergeant who ushered them onto the platform. There was a railing around the edges, at least, thank the gods. Tristan found himself clutching it a little tight as the lift gate was closed behind the last of them and the soldier lit a large red lantern.
+
+A minute later there was a sudden twitch from the platform beneath their feet and it began to rise.
+
+Maryam nudged him, as if to comfort, and he sighed. He chose to distract himself by looking up at the ceiling of the great hangar over their heads, the river of lanterns and lamplights there almost soothing to the eye. The lift was blessedly swift in getting them up the cliff, and even more blessedly a smooth ride beyond that first bump. It clicked into place after reaching the top, the sergeant opening the gate on the opposite side and ushering them out.
+
+Though the hour was late and most of them growing tired, many still stared as they walked out. It was worth a second look, Tristan would concede: from out at sea it had been difficult to grasp how utterly massive the hangar in which the Lordsport had been built truly was. It was tall enough that bird nested and wind flowed as if it were the sky, perhaps even tall enough for clouds.
+
+The second half of the trading town was sleepier than the first, and in truth less impressive. There were markets here, and warehouses, but not the likes of a bazaar – too large, too empty. The sort where great merchants would trade entire shipfuls instead of haggle over trinkets. There were also a great deal of stone and wood houses, easily thrice as many as there had been at the bottom of the cliff. Most the locals must live here, Tristan figured.
+
+Besides the hangar itself, the most eye-catching part was the great boulevard that effectively split the upper town in two. It had three pairs of deep furrows carved into it, as Song had told them, though now they were mostly full of mud and dirt. It was impressively wide, at least four carriages wide, and steel markers put in the ground kept its immediate surroundings clear of all structures for what looked like around twenty feet.
+
+It was easy to see why the causeway was considered the heart of the upper town: after cutting through the halves, it continued in a straight line for the rest of the hangar and onto the long hallway that Song had told them of. The one heading to the capital proper.
+
+The sergeant guided them to the start of the causeway, which had been turned into a town square of sorts. There was room there for bringing in large trade goods, but it was clearly not the focus: on the three sides of the square crowded halls filled with carriages and wheelhouses. Many were for rent, transport companies, but the blackcloaks were instead led to the largest of the halls where soldiers stood guard. Transport had been arranged by the Lord Rector.
+
+Each brigade shoved into a small carriage while the instructors settled into a large wheelhouse. Their bags went atop the roof, safely secured, and they settled in for the ride. There were windows with shutters on them and the cushioned benches smelled of mildew but were comfortable besides. Tristan took the bottom left corner, Angharad sitting across from him and Maryam to his side. It took but a few minutes before all five of the carriages  began to head down the leftmost third of the road – which, Song told them, was meant for the use of foreigners – but Maryam had already toppled headfirst into sleep. She snored daintily, hood bunched behind her head like a pillow, and Tristan unclasped his cloak to drape over her as a sheet.
+
+He avoided looking either Song or Angharad in the eyes afterwards, though he still caught sight of a grin or two.
+
+Through the open shutters he watched as they left the town behind. The Lordsport filled barely a third of the room atop the cliff, so large it was, and the rest had been abandoned to weeds and sinuous cypress trees grown from the thin earth over the metal floor. There were guardhouses on each side of the entrance to the grand hallway, which must be tall as a four-story house, so that Asphodel could close access at will.
+
+More interesting was the beginning of the hall past them, which bore a great statue on either side every thirty feet or so. Behind the stone were painted poems in strange letters vaguely reminiscent of cryptoglyphs, written in gold.
+
+“Ancient rulers of Asphodel,” Song quietly told him. “Going back to the times before the Second Empire, though the statues were only commissioned during the Succession Wars.”
+
+“There are quite a few children,” Angharad noted.
+
+“It is their appearance when they come to rule that is displayed, by custom,” Song said.
+
+Tristan did not bother count them, though he would venture more than a hundred had been placed, but he took note of when the statues ended and the walls became painted instead. Lord Rector Evander’s statue must have been on the other side, as he doubted the old woman on his was the supposedly young male ruler of Asphodel.
+
+The painted walls were a beautiful piece of work, colored with a taste for the red and the yellow. The centerpiece of it was a seemingly endless knot of serpents biting each other’s tails, patterns repeating even as what was around them changed, and it took him a moment to realize the cleverness of it. It was painted so that, when the statues caught up to patterns they could be scraped off to make room for the letters and the next-to-last snake biting could seamlessly become the last.
+
+There was little excitement to be had going through the great hallway, not even a bumpy ride given how perfect and flat the metal floor was. There had been lights hanging above at the start, but as they went further out these became rarer and rarer until they ceased entirely and only the lanterns of their coach lit the path ahead. It became an almost lonely thing, their five isles of lights traveling alone in the dark.
+
+They spent around twenty minutes at a fine pace before they began to slow, Tristan opening the shutters to pop out his head and see what was ahead. The Thirteenth’s carriage was last in the procession, but he could still see ahead by virtue of the lights on the ceiling resuming: they had reached the end hallway, where a fort stood and soldiers waited on the road near a wooden barricade blocking the way. The carriages stopped in front of the barricade, forming a line.
+
+The handful of soldiers there wore thick coats with a long sleeveless chainmail vest over them, and two rows of tied steel plaques going around the torso. The mail collar was the most eye-catching part, lined as it was with red silk, but the greaves worn over the breeches displayed ornate owls glaring ahead so they were a close second.
+
+“Why owls?” he muttered.
+
+Even the Guardia preferred fearsome beasts to put on their armor, when they could afford to put anything at all. Tredegar leaned in, flicking a look through the window and humming in understanding as she noticed the greaves.
+
+“The owl is the heraldic beast of House Palliades,” she told him. “If these men wear such greaves then they are not simple soldiers but lictors.”
+
+The personal army of the Lord Rector, doubling as the Tratheke city watch. It was an odd notion to Tristan, having one’s troops patrol the streets instead of a designated body of men, but he was aware that Sacromonte was the oddity there. Most cities used garrisons to keep order in the streets, not guards. No doubt his home would have been the same, were all the houses of the Six not so deathly afraid that one of them would suborn such an army to overthrow the others.
+
+Tristan cocked his head to the side, considering the nature of the port and the trade artery they had been traveling down.
+
+“Makes sense,” he finally said. “The hall is where all the goods flowing into Tratheke pass through, they’d want the fort sitting atop it in the hands of the Lord Rector’s most trusted.”
+
+“It does not surprise me that Asphodel has only ever been forced to submit by great powers,” Tredegar noted. “The Lordsport could easily be defended against a great host, and the northern shore of Tratheke Valley is sheer cliffs. Only by marching an army through the mountains can the capital feasibly be sieged.”
+
+“Unfortunately for House Palliades, there are armies in the mountains,” Song spoke from the corner. “That is why the Council of Ministers exists.”
+
+Nothing like a knife at a man’s throat to convince him of the virtues of sharing power. Occasionally the knife was put in the throat instead, true, but that was the price of going around calling your chair a throne.
+
+“The rulers of this isle should have called their nobility to heel decades ago, by steel if need be,” Angharad opined. “Better a generation of weakness from the spent strength than a dozen decades of worsening rot.”
+
+“Is that so?” he blandly smiled.
+
+Better for House Palliades, perhaps, but hardly anyone else. Certainly not the thousands that would die in such a war. And for what? One noble putting the others in their place, what a grand prize for the commons. How did Ilaria’s old verse go again?
+
+Lives like coppers, easy spent
+
+Eternal glory’s bloody rent
+
+And why not?
+
+The silent statues of victors
+
+Will outlast wailing mothers
+
+“She’s right.”
+
+His eyes swiveled to his side, where a half-asleep Maryam was watching the lictors with cold blue eyes.
+
+“Leaving that kind of rot to fester in your nation invites in all manners of vermin,” she said. “Better a single great bloodbath to bind the land together than a hundred smaller ones when you are eaten up piece by piece.”
+
+Angharad Tredegar’s face twitched, as if she were so unsure whether to be pleased or insulted so her face had attempted both simultaneously. Song clicked her tongue disapprovingly.
+
+“There can be no virtuous empire, for the fundamental machinery of empire is evil,” she quoted.
+
+Hear hear. The thing about evil, Tristan figured, was that it wasn’t a thing so much as the absence of a thing – so you couldn’t destroy it, not really. At best you could burn yourself like an oil lamp keeping it out, only sooner or later you’d burn out and the man after you might not bother. So most people, instead, they moved the evil around. Pushed it away from people they cared about and onto the people they didn’t.
+
+It was the same with nations. Might be the Murk would be better were Sacromonte still queen of the Trebian Sea, if the wealth of Vesper’s greatest trade artery still flowed in with the tide. But then there’d be a dozen more Murks out there to pay for it, wouldn’t there? A rat could afford no truck with sympathy, or philosophy, but neither would Tristan sing the praises of shifting around evil like the pieces of some awful puzzle box.
+
+“Tianxia is powerful enough to preach that gospel,” Maryam said. “But how many lesser realms ended up buried for it, Song?”
+
+Song’s jaw clenched and she breathed in – only for Angharad to clear her throat.
+
+“It appears there might be an issue with the guards,” she said, nodding at the shutters.
+
+Tristan shot her an amused look, but given the stiff look on the faces of both other women that distraction was for the best. Commander Tredegar and Captain Oratile were talking with officers, or at least lictors wearing red feathers on their kettle-shaped steel helms. Oratile kept showing them papers, but the lictors were shrugging and gesturing at the inside of the fort. The Malani captain finally snapped off something in exasperation and stalked off, Commander Tredegar following with a frown.
+
+But a minute later Osian Tredegar was knocking at the carriage door, telling them there would be a delay.
+
+“Is there trouble with our papers?” Tredegar asked him through the open door.
+
+“We’re being given the runaround,” Commander Tredegar said. “The officers say only the fort’s colonel can validate them but that he’s currently eating. He will be coming down only when his meal is finished.”
+
+His niece frowned.
+
+“We are here at the behest of the Lord Rector and the lictors are his personal troops,” she said. “Why would they insult us so?”
+
+Tristan snorted. She was the noble-born of the Thirteenth, she should have been the one to catch on. Commander Tredegar turned a raised eyebrow on him, as if demanding he elaborate. Tristan saw no need to refuse a well-connected commander.
+
+“That colonel is a lictor, but they’re also someone’s cousin,” he said.
+
+The older Tredegar nodded approvingly.
+
+“Most Asphodelian officers are nobly born, and all that rise so high must be,” he said. “Captain Oratile believes that the Council of Ministers is behind the delay.”
+
+Song let out a noise of displeasure.
+
+“This isn’t even aimed at us, is it?” she said. “Some Minister is shaking the Lord Rector’s cage by making it plain they can stop the movement of even those directly contracted by the throne.”
+
+Commander Tredegar only smiled, neither agreeing nor disagreeing.
+
+“We should be here for at least another half hour,” he said. “Take the time to stretch your legs – there are terraces at the end of the road, if you want a good look at the capital. It is quite the sight.”
+
+Tristan flicked a glance the way of Song and Maryam, finding them still somewhat stiff, and decided to compassionately give them privacy to work it out. He was not at all fleeing behind Commander Tredegar out of fear of being dragged into it. The man’s niece was not far behind him. They were not the only ones emerging from their carriages, other students walking out onto the causeway, but aside from trading a nod with Cressida the thief paid them little mind.
+
+It was the promised terrace that had his interest, so he walked past the carriages and the lictors to where the hall ended. On either side of the causeway were roofed terraces, overlooking the causeway sloping downwards into the valley for the last mile separating them from Tratheke. It continued past the end of the hall and through green fields, bare to the elements for the rest of the way. Tristan slipped into the left terrace, past a few seats and tables to the railing. Though there were storm clouds on the horizon the view of the capital was clear, and what a view it was.
+
+Tratheke, he thought with something like awe, was not really a city.
+
+Oh, there were people living in it but the dwellings had been built out of the bones of something older and grander. You could still see them peeking out, despite men’s best efforts: it had the sketched silhouette of great box, brass ribs closing in from the sides and forming four quarters with the Collegium in the middle. The solid surroundings parceled inwards, revealing how the old Antediluvian university had been filled: tall facades of stone and brass bearing a thousand burning gas lamps.
+
+It was a city of lights, each of the quarters bearing so many tall-tiered edifices they felt like solid blocks of their own – intercut with the elegant, sinuous streets laid at their feet. The layout of it was too smooth, too pleasing to the eye. Tratheke had not grown, it had been crafted like some pretty trinket.
+
+The districts all converged towards the Collegium at the center, a solid square of galleries and arched clocktowers that could only be entered through stone bridges far above the street. That assembly was a wonder in its own right, but here only a mere foundation: from it sprouted a massive cube of glass, filled with lights and taller than the tallest towers of Scholomance.
+
+A brass tower could be glimpsed inside at the center, rising all the way to the center of the glass cube’s summit. There stood an elegant palace of brass and stone, surrounded by sprawling gardens, set atop the glass like a crown.
+
+“Ancestors.”
+
+Angharad Tredegar took slow leaning on her cane for the rest of the way to the railing, coming to stand by his side. She looked awed, more than he would have expected. Was Isasha not one of the greatest cities in the world? They say there are few Antediluvian ruins in Malan, he then recalled. It may well be that Malan’s wealthy capital had none of those ancient works within its walls – though it may also be that she had never visited that city at all, coming from another of the isles.
+
+“Wen told us the entire Collegium was once a single library, the greatest in the world,” Tristan idly said. “It made me imagine something smaller. Can you imagine the amount of books?”
+
+“I cannot,” Angharad admitted. “Thousands, millions? It must have taken decades for the Second Empire to take them back to Liergan.”
+
+They’d not taken everything, their patron had taught in his Saga class. Only the works they did not already have, which happened to be at least two thirds. It had still left Asphodel one of the greatest centers of learning in the world, but one that would never be able to challenge Liergan.
+
+“Now those empty stacks are houses and shops instead,” he mused. “No wonder the smallest houses within go for a manor’s price – with the glass keeping out weather and seasons alike, it must be like living in a permanent mild summer.”
+
+“That city cannot be entirely inhabited,” Angharad said. “It is simply too large – I am not sure half a million souls would be enough to fill it to brim. How could the Rectorate feed so many without beggaring itself bringing in grain?”
+
+While, instead, Asphodel was known to export grain.
+
+“Song told me that barely half is inhabited nowadays,” Tristan confirmed. “The northern outskirts of the city are what passes for slums here.”
+
+Only the slums were well within the walls and the structures there would stand for another thousand years, so even the worst of the capital was more palatable than the best of many cities out in the Trebian Sea.
+
+“I do not recall that conversation,” Angharad noted.
+
+“It came up when she asked me to look into something for her,” he vaguely replied.
+
+The Pereduri took the hint, not inquiring further. Tristan had no intention of telling her the matter had come up while they were discussing the Tratheke coteries, who mainly staked out their territories in the northern half of the capital since it was abandoned and the lictors cared little beyond keeping control of the gates and main avenues.
+
+Hage said that being able to make their lairs out of grand old ruins had led to some delusions of grandeur, including the local word for coterie being ‘basilea’, a bastardized version of a cant term for kingdom. Tristan had a list of the painted signs to avoid and of the handful willing to talk with the Watch without first being held at blade point.
+
+“Not that I mind the company,” he idly said, “but I expected you to…”
+
+He gestured vaguely behind them.
+
+“The others will be heading this way eventually, I expect,” Tredegar said.
+
+He cocked an eyebrow at her, unblinking, and eventually she coughed into her fist.
+
+“If I stayed back my uncle would have sought my company.”
+
+Which should not have been a problem, given how well she got along with him, but flicking a look that way told him what it was she’d fled.
+
+“Sergeant Kavia, huh,” Tristan said, lips twitching.
+
+“She keeps bringing up how well we get along in our Skiritai classes,” Angharad said, sounding pained. “How I could do with someone around to help me polish my skills.”
+
+“Innovative tactics,” Tristan gravely said. “As expected of our Warfare instructor.”
+
+She shot him a plaintive look.
+
+“Watchmen are expected to limit collateral damage,” Angharad complained.
+
+“She does what must be done,” Tristan grimly said, squinting into the distance. “…to tumble your uncle.”
+
+The genuinely disgusted look she made at that had him swallowing a grin.
+
+“I do not believe he is interested, besides,” she said.
+
+“There are hints,” he agreed.
+
+“No small ones, if even you pick up on them,” Angharad teased.
+
+That was rich, coming from a woman who’d yet to notice that Shalini Goel kept looking for excuses to put hands on her.
+
+“I am not sure you are in a position to speak of subtlety in such matters,” he replied instead, sardonically quirking an eyebrow.
+
+“It cannot be that obvious,” she grumbled, then cleared her throat. “We have never discussed it, but I’ve been informed that you are…”
+
+“Disinterested?” Tristan shrugged. “Yes. Never saw the attraction in any of it.”
+
+He occasionally felt an outpouring of physical affection, but nothing like the desire he had read about and seen aplenty.
+
+“I have occasionally wondered if I might be seeing it too much,” Angharad sighed, looking out in the distance.
+
+He hummed, keeping his gaze on her face.
+
+“Is that what happened with Captain Imani?”
+
+And that face closed like a pulled shutter – abruptly, almost angrily. Which was telling, he thought. There should have been little heat if he were asking about a former lover, but heat there was. The source of the anger, at a guess, was because he had turned a personal conversation into an interrogation. Yet it could only bean interrogation if she had something to hide in the first place.
+
+So there was a corpse buried in the garden. Good to know. It was, in truth, a little reassuring. Knowing there were bones in her flower beds made the noblewoman more comfortable to be around, instead of a manslayer with no handle on her save arguing labyrinthine rules of honor. Where her shoulders had stiffened, a knot in his came loose.
+
+“We have had disagreements of a personal nature,” Angharad said, gone stilted.
+
+“Anything we should know about?” he asked.
+
+“Should it prove necessary, you will be informed.”
+
+Oof. Phrasing so precise he could cut himself on it. That was never a good sign with Angharad, best to step back and wait until he had a fresh angle to go digging again.
+
+“Well, we all had our little adventures when we split off,” he easily said. “I don’t think Cressida has yet forgiven me for that time I drugged her and put her in a bath.”
+
+Angharad blinked once, twice.
+
+“You did what?” she asked.
+
+Grinning, Tristan got to spinning his yarn even as in the back of his head the little voice got to wondering. This was not his first journey with Angharad Tredegar, see, and if the Dominion was any indication the noblewoman was not only unflinching but decisive in cutting all ties with those she held in disregard. Violently, of need be.
+
+So if not sex, what was it that made Imani Langa an exception to that?
+
+—
+
+Maryam could not quite stop tapping her foot, which was visibly irritating Song. Yet every time the pale-skinned woman ceased a few moments later she realized she’d begun again without noticing. The discomfort had begun at the Lordsport, she figured, but it’d been fainter there. It would be, when so close to the sea. The moment they left the great metal hallway, though, there was nothing faint about the way the local aether had been mangled.
+
+And mangled was a word she chose with care, as the damage here was not so simple as a cut or a hole. It felt like… haphazard rips, a calm lake sometimes suddenly turning into harsh rapids or a waterfall or shipkilling reefs. The aether churned around the wounds like a furious sea, spilling and foaming. All matter of aether creatures could hide in such places, if they felt like it, but the worse was that Maryam could see it all coming.
+
+Feel herself approaching the rapids, pulling in her nav and flinching at the battering she was about to sense. Like a gut punch that took ten minutes to hit your belly, its coming inevitable.
+
+She took to winding her nav around her rings just to distract herself between the wounds, slipping on three and pulling tight. The creature, though, was agitated. Invigorated by the way the aether was here, perhaps? It pulled at even a mere three rake-rings, though not enough to hurt itself. Just enough for Maryam to feel the nudge, and she could not help but feel as if she were being taunted.
+
+It is not clever enough for that, she reminded herself. Instinct is not malice. Not that the former endeared her any more than the latter.
+
+The outskirts of the capital, at least, were a windless pond. She released the rings, putting them away, and stirred herself to gaze through the shutters at the streets their caravan of carriages passed through. Tratheke was a strange place, she decided after they passed the outer wall through one of the myriad gates facing the south, half of which went unguarded.
+
+The city felt… lifeless. Sterile. Clean stone facades and bright brassy lamps filled every corner, some sort of strange green glass filling the windows of shops and houses alike. It felt as if no building was willing to settle for being a mere single story tall when it could be four, and even the Glare lamplights towered high as ten men standing on each other’s shoulders. Such wealth on display, but then it did not truly seem like the city’s.
+
+What mortals had brought here was wooden shutters, straw and dirt in the streets. The men of Asphodel could lay claim only to the filth streaking the bottom of towering edifices and old structures gutted so they could be stripped of stone and gleaming brass. Rats infesting a city of gods, Maryam thought. What a life it must be, knowing that the best of everything you owned was older than the very tongue you spoke. That the finest things your fellows could make were still dross.
+
+It was no fit life, living forever in the shadows of the Antediluvians. The first of the Izvoric had been wise when they fled the wars over the holds in the highlands to settle on the coast. The highlanders had grown wealthy and powerful, turning those ancient ruins into fortress-cities, but Maryam saw only a slow poison in it. Volcesta might have been a dirty, sprawling mess but its people had looked ahead instead of back.
+
+Their lodgings for the night, and possibly much of their time in Asphodel, awaited deep inside the city. Not far from the edge of the Collegium, though not inside it. The Black House had been described to her as more compound than hostel, filling an entire city block. A relic of the time where the Watch had been almost as influential on this isle as the Lord Rectors themselves.
+
+It was easy to recognize when they’d reached the place, even by lamplight: the tall, four-story tall edifice had its shutters and gates painted black. Rain must have touched the paint, once upon a time, as faded trails of shade spilled beneath every window like cosmetics gone wet. Even though the Black House was of the same stone and brass and glass as every building around it, those small touches were enough to lend it a mournful air.
+
+“Solid stone and few ways in or out,” Song mused. “A hundred watchmen could hold that place for months against an army, if they had to.”
+
+“It is an eye-catching edifice, so let us hope there is some kind of backdoor,” Tristan grunted. “Else half the city will know anytime one of us goes for a walk.”
+
+By which he meant going for a sneak, Maryam fondly thought. She doubted he’d ever met a rooftop he did not want to skulk on.
+
+“All these streets look the same to me,” Tredegar admitted. “It’s the lamplights and bronze everywhere. I hope one of you is more discerning, for I expect I would get lost wandering in a coin flip’s span.”
+
+Much as she wanted to make sport of the Pereduri for that, Maryam expected that if she could not navigate by feeling out the aether she would fare much the same. And would soon enough, because while the south of the city had been largely calm the Collegium ahead felt like a screaming whirlpool. The Second Empire must have ransacked that place down to the last dregs, and not gently either.
+
+Black-painted gates opened after a shout from the lead coachman and the carriages filed in one after another, entering a wide courtyard where a few servants with touches of black to their gray livery immediately went about welcoming everyone.
+
+“Local hires, not part of the Watch,” Tristan murmured. “Else they would wear entirely black.”
+
+They did have that slight Asphodelian accent, with those teethy th sounds that stood out when speaking Antigua. A young woman with dark hair and a shapely silhouette that showed even in livery was assigned to bring the Thirteenth to their rooms and give them a look around Black House. Tristan lingered in the courtyard, though, and Maryam doubled back to see what that was about. He was standing by the large carriage, looking inside.
+
+“Something wrong?” she asked.
+
+“Hage never came out of the instructor carriage,” he said, sounding amused. “And it is now empty.”
+
+“Masks,” she said, rolling her eyes. “Where would he even go off to, if not here?”
+
+“I expect he’s already preparing to open a Chimerical here in the capital,” Tristan replied. “I will have to look for it sometime in the next few days if I am to continue my lessons.”
+
+“Your classes are terrible,” she informed him.
+
+A cocked eyebrow.
+
+“Yours are taught in a horrible eldritch dark hole that tries to make you kill yourself,” he countered.
+
+That was an unfortunately solid argument, so instead of committing to a doomed defense Maryam went on the offensive.
+
+“Thievery is wrong,” she informed him. “Shame on you.”
+
+He glanced at her cloak meaningfully.
+
+“I didn’t steal it, did I?” she sniffed. “Come along now, you’re holding up everyone.”
+
+He rolled his eyes but followed her in catching up to the others, who had not gone far anyhow. The Black House was even larger than Maryam had figured, with a large courtyard in the middle and the lodgings largely on the upper two levels of the surrounding rectangle. There were two kitchens, a dining hall large enough for sixty and public baths. Cassandra, the servant guiding them, mentioned there was a roof garden but that at this hour the doors there were locked.
+
+Beneath the house were the Watch’s armory, vaults and what she delicately described as ‘rooms for involuntary guests’. The doors to there were locked as well.
+
+“The latrines lead to underground as well, you said?” Tristan asked.
+
+“The city sewers run beneath the basement,” Cassandra smiled. “Our latrines feed directly into then.”
+
+She was smiling at him quite a bit, actually, which had Maryam sharing smirks with Song. Poor girl: that road was such a dead end it’d been turned into a graveyard. After circling around the sights once, Cassandra led them to their rooms. They were near the front courtyard, and to Maryam’s surprise they all had their own. The Nineteenth was settling in four rooms of their own further down the hall when the Thirteenth arrived.
+
+“Usually we would lodge you out back, in the suites, but those have been set aside for the arriving delegation,” Cassandra apologetically said.
+
+“They are fine rooms,” Tredegar assured her. “Finer than most at Scholomance, I assure you.”
+
+They were, Maryam agreed after taking a look. More spacious than her room at the cottage and the furniture matched. The bed sheets had been freshly changed. She brought her bag inside, noting with some amusement that Cassandra had gone into Tristan’s room to continue speaking with him, and set it down by the commode. She’d barely even begun to unpack where there was a rap against the doorframe. Captain Wen stood there, glasses off.
+
+“Song’s room,” he said. “Now.”
+
+She nodded, putting down her cloak on the bed and following him. The others were already there, Song sitting in a seat while Tristan and Tredegar leaned against the back wall.
+
+“Good news,” Captain Wen drily said. “The cult you’re to investigate has garnered the continued interest of the Lord Rector him, so you are to meet him in a private audience tomorrow morning. As your patron, I’ll be taking you to the palace.”
+
+Song straightened in her seat.
+
+“It would be best if we were not known as blackcloaks during the investigation,” she said. “I know that some of us have appropriate clothes to do this, but is there-”
+
+“The storage downstairs will have clothes,” Wen shrugged. “Anything else?”
+
+True to form, the overweight captain did not actually wait for any of them to answer before nodding and walking away. Maryam knew if there was a real issue they could call out and he’d return, but the silence gave him free rein to disappear. It lingered in his wake until Song rose with a sigh.
+
+“I will talk to the staff about getting access to the storage,” she said. “I know Angharad and I have the right sort of clothes, but the rest of you will need something more presentable.”
+
+“Pick something,” Tristan shrugged. “If I am to borrow them only the once, I hardly care.”
+
+Though Song should have been miffed at being handed the work, instead she looked distinctly pleased. Silver eyes moved to Maryam, who snorted.
+
+“So long as it’s not a gown,” she replied.
+
+“Come along, if you are concerned,” Song suggested.
+
+“Alas, there is another task I would like to see done before going to bed,” Maryam replied. “I’ve a test in mind for Angharad’s contract – which will require Tristan’s help besides.”
+
+The Pereduri grimaced at the mention of a test but did not quibble. She was no welcher, whatever else might be said of her. Song studied them a moment, then sighed at whatever she found.
+
+“I’ll try to find you something blue,” she said. “I promise nothing more.”
+
+Tristan evidently recalled the talk they’d had about this before, because he was out with Song in the following moments to fetch the necessary parts. It left her with Tredegar, who looked tired and grim.
+
+“In my room, perhaps,” the noblewoman suggested. “We should not keep using Song’s.”
+
+Maryam did not particularly care so she conceded. Tristan was back in moments, his hand closed. Inside it would be a pair of colored pebbles he had bought a pouch of for a Mask exercise, the sight of which had given Maryam the idea for the test in the first place. So far she had only sketched out the generalboundaries of Angharad Tredegar’s contract, attempting to ascertain basic details.
+
+They’d established that there was at least a second of empty time between the beginning of the ‘glimpses’ and the present, and that the Pereduri could not glimpse more than ten times in an hour without strain – fewer, if it was done in quick succession. Tonight, though, Maryam was interested in a more conceptual sort of limit.
+
+“Show her,” Maryam asked her friend.
+
+Tristan opened his hand with a flourish, revealing a pebble painted white and a second painted red. Angharad slowly nodded, then turned a questioning look to her.
+
+“He will shuffle them behind his back,” Maryam said, “then present two closed fists. I want you to glimpse ahead for the color of the pebble in the hand you tell him to open.”
+
+“It seems not unlike the door test,” Angharad noted.
+
+One of the few tests discreet enough to be done on the ship: Tristan had been made to stand outside the door of their room, Angharad predicting how many fingers he’d be holding up behind opening to door to verify. She had not got a single instance wrong.
+
+“There’s a difference,” Maryam simply said.
+
+The Pereduri shrugged, nodding her assent to Tristan. He took the pebbles behind his back and got to shuffling them. Even looking for it, Maryam could not tell when it was done. Less than a minute later two closed fists were presented. Angharad hummed, then batted her eyes as she used her contract. She tended to close them when glimpsing ahead, though Maryam was not yet sure whether it was a habit or obligatory. The Pereduri suddenly blinked in confusion.
+
+“Left hand,” she disbelievingly said, “has a yellow stone?”
+
+He opened it, revealing she was correct.
+
+“You changed the colors of the pebbles behind your back,” Angharad guessed.
+
+He only smiled.
+
+“Not all oracular contracts truly allow their contractors to see the future,” Maryam told her. “Some are merely… very good guesses made by the god, using every detail known. More or less. Only you were unaware that there were other pebbles, much less of their colors, so it appears yours truly does predict what is to come.”
+
+Tredegar frowned.
+
+“The spirit I contracted with called what he granted me his ‘sagacity’,” she admitted. “I am unsure what it truly means.”
+
+“That you might well be using but the slightest portion of what was given you,” Maryam said.
+
+Angharad passed a hand through her braids.
+
+“That is both comforting and troubling,” she admitted.
+
+“Don’t go being too troubled,” Maryam said. “There’s likely a difference between how much the god granted you and how much you can safely use.”
+
+Tredegar made into a Saint was not something anyone sane ever wanted to encounter. The dark-skinned noble nodded.
+
+“Have you other tests in mind?”
+
+“Always,” Maryam toothily smiled.
+
+By the time Song returned, they had tested whether it made a difference to the prediction if the pebbles were handed to Maryam while Angharad had her eyes closed and whether or not removing one of the pebbles while she could not see them changed anything. Neither did, Maryam taking note and already pondering how she would next look for a limit to the foresight. Surely there was one.
+
+Then Song Ren laid out blue skirts and a cream bodice on Angharad’s bed.
+
+“This is a dress,” Maryam flatly said. “I asked for one thing, Song.”
+
+“Ah, but it is not a gown,” the captain smiled. “Try it on.”
+
+Tristan was grinning, enjoying her misery, which made it entirely deserved when Maryam laughed at the sight of his being put in a servant’s livery.
+
+Appropriately, she went to bed still grinning despite her defeat over the dress.
+
+—
+
+The carriage they took out of the Black House belonged to the Watch, and lacked windows: its frame was reinforced with iron and instead of a window it had traps to aim guns through. Unfortunately these did not allow for much of a look outside, so Song sat blindly through her first journey through the streets of the Collegium – catching only glimpses of Glare light and the touch of a warm breeze.
+
+The Thirteenth only left the carriage after it reached the basement of the great brass tower at the heart of the district, which was not inhabited but a collection of lifts. Lictors waiting for them there bundled them off onto a brass lift with ornate railings, which began to rise moments later. Feeling somewhat cheated of the sights, Song was further aggrieved when lictors waiting at the end of the lift guided them through what was clearly servants’ quarters without giving them a look at the palace proper.
+
+It was all so furtive she half expected the Thirteenth to be secreted away to the Lord Rector like some dirty secret, but once they reached the hallway outside Evander Palliades’ solar the lictors simply told them to wait until they were called before returning to their posts. They were left to stand there, uneasy, before Wen snorted and plopped himself down on one of the many chairs littering the long hall.
+
+The Thirteenth, after a moment, followed suit. Hopefully they had not drawn attention hesitating, though if they had their appearance should survive at least a first glance. Though they were being received as watchmen, none of them had come wearing the black. The last thing Song wanted was to warn every courtier in the palace that blackcloaks were coming to dig up their little cult.
+
+She herself had put on a set of formal clothes gifted by her mother, while Angharad had come in a splendid noble’s dress. Tristan was in servant’s livery, slouching as if it were his birthright to wear it, and Maryam was modestly dressed as a handmaid in skirts and blouse. Making her Angharad’s even in appearance would have been… ill-advised, so she was to pretend to be Song’s.
+
+Though they had arrived at a sharp eight, they were not alone in the hall: near the oaken doors of the solar waited a bearded man dressed in gray striped satin from head to toe, his hat a cascade of black-and-pearl feathers. He screamed wealth to Song’s eye, and not the landed kind.
+
+It was fifteen minutes before the oaken doors opened, a pair of lictors escorting out a finely dressed pair, while the majordomo called for ‘Captain Wen Duan’. The gray-clad man scowled angrily but held his tongue. Wen rose, stretching out with a sigh.
+
+“He must want a private talk with me before sitting with you,” the bespectacled man said. “I expect they’ll end for you shortly.”
+
+Song nodded, for what else was there to say? It was not for her to dictate anything in the Lord Rector’s own hall. She watched Wen’s back as he disappeared past the doors, which pulled closed with hardly a sound. She spared a curious glance for the pair that had just exited and was now strolling down the hallway arm in arm. No contracts, so no name, but Song would guess them being nobly born from the quality of the clothes alone.
+
+The man was short and stout, tanned in the Lierganen way and with the laugh lines of a perpetual smiler. He had brown eyes and a broken nose, wearing a high-collared yellow short-sleeved jerkin spilling lace while a matching paneled red doublet overly padded trunk hose combined to make him look somewhat like a jolly balloon. His small bonnet of black silk paired with a swirling mustache only added to the effect.
+
+The woman, on the other hand, was tall and thin – which her austere white partlet, narrow around the neck, only called attention to. Her black skirts and bodice, matching a long nose supporting small spectacles and pursed lips, lent her the air of a dark-feathered vulture. The only touches of color on her were cuts in the sleeves revealing a red petticoat whose shade matched the man’s doublet, a golden jeweled belt at her hip and pearls around her neck.
+
+And while Song had been studying the pair, they’d been studying her right back.
+
+“Why, hello there!” the man called out. “I don’t believe I’ve ever seen you at court before.”
+
+Song, choosing manners, rose to her feet and offered the slightest bow.
+
+“Mistress Song Ren,” she introduced herself. “We are new arrivals, on fresh business.”
+
+“How exciting,” the short, stout man vibrated. “Business, you say! How delightfully vague, darling.”
+
+“We have yet to introduce ourselves, dear,” his companion told him.
+
+He gasped, as if overcome by how own freshly discovered rudeness.
+
+“Manyfold apologies, Mistress Song. I am Lord Locke,” the man introduced himself. “And if I may present my lovely wife-”
+
+“Lady Keys,” the woman provided. “It is a pleasure, Lady Song.”
+
+“It is all mine,” Song replied. “If I may introduce my companions-”
+
+They had, without prompting, risen to join her.
+
+“Lady Angharad Tredegar, Master Tristan Abrascal and Mistress Maryam Khaimov.”
+
+Maryam, predictably, drew some surprise from the pair but it soon passed and they paid her skin no visible mind afterwards. A point in their favor. Disinclined to let herself be interrogated about their purpose for coming to this hall, Song instead asked to theirs.
+
+“I must say, you hardly have the Asphodel accent,” she said. “Would you happen to be visitors yourselves?”
+
+“We are on a secret romantic adventure,” Lord Locke confided, his voice just short of shouting, which was as quiet as he got. “Asphodel is our latest stop, and the Lord Rector’s hospitality has been most pleasing. Most pleasing indeed!”
+
+“Much better than in Sordon,” Lady Keys scathingly said. “Why, when we had the Count of Torena for dinner-”
+
+“When we had him over fordinner, darling,” Lord Locke uproariously laughed. “Over. Why, the implication!”
+
+His wife let out a genteel little laugh. Song hid her discomfort. She would not say it felt like they were lying, not exactly, but there was some glint in their eyes. Was she imagining the malice there?
+
+“Indeed,” Lady Keys chuckled, peering through her spectacles. “Over for dinner, my mistake.”
+
+“I assure you, my friends,” Lord Locke grinned, “that we did not eat the Count of Torena.”
+
+“Bony fellow, he was,” Lady Keys mused. “It would have much too hard on the teeth.”
+
+A beat passed, none of them quite sure what to say, while Lord Locke twirled his mustache.
+
+“Lobster tonight, do you think? I’ve a craving.”
+
+“You read my mind, darling,” Lady Keys happily said.
+
+She then winked at them.
+
+“Why, my friends, it has been a pleasure,” she said. “I hope we shall see you around court.”
+
+“Indeed,” Lord Locke grinned. “Why, we ought to have you for dinner sometime!”
+
+A beat, then they both roared with laughter. They walked away chuckling, complimenting each other on their fine cut of humor in whispers so loud they could be heard from the other side of the hall. They left a bemused sort of stillness behind them, Song opening her mouth twice only to close it. It had been a… perplexing experience, that conversation. Angharad broke the ice.
+
+“Those are either very great fools,” she opined, “or very dangerous people. Let us pray not both.”
+
+“I thought they were charming,” Maryam said, at least half driven by spite. “Lovely couple, really.”
+
+“And the implied cannibalism?” Angharad flatly asked.
+
+“All in good fun, surely,” she insisted.
+
+Angharad seemed about to tack on something, possibly unwise words about cannibalism and the Triglau, so Song gave her a quelling look. The Pereduri cleared her throat, looking away.
+
+“Tristan?”
+
+Maryam had been the one to speak, but when Song followed her gaze she found the gray-eyed thief staring at the distant back of the nobles with a frown.
+
+“Did you notice something?” she asked.
+
+“I’m not sure,” Tristan muttered. “They were… it’s just a feeling, Song. There’s something off about those two. Did they have contracts?”
+
+“Neither,” she said.
+
+He flicked a look her way.
+
+“Can you see boons?”
+
+“I’m not sure,” she echoed, biting her lip.
+
+“Then we should look into that, if we get the time,” he said, and she nodded back.
+
+Before they could say anything further, the oaken doors opened anew. Their gazes were drawn that way, and as Wen had predicted the majordomo called out their names. They headed into the solar with the bearded merchant’s baleful gaze at their backs.
+
+The room they walked into was too large to be called a solar, Song thought – the size of a courtyard, and almost as empty. Oh, the sides were a riot of rich tapestries and gilded stacks of ancient volumes, but the pure white marble floor was two-thirds bare. Near the back of the room the Lord Rector’s bureau stood, a massive beast of red wood flanked by two porcelain vases tall as men and a few smaller tables. There were cushioned seats before it, and behind sat Lord Rector Evander Palliades.
+
+Song had already known he was young, read that he was only twenty-two years old, but she was still startled to see it. The man was slender, almost weedy, and his large round brass-rimmed spectacles only added to the effect. He had an angular face and wavy brown locks, with a bit of stubble growing, and the Tianxi would not have batted an eye if she saw him walking the streets of Port Allazei wearing black.
+
+Lictors lined the walls on either side and Wen sat before the bureau, face bland.
+
+“The Thirteenth Brigade, as advertised,” Lord Rector Evander said, warm voice carrying. “You may approach.”
+
+They did, the eyes of armed men never leaving them for an instant. They would be dead in a heartbeat, if they acted a threat. The Lord Rector hummed when they came to stand but a few feet away from his bureau, considering them one after another before coming to rest on Maryam.
+
+“A northerner, truly,” he said, sounding amazed. “A rare sight in these parts. Your name?”
+
+Maryam, as coached, bowed.
+
+“Maryam Khaimov, Your Excellency.”
+
+“I hear you are of the people who dwell beneath the Broken Gates,” he said. “The Izvori?”
+
+“Izvoric,” she corrected, accentuating the last letter.
+
+He nodded, muttering the word to himself a few times.
+
+“A shame you are here on contract,” the Lord Rector noted. “I have long been curious about the northern continent. What little the Malani deign to share reeks of revision.”
+
+Those dark eyes then came to rest on her.
+
+“You would be Song Ren. Captain Duan tells me it will be you who decides how your brigade is to proceed with the contract. Do you have a plan in mind, Captain Ren?”
+
+She bowed.
+
+“According to the documents provided me, your suspicions are that the cult of the Golden Ram is serving as a gathering point of malcontent nobles,” Song said. “I would ask that my cabalist Angharad Tredegar, formerly the Lady of Llanw Hall, be introduced to your court as a guest so that she might bait out the cultists.”
+
+The Lord Rector raised a heavy eyebrow.
+
+“And the rest of you?”
+
+“I am what is called a sniffer, Your Excellency,” Song said. “It is-”
+
+“I am familiar with the concept,” he thinly smiled. “Contract-finders. You want to comb through my court and palace for traces of the Golden Ram.”
+
+Song nodded.
+
+“Preferably while under the assumed identity of a merchant having some dealings with the palace. As Maryam is a Navigator, she would aid me in this endeavor while passing as my assistant.”
+
+She cleared her throat.
+
+“Meanwhile, I would ask that my cabalist Tristan Abrascal be allowed the use of palace servant livery so he might get around discreetly and follow the trails we will unearth.”
+
+Lord Rector Evander glanced at Tristan, then wrinkled his nose.
+
+“Sacromontan?”
+
+The gray-eyed thief nodded.
+
+“Yes, Your Excellency.”
+
+“And not overly chatty,” the other man noted. “Good. I will allow use of the livery, but I will require regular reports to my majordomo about what you have done while wearing it.”
+
+The glasses moved back to Song.
+
+“It will draw attention if you leave and return too frequently,” the Lord Rector decided. “Send for the tools of your trade, blackcloaks: until you are done sniffing through my court, the five of you will be staying in the palace.”
+
