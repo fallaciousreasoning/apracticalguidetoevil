@@ -46863,3 +46863,707 @@ The glasses moved back to Song.
 
 “It will draw attention if you leave and return too frequently,” the Lord Rector decided. “Send for the tools of your trade, blackcloaks: until you are done sniffing through my court, the five of you will be staying in the palace.”
 
+# Chapter 43
+
+It was an odd room, Song mused.
+
+Though the salon had been furnished in the Malani style, with colored wooden frames and stuffed leather cushions flanking polished shell tabletops, the walls and lamps were in the traditional brass-and-stone of Asphodel. By the impressed look Angharad had given the table these were genuine Malani shellfish shells inserted into the table and that that mother-of-pearl luster was not the result of the varnish, which made it somewhat obscene for such a ridiculously expensive object to now be laden with a veritable hilltop of papers.
+
+As were the two smaller circular coconut wood tables and the two colorful woven baskets with gods of Malan presented as a parade. The sum whole of everything the rector’s palace had on the cult of the Golden Ram was as a forest butchered and inked. Thankfully, Song was not alone in sorting through the piles.
+
+“These should be in the lictor reports,” Maryam said, handing Tristan a pair of sheets. “I’m not sure why they were put in the histories.”
+
+The gray-eyed man took the papers and squinted at the first few lines.
+
+“Angharad,” he called out. “House Androlakis?”
+
+Sitting on the sole solid wood couch, a pile of books placed next to her in an appreciably neat pile, the dark-skinned noble flipped through the volume she was holding while muttering. Her walking stick was propped up against the side of the couch, next to the blade she had unbelted for comfort.
+
+“I believe they might be,” she began, setting her book down and reaching for the last few pages of another. “There they are: Androlakis of Mount Chrysone. The line ended in 78 Sails, their lands passed to the Katechas.”
+
+Maryam winced.
+
+“Are they really going to class all the reports involving dead noble houses as histories?” she whined. “That’s going to take ages to filter out.”
+
+“You asked for the palace records, children. Did you really think that the way the Lord Rectors sort their papers would be spared petty politics?”
+
+All their eyes moved to Captain Wen, who had dragged the largest coconut wood seat to a corner of the room and then pilfered the cushions off two more chairs before settling there and cracking open a slender volume called ‘Household Tales’. He’d spent the last hour and a half ignoring them as he sipped through the fine bottle of red wine the palace servants had provided.
+
+The only reason he was even here was that Song had requested the Watch records on the Golden Ram as well, the small pile of booklets piled up next to him, and those would not be allowed out of his sight until they were safely return to the Black House.
+
+“Ah, I see,” Angharad muttered. “If there were records of suspicious activities in lands now belonging to another house, they could be used as a pretext to investigate the affairs of that family – to have them sorted as historical is conveying that will not be the case.”
+
+“That is tortured,” Maryam said, rubbing the bridge of her nose. “How weak is the position of the Palliades that they have to play these sorts of games?”
+
+“Weak enough that our brigades encountered both the Trade Assembly and the Council of Ministers within an hour of docking at the Lordsport, if you’ll remember,” Song bluntly said. “I suspect that the Lord Rector’s authority is significantly weaker in practice than we have been led to believe.”
+
+Which was… worrisome, considering the unveiling of the Antediluvian shipyard. The magnates and the ministers had already been circling the throne. How much bolder would they become, now that there was a prize to seize beyond the mere end of House Palliades?
+
+“Song is right,” Captain Wen said without raising his eyes from his book.
+
+He flipped a page.
+
+“The Lord Rector not only met you personally instead of leaving it to his majordomo or one of his courtiers, then effectively gave you unrestricted access to the palace records,” the bespectacled man said. “You did not makethat good a first impression. He’s pinning hopes on your test.”
+
+Song was still parsing through the implications when Tristan cursed.
+
+“He’s not worried that nobles are using the cult as a way to conspire against the throne,” the Mask said. “He’s hoping for it.”
+
+It fell into place for her. A formal investigation not by the lictors but by the Watch – a mostly neutral third party – implicating nobles with conspiracy and illicit cult dealings? It would give Lord Rector Evander a steel-plated excuse to get rid of some noble houses making trouble for him. Even better for the Palliades, should ministers try to rally support against him it would be seen as them supporting a cult and contesting the results of a Watch investigation.
+
+The Thirteenth was being used by Evander Palliades to clean house.
+
+“Fuck,” Maryam quietly said.
+
+By the looks on the faces of the others, she was speaking for all their hearts. Their gazes moved back to Captain Wen, who sipped at his wine with an obnoxious slurping nose. He had to be doing that on purpose to annoy them, Song knew, but even more irritating was that it worked anyway.
+
+“Welcome to the Watch,” Wen Duan idly said. “Our order has the unique privilege of being almost as much in danger from those we are to protect as from what we protect them from.”
+
+“Because we are also bait,” Song said, the realization sinking in. “Either we unmask the leaders of the cult for him, allowing his purge, or we get found out – and should the cult panic and try to get rid of us…”
+
+Then even should they succeed they’d have killed watchmen, bringing the Watch down hard on the Lord Rector’s enemies. Part of Song was impressed with the cleverness at work. Evander Palliades was leveraging what tools he did have skillfully, turning third powers on each other. The rest was clenching its jaw at the realization that the same polite man who had welcomed them that morning was dangling them like a worm on a hook even as they undertook a contract on his behalf.
+
+“Ah, there’s the face.”
+
+Song’s gaze flicked to their patron, who had finally deigned to look away from his book – closed around a finger to avoid losing the page – to grin at her.
+
+“Prodigies indeed,” Wen Duan said. “Most officers realize that we’re only ever handed lit grenades after a year or two on the field, so you’re clocking it early. Good on you.”
+
+He snorted, reached for his glass.
+
+“Keep the terms of the contract, stay uninvolved,” Captain Wen instructed. “As long as you do that, you can always count having the Rookery behind you – and with the guns of the Watch arrayed at your back, you’ll find even kings prefer to talk sweetly.”
+
+Sipping loudly at his wine, he then cracked his book back open as if to signify he was done dispensing sage advice. Song breathed in, straightened her back. It was just another pitfall to dance around. She had known there would be dangers: how could there be glory in safety?
+
+“It is as he said,” she told her brigade. “We stay out of intrigues as much as we can and fulfill our duty to the letter. Even fools will think twice at intervening with watchmen on official contract work.”
+
+Angharad’s face was a wax mask and Tristan was smiling – which he often did when hiding his thoughts – while Maryam looked faintly worried. It was with a cloud hanging over them that the four of them resumed sorting through the papers.
+
+After another hour Song called a halt so they might eat something and rest their eyes, which turned into an impromptu council about what they had learned. Tearing into mutton chops and baked tomatoes, both covered in the sauce of herbs and oil that was the local specialty, they shared what they had dug up.
+
+“No one knows the true name of the Golden Ram save for its cultists,” Song informed them. “The Arthashastra historians based on Stheno’s Peak believe they had found the original story the god came from, however.”
+
+She elaborated on the bare bones. It was a common sort of sacrifice myth about a golden, winged ram who was slain every winter solstice to bring about the return of spring. The sacrificial ram had been turned into a lesser god of rejuvenation and healing over the years, one whose face must have changed dozens of times with the centuries. The torch then passed to Maryam, who had inherited the history pile.
+
+“This is the third known cult to the Golden Ram,” the blue-eyed woman shared. “The oldest on record was contemporary to the Second Empire, a lodge of shepherds that shared rituals with some mountain tribes. The second was… less pleasant. Packs of roving murderers sacrificing travelers in groves.”
+
+“That does not sound like the desires of healing god,” Tristan noted.
+
+“It might not have been a cult to the Ram at all. See, the rovers were recorded during the Century of Accord, during which Asphodel had a period of bloody chaos,” Maryam said. “They call it the ‘Ataxia’. Supposedly some rampant god was involved, the Hated One, and its cults loved to pretend they belonged to some other god.”
+
+Song had got her hands on multiple volumes on the history of Asphodel, but the sections on the Ataxia were always sparse. As far as she could tell the priesthood of this Hated One had tried to usurp power from the Lord Rectors of the time and turn the island into their own kingdom, successfully ending the ruling house of the time but missing some of the nobles – resulting in half a dozen self-proclaimed Lord Rectors and several decades of civil war occasionally interrupted by the traditional war with the Duchy of Rasen.
+
+“Either way,” Maryam said, “the Watch purged this Hated One’s cult and proscribed the name. This resurgent cult of the Golden Ram doesn’t appear to have anything to do with it, or even much with the first on record – for one, it is based in the capital instead of out in the countryside. Most likely we are dealing with an entirely different god come out of the same source.”
+
+“If it is so different, are we certain the cult’s name is not a ruse?” Angharad asked, cocking an eyebrow.
+
+Which was the cue for Tristan to step in, as the one who had combed from the Watch and Asphodel reports on the modern cult. He hummed, going fishing through his pile of papers and producing a sheet he handed her.
+
+“This,” he said, “is what I believe is the most important document on the cult of the Golden Ram we are dealing with.”
+
+He spared them the need to read it by summing up the contents. It was a report from a captain in the lictors dating three years back, recounting having stumbled across a hidden hunting lodge in the Tratheke hills during midsummer. Within were vividly described golden rams painted on the walls, the scent of half a dozen vices and roasted lamb whose flesh remained but lacked so much as a thimble’s worth of fat.
+
+“That sounds like a revel cult,” Song said.
+
+“It does,” he said, “but what’s not on there is almost as important as what is not. For one, there is not a single mention of a ceremony taking place on a solstice. The old season rituals have clearly been abandoned.”
+
+He paused.
+
+“Second is that this took place in nice hunting lodge and the cultists could afford drugs and to waste a lamb,” Tristan said. “Most of the current suspected cultists are nobles or at least wealthy. Interestingly, of the seven names we were given five are men and all are older than fifty.”
+
+“Healing,” Maryam said. “You think the new cult set aside the old season myths to center itself on the rejuvenation part of the story.”
+
+Tristan thinly smiled.
+
+“Now, keep in mind that this is speculation. But given difference with the historical fabric of the cult and the provenance, I think that this began with a scholar of means looking through old gods and contacting the actual Golden Ram by accident. He got his boon, or his contract, and spread it around. Given the revel turn, I expect it was mostly a way for the aging rich to pay for getting rid of problems like…”
+
+He raised his little finger and wiggled it luridly, which had Angharad looking appalled and Song hiding a smile.
+
+“Only the god they got their hands on was willing to dole out the goods so they kept expanding their circle, at some point realizing their little club had roped in some fairly influential people that could help each other. Hence a cult was formed, formalizing the arrangement.”
+
+“Much of that is speculation,” Song said.
+
+“It is,” Tristan agreed. “Though the local Watch garrison agrees with me on the likely source of the cult, at least. Their theories run along much the same lines, though they seem to believe the god was chosen with the building of a cult in mind from the start.”
+
+“And the recent expansion?” Maryam asked. “It’s why the Lord Rector became convinced they’re a conspiracy, isn’t it?”
+
+“See, in simple numbers the cult isn’t believed to be that large,” Tristan said. “That expansion is thought significant because of who is believed to have joined up.”
+
+And his eyes flicked to Angharad, who folded her hands in her lap.
+
+“I believe some small context is necessary,” the Pereduri told them. “House Palliades is originally from the western third of Asphodel and has traditionally favored nobility from there – one might argue as a way to secure its reign, given its weak blood claim to the throne and largely accidental rise to power.”
+
+“So the eastern nobles have it out for them,” Maryam said.
+
+“Those houses have been the core of the opposition to House Palliades,” Angharad conceded. “Yet the landscape of Asphodel changed with the rise of the Trade Assembly, the old rivalries between east and west instead turning to ministers and magnates.”
+
+She paused.
+
+“As a result, the eastern nobles – who own the largest and richest estates – are now the leading lights of the Council of Ministers and the entrenched, consolidated noble opposition to the Lord Rector,” she continued. “Which is why it is particular significant that three of the names on Tristan’s list of seven are from prominent eastern noble houses.”
+
+Song leaned in.
+
+“So the Lord Rector is concerned that the Council of Ministers is using the cult as a ways of expanding its influence,” she said.
+
+And in Tratheke, too, the heart of Palliades power. Every gain here was not just that but also a loss for the Lord Rector. No wonder he means to use us to thin them out, Song thought.
+
+“One might assume, yes,” Angharad cautiously replied. “Why is why I would request, Song, that at tonight’s reception you study one woman in particular.”
+
+Song cocked her head to the side, curious. The Lord Rector had, surprisingly swiftly, arranged for Angharad to be introduced at the nameday feast of one of his allies as a guest of the man in question. It was to serve as the prelude to her insertion into court proper. Song herself was to begin investigating those same guests for cult connections with her contract, making Angharad’s request nothing out of the ordinary.
+
+“Who?”
+
+“Minister Apollonia Floros,” Angharad said. “Not only is she one of the most powerful eastern nobles, she is the head of her house – which, by blood, has the strongest remaining claim to the rule of Asphodel.”
+
+Song had read about Lady Floros, as it happened. She had been regent to Lord Rector Evander in his youth and spoken for Asphodel in diplomatic negotiations with Rasen over some matters of privacy that had been brokered by Sacromonte and attended by the Watch.
+
+“So if she has a Golden Ram contract, they’re definitely riding that horse to a coup,” Tristan summed up.
+
+“Rams are bovids, Tristan,” Maryam sneered at him. “It’s not even the same family.”
+
+“No one would ride a ram to a coup, Maryam, think of the stairs,” he scorned right back.
+
+“I am definitely imagining you going down a set,” she said.
+
+He narrowed his eyes.
+
+“Funny you would mention bovids, since you’re being a bit of a co-”
+
+“Tristan,” Angharad cut in, outraged. “She is a lady.”
+
+“Well,” he defended, “I wasn’t calling her a bull.”
+
+The pile of paper hit him on the side of the head, sprawling everywhere. Maryam smiled triumphantly even as the thief began to reach for his own pile and Song immediately rose to her feet.
+
+“No,” she strongly said. “The first of you to throw something will-”
+
+The vellum scroll bounced off her forehead, dropping limply on the table. Song turned an incredulous look on Angharad.
+
+“I could not resist,” she admitted.
+
+I took half an hour to put the papers back in order afterwards, but at least Song got her back with a cushion to the face.
+
+—
+
+Lord Menander Drakos was a pleasant man in his fifties, whose impressive imperial mustache grew defiant of gravity.
+
+He was also clearly used to deal with Malani: shortly after informing Angharad he would introduce her as a friend of his traveling nephew, he pulled up a contract for her to sign that declared her friendship to Philippos Drakos. After she signed he immediately burned the paper and beamed, declaring now her a friend of his nephew’s in fact.
+
+“You do not seem unpracticed in such matters,” Angharad observed.
+
+“My services in these matters are employed by both the Lord Rector and the Council of Minister,” Lord Menander replied. “It makes me an intermediary of some value to both.”
+
+Things were different out here in the Trebian, Angharad reminded herself. It was not as in Peredur, where to bring someone into good society was to stake your reputation on their subsequent appropriate behavior. To think of the man as an introductions pimp would be unkind, if not entirely untrue. Honor looked a different beast to these Asphodelians – she’d read there were hardly any duels at all on the isle, that they were frowned upon.
+
+Though Angharad had been prepared to use her sole fine dress twice in a day, she was pleasantly surprised to find that arrangements had been made otherwise. Lord Menander opened to her the wardrobe of his house, allowing her to borrow garments that would be adjusted to fit before the reception. The Pereduri ended up picking a conservative high-necked gown with puffed sleeves, green velvet with matching slippers, keeping her Uthukile bead bracelets for sole jewelry.
+
+The long sleeves also hid her mirror-dancer’s stripes, which was for the best.
+
+She would admit to some nervousness in the hour preceding the beginning of the reception, not helped by the way Song was pacing back and forth across the waiting room like an irritated tigress. The Thirteenth’s captain had learned that she was to have a minder while she studied the guests from a hidden gallery, which had her displeased.
+
+“It does not seem unreasonable to require watching eyes as you use your contract on courtiers,” Angharad delicately tried.
+
+Song’s piercing silver eyes turned on her.
+
+“A simple watcher I would suffer with little grumbling,” she said, “but the way they refuse to give me a name or title for them bodes ill.”
+
+Angharad simply nodded, keeping her thoughts to herself. The Lord Rector was free to do as he wished inside his own palace, she figured, but it would not do to pull the tigress’s tail. Song did not resume pacing afterwards, which had the noblewoman cursing herself. She had avoided the presence of Song Ren as much as she politely could over the last few weeks, but there could be no avoiding rudeness in insisting on silence while they waited together in a room.
+
+“Have we any notion of when Maryam will return?” she asked.
+
+That could turn talk to her contract, at least, which would be better than-
+
+“Late tonight,” Song replied. “It will take some effort to give her a discreet tour of the gardens.”
+
+-better than her near future, Angharad miserably thought.
+
+“And before you reach for Tristan in your despair, the majordomo has him practicing so he won’t dishonor the livery leant to him,” Song mildly added.
+
+Angharad awkwardly coughed into her fist. It always felt ungrateful, to avoid Song, but what else could she do? She would not feign comradery with a woman who had treacherously murdered someone she cared for, though it sometimes slipped out of her against her will. It had been… easy, to play with the Thirteenth earlier. But she could not be one of them, not really, even beyond Song.
+
+She was here for the infernal forge. It would be unworthy to drag the others in what may yet turn out to be ruin.
+
+“He seems to be taking to that task without discomfort,” Angharad said. “I expected some discontent on his part in playing the servant for nobles.”
+
+“If there is one thing I admire about Tristan Abrascal,” Song evenly said, “it is how he will fold his pride like a paper crane if that is what it takes to get where he wants to go.”
+
+She cocked an eyebrow.
+
+“Unlike you and I, who occasionally struggle in cramming it through wide open doorways.”
+
+Angharad’s lips thinned.
+
+“I am grateful for the favors done to me,” she said.
+
+“But.”
+
+Silver eyes unblinking, metal cold as snow. The Pereduri breathed in.
+
+“What do you want from me, Song?” she asked. “I have not challenged your authority or refused your orders. The rest is beyond the remit of our bargain.”
+
+“I want you to decide what it is you’re after,” Song Ren replied. “You flit back and forth like a moth in a hall full of candles, blown by wind and whim.”
+
+Angharad’s jaw clenched.
+
+“I look at you and I see a dozen intentions, none of them yours,” Song continued. “We are stone shaped by the chisel of life – best get your hand on the tool, Angharad, or you may not enjoy what others made of you.”
+
+The Tianxi pushed off the wall, brushing her shoulders.
+
+“I should prepare supplies for my part of the evening,” she said. “Good luck out there.”
+
+Angharad curtly nodded back, not trusting herself to open her mouth and offer anything but venom. The sheer nerve of her, to serve up a lecture as if Song Ren were not taut as a pulled bowstring under that thin layer of calm. She had seen harps not as high-strung as the Tianxi.
+
+Though her face was calm again by the time Lord Menander’s servants came to fetch her, embers burned beneath and stayed as she was led out into the hall.
+
+The palace feasting hall that had been leant to Menander Drakos as a sign of the Lord Rector’s favor was impressive, the floor and walls green marble of a hue matching that of the strange green glass so common on Asphodel. The hall was a long rectangle, but one would not know it from a glance: there was a maze of glass panes and lamps on the sides that projected myriad tricks of the eye, lending the room a hundred different shapes. Only subtle gold reliefs on the walls displaying the owl of House Palliades allowed one to tell the true apart from the false.
+
+She forced herself to smooth the last of her anger out of existence as she was led to the side of the host.
+
+“Ah, and there she is,” Lord Menander happily said. “Lady Angharad herself.”
+
+He was standing with a pair slightly older than he, both men. The short, white-haired man with the sea snake embroidered on his red jerkin must be the head of House Cordyles – which ruled over the largest western port of Asphodel – while the slender man with the soft hand and spectacles was given name by his silver belt buckle in the shape of crossed sickles. House Arkol: eastern nobles, the largest grain fields outside of Tratheke Valley, she mentally recited.
+
+She waited after having met their gazes to curtsy. Not the duelist’s, this time. It would have been a lie.
+
+“It is an honor to meet you, my lords,” Angharad said.
+
+“Is it now?” Lord Cordyles drily said.
+
+“Naturally,” she smiled. “The ships under red-and-gold of the Cordyles are a known for their bold sailing, and I have been curious to try the famous Arkoli bread.”
+
+Precise phrasing, here. The Cordyles were known for boldly resorting to piracy on Raseni shipping, and the regional breaded delicacy known as ‘Arkoli bread’ was reputedly so full of garlic one continued to sweat it out for days afterwards. Lord Arkol only snorted, eyes unreadable behind the glasses, but Lord Cordyles seemed quite flattered.
+
+“It is good to know even in such peaceful time my house is remembered,” Lord Cordyles smiled. “Menander tells us you are a friend of his nephew’s, come from the isle of Peredur?”
+
+Angharad inclined her head.
+
+“Circumstances led me to Asphodel, and will have me remain here for some time,” she said. “It was a great kindness for Lord Menander to invite me at his nameday feast.”
+
+Lord Cordyles’ eyes dipped down to her cane, curiosity obvious on his face.
+
+“Court has been getting a little stale,” Lord Arkol mused. “Perhaps some fresh blood will wash out the endlessly circling conversations.”
+
+Lord Menander chuckled, wagging a finger in warning.
+
+“No politics tonight, Phaedros,” he chided. “We are here to eat, drink and make merry.”
+
+“That and celebrate your forty-fifth nameday for what – the seventh time now?” Lord Arkol grinned.
+
+“Mine is a timeless soul,” Lord Menander airily replied, grinning back. “Come, Lady Angharad. I will deliver you from these old crows, see if some finer company cannot be rustled up.”
+
+He whisked her away, toward more guests, though on the way he slowed his steps to slide in a word.
+
+“Nicely done with Lord Cordyles,” he murmured. “He loves nothing more than the battle honors he lacks. Arkol is always stone-faced until he’s had a few drinks, worry not there.”
+
+He glanced at her almost approvingly.
+
+“If you can continue as you’ve begun, we will have you a darling of the court in no time.”
+
+It was not what Angharad had come for, not truly, but neither would she balk at making a good impression. Gently he led her forward, waiting on the rap of her cane, and Angharad put on a smile. She must impress Lord Menander, enough that he might make the right introduction. And though she owed the Thirteenth good service, that was not why. Uncle Osian had given her a name to investigate, one that would be the key to all this.
+
+Lord Cleon Eirenos was rumored to know the hills of Tratheke better than anyone, and that was where the entrance to the shipyard was meant to be – and thus the way to the infernal forge she had come here to claim.
+
+—
+
+The viewing gallery had, despite the name, plainly been made for spying: it was a long, narrow rectangle of a room just wide enough for seats that overlooked the banquet hall. The glass pane windows were green as the ones below and the marble around them, but set close to the ceiling at an angle that would make them seem part of the wall when seen from inside the hall. Cleverly built, and no doubt the Lord Rectors had long made use of it despite the mild discomfort of the narrowness of the room.
+
+Only it was not having to tuck her legs beneath the chair that had Song feeling stiff as a board.
+
+When the two lictors at the door made her surrender her knife and pistol before patting her down, Song thought it laughable. What did they expect of her, to shoot some lord through the glass like Vesper’s most terribly incompetent assassin? Only it was not the men below the lictors were frowning at her about, but the one seated inside.
+
+Lord Rector Evander Palliades was leaning forward, chin on his palm as he studied the nobles below.
+
+“Captain Ren,” he acknowledged without turning. “Your cabalist is doing well – she’s charmed Triton Cordyles, which effectively guarantees her introductions to half the guests. He’s an amiable soul, if prone to stepping on toes.”
+
+“Your Excellency,” Song got out, bowing as much as she could inside the cramped gallery.
+
+The lictors were glaring at her back as if this were her idea, only closing the door when the Lord Rector glanced at them through his spectacles.
+
+“We shall dispense with the most physical of the courtesies,” Evander Palliades told her. “I fear it would take the removal of a few seats for them to fit inside.”
+
+Song cleared her throat.
+
+“As you say, Your Excellency.”
+
+He gestured impatiently.
+
+“Sit,” he said. “I will only make an appearance shortly before the banquet begins, so you will have to tolerate my presence until then.”
+
+Dark eyes flicked at her through the spectacles.
+
+“If you’ve inquiries about the souls below, I am your disposal.”
+
+Stiltedly, Song went to sit down. The mostly blank journal she had brought along with her favorite ink and fountain pen now felt heavy as stone – it was one thing to take notes about the nobles of Asphodel, another to do so when their ruler was mere feet away from her. She left a seat between them and would have left a second and third were she not worried about giving offense. Treating the man like he had the plague was unlikely to be well received.
+
+Keeping her face calm, hand on the chisel, Song opened her book and turned the pages until she reached the notes she had prepared in advance. The list of seven suspected cultists and a column outlining the leading eastern houses of Asphodel. Entirely shameless, the Lord Rector leaned over to look at what was written without even pretending otherwise.
+
+She had written in Cathayan, naturally, but her hopes that would be enough to stop his scrutiny were laid to rest when he quite clearly began reading the characters. It was an effort not to scowl.
+
+“Neither the Doukas nor the Elanos will be showing so early, but Lady Kirtis is the woman in the rust-red gown sneering at servants,” he told her.
+
+It did not take long for Song to find the woman in question, the trail of that gown long enough it needed carrying by a handmaiden. The sneer was, as advertised, being turned on the liveried servants offering drinks. More interesting than that expected yiwu ugliness was that Penelope Kirtis had a contract, which thankfully was in Antigua touched with local flavor.
+
+That the old Cycladic cant native to the isle was effectively a dead tongue was a relief, as it would have forced her to mark down everything she saw and attempt translation later.
+
+Lady Kirtis was contracted to a deity called the ‘Clement Reverence’, having obtained the power to imbue a particular concept with a powerful sense of shame in the minds of those around her. The price was one of those deceptively vicious ones, forcing the noblewoman to confess to her own shames or become sick. Song wrote notes and, all too aware of the Lord Rector’s eye, kept them both short and mixed.
+
+She abandoned classical Cathayan altogether, weaving together Centzon, Machin and Samratrava so he would not be able to decipher what she wrote. She braced herself for coming tantrum, ready to take refuge behind the neutrality of the Watch, only instead Evander Palliades let out a quiet laugh.
+
+“I have some Centzon, but my Samratrava is trash and is that Machin?”
+
+She coughed into her fist.
+
+“It is, Your Excellency,” she admitted.
+
+“Well, you may consider me successfully warded off,” he drily said. “I had to fight to learn proper Cathayan, Machin was never in the cards.”
+
+A pause.
+
+“Shall I take it that Lady Kirtis does not appear to be a cultist?”
+
+“It does not currently seem likely,” Song replied.
+
+“Shame,” he muttered. “If I put that one in a cell I would be the toast of Tratheke society for months.”
+
+Song set aside her amusement, which was somewhat inappropriate, and returned her gaze to the hall below as she dipped her pen. There was work to be done, and it was unlikely she would get so wide a look at the court of Asphodel again anytime soon.
+
+—
+
+For the first half-hour of the reception only Lord Menander’s friendliest associates were present, of which Lord Cleon evidently was not.
+
+There were but two dozen or so of these chosen so a circuit across the room was soon completed, even with Angharad leaning on her cane. Even as she smiled and flattered her way through the last such introductions, she could almost feel the ticking of the clock: soon after that round was done, Lord Menander was likely to leave her to fly on her own. For a time, anyway.
+
+He chose to first bring her back for a chat with the very first pair he had presented her to: Lord Cordyles and Lord Arkol, both of whom were now red-cheeked and prone to loud laughter. Angharad was glad she had only sipped at her cup of pear liquor, which was deceptively strong given how smooth it tasted. The pair of old men was slightly drunk, which had them in a merry mood as they brought her to chat with their fellow nobles.
+
+By the time the less favored guests began arriving they’d grown rather loose-tongued about court gossip, of which they were a never-ending fountain. It was as if they knew everybody.
+
+“I expect she is due a sixth husband any time now,” Lord Arkol drawled. “The fifth is nearing thirty, and Lady Doukas has no fancy for such terribly ancient stallions.”
+
+Angharad coughed to hide her smile. There were ladies of that sort in every form of good society, it seemed.
+
+“I would introduce you, dear,” Lord Cordyles theatrically sighed, “but I fear that the shock of seeing men our age yet draw breath might just stop her heart.”
+
+“It seems too terrible a risk to take,” Angharad solemnly replied, lips twitching.
+
+Before turning to her own purposes for the night, she had work to undertake on behalf of the Thirteenth. And, as chance would have it, she had received a fresh opportunity to begin it: a trail of breadcrumbs to follow.
+
+“Her companion, I believe, is…” she trailed off.
+
+“Minister Apollonia Floros,” Lord Arkol completed, eyeing the woman in question. “Who must show the flag, as our beloved Lord Rector will be present later.”
+
+The Minister was a tall, austere woman with a weathered face and startling green eyes. And the callouses of one trained with the blade, Angharad gauged.
+
+“It would not do to ever let our lord hold court without looming over his shoulder,” Lord Cordyles drily agreed.
+
+Lord Cordyles leaned on the Lord Rector’s side, she had gleaned through his words, though he was not a diehard loyalist. Lord Akol’s own position was much more ambiguous.
+
+“A member of the Council of Ministers,” Angharad said, feeding fuel.
+
+“The minister, really,” Lord Arkol said. “Mind you, it may not be so forever with that Malani business.”
+
+Lord Cordyles glanced at his old friend with a frown.
+
+“Never mind that, Lady Angharad,” he said. “Phaedros had a bit too much to drink.”
+
+“Oh,” Angharad said, smiling daintily. “Is there trouble with the ambassador?”
+
+A snort from Lord Arkol, who shook his head.
+
+“Lord Gule is the very soul of courtesy,” he said. “A fine man, truly.”
+
+So it was with other Malani that Minister Floros was having trouble. Worth keeping in mind.
+
+“Unlike that Guo fellow,” Lord Cordyles sneered. “They should not even allow him into the palace, Tianxi ambassador or not.”
+
+“An appointment by the Ministry of Rites is not to be taken lightly,” Lord Arkol warned.
+
+Ah, this Gu was an ambassador of Tianxia and not simply a Tianxi ambassador then – representing all of them, not simply his own. The Heavenly Republics warred on each other not infrequently, which would have made sharing an ambassador somewhat impractical. Thus why the Ministry of Rites, the same religious bureaucracy overseeing the lottery for the Luminaries, also served as a kind of assembly where republics could agree on diplomatic and military appointments.
+
+“It should be, when their delegation is infested with Yellow Earth vermin,” Lord Cordyles said.
+
+Angharad’s eyes narrowed. This was the first she had heard of the Yellow Earth being in Asphodel. Was it idle gossip? Either way, it bore investigation. As talk had grown heated, she steered it away from the subject and to safer grounds like bedroom scandals and which lords had been feuding over losing out on an egg-shaped ruby both their wives desired.
+
+Song had given her a list of gossip to gather, and gather it she would.
+
+—
+
+“Ah, the vounoseira houses,” Lord Rector Evander mused.
+
+Song cocked an eyebrow.
+
+“Cycladic, Your Excellency?”
+
+He nodded.
+
+“The term means ‘mountain range’,” he told her. “A trick my tutors taught me as a boy to remember the major noble houses of the eastern coast. Vorosios, Unadres, Osphanidis-”
+
+“Eirenos,” Song added, reading it off the young noble’s contract. “Clever.”
+
+“Is young Cleon headed for the dungeon, then?” he asked. “It would be a shame, he has the most fascinating hunting stories. I even believe some of them might be true.”
+
+Lord Cleon Eirenos was contracted to a god called the Odyssean, who had offered him the power to walk unseen and unheard in the dark so long as he did so with the intention to spill blood. A useful talent for a huntsman, and though it would also serve for an assassin the noble seemed rather young for such things. No older than fifteen, Song would guess.
+
+His god must have a taste for chaos, as the price demanded was to always return insult with insult.
+
+“Perhaps more than some,” Song simply replied.
+
+But to walk unseen was hardly a healing god’s contract, so she would wager on the young man being entrusted to the Golden Ram. Of the seven names on the list four were in attendance tonight, and one had answered a question for Song: she could see boons.
+
+Lord Hector Anaidon, an aging eastern noble brother to the head of his house, had been granted by a god a boon of health. It had relieved him of several diseases, most of them the sort contracted in brothels save for a mild case of gout. Song could see where the power of the boon held them, like a bubble of foulness hidden deep inside him.
+
+What she could not see, however, was the name of the god that had given out the gift.
+
+But then that was the nature of boons, was it not? The power gifted by the god could not be taken back, forever apart from the gifting deity. It was why they were usually handed out mostly to priests or mortal that great gods took a liking to – save for when young gods tried for rustle a cult of worshippers, since their still unsettled nature meant they were not ripping out an important part of themselves by giving a boon.
+
+“Truth at court, you say?” Lord Rector Evander mused. “How novel.”
+
+Song did not quite hide her amusement in time, by the way his own lips quirked. The Lord Rector was a hereditary ruler, a concept in fundamental breach of zunyan, but she would admit he was personable. Not that she would be fooled by this. The Feichu Tian wrote that there would be such rulers, charming or skilled or virtuous, and that they would tempt the reasoning of exception. That was a mistake of the mind, for the essential injustice of kingship was not in the nature of the king but of the institution itself.
+
+A king could be a good man, but there could be no good king.
+
+Not that Tianxi philosophy was something she was to discuss with Evander Palliades, even if the hereditary despot of Asphodel was of scholarly disposition. Song’s gaze returned to the crowd below, which had filled in as the time of the banquet proper approached. Her gaze sharpened when she realized one of the servants had a contract, which should not be – ah, it was Tristan. Someone had put order to his hair, he looked like an entirely different man.
+
+“Something the matter?” Lord Rector Evander asked.
+
+“Your majordomo must be a magician,” she drawled. “Never before have I seen Tristan Abrascal’s hair so thoroughly cowed into behaving.”
+
+“Ah, the Sacromontan,” he grunted.
+
+Song cocked an eyebrow at him, only realizing the misstep a heartbeat later. She smoothed her face, but the Lord Rector waved it away carelessly.
+
+“Sacromonte is my greatest supporter,” he acknowledged. “But being in bed with the Six is a guarantee for cold feet and a surfeit of elbows to the ribs.”
+
+“Let me into the house, said the tiger,” Song quoted.
+
+“I swear I will keep all the other tigers out,” Evander Palliades completed, sounding approving.
+
+She did not hide her surprise.
+
+“You have read Manuel Barbero?” Song asked.
+
+“Probably the finest historian of the last two centuries,” the Lord Rector said, pushing up his glasses. “Certainly the one with the finest prose.”
+
+Two centuries? That would mean…
+
+“Soyarabai?” she said, aghast. “You think Soyarabai was a better historian than Barbero?”
+
+“Her body of work is clear, documented and comprehensive,” he said, sounding amused.
+
+“Comprehensive! A sparrow couldn’t fly past her window without causing three poems and a history of Someshwari birds,” Song scorned. “If you stacked all of her books it would have made a second palace for her to live in.”
+
+It then sunk in whom she was speaking to, again, and she turned red with mortification.
+
+“Your Excellency,” she added, coughing into her fist.
+
+“Barbero botched his account of the Fortnight War,” Evander Palliades idly said, eyes gleaming behind the glasses. “Much too partial.”
+
+She grit her teeth. It was not being partial to recognize the perfidy of Ramaya’s encroachment on the trade routes of the Republic of Wendi, or – Song mastered herself. She was being made sport of, clearly.
+
+“As you say, Your Excellency,” she blandly replied.
+
+The Lord Rector’s lips twitched.
+
+“Let us see if there are greater surprises in store than Lord Eirenos not being entirely a liar,” he said. “Who next?”
+
+Song breathed out, centered herself. Enough distractions. She reached for her inkwell and dipped her pen.
+
+—
+
+Angharad knew she was no courtier, for all that she could sail those waters while avoiding the worst of the reefs. So she had carefully planned her approach, though on it for hours so there would be no cause for suspicion.
+
+Only the two old lords had been drinking enough that the mere mention of Cleon Eirenos was enough to have them happily dragging her to the man in question.
+
+Lord Cleon was younger than she would have thought, his ambitious wisps of a beard a poor match for the impressive mane of brown hair going down his back. Well dressed, though the brown and gold hose seemed a common fashion here, and the short sword at his hip was richly adorned by possessed of a practical leather grip. Angharad approved.
+
+“And how is your mother, my boy?”
+
+“Still calling you a goat every time your name comes up, Lord Arkol,” the younger man drily replied. “Instead of earning the hooves in question, why do you not instead introduce me to your lovely companion?”
+
+It was Lord Cordyles who did, his friend busy spluttering.
+
+“May I present to you Lady Angharad Tredegar, of Peredur,” he said. “A better laugh than Lord Gule, I can already tell you that much.”
+
+Angharad, who could have done without the second part of the introduction, curtsied.
+
+“My lord.”
+
+When she rose from the curtsy she found Lord Cleon’s gaze hastily averting from her, which told her well enough where his gaze had strayed. Ah. Well, that might be of some use even if she had no intention of encouraging.
+
+“Lady Angharad,” the young man replied. “A pleasure to make your acquaintance.”
+
+“The pleasure is mine,” she replied.
+
+Which was true, if not for reasons he would know. Within a few sentences it became clear that the two older lords were mostly interested in ribbing the younger man, though it was done in good sport and Lord Cleon seemed to be humoring them as overbearing uncles of a sort. Angharad had to do the best she could with what that provided, which was… weak.
+
+ A jibe about Lord Cleon hunting more deer than account books was the closest to an opening she got, so she seized it.
+
+“Are you something of a hunter, my lord?” she asked.
+
+“I have a story or two,” Lord Cleon humbly replied.
+
+“Like a sailor has stories,” Lord Arkol snorted.
+
+Her smile strained. Could they not lay off the man for one minute?
+
+“It is a practice held in high esteem, in Peredur,” she said. “My father was a hunter of great skill in his youth.”
+
+“Well, he has the youth part handled at least,” Lord Cordyles mused.
+
+Angharad was going to strangle them. Lord Cleon rolled his eyes.
+
+“It runs in the bloodline,” he told her. “I learned from my father, who was skilled enough in hunting beasts he warranted praise from the Watch.”
+
+“No small thing,” Angharad said.
+
+She attempted to express an interest in his hunts, with an eye to obtaining an invitation to the estate, but while she thought Lord Cleon might be amenable the two older lords kept waylaying him. By the glint in Lord Arkol’s dark eyes, they knew exactly what they were doing too. Having had his fill of ribbing, Lord Cleon took his leave soon after and Angharad’s fingers were left to dig into her palms. She would have to try again after dinner.
+
+It would have been an effort to hide her irritation at the two, but thankfully they took leave of her company for a minute: Lord Cordyles went to grab another pair of drinks, Lord Arkol accompanying him so he ‘would not get distracted’. The Pereduri allowed herself a moment of rest from walking the tightrope.
+
+She breathed in, out and then it was over: a man was approaching her.
+
+He was a tall sort. Dark-skinned, middle-aged and stately with his graying beard and hair. His jerkin and doublet were in shades of ocher, the color muted and wavy pattern discreet, so it took Angharad a moment to realize they were inyosi. He was dressed in the expensive wax-print from head to toe, with for only adornment golden rings on his fingers – including a signet bearing a three-horned antelope rampant. Between the wealth, the taste and the discretion there could only be one conclusion. Induna, she thought. This was no simple lordling but a great lord of Malan come to these shores.
+
+The older man limped towards her on his cane then offered her a nod, reaching for what she had thought a strange trinket until he put the curved gold trumpet to his right ear while his left hand settled atop his cane. A hearing aid, she realized. He must be deaf on one side.
+
+“Lady Angharad,” he greeted her. “Welcome to court.”
+
+Angharad curtsied low.
+
+“Thank you, my lord,” she replied. “May I have the pleasure of your name?”
+
+“Lord Gule of Bezan,” he replied. “I have the honor of being Her Perpetual Majesty’s ambassador to Asphodel.”
+
+Her back straightened in alarm and she made to curtsy again, but Lord Gule took his trumpet off his ear just long enough to shake his head.
+
+“There is no need for that,” he smiled.
+
+Yet he did not, she noticed, truly move to stop her. Nor should he. She was not paying respect to the man himself so much as the honor of the High Queen put to rest on his shoulders, as one entitled to speak in her name. Once she had finished, he tacitly moved on by flicking an amused glance at her walking stick.
+
+“Any more of us limping and the Asphodelians will wonder if a cane has become the fashion in Isasha,” Lord Gule said.
+
+There was an implicit question there, and Angharad chose to acknowledge it.
+
+“I encountered a spirit and suffered a price for it,” she said.
+
+A hint of sympathy on his face.
+
+“It is a harsh burden for one so young, to be suddenly crippled.”
+
+Another implied question, which in different circumstances Angharad would have politely ignored. Only to do so would run contrary to Song’s plan, so instead she chose her words precisely.
+
+“The permanence of the loss has been difficult to make peace with,” she ‘admitted’.
+
+Let him think she meant the limp and the exhaustion instead of the memories snatched from her by the mara. Lord Gule only nodded, compassionate. 
+
+“I was born with a lame leg, but the ear came later,” he told her. “The first months are the worst, Lady Tredegar. Suffer through them and you will find the bitterness ebbs.”
+
+Now it was she who felt ill, at tricking a man who seemed to be offering genuine advice for what he believed a shared affliction. Smoothing her face, Angharad simply nodded. As if reading her mood, the older man changed the subject again.
+
+“I will not ask as to the circumstances of your exile to these shores,” Lord Gule said, “for you will find they matter little here. There is great respect for the nobility of the Isles in these parts, even they that fell on hard times.”
+
+A smile.
+
+“Should you seek introductions to the right sorts, it would be no trouble at all to facilitate,” he said.
+
+“That is very kind of you to offer,” Angharad said, curtsying again.
+
+Taking the lack of answer for what it was – and only to be expected, on a first meeting – the induna silently nodded. He excused himself a moment later, hobbling away and leaving her to watch him slip into a circle of Asphodelian nobles. She had painted on calm again by the time the two old lords returned with their drinks, but her heart still beat beneath it.
+
+Lord Gule had been looking for something, when he approached her, and she had no idea whether or not he’d found it.
+
+—
+
+“Oh, he’s a nice enough man,” Lord Rector Evander sighed. “But I have heard the story about how his granduncle Achilles single-handedly swept the deck of a Raseni flagship and slew their admiral before tragically dying of his wounds so many times we could recite it together.”
+
+“A gallant tale, no doubt,” Song replied, lips twitching.
+
+“All the more gallant for not mentioning that deck was raked with three rounds of grapeshot before Lord Achilles leaped in,” the dark-haired man scoffed. “Besides, bravery is not the same for the Kanellakis. Their family contract is famous for a reason.”
+
+The legacy contract of House Kanellakis was an impressive piece of work, though Song suspected it was likely passed as being a lot more than it truly was. One of the more technical contracts she had encountered, with the ‘power’ of the physical momentum of the contracted being added as a finite layer of protection over their skin so long as they kept moving. A large, armored man running at full tilt would effectively be wearing a second suit of armor and be able to claim invincibility.
+
+Until he stopped running, anyway.
+
+“Lord Kanellakis is the holder of a legacy contract,” Song confirmed. “And from one of the greater gods of Asphodel, which does not make ties to the Golden Ram impossible but does make them improbable.”
+
+Gods were not necessarily jealous of worship, but no deity invested so much of themselves in a bloodline without becoming territorial. One did not grow cabbage to watch them thrown into the neighbor’s pot.
+
+“That leaves only dead ends,” Lord Rector Evander sighed. “It was too much to hope for, I suppose, that a mere hour of looking would unmask the cult.”
+
+“Not necessarily,” Song said, eyes still below.
+
+“Oh?”
+
+She turned his way, tapping the side of her book.
+
+“It may well be that one of the contracts I marked today is with the Golden Ram, only that I lack the knowledge to recognize it,” Song told him. “That is the purpose of dangling my cabalist like bait: if she is approached by the cult, I will then know the face of their god.”
+
+The name, in truth, but though she had found herself warming to the man her contract was not something she intended to reveal. The Lord Rector nodded at her words, stretching his limbs out like a cat – and groaning, spectacles askew. It was, Song would admit, a little charming.
+
+“I take it we are finished for the evening?” Evander Palliades said. “It is about time I join the banquet anyhow.”
+
+Song glanced down one last time, eyes lingering on a particular face, but she swallowed her question.
+
+“Ask.”
+
+The slender man was watching her quite seriously, and though she hesitated to obey it might have been worse not to.
+
+“You never asked,” she slowly said, “about Minister Apollonia Floros.”
+
+His face hardened and he looked away. Down at the same woman she had just been looking at. The leading figure of the Council of Ministers had been, as Angharad requested, one of the first Song studied. Yet she had no contract, not even a boon. If she had ties to the Golden Ram cult they were purely material.
+
+“I don’t need to,” the Lord Rector said, voice firm. “She has nothing to do with them.”
+
+Song hesitated again, but this could be relevant to the investigation.
+
+“You sound certain,” she observed.
+
+Evander Palliades smiled almost bitterly, the cast of green light on his face lending him the barest touch of the unearthly – as if he’d been carved out of jade.
+
+“She was my regent for three years,” he said. “Do you know how she came into the honor?”
+
+“There was a rising in the capital,” Song said. “It is said she restored order on your behalf.”
+
+“My uncle tried seize the palace and murder me,” Evander flatly replied. “I was only thirteen, and I’d been fourth in line before storm and sickness took my family. Not raised to rule, he argued. A navy man like himself was needed to keep the Rectorate strong, Rasen off our shores.”
+
+His eyes were faraway, she thought, but they never left Minister Floros.
+
+“Apollonia Floros personally led her house guard against him while half the capital sat back and hedged its bets, fighting a running battle through the palace halls until she slew him in single combat,” the young man quietly said. “And at the end, Captain Ren, she stood there blood-soaked and victorious before her men and the lictors not yet mine, and there was a moment…”
+
+His jaw clenched.
+
+“A moment where we both knew, down to the marrow of our bones, that if she cut me down they would all kneel to the Lady Rector of Asphodel,” he said. “Only it was herwho knelt. Your Excellency, she said, and the rest knelt with her.”
+
+Evander looked away from the glass, shaking his head.
+
+“It isn’t that she doesn’t want the throne,” he said. “She does. But Apollonia, she is…
+
+His lips quirked sadly.
+
+“She’s the best of them,” he said. “When she comes for me, and she will, it won’t be scuttling in the dark like a rat. She will raise her banner tall and face me on the open field in the light of day, offering ever courtesy and honor.”
+
+The Lord Rector breathed out shallowly, rising to his feet.
+
+“Perhaps you think me naïve,” Evander Palliades said. “But I never worried of Apollonia Floros being part of that cult. It would be beneath her.”
+
+“No, not naïve,” Song quietly replied.
+
+It was a strange thing to feel pity for a man who ruled over half a million lives by no better reason than the happenstance of birth, but how else to call that sourness in her belly? How bitter it must taste, that the mentor Evander Palliades so painfully obviously admired wanted to usurp him. And how lonely you must be, Song thought, that you would tell all this to a stranger like me. Perhaps he too realized that he had been too open, too intimate, for he looked embarrassed and moved past her towards the door.
+
+“I will be expected below,” the Lord Rector said. “Have you still need of the gallery, Captain Ren?”
+
+No point in looking everyone over twice, Song thought.
+
+“I am finished,” she said.
+
+Gallant despite his eagerness to leave her behind, he kept the door open for her. One of the waiting lictors looked her up and down as she made for the door, which Song realized a heartbeat later was to ascertain if the two of them had been fucking. Her expression turned cold at the implication of her being some sort of blackcloak courtesan and she angrily brushed past the Lord Rector and lictor both. The other one was keeping his eyes ahead, looking at the third and-
+
+No, looking past the third. As if the woman were not there at all, even as she reached for her belt. Song caught sight of the golden letters above the stranger’s head and moved on instinct – she grabbed the Lord Rector by the collar and threw them both down, the lictors shouting in surprise and anger.
+
+The knife that hit the open door, sinking into the wood with a thud, put an end to that.
+
+What followed should have been messy, but everyone was too well trained. First the lictors turned to the assassin, whom they could now see. One fired his pistol, forcing the killer to abort throwing a second knife and instead run for it while the other drew his sword and stepped in to shield the Lord Rector with his body. The young man hissed in pain as Song got off him, eyes desperately tracking the fleeing assassin’s back.
+
+The lictor with the pistol out pursued, shouting for other guards to run in, but even as the Lord Rector was guided back into the gallery by his other protector Song stayed there on her knees. Reading the golden letters, seeing through the contract that made whoever beheld the contractor see only what they expected to see there. A contractor whose name was Hui Yu, and who looked exactly as Cathayan as his name was. Fuck, Song Ren thought.
+
+She could be wrong, but it rather looked like the Republics had just tried to assassinate the Lord Rector of Asphodel.
+
