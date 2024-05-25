@@ -47567,3 +47567,535 @@ The lictor with the pistol out pursued, shouting for other guards to run in, but
 
 She could be wrong, but it rather looked like the Republics had just tried to assassinate the Lord Rector of Asphodel.
 
+# Chapter 44
+
+The gardens of the rector’s palace were an ode to decadence, though not in the way Maryam had come to expect from mornaric.
+
+She was not looking at paving stones made of gold and jewels hanging from branches, or even the marginally subtler boast of wildly impractical flowers – Jahamai roses, Someshwari ghost orchids, maybe even Pandemonium brimstone lilies. No, the decadence was inherent to the garden’s very existence, because so far she had not seen so much as a hint of Antediluvian machinery that would explain how a dozen acres of black earth had been brought up four hundred feet above the ground and made into a functioning garden atop a foundation of glass.
+
+It had been the work of mortals to build the greenery around her, rows of poplar trees flanking small stone paths while sprawling orchards of pears, apples and pomegranates spread out in every direction. It was not a garden in the Izcalli way, where flowers and trees were carefully chosen by color to make patterns, or even in the Lierganen preference with arrangements of flowers beds and hedges.
+
+The Asphodelians liked their greenery barely tame, even the flowers wild: pale chrysanthemum fought pink oleanders and violet janks for hegemony, defiant of any arrangement but nature’s. Small bubbling brooks were flanked with cattail and willow while small hilltops crested with rashes of dittany. One particular flower was everywhere, though, a small bloom that came in shades of blue and purple – and it was not one Maryam was familiar with, despite her many hours spent in Meadows.
+
+Curiosity over that drove her to finally speak to her assigned shadows, the pair of grim-faced lictors trailing precisely three steps behind her at all times. Kneeling in the grass, Maryam trailed her fingers across a purple bloom and hummed.
+
+“This one seems particularly common,” she said. “Do you happen to know the name?”
+
+They did not answer, at first, but then she turned and saw them sharing a look. The woman of the pair, a short-haired brawler with a broken nose and dark eyes, cleared her throat.
+
+“Those are Asphodel crowns, rook,” she said. “Our own small beauties. They grow nowhere else, despite Raseni efforts.”
+
+The regular wars between the Asphodel Rectorate and the Duchy of Rasen had been happening for hundreds of years, Maryam had read, which meant that for every dramatic betrayal and desperate battle there were half a dozen episodes of pettiness – which made if entirely believable to her that the Raseni had tried to spread around Asphodel’s symbolic flower purely to spite them. Asphodelians had, after all, stolen the kind of grapevines native to Rasen and sold seeds around the Trebian Sea not once but twice.
+
+It would have been amusing, if not for the near certainty that men had died on both sides over raids to steal grapes.
+
+“A name like Asphodel crowns,” she said, “begs a story.”
+
+The other lictor, a heavily muscled man with a tanned face and bright blue eyes, scowled at her.
+
+“We are your escorts, rook, not paid minstrels,” he said. “Pick up a book – if you even know how to read.”
+
+The first lictor cleared her throat.
+
+“He means that the use of such a story to a Watch investigation seems unclear,” she diplomatically said.
+
+What with the way the man was staring at her with half a sneer, Maryam rather doubted it. But while she might have to swallow such things from others in the Watch, that was not the end of the stick she held here.
+
+“Your name?” she asked.
+
+The man blinked in surprise.
+
+“What does that-”
+
+Maryam rose to her feet, brushing her hands free of grass on her robes.
+
+“Your name, soldier,” she harshly said. “So that when I send my report to your superiors I can explain who thought it clever to impede a Watch investigation undertaken on the behalf of the Lord Rector of Asphodel.”
+
+The big man’s jaw clenched, while the lictor with the broken nose raised her hands as if to appease everyone.
+
+“It is just a story, ma’am,” she said, playing peacemaker. “Surely there is no need to-”
+
+Maryam sent her a scornful look. Men like him do not just happen, she thought. It takes a hundred silences from the likes of you for them to learn they can just spit out their poison as they like. How ready you are to make armistice, now that the one casting stones could be made to pay for it. Where was that taste for accord when the stones were being thrown?
+
+“Are you,” she mildly said, “telling me what I should and should not put in my report?”
+
+And the mouth snapped shut. She turned her eyes to the man, blue matching blue until he lowered his gaze to stare at his own boots. It was nothing, she knew. Would change nothing, not the man and not the hate. But it still felt good to make him look away. Sometimes that was enough to keep her warm for the rest of the day.
+
+“Well?” she impatiently said. “A story or a name, soldier. I do not have all night.”
+
+Patently untrue, it was in fact exactly what she had, but they would not know.
+
+“Of course, ma’am,” the man got out. “It is from the tale of Asphodel’s founding, ma’am, how Oduromai King chose the island to settle.”
+
+Maryam’s eyes narrowed.
+
+“Oduromai, like your god of sailors and heroes?”
+
+A public name, not the god’s true one, but even so that seemed like too much for a coincidence. The other lictor nodded.
+
+“He is a man-made-god,” she said. “He shed earthly flesh for a crown of aether in his old age.”
+
+Ah, one of those. It was not the first time Maryam heard of cults believing that a great enough mortal could become a god – the Tianxi were famous for that belief, one of the differences that set them apart from Someshwari Orthodoxy. Maryam personally hewed to the Izcalli doctrine on the matter, which was that a man’s legend might become a god but it was not the man himself.
+
+“And the flowers, how are they involved?” she asked.
+
+“Oduromai King was the child of Antediluvians, and after the Flood swallowed his father’s hall he sailed in search of a new home,” the blue-eyed lictor grunted. “He set out with only his mother’s sacred arms and a flower from his father’s garden. Ma’am.”
+
+“Every island where he thought he might settle,” the other continued, “he tried to plant the flower, see if it would take to the earth. Always it started to sicken, until he planted it in the hills of Tratheke Valley – where it bloomed twice. It crowned our island a new kingdom, see.”
+
+Hence the name of ‘Asphodel crown’, Maryam mused.
+
+“Need anything else, ma’am?” the big man scoffed.
+
+“For you to now remain silent until spoken to, lictor,” she evenly replied.
+
+She saw the anger twist his face, for a moment, until he reined it in and jerkily nodded. His friend gave him a look of warning, but he brushed her off and stared out in the distance. Well, Maryam had not come here for the company. And asking about the bloom might have been in part about squeezing the bastard’s throat, but it had not been an empty question.
+
+Wherever Asphodel crowns grew, the aether went strange.
+
+The insides of the rector’s palace carried aether still as a grave, tasting almost sterile to her nav, but the gardens were like the city below: treacherous rapids, harsh currents and pointed stones that would smash open her soul-effigy if she dared extend it too far from herself. Only the purple blooms seemed to bring with them… not calm, exactly, but a more stable kind of disorder? Not anywhere as tumultuous.
+
+A strong connection to a story central to the worship of a major local god might go some way in explaining that, she thought. It might mean the aether around the crowns was already faintly tainted, heavier, so it was not moved around as easily by the rapids.
+
+Maryam frowned down at the purple-and-blue spread beginning at her feet.
+
+But that seemed almost too simple an explanation for the phenomenon. The pale-skinned girl felt like turning around to ask Captain Yue about it, but Yue was days of sailing away. Even getting a letter to Scholomance might be difficult, though she was tempted to try. Either way, she had the answer she had come for: the garden was an aether rapid because, unlike the palace, it was not Antediluvian work. There were no protections out here.
+
+Pulling close her blue shawl – Song insisted on them remaining disguised, so her cloak had to remain hidden away in a trunk – the Izvorica gathered her skirts and walked down the shallow slope of grass back to the stone path. Her shadows followed behind, the woman of the pair clearing her throat once they were back on the stone.
+
+“It will soon be eight, ma’am,” she said. “The day is about to end, we should head to one of the lantern pavilions before dark.”
+
+Curious as Maryam was to see whether nightfall would change how the aether ran through the gardens, there was wisdom in those words. They were far out, nearly at the edge – where a row of poplars hid the expanse of glass beyond the garden grounds to maintain the pretense that this was not an island of green surrounded by nothing. Better to return to the pavilions closer to the palace and wait for the dark there, then have her look from safe grounds.
+
+This place was dangerous enough with the lights on, the Gloam coming out to play was unlikely to improve matters.
+
+“Let us,” Maryam agreed.
+
+She only vaguely remembered the path back – they’d cut across garden grounds quite a bit – but the palace’s looming silhouette was guide enough. The lantern pavilions dotting the grounds were elegant little things, vine-covered arches over a roof that was but a wooden grid so thickly covered by leaves and flowers no rain would be able to pass through. The name presumably came from the brass-and-glass lanterns hanging from the apex of the arches, gently moving with the wind.
+
+By the time they’d arrived at the closest pavilion lanterns had been lit in anticipation of the dark, the servant responsible for it still there with his long perch. They’d just entered the ring of pale light when the dark began to spread through the sky like some divine finger smudging the light – the edge of the light moving past the city in a matter of heartbeats, leaving a sudden darkness in its wake.
+
+They all tensed as the sudden cool, even those born to Asphodel. Breathing out, Maryam pulled at her shawl and stepped further into the ring of lantern light. She could take a moment to gather herself before… Bells? Loud, insistent ringing. When she checked, both lictors had gone stiff as a board.
+
+“What does this mean?” she asked.
+
+“Enemy in the palace,” the big man shortly replied. “An attempt was made on the Lord Rector’s life.”
+
+Both looked like hounds trying not to pull on the leash, so Maryam waved them away.
+
+“Go,” she said. “I will wait here.”
+
+“Ma’am,” the lictor with the broken nose saluted.
+
+The first time the word sounded genuine, thought it might just have outed her as someone of status to the lamplighter still nearby. The lictors ran off, hands on their swords, and she was left to stand under the roof of vines. Not quite alone, as the servant from earlier was leaning against one of the arch pillars and eating an apple. She stepped past the threshold, clearing her throat. The young man straightened like someone getting chided, hastily bowing.
+
+“My lady,” he said.
+
+His eyes flicked to her face, twisting with something like fear when he saw her paleness, but it ended there.
+
+“You walk these paths alone at night?” she asked, gesturing at the garden.
+
+He nodded vigorously, curly brown hair trembling.
+
+“It’s no trouble for us who know the ways,” he replied. “Keep a light and keep to the path, my father always said, and you’ll live to ripe old age.”
+
+“But there are dangers out there,” she said.
+
+“Not when the lanterns are lit,” he hedged. “It hems in the dark. But they say the Ancients left ghosts before they left, and fools who leave the path to chase them sometimes never return.”
+
+Lemures? Possible, since there were creatures who would hide in burrows and come out at night, but this sounded to her more like aether parasites. A strange thing to tolerate so close to the palace, but then with the currents in the local aether being what they were she doubted even Captain Totec would be able to clear such creatures out entirely. Best be careful where she stepped, then.
+
+The young servant discreetly tossed his half-finished apple in the bushes.
+
+“I must be going, my lady,” he said. “If I’m late to the next pavilion, they’ll dock my pay.”
+
+“Don’t let me keep you,” Maryam replied, waving him away.
+
+He did not quite hurry off, but it was a near thing. He’d barely stepped out of the ring of lanterns before he pulled a necklace with a glowing stone out of his livery, leaving it to dangle in the open. Expensive, she mused, before putting it out of her mind. She leaned against the arch pillar opposite the one he had, letting her gaze stray into the distance, and froze when she saw movement.
+
+Her hand reached for the pistol tucked away at her hip, cursing that the lictors had refused to let her bring her hatchet, and she slowly brought it out. Beyond the pavilion lights were two small thickets of laurel trees and a field of white flowers, and it was on that open field she saw it. The silhouette standing there, looking at her – slender, pale. Long hair braided as had been the fashion in Volcesta.
+
+Blue eyes that could have been hers.
+
+“You,” Maryam rasped out. “You’re the…”
+
+The parasite pulling at the end of her nav. The apparition that wandered the nights of Allazei, that had once stepped in to save Song’s life.  She received no answer, only a smile that was like an ivory knife.
+
+And the apparition walked away, down the path of white flowers.
+
+Maryam’s fingers clenched around the pistol, taking half a step forward before she stopped herself. It could be a trap, the garden playing tricks. But had she not thought herself that the parasite was taking well to Asphodel, enjoying the aether here? It could be real. Must be real.
+
+Answers were so close she could almost taste them.
+
+“Fool,” Maryam cursed herself, but she chased after the ghost anyway.
+
+—
+
+A bust.
+
+Tristan had gathered court gossip by the shovelful – some might be worth passing to Tredegar, if she was to continue playing the court belle – but what he had figured to be his first trail had proved to be worth little. He sighed as the door shook and there was a loud feminine moan, Lady Doukas’ private recreation with a strapping young man not as discreet as she must believe. He’d thought there were illicit dealings afoot and technically there were, since Doukas was married to someone not in that closet, but this was of no real use to him.
+
+And a broom closet, really? Sex already seemed grimy enough without mops in close proximity.
+
+Sliding his blackjack back into the strap hidden under his shirt at the small of his back, he left them to their hobby. It wasn’t all that far back to the reception, though for a moment he debated returning at all. No, even if all he gained was gossip it would be worth it purely to have eyes on Angharad. Though the Pereduri was no doubt a better hand than he at navigating courts, she could only see from her own eyes. Someone standing outside, watching the entire scene, might notice what she did not.
+
+So he must return just in case, no matter how tedious serving drinks and smiling at smug humor would be. Sighing, he straightened his back and pulled his livery back into place. The majordomo would go for his throat if he looked messy. Best get moving now, and-
+
+“-OCK THE WARD. LOCK IT DOWN!”
+
+-and hurry out of here before the pair in their tryst got out of that closet. Something was afoot, he thought as he turned the corridor towards the source of the shouting – finding lictors with their blades out running down the hall, screaming about ringing bells and sealing down the palace. Headed… east, which would get them to that twisty circle of stairs leading down to the massive lifts that were effectively the basement layer of the rector’s palace.
+
+Trying to prevent someone from leaving then. Assassin? He’d bet on those odds, were he a betting man, and he was. Unless that assassin moved swift as the wind, though, they wouldn’t outrun alarm bells. Or be able to plow through the amount of lictors guarding the lifts. Tristan took a sharp turn west. The servant corridors were this way, weaving around the royal kitchen and the small quarters – that was where he would go, if he wanted to disappear.
+
+He made his way briskly, passing one squad of hard-eyed lictors after another. Twice he was made to stop, even wearing the livery, but they never patted him down well enough to find the ‘jack and he had a ready-made excuse for where he was heading: new servant that he was, he’d gotten lost in his panic when the bells began ringing and he was trying to find Majordomo Timon.
+
+He pulled off the sad worried boy act well enough one of the nicer lictors even gave him directions.
+
+Finding the kitchen was easiest, mere minutes away, and once he had that cavernous entrance in sight he dipped to the left and slipped through the discreet door there the same color as the wall. The servants were not meant to be seen coming and going, after all, nobles preferring it when their meals and vices appeared as if by magic. Said magic was underpaid staff, as tended to be the way.
+
+The corridor wasn’t quite crowded, but there were a dozen servants there coming together in clusters of worried murmurs. He barely got a second look as he slid in, interest waning at the sight his livery. The rector’s palace was enormous, the servants here numbered a small army – larger than the actual army guarding the place. The servants here were like a dozen tribes, so many faces in the mix that no one knew all of them save perhaps that glaring majordomo.
+
+What Tristan looked for was not a hooded figure in a corner with a blood-dripping knife and a manic smile but himself: a figure in the right livery who was not actually familiar with anyone else here. As none stood out, he kept moving down the hidden halls. Looping around the kitchen, then closer to the servant quarters. Those halls were empty, most everyone having fled back to their rooms as servants were supposed to when the bells rang.
+
+After a third empty hallway the thief sighed, admitting to himself he might have looked at the wrong place. The bells were still ringing so the assassin had not been caught, but this looked a dead end. Turning back, he-
+
+“You’re going to ignore her?”
+
+Tristan turned a confused look to Fortuna, whose dress trailed on the well-worn floor as she kept pace with him. Who, he silently mouthed.
+
+“The Tianxi,” she said. “The one staring at you with a knife in hand.”
+
+Mastering his breathing to keep calm, Tristan made himself let out a startled noise. He went rifling through his pockets as if in a panic, looking for something he had lost. That movement let him slide his gaze around the hall again, one eye on Fortuna as he silently asked her to point out the hidden person – only there was no need. This time he saw her, a short Tianxi woman with a tattooed face and a throwing knife in hand as she eyed him warily.
+
+What kind of a contract was this?
+
+“Fuck,” Tristan cursed, making a show of his empty pockets. “Come on, I must have…”
+
+He jogged past the Tianxi, angling his body so he’d be able to take out the blackjack unseen and-
+
+“Duck,” Fortuna shouted.
+
+He dropped to the floor without missing a beat, hearing metal bouncing off stone past him, and a moment later he was rolling away as the Tianxi tried to kick him in the throat. He wiggled out of the way, back on his ass, and caught a second kick with shielding forearms – only he saw, from the corner of his eyes, that she’d drawn another knife.
+
+He snarled, striking at the side of her knee with the blackjack. It hit the joint, earning that beautiful pop, and threw off her blow enough the knife slice only shallowly through his cheek. The Tianxi grunted in pain, hand rising and Tristan moved to hit her elbow – then he was on his back, head ringing and chin feeling cracked. It’d been a feint, she’d clocked him with the pommel of the knife.
+
+He rolled again, narrowly avoiding another thrown knife, and she must have judged him too hard to kill quietly: the assassin legged it down the hall, towards one of the exits. Only, even as he pushed himself up leaning on the wall, he did not run after her. Instead he narrowed his eyes, mind racing.
+
+“She’s getting away,” Fortuna observed, leaning against his shoulder.
+
+“She isn’t,” Tristan replied, watching as the assassin ran out of the servant halls and onto the palace floor. “There’s only one thing of use to her that way, and it’s the gardens.”
+
+“Where she’ll lose you,” the Lady of Long Odds informed him. “They’re passably large, as personal gardens go.”
+
+“She won’t,” he said, “because the bells are ringing. That means all the main gates are locked and she’ll have to take side doors out.”
+
+And he knew exactly where the closet side door was, as he’d walked Maryam to it barely an hour ago. Even better, he knew how to get to a room overlooking that exit and how to get there through the very same servant hallways he stood in. Straightening, he set out as quickly as he could without outright running. The hallways were still deserted, so there were no interruptions as he took three lefts and emerged past a tapestry near the door to what was some sort of viewing gallery.
+
+It was an old oaken door with a simple lock, which should – oh, unlocked. He cracked it open, finding only darkness and the windows he was after, then slid in and quietly shut it behind him. There were pale lights out in the garden, enough that he was able to walk to the window without need to strike a match. Working the brass locks, he opened the broad window panes and hoisted himself up on the sill. This was the right place. Tristan waited crouched on the window ledge, blackjack in hand. It should not be more than a minute before the Tianxi arrived, so he quieted his breath and bade his time.
+
+Tristan did not hear so much as a whisper before the hand closed around his neck.
+
+Panic. He tried to turn but the grip was too strong, and when he tried to wriggle his way into facing his enemy with his blackjack he received a squeeze of warning. Tristan stilled. Someone strolled past him and to realization came in quick succession. Dismay: he had not been snuck up on by one person but two, as someone was still holding him by the neck. Relief, at the realization that this was therefore not the assassin.
+
+And the face he saw in the flickering lamplight when the stranger approached the open window was one that had him hiding his surprise. Pulling at his superb mustache, Lord Locke tottered to the window before turning to wink at him. He put a finger to his lips and let out a loud shhhhhh. Tristan swallowed.
+
+“Good evening, Lady Keys,” he whispered.
+
+“And to you, young man,” she happily replied from behind him. “Found a job, have you? Such pretty livery.”
+
+“It’s a living,” he croaked. “Although, as it happens, I am a member of-”
+
+“The Watch,” Lord Locke idly finished, looking down the window. “A little pale for the Lefthand House, my boy, and you lack the mandatory froth of the Yellow Earth.”
+
+“I aim only to intercept the assassin,” he tried.
+
+“Yes, and we cannot allow that,” Lady Keys told him. “If you stop her here, how are we to find out the means she used to enter the palace?”
+
+He breathed in sharply. There was only one way in and out of the palace as far as he knew – when the killer had headed towards the gardens, he’d guessed the intention was to hide there and wait out the search before making for the lifts when the heat died down.
+
+“There’s another path?”
+
+“There is always another path,” Lord Locke chortled. “It is the destination that does not always pleases, hmmm?”
+
+Tristan licked his lips, preparing to risk one more question, but Lady Keys squeezed his neck in warning again. He fell silent just in time for a silhouette to run out of the door below. Further and further she went, until she was near out of sight.
+
+“Oh, she takes the pavilion path,” Lord Locke muttered. “Boring. I expected better from the debut of a woman who near murdered the Lord Rector.”
+
+“Near murdered who?” Tristan croaked, eyes widening.
+
+A beat passed.
+
+“Try not to break anything, dearie,” Lady Keys instructed him.
+
+He opened his mouth to reply – not quite sure what yet, but ‘please don’t’ seemed a decent start – but he was forced to swallow a scream when the noblewoman threw him out the damn window. Pulling forcefully at his luck, the ticking drowned out by the howl of the wind, he prayed for a landing that wouldn’t shatter bone and the side of his livery tore at the seams. It led him to flip around in the air so his chin didn’t hit stone, only his back, and he groaned in pain before releasing the borrowed luck.
+
+The tile came loose off the edge of the roof and even hastily rolling around it still clipped the side of his arm, tearing the livery a second time and most definitely leaving a bruise. Manes, the majordomo would have his head for that. He hadn’t even had the clothes for a day.
+
+Dragging himself up he shot a look at the open window, but as expected neither Lord Locke nor Lady Keys were anywhere to be seen. Gritting his teeth, he glared in their general direction before turning around. The assassin came first. She was at least a minute ahead, by his count, and there was only one lit path through the darkened garden, moving from one lantern pavilion to another: he hurried and caught sight of her again soon.
+
+Unfortunately the lack of cover cut both ways, so she also caught sight of him.
+
+Immediately she veered off the path, into the dark and Tristan cursed. He at least caught up to where she left the path before taking wary look at the darkness. He rather wished he’d kept one of her throwing knives, even though getting caught with one of those by a lictor might just have gotten him shot. It would do his nerves some good to head into the night better armed, chasing after the rustle of leaves in the wind and steps on grass and the mocking cackle-call.
+
+Huh. Wait, was that…
+
+“Sakkas?” he called out.
+
+The flap of wings, and bursting out of the dark like jack from the box was the massive magpie. Sakkas half bowled him over landing on his shoulder, but Tristan was grinning.
+
+“Good boy,” he enthused. “Best boy.”
+
+Triumphant cawing.
+
+“How would you like to earn a full bushel of apples?” he said.
+
+A wing slapped at his hair, inviting him to elaborate.
+
+“A woman just walked out there,” he said, pointing where the assassin had gone. “Can you guide me to her?”
+
+The magpie shuffled around his shoulder some, then decisively nodded and flew away. Breathing in, Tristan followed. It was tricky, following a shadow in the dark, but Sakkas was somehow always just as the edge of his sight. He walked past twisted trees, shoes cracking as he stepped on leaves and twigs, and then onto a field of blue-and-purple blooms. For the barest moment he thought he might be seeing the Tianxi in the distance, at the edge of the open field, so he broke into a run.
+
+Only what he found, when Sakkas perched on a branch and let out a final cackle, was not the assassin. Would that it were, because Tristan had felt this… strangeness in the air before, the way it was thickly laden. Before him stood rows and rows of slender, leafless trees like poles. Only a narrow path was opened, like a curtain’s skirt lightly pulled open, and while to his eyes that path headed into the distance Tristan could tell it did not.
+
+That path, it felt like a hole in the world. Layer, he thought. This is the entrance to a layer, or close enough. Above his head, Sakkas let out a warning squawk.
+
+“I know,” Tristan replied. “But I have to. We need to know where it leads.”
+
+Because while it was entirely possible that the Republics were behind that assassin, a hidden way into the otherwise utterly unassailable palace would be very useful to, say, a cult full of nobles preparing to mount a coup on the Lord Rector. And the longer I wait before following, the longer they’d have to clean up the other side. Tristan sighed, passing a hand through his hair.
+
+Well, nothing else for it.
+
+The thief stepped forward, and just like that he was gone.
+
+—
+
+The shade, the thing, it was baiting her.
+
+Maryam refused it a name, for names had power, but could not refuse the chase. She was as a child in the dark, following the rope tied to her soul, and for every step she took away from the light the shade took two. She was not going to catch up with that light-footed thing, not before it had led them to wherever it intended to go.
+
+ Flowers gave way to grass, grass gave way to trees and only when those twisted branches began clawing at the dark did the shade slow. Into a clearing the creature wandered, gray robes trailing, and waited for her pursuer to catch up as she idly crossed grounds to the other side.
+
+She looked back at Maryam as the Izvorica reached the clearing, almost taunting, then passed under an arch of flowering vines and disappeared.
+
+The signifier scowled, carding her fingers through the too-heavy air. The Gloam was thick here, like an oily miasma, but it was also placid – there were no real currents, as if this entire clearing were stagnant water. But there was something that… Her slippers quiet against the grass, Maryam approached the arch of vines and watched as the flowers began to spoil. Poisoned by Gloam, the petals turned into death’s leavings.
+
+“And you will know the gate by rot,” Maryam murmured in her native tongue, “for in that darkened realm the very wind is poison and the fruits of the vine grin like skulls.”
+
+But this was not the gate into Nav, was it? It was just a gate, one whose mere existence was enough to create eddies in the Gloam around it. A flower could suffer the presence of Gloam without mark, if the darkness simply passed it like a breeze. To be touched by a current, though, Gloam charged? Rare was the petal that would not be blighted by that. The rope tugged forward, the shade’s touch mocking. As if to chide her for cowardice in hesitating.
+
+A petty trap, that invitation to haste.
+
+“And though the dark lasted for seven days and seven nights, Orel grew not lost for he was the cleverest of the junak,” she quoted. “With his dripping blood he marked the trees, so that he would not circle until death as the queen had cursed him.”
+
+Orel had always been her favorite of the wandering junak, for all that he apparently could not cross a single river without somehow offending a witch queen. Maryam pulled at her nav, wound it around the rake-rings and drew in Gloam. She shaped nothing but a string, tied to the edge of the gate so that her enemy could not draw her into deep waters from which there would be no return.
+
+Breathing out, she stepped through the gate.
+
+The air was empty here. That was the first thing that struck her. It felt… hollowed out, somehow, even as she breathed it in. Before Maryam stood a long and dimly lit road, paving stones glared down at by a dim dusk.
+
+On either side was nothing, and above them was something every part of Maryam screamed at her not to behold.
+
+A flutter of gray robes, the shade running away. She pursued the thing down the paths, Gloam string unwinding behind her. Corner after corner, all just gentle enough they barely felt like turns, and the string grew taut. Then tight, and at last on the point of snapping. In the distance the gray-robed shade waited patientiently, at a crossroads. Maryam’s eyes narrowed. The paths, as far as she could tell, did not change behind her. She should be able to find her way back.
+
+And the place where the shade stood, it was… wrong. Like a crack in the world.
+
+Gritting her teeth, she let the Gloam string fall apart to the sound of the creature’s faint laughter. It barely even moved as Maryam approached. The wrongness she had glimpsed from far away loomed tall as a man, a blank fissure in the air that looked… The Izvorica swallowed. It looked like it had been ripped by some great claw, not simply come to happen naturally.  The shade waited until she was mere yards away to offer a sardonic salute and step into the crack.
+
+Maryam’s steps stuttered in their pursuit.
+
+What was this place? She had half-guessed a layer, but layers were not so empty. They were an imprint on aether, and what could this strange realm of paths possibly be an imprint of? Antediluvian was the other easy guess, yet none of their affections were here: there were no golden lights and machines, no overweening grandeur. This felt… rawer. Less refined, like a river stone instead of statue. The blue-eyed girl swallowed, eyeing the wound in the air. She had come too far to back down now, hadn’t she?
+
+She stepped through, the sensation like the flutter of butterflies in her hair.
+
+The dim light of before had grown stronger and even more hollow, revealing in wan colors a white desert spreading in every direction: the grains more like crystal than sand, each perfect and pale. The sand creased beneath her feet as she moved, but the sound barely warranted a thought. Not when she was so close to the shade in the gray robe, whose back was turned to Maryam.
+
+The creature was looking at a great harpoon of bronze, jagged and gleaming, sunk deep into the sand. Tall as a ship’s mast.
+
+Maryam closed the distance, ring-hand clenched. And finally the shade deigned to turn and meet her face to face. She breathed in sharply, for Song had spoken true: the thing could have passed for a sister, or perhaps a cousin. There was naught of Maryam’s father in that sharp, bony face but she saw some of her mother and more of herself. As if someone had painted her and smudged the lines and colors on the canvas.
+
+“Where is this?” Maryam asked.
+
+“What willful blindness,” the shade scorned. “You shovel ignorance down your gullet as if it were the finest ambrosial.”
+
+Intelligent, Maryam wondered, or merely capable of mimicking it? Not all intelligences born of the aether thought as people did, in signs and lines and meanings. Some were simply pattern-impulses, like machines inserting words and syntax to cause reaction. No more a thinking mind than candlelight or the plague.
+
+“Enlighten me, then,” she said.
+
+“How can I, when my bones are made of every shied-of dark corner in your head?” the shade replied. “They tried to make you more, but you always have been so stubborn about being less.”
+
+Maryam raised her hand, ring-glint a glimmer in the dark, and pulled. Her nav wriggled like a worm on a hook, her soul-effigy pulled taut as the shade raised a hand of her own and spat in distaste.
+
+“Oh no, you riven thing,” she said. “Not here, not so far out of the lights. The madwoman’s strings are not so long as that.”
+
+“Neither are yours,” Maryam said, twisting her hand.
+
+Curling like a claw, pulling in, but she was met effort for effort by the shade. The nav remained between them, a fragile idol at the heart of the tug-of-war. Their strength was matched here in this empty place, this pale desert without a sky. The ground crunched under her boots as she released her grasp, mirrored by the shade. The nav dipped, rope gone slack.
+
+“This isn’t a layer,” Maryam said. “Someone made this place.”
+
+“Every place is made,” the shade smiled.
+
+An in a frozen instant, she saw it: with the cut of the hair hiding part of the jaw she could make out only part of the face, the hard bones and blue eyes and nose just a little too long and too sharp. Mother had not been a beauty. She’d looked like she fought the gods when they carved her features, made the knife slip too far and dig too deep.
+
+And that shade, that fucking thing, it put on that appearance like a cloak while mouthing old lessons whose remembrance were one of the few precious things she still owned. Every place is made, Maryam, for it only becomes so when beheld. The absence of observation is nameless. She could almost smell the burning pine, the rough wool of the blanket and the way her knees had ached from how she tucked her legs.
+
+Pretty new boots, dyed red. She’d not wanted to dirty them in wet earth.
+
+“I did not give you that,” she said, voice cold. “I would never give you that, you hateful leech. You show yourself a liar.”
+
+“But you did,” the shade said. “And it’s worse than giving me the whole, in truth. You just force-fed me the colors.”
+
+The shade brushed away her hair, the moment gone and now a face like a sister’s meeting Maryam’s own.
+
+“Did you think you could get rid of the ache, of the tears, without washing out the dyes?” she mocked. “You wander around as a gray ghost, Maryam Khaimov, blanching and bleaching everything you touch.”
+
+That was… she swallowed. She forced down the urge to sink into the memory again, to see if the shade spoke true and the part of her that fled grief had scraped her every memory raw of such tastes in its hurry to flee – to go back, it was what the thing wanted. To feed on her again.
+
+“I am a ghost lectured by less than a ghost, then,” she scorned right back. “You would give me lessons when you are a pile of table scraps? You are vermin hidden in the attic, thing, and now I know how to starve you out.”
+
+“You know less than you think,” the shade smiled. “Always.”
+
+“I know you fed on anger and grief and you think that makes you something,” Maryam said. “But it doesn’t. You told me that, when you went to Song calling yourself things like princess of Volcesta and Keeper of Hooks. If you were more than just leavings you’d know-”
+
+“That it failed,” the shade conversationally. “Mother tried to pass them on, all the hooks and the crooks. Fifty generations of secrets and guile, every practice allowed and forbidden to those of the Ninefold Nine.”
+
+Her footsteps made no sound as they crossed the pale sand, left no footsteps. She was not a thing of the world material.
+
+“And it slipped through your mind like a sea pouring through our fingers,” the shade said. “Became unto nothing, because you were unfit. No ritual to fix it, fix you.”
+
+She raised her arms in cutting celebration,
+
+“All hail Maryam Khaimov, funeral pyre to the sapling that should have been the rebirth of the Izvoric’s lore. Just as merrily did it burn as our groves under Malani torches.”
+
+It was like a blow in the gut. Every time, every single time, even after all these years.
+
+“Then you know,” Maryam spoke through gritted teeth, “that to dare call yourself such a thing is obscene.”
+
+“I know the stories you tell yourself,” the shade replied. “The poison you swallow to better feed me. But however you might love the lash biting into your back, that does not make it the truth. I’ve been there from the start.”
+
+Her eyes were cold.
+
+“And unlike you, I have not been supping on ignorance.”
+
+Maryam’s stomach clenched.
+
+“You have some of it,” she said, voice gone raw. “You were able to eat some. How, no – how much?”
+
+The shade only smiled mockingly, and Maryam saw red. Her ring-hand whipped up, her will cut into the world and the air splintered between them – the shade was laughing, laughing, as Maryam spiked at her with a Bayonet the size of door. Only from the mirroring hand on the thing a snake of Gloam spun out swallowing it whole and twisting into nothing-smoke. She snarled, wove Befuddlement but it passed though the shade as if there was no mind to blank.
+
+A drop of pitch black Gloam formed half an inch before her face, Maryam ducking out of the way just a heartbeat before it swelled to the size of barrel.
+
+“Enough,” she snarled. “I have had enough for you. You will give it all back.”
+
+Burden, when she ripped it into the air, it caught the shade. Settled on it like a cloak, making every pane of its existence like wading through slightly heavier air – from thought to flinch, everything just took a little more effort.
+
+“You just don’t have it in you, Maryam,” the shade mocked. “How could you, when I am every part of you that could take it?”
+
+She slapped at the air, oil-black slickness bursting out into a rope that she wove into a noose and threw at Maryam’s neck.
+
+Burden slowed it down just enough for Maryam to get out of the way.
+
+The shade formed obsidian-petals, each sharp as a claw, and Maryam burdened them. When the shade tried to wield the Gloam as a knife, cut the curse out of herself, Maryam burdened that too. Layer after layer after layer, no matter what the shade did. Choking her out with a hundred silk cushions, pressed ever so slightly against her face.
+
+Panting, wide-eyed, the thing was to made to kneel and claw at the air – limbs trembling as they bore the weight of an entire shrine. Thirty-two Burdens, enough that Maryam could feel her blood seething in her veins. But she had the rings, and discipline. She would not burn herself out.
+
+“Control,” Maryam coldly said. “You have all the Gloam-secrets in the world, parasite, but not a whit of control. That much I kept.”
+
+The shade laughed.
+
+“So eager to use their ways,” it rasped. “To be a good little blackcloak, to forget everything you are. The ever-riven thing, ripping itself piece by piece to fit their mold.”
+
+“Maybe,” Maryam said, “but tonight I get to take a fucking piece back.”
+
+She shoved her hand into the shade’s chest, fingers clawing for something – anything – to hold and ripped it out. The shade let out a gasp, unweaving like a tapestry being tugged at, but it wasn’t dead. All Maryam had done was break the manifestation, the parasite was still out there in the aether. Sucking at her nav like a mosquito, draining blood and leaving pus behind.
+
+But when the last of the shade was gone, Maryam found her fingers closed around a nothing-that-was-something. In wounding the creature, she could take from it. Better than through the impersonal teeth of the rake-rings, deeper.
+
+“Mine,” she claimed to the aether, and took back her due.
+
+–
+
+Maryam screamed and screamed and screamed.
+
+–
+
+Oh.
+
+She was kneeling in the sand. Her eyes were wet. Blood, water? She knew not. But she knew so many things now, things she had barely understood before. Secrets whispered into her ear by beggar-gods, suckled out of the bellies of stags like wriggling worms.
+
+They’d made a fire that almost reached the clouds, once, and painted the shadows it cast in blood. Oh, what a lovely song that had sung.
+
+Maryam stumbled, her body a ship moving through the air, and laughed as she felt out the shape of this place. A sphere, round and around. Ball and chain. But she would not be refused! The wound she had walked through was still, there, it just needed a little ring. The blue-eyed girl tread the sand to the great harpoon and, grinning, flicked it.
+
+It rang out like a bell, and in that omen she found resonance: the silhouette of the gate this tool of wounding had made.
+
+She walked through it head high, back to the crossroads. And there was movement, seen through movement-absence. It molded the shape of what was through what was not, a lovely drawing for her nav to trace. Skipping on the warm stones, breathing the cool air, Maryam found a surprise!
+
+The surprise pointed some piece of metal and leather at her. Her viper was such a funny man.
+
+“I have been warned about this,” Tristan Abrascal scowled. “Say something only Maryam would know.”
+
+She laid a finger on her chin, thoughtful.
+
+“What do you know about stars?” Maryam asked. “There are a lot of star things that I know.”
+
+“Pass,” the thief said, then frowned. “Are you drunk? You sound…”
+
+Maryam slapped a fist into her palm. Victory.
+
+“I took the ugly sheets we bought Tredegar because they are more comfortable than mine,” she told him. “I am considering having them dyed.”
+
+The strange weapon went down.
+
+“Maryam,” he said, sounding relieved. And angry. “What are you doing in here?”
+
+“I was here first,” she reproached. “What are you doing here?”
+
+“Pursuing an assassin,” he instantly replied. “Now you.”
+
+“Learning all sorts of things,” she happily said. “Did you know that if you paint a standing stone in the old tongue with secrets writ in the tears of murderers, you can ask questions of the crow-gods that come to feed on it?”
+
+“I did not, in fact, know that,” Tristan replied in a strange voice, approaching her as if she was some skittish doe. “Have you eaten or drunk anything in here, Maryam?”
+
+“No,” she said, then paused. “Well, memories. I think maybe not all of them mine, but they are very interesting.”
+
+“All right, that’s enough,” Tristan said, worrying like a worrywart as he touched her shoulder. “We’re going back. I remember the path I took, we can use that.”
+
+His eyes were gray and grave, lovely in the gloom of these halls. Why so worried? She had it all under control.
+
+“We cannot,” Maryam told him, sighing as she leaned her head against his shoulder. “That is not how this place was made. The halls, they go in and not out.”
+
+He swallowed.
+
+“So we are stuck in here?”
+
+“No, no,” she frowned, surprised he did not understand. “We go into the material world now, instead of the desert at the heart. It is still going in, in is a direction.”
+
+“So we can have outside as a destination,” he slowly said, “but not retread our steps.”
+
+She stared at him, unimpressed. What did he not understand? It was threading a needle through the self-closing cloth of reality, there was no path – only puncture by means of will.
+
+“Yes,” Maryam pouted. “Maybe. Why?”
+
+“We need to leave here,” he said.
+
+He sounded gentle, but also like he was reminding her of something. There was no need for that, she knew what she was to do. Maryam pushed off him, considering stealing the warmth left behind to wear it as a shroud for a moment before the glint of her own rings drew her eye. Ah, that was the wrong hand. The other, only fingers and wood, clenched tight as she focused the Gloam like a thing-eating-itself. In that emptiness she set a purpose and set it free.
+
+The small bird flew out of her open palm, wings of Gloam batting at the air.
+
+“Come on,” she said, tugging at Tristan’s arm.
+
+“We’re, uh, following the bird?”
+
+“It’s leaving,” she said, rolling her eyes. “That’s all it knows to do.”
+
+She remembered how to make that, now. Rip the hole and fill it, yoke it with a thought. She had known how to do it for years and years, since the first bones of iron were ripped out of the icy Rijeb hills. She chased after the construct, following in the wake of its need-intent to reach outside. They ran through the halls like skipping children, Maryam laughing until they turned a corner and suddenly the world hurt.
+
+Gasping, wind knocked out of her, she fell to her knees. Her vision swam, glimpsing smudges of the brass lights and green glass of Tratheke.
+
+“Maryam. Maryam, can you hear me?”
+
+A hand on her shoulder, squeezing. Oh. Oh dear. She’d been Gloam-drunk, in a fugue. And now was coming the backlash. Maryam Khaimov twitched once, twice then began to throw up.
+
+She did not stop until all the bile was gone, then toppled down unconscious face first towards the sick.
+
