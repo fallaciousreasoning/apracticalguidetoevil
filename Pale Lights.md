@@ -48099,3 +48099,845 @@ A hand on her shoulder, squeezing. Oh. Oh dear. She’d been Gloam-drunk, in a f
 
 She did not stop until all the bile was gone, then toppled down unconscious face first towards the sick.
 
+# Chapter 45
+
+By the third morning Song was falling apart.
+
+The occasional hour of sleep she stole was no longer enough and she could barely tell left from right. It did not go unnoticed. When Prefect Nestor, commander of the palace lictors, suggested she be made to wear a spice-cap and drink extract of Izcalli coca to prevent her falling asleep he was interrupted by Captain Wen politely putting down his pistol on the table facing the man.
+
+“That,” the bespectacled man mildly said, “would be drugging a watchwoman out on contract. A breach of the Iscariot Accords.”
+
+“Are you threatening me?” Nestor coldly asked.
+
+He was a big man, heavyset and with jowls like a bulldog, but past his prime.
+
+“Yes,” Wen frowned. “Obviously.”
+
+Though the prefect seemed about ready to send for the lictors and put them all under arrest, calm prevailed at the behest of Majordomo Timon – the other half of the regime running the palace while the Lord Rector remained locked away under heavy guard. Prefect Nestor remained viciously angry that a pistol had been pointed in his direction even though it had been empty, so Song stepped in before the increasingly hard-eyed Wen made things worse.
+
+“I am awake enough for one last audit,” she said. “I can retire afterwards.”
+
+Majordomo Timon, a white-haired man so perfectly groomed it made even his soft features somehow look severe, offered her a small bow of thanks and a smile.
+
+“We are thankful for your services, Captain Song,” he said. “The favor done today will not be forgotten.”
+
+“I expect not,” Wen said, “as we will be billing the palace for the standard rates in employing a first-class Watch sniffer for three days.”
+
+The white-haired man winced, so it must not be a small sum.
+
+“Surely we could-”
+
+“We could use the hourly rates, if you prefer,” Wen blandly offered.
+
+The man’s face turned almost as pale as his hair.
+
+“Given circumstances,” Song interrupted with a quelling look at her patron, “I am sure a discount can be arranged. I am coming into a great deal of private information regarding the court of the Lord Rector of Asphodel.”
+
+Majordomo Timon hurried to pile on his approval to that argument, while the pleased gleam in Wen’s eyes told Song they’d been played: he had been aiming for her to play peacemaker from the start. The two palace grandees departed to arrange the audit, Prefect Nestor stomping on the way out of the small salon, and she was left alone with Wen Duan for what she knew would not be more than a few minutes.
+
+“What is a spice-cap, anyway?” she asked.
+
+“A cap with cephalic spices quilted in,” Wen replied. “Basil, ginger and such.”
+
+Song blinked.
+
+“That does not seem…”
+
+“It’s Trebian nonsense,” Wen said. “Physicians in these parts insist it treats ‘distempers’, though, and apparently chronic lack of sleep is now one of those.”
+
+Well, she thought, the magic cap was still better than Izcalli coca leaf. That was what they fed serfs so they could work themselves to death. She cleared her throat.
+
+“What is the hourly rate for a first-rate Watch sniffer, if I may ask?”
+
+He raised four fingers.
+
+“Arboles?” she mused. “That’s not too-”
+
+“Ramas,” Wen grinned. “There’s a reason courts pick up their own sniffers.”
+
+Song choked. That was a lot of gold.
+
+“And the price for a day?”
+
+“Twenty-eight is the usual standard,” he replied. “They’re Blancaflor signatories, though, so they might have a better rate.”
+
+Well now, Song thought. Even throwing in a discount, it seemed she was about to come into a not inconsiderable amount of money. That happy prospect was almost enough to keep her from nodding off in her chair – Wen gently shook her awake when the lictors came back. Swallowing a groan, she rose and stretched as discreetly as she could. This time the lictors did not take her to one of the dining halls with galleries above but to a small nook by a hallway, a cushioned seat already waiting for her.
+
+A pair of lictors stood guard by the alcove, while two servants with Cathayan looks and a maidservant dress like Song currently wore sat in seats identical to the one left empty for her. She’d not even had to ask for the precaution obscuring her identity, as Prefect Nestor was intent on keeping that well under wrap.
+
+Blinking away the returning pull of sleep, Song realized she recognized one of the lictors standing guard. Sergeant Arturo, a short man with rugged good looks who smiled at her as she sat down in her seat.
+
+“Servants this time, my lady,” he told her. “Enough lictors have been cleared to cover all the chokepoints.”
+
+Song nodded back with a wan smile. She’d heard that one before. Immediately after the attempt was made on Lord Rector Evander’s life, it had only seemed reasonable for her to stay with him as someone with the proven capacity to see through the assassin’s contract. Only even after lictors flooded the halls and a tightly packed wall of flesh and steel escorted Evander to sealed room, Song was ‘asked’ to remain at the disposal of the palace guards.
+
+First they made her clear Prefect Nestor and the lictors that were to guard the Lord Rector’s door, which was fair enough. Then servants that were to take care of Asphodel’s ruler in his containment, which again was fair to request. But by morning they’d gotten increasingly ambitious, making her check not only on their own sniffers – ten-year-old twins and a crone of sixty – but on an ever-increasing crowd as the plan became to lock down an entire section of the rector’s palace, no one in and out, then methodically comb through the rest looking for the assassin.
+
+Which meant Song had been made to look at maids, cooks, launderers and even a man whose entire job was to empty the chamber pot of the Lord Rector. Everyone who might be needed for a palace within the palace to function smoothly.
+
+Even when news came from Black House that Tristan and Maryam had somehow crossed back down into Tratheke in pursuit of the assassin, who should be away hiding in the city, the only thing that’d changed was that Song was made to clear lictors that were to stand guard on the spot in the garden where there might be a hidden path.
+
+Aid she had offered freely came to feel like a rope around her neck as the prefect and majordomo kept asking for more. She hadn’t even had time to sit with her brigade since the attempt, the only blackcloak she had seen was Captain Wen. You’d think that the Asphodelian sniffers being cleared would have split the burden, but Prefect Nestor insisted she was the only proven quantity so she must be used for all crucial personnel.
+
+Which was all of them, it felt like.
+
+The only silver lining was that she’d laid eyes on the majority of the staff at the rector’s palace and found no trace of a Golden Ram contract, which was useful information for the contract she was actually on.
+
+“It is starting, my lady,” Sergeant Arturo whispered.
+
+Song straightened out of the slump forward she’d been falling in, breathing in sharply. The procession of servants going down the hall began as advertised, men and women in the red-and-white servant livery walking past them slowly. They were under orders to keep their stare forward, though some snuck peeks before getting elbowed by escorting lictors.
+
+The fourteenth proved to have a contract, one that let the man swap one smell for another at a time. She gestured and he was taken aside by the lictors at the end of the hall. None of the other thirty had either a contract or a boon, and it turned out the one contract she’d seen was a known quantity. The servant in question worked in the palace sewers, which how he’d drawn the attention of the vermin god he contracted with in the first place.
+
+She was soon dragged back before Prefect Nestor and Majordomo Timon. Wen had also forced his way into the room, though he was busy tearing through a bowl of peanuts. No prisoner was taken in that fearsome process, to the majordomo’s visible discomfort.
+
+“Your room has been prepared, Captain Song,” Timon said. “We thank you, once more, for the service you have rendered House Palliades.”
+
+“If that feels unsafe, a bunk has also been set aside for you in the lictor barracks,” Prefect Nestor idly added.
+
+“That will not be necessary,” Song flatly replied.
+
+She was not going to put herself in this man’s power. That was a recipe for having that stupid hat forced onto her head if she’d ever heard one. She fled that room so quickly she almost left her lictor escort behind, and might have stumbled if Wen did not catch up and swing an arm around her shoulder.
+
+“Easy now,” he said. “We’ll get you there.”
+
+“The Thirteenth,” she said. “What has been-”
+
+“No one’s in any danger,” he said. “They are continuing the investigation without you, and you’ll have a report when you wake. You need to sleep, Song.”
+
+Much as she would have liked to argue that, things had gotten bad enough she could not remember how she had arrived to the corridor they were now limping down. Pushing down the urge to insist on an immediate report, she let herself be guided to her room.
+
+What happened after Wen opened the door she had no idea, but Song woke up buried in pillows.
+
+With the taste of sleep still in her mouth she slid out of the covers, lighting one of the lamps even though she did not need it to see. Moments later there was a soft knock at the door and a servant entered when bid, asking what temperature she would prefer her bath and if she had any request for supper.
+
+She had slept the whole day away, she realized with a wince.
+
+A warm bath and a three-course meal of Asphodelian staples later, Song was yet sitting in her private dining room sipping at good Mazu black leaf when Captain Wen made his entrance. He immediately complained that she had not set any dessert aside for him, but though she smiled Song could see from his eyes that his heart was not in it. It was a distraction, meant to soften the blow of whatever bad news he carried. Song set down her tea.
+
+“Tell me,” she asked.
+
+Gods, let it not be someone in the Thirteenth having been hurt while she was playing sniffer for overreaching yiwu.
+
+“Though the Thirteenth’s already on contract, a formal request has been made for your services in providing protection for the Lord Rector,” Wen said. “It came from Evander Palliades himself.”
+
+She frowned. Lord Rector Evander had been pleasant enough, but she was not here for the man.
+
+“So refuse,” Song said. “Or must it come from me directly?”
+
+“They did not make it to me, I was merely informed,” Wen said. “It was kicked much higher up. See, as of yesterday the leading Watch officer in Tratheke is Brigadier Chilaca.”
+
+It took a moment for her to follow – the commanding officer at Stheno’s Peak should be a colonel. Certainly not a brigadier, a rank reserved only for the officer that commanded the fortress seat of a Watch administrative region directly under a marshal.
+
+“The head of the diplomatic delegation,” she said. “The one come to negotiate over the cache and shipyard.”
+
+He nodded.
+
+“And to them I am an inexpensive way to accrue goodwill with the other side of the negotiating table,” Song grimaced. “He is sure to say yes.”
+
+“Jurisdiction will get tricky,” Wen said. “You’re Scholomance, which means in theory we answer only to the Obscure Committee.”
+
+He hesitated a moment.
+
+“Don’t coddle me,” Song grunted.
+
+“In practice, it just means Chilaca will have to make accommodations to leave you time to work on your test,” the bespectacled man said. “I’ll fight so that instead of your services being ‘on tap’, so to speak, you can only be requested for specific events and in advance. But I can’t push it much farther than that.”
+
+He grimaced.
+
+“If I try to buck him off entirely it’ll become a game of who knows who, and I won’t be winning that against a brigadier.”
+
+The admission, she saw, left a bad taste in his mouth.
+
+“Doing what you can is all I ask,” Song quietly said.
+
+He rolled his eyes at her.
+
+“Now who’s coddling who?” Wen sneered. “Finish that tea, Ren. If you’re going to be used by Chilaca as negotiation prop, let’s see if we can at least wheedle double pay out of him for it. You’ll be doing the Watch a service as well.”
+
+—
+
+Tredegar objected to being called the muscle, not on general principle but because as she had yet to recover she claimed she would not make an effective thug.
+
+“You’re still more muscle than I’d be bringing,” Tristan reminded her, and that was that.
+
+They did not use the coach all the way, and not the Watch’s coach either: that would have been announcing who they were with a trumpet. Instead Tristan paid one of the Asphodel’s army of street coachmen to let them off ten minutes away from their destination, Angharad limping out after him. Though neither wore the black, they kept their pistols obvious as a warning to the overly enterprising – of which there would be many, around here.
+
+They were at the edge of the northeast square, past the pretty part of that town that hugged the side of the Collegium glass and near a couple of streets he’d learned the locals called the ‘Reeking Rows’. One of the old Lord Rectors had decreed the better part of a century ago that all the foul-smelling trades of the city should be confined to a series of streets around some Antediluvian contraption whose brass blades stirred the wind, to prevent the smells spreading.
+
+It’d worked in the sense that the rest of Tratheke must have enjoyed the lack of foulness in the air, but it’d also killed the neighborhood. Even those who worked at the tanning shops, the dye pits and slaughterhouses, they preferred living in nicer corners of the city. Only those who could not afford better had stayed when the Reeking Rows rolled in.
+
+“The streets and walls are fine as any other in this city,” Angharad quietly said. “But there is something…”
+
+“It’s not a neighborhood,” Tristan agreed. “It’s just a place people live.”
+
+Slowly she nodded, keeping up to his pace with little visible effort. It helped that the thief was not rushing and she was longer legged to start with. To his disappointment his discreet investigation back at Black House had revealed that her walking stick was only a stick, too light for there to be a hidden blade inside, but the cane was still fine wood with a steel head.
+
+He wouldn’t want arms as strong as the noblewoman’s swinging that anywhere near his skull.
+
+“A shame it has come to this,” Tredegar said. “The local lords should have stepped in and provided aid.”
+
+“Lords can’t make the air smell better,” Tristan snorted, then paused as he recognized the half-slumped noodle shop at the corner. “Scarf on, we are about to cross the bad part of the Rows.”
+
+He pulled on his own, barely more than a stripe of beige cloth, while Angharad pulled up a proper green scarf almost matching the shade of her belted tunic. Though there was nothing as visible as the green noxious smoke one might have imagined, the moment they turned the corner Tristan’s eyes began to sting. He hurried forward, blinking away tears, and felt fervently grateful that this time he had cloth to cover his mouth when he breathed.
+
+He’d nearly emptied his stomach when carrying Maryam through here on the night of the assassination attempt, and his throat had been sore most of the day after.
+
+It was an unpleasant street and a half, cutting straight through the worst of the Rows to get at their destination quicker, but at least it was the work of but a few minutes. Angharad was no more eager than he to linger in there. They kept their mouth and nose covered for another block even when the eyes stopped stinging, only sucking in relieved breaths once they were well clear.
+
+“You took Maryam through this without a mask?” she asked, expression hard to place.
+
+He passed a hand through his hair.
+
+“Had to,” Tristan said. “She was feverish and babbling after the fit of mania. It was either pushing through or risking some Gloam fever turning on her.”
+
+Signifiers were supposed to be better off than hedge witches peddling curses, but the one time Tristan had seen a Gloam fit turn on someone it’d not been pretty – as in scratch out your own eyes ugly. No matter how much safer Signs were, the black arts were poison.
+
+“It was brave, to take that path at night,” Angharad said.
+
+Tristan snorted.
+
+“Oh, I know a thing or two about taking to the streets after dark,” he teased. “Worry not for that.”
+
+She rolled her eyes at him, but he was hardly lying. Unless you stepped on some coterie’s feet by crossing their territory uninvited, going around unmolested when the lights dimmed was mostly a question of making yourself not worth hassling. Make it plain you were poor, that you were armed and then keep moving so the boys working themselves up to it never got the chance to pull the trigger.
+
+Though it had been two days now, Tristan remembered the area well enough. The boarded-up tea parlor he and Maryam had stumbled out next to waited at the end of a street that was a row of stone-and-brass shells, long ago stripped clean of any sign of life.
+
+“Is this the place, then?” Angharad asked.
+
+“That’s the one,” Tristan agreed. “Come on, I’ll show you what I found last time.”
+
+The parlor was a single-story building, though one with a high and curved ceiling. The windows were bereft of the green glass so common to Tratheke, instead closed with one might generously call shutters but in practice were large wooden planks wedged inside in a broad X shape. There were eight windows, four on each of the tea parlor walls facing a street, and he led Angharad to the third window from the left on the south side.
+
+It wasn’t obvious, but the wooden planks there were a trick: they’d been sawed through on each support, sanded down and put back in place to maintain the appearance that the window was still boarded up. Tristan demonstrated as much by pulling it out, carefully lowering the wooden frame on the floor inside by leaning past the edge.
+
+“You noticed this in the dark?” Angharad asked, cocking her head to the side.
+
+“The street lanterns were lit,” he reminded her. “And they were put back the wrong side then, the planks looked off. It’s why I think it was the assassin in the first place.”
+
+It was the mark of someone who both would have had reason to be there and be in a hurry to leave. A look inside revealed the same dark, dusty floor he had glimpsed last time before deciding he was not going to risk a fight with an assassin that’d already slapped him around once while Maryam was in a bad enough state to babble about his livery ‘tasting gray’.
+
+The thief climbed the window and dropped inside in a small cloud of dust, extending a hand so Angharad would pass him their lantern. He cracked a match and lit it, letting out a little hum of satisfaction.
+
+“What is it?”
+
+“Footsteps,” he said. “And somewhat recent.”
+
+He made room for her, setting down the lantern to help drag her past the windowsill after she passed him the walking stick. Gods but being tall and muscled made people heavy, not that he was fool enough to ever say so out loud. Angharad straightened her clothes after, wrinkling a nose at the dust.
+
+Good thing Song was still stuck playing nice with the Lord Rector, she’d have a fit at the sight of such an unkempt tea parlor – offended to the core as both a Tianxi and a woman who could and did use a knife to get small impurities out of pans.
+
+“Several trails,” Angharad observed, hoisting up the lantern.
+
+The inside of the once tea parlor was mostly a large open space framed by four brass counters, any furniture not literally part of the floor removed. There were three brass doors on the back wall and gas lamps on the walls every few feet, though none were lit and Tristan would not bet on there being gas inside. Most important of all, there were three trails of footsteps in the dust.
+
+One going straight to the middle of the room, ending abruptly there. It must be where there’d been a way to access the realm of passages. A second started at the middle of the room and headed straight for the trick window, with the footsteps more widely spaced. Running instead of walking, the assassin leaving this place worrying of someone following after her.
+
+“I understand those leading to the center of the room,” Angharad mused, “but why this one?”
+
+Her walking stick was pointed at the standout: a path going around the right side, past the brass counter, and passing in front of every of the three doors out back before returning to the window.
+
+“Checking on the doors,” Tristan guessed. “Making sure the place is secure.”
+
+“Then why not go in?” Angharad asked.
+
+It was a fair question, and they sought out an answer by circling along the same path. Tristan was not sure what one needed to do to access that strange, bleak labyrinth of hallways that had spat him out on the street but despite Maryam’s assurances that it was unlikely the place could be accessed without a key he was disinclined to pass through the middle of the room.
+
+It cost nothing to be careful.
+
+The doors were not locked, they soon found out. Tristan pressed the handles and the mechanism clicked. It was more methodical than that: they’d been welded. Frowning, the thief trailed a finger against the once-molten metal and found the texture as expected.
+
+“That explains our assassin’s confidence,” Angharad said.
+
+Tristan hummed.
+
+“Why?”
+
+“Why the welding?” she said. “Presumably to keep the doors shut.”
+
+“Yes, but why do they need to be shut so thoroughly?” he asked, moving to feel out the edges of the second door. “It is expensive, welding a door. Someone must have felt it a necessary expense, and that has me curious.”
+
+“Because it would mean coin,” Angharad slowly said, “and you said coin fled this neighborhood when the Reeking Rows were instituted.”
+
+“The Ancients didn’t build a tea parlor,” Tristan said. “Someone ran that business here, and odds are they went out of business when the Rows rolled in. Which means…”
+
+“Someone thought those doors worth welding shut after the parlor was abandoned,” Angharad finished.
+
+He nodded.
+
+“And that,” Tristan mused as he passed to the third door, “is interesting to me.”
+
+Like the others, it had the aftermath of the welding on the edges and – huh.
+
+“Bring the lantern closer,” he asked.
+
+Pressing his cheek against the door’s surface, he squinted at the edge. Angharad angled the lantern so it would not blind him and the thief idly reached for his knife. He pressed the tip against the edge of the welding and let out a quiet laugh.
+
+“Well now, would you look at that?”
+
+“I do not see anything out of the ordinary,” Angharad told him, sounding like she was frowning.
+
+“This one’s not welded,” he said. “Someone put up thin plates that look like they were melted on top of the door edges, but I can slide my knife in between the plate and the door.”
+
+He withdrew, sliding the knife back into its sheath. Kneeling, he drew his kit out his bag and unfolded the lockpicking kit across the floor. The door was a simple tumble lock, but after a minute of fiddling with it he realized it wasn’t really locked at all – it was barred on the other side, no amount of lockpicking would help.
+
+“Barred,” he told a patient Angharad, putting away his tools. “We will have to find another way in.”
+
+He slid back the last lockpick into the sheath, rolled his should and then his head whipped to the door. The sheer surprise of it being yanked open cost him a precious second – the mace almost took his head off, and even throwing himself back he took a glancing blow.
+
+A broad silhouette came bursting out of the door, kicking him back down as he reached for his pistol, but he had not come alone.
+
+Tristan didn’t see what happened, though a woman grunted in pain – not Angharad – and he rolled away pawing at his side for his gun. He got a glimpse of Angharad striking the side of the attacker’s knee with her cane before half-stepping out of a wild swing’s way. Aiming his pistol, Tristan cocked it and had his mouth opened for a threat when their attacker’s mace was thrown at him.
+
+He yelped, trying to duck away, but the length of wood hit him in the forehead and he dropped the pistol. Cursing, he scrabbled for it in time to hear the stranger fall with a hoarse shout of pain. Angharad, legs slightly trembling, was standing over her with her saber resting on the woman’s throat.
+
+“Move,” Angharad Tredegar mildly said, “and you die.”
+
+There was no doubt at all in Tristan’s mind that she would follow through with the threat, and by the way the stranger swallowed none in hers either. Snatching up his pistol with mild embarrassment, the thief rose – and picked up Angharad’s walking stick, fetching it for her so he might be said to have contributed to the situation in some manner.
+
+“What’s your name?” Tristan asked, rubbing his forehead.
+
+That better not bruise, Maryam would make sport of him again. The stranger spat, or at least tried to – as she leaned forward Angharad pushed the point into her throat ever so slightly, so she let out a panicked choking sound and drew back instead.
+
+“My tolerance for poor manners is remarkably thin,” Angharad informed her. “Beware.”
+
+The woman, who Tristan only now noticed might have been broad-shouldered but by her face must be barely seventeen – gods, just a girl – cleared her throat awkwardly.
+
+“Chara,” she said. “My name’s Chara.”
+
+Tristan nodded.
+
+“Stay put, Chara,” he said. “I need to make sure we are alone before the three of us have a polite conversation.”
+
+He inclined his head at Angharad in question, flicking his eyes at the saber, but she shook hers. She would be fine keeping her sword up for a while still, then.  He had time to check the back. Tristan checked the angles on either side before crossing the threshold, for though it would have been unusual for a second fighter not to get involved it was not impossible. Nothing, though, so in he went.
+
+What must have been the kitchen and backroom of the tea parlor was empty, save for a door that should lead back to the street and had also been welded shut. More interesting was the hole in the floor, where old masonry had been taken out and left in piles. A look in there revealed an unlit lantern sitting on steps that went down into the dark. He put a finger on the glass and found it cold.
+
+Not freshly snuffed, then.
+
+“All right, Chara,” he said. “What’s down there that was worth attacking us?”
+
+“I’m not telling you anything,” she grunted. “You’re the ones not supposed to be here.”
+
+Tristan smiled, reached inside his pocket and produced his silver brigade seal.
+
+“Do you know what that is?” he asked.
+
+She squinted at the seal.
+
+“Unluckies,” the girl said, then coughed. “Unlucky, I mean. Why would you put that number in silver?”
+
+“Because the Watch only cares so much for superstitions,” Tristan replied.
+
+Her face went white as chalk.
+
+“You’re rooks,” she said, biting her lip. “Shit. I didn’t know, you have to believe me.”
+
+“I do,” Tristan admitted. “But I still have questions to ask you.”
+
+“I’m,” Chara started, then hesitated. “You should talk to Delian, I can’t say anything. I’ll take you, if you let me.”
+
+Oh, the thief thought. So that’s what this is. A hidden stash, a street big street girl guarding it and now a boss she was afraid of?
+
+“You are from a basilea,” he stated. “Which one?”
+
+Chara looked unsure whether to be afraid or proud.
+
+“The Brass Chariot,” she finally said.
+
+“And if I were to venture down those stairs I would find…” he invited.
+
+“Property of our basilea,” she stiffly said.
+
+Gods, the irony. They had not stumbled into a conspiracy, it was the conspiracy that’d accidentally set up shop next to a coterie stash house.
+
+“Goods,” he mildly said, “or people?”
+
+She scoffed.
+
+“We don’t trade in flesh, we’re not southside rippers,” Chara said. “It’s bottles, you can go look. We’ve been emptying it out, it’s almost empty anyways.”
+
+Explaining why there was only a single guard, and so young.
+
+“We’ll have to, to establish you are telling the truth,” Tristan said, “but we have no interest in a smuggling operation. That is for the lictors to chase down.”
+
+He leaned forward.
+
+“But why have you been emptying the stash?” he asked. “What made the Brass Chariot start?”
+
+Chara looked uncomfortable.
+
+“I heard someone came sniffing around,” she said. “That keeping our property there was looking risky.”
+
+Tristan’s smiled grew, for those were the words he had been hoping for.
+
+“And that someone,” he said. “What do you know about her?”
+
+“I don’t know nothing,” Chara said, “but Delian might. There’s got to be something, if it’s just one person, we would usually cut her throat instead of moving on.”
+
+Tristan dragged himself up. A lead, then. The ‘Brass Chariot’ was not on Hage’s list of basileias that were open to working with the Watch, but neither was it on the list of those to avoid. There was potential there.
+
+“It sounds to me like we need to have a chat with Delian,” Tristan agreed. “Why don’t you go tell him that.”
+
+“You’ll release me?” Chara said, hopeful.
+
+He nodded.
+
+“Tell him to send a time and place to Black House,” Tristan said. “He’s to bring no more than two people with him and we will do the same.”
+
+She nodded eagerly. Tristan rolled his shoulder.
+
+“Go on, then,” he said. “And try not to attack anymore blackcloaks, they’re not all as nice as we are.”
+
+Angharad, face hard to read, put away her blade.
+
+“Of course not, sir,” Chara said, pushing herself to her feet. “I’ll, uh, take care of it right away.”
+
+First she made for the backdoor – his guess was that the room below had a passage to some other edifice – but he clicked his tongue and gestured at the trick window. Chara took a single look at Angharad and decided not argue, fleeing out of the parlor as if afraid they’d change their minds. She forgot her mace in her hurry.
+
+A beat passed, the two blackcloaks alone in the room.
+
+“Was that wise?” Angharad quietly asked.
+
+“We won’t be getting anything useful out of her, she’s too low a rung in the ladder,” Tristan grunted. “And I’d rather have two pairs of eyes when we go down there.”
+
+Tredegar hummed, eventually nodding. The thief judged their own lantern to be enough, moving aside the coterie’s as they went down the stairs. Not so long a flight, a mere ten steps, but the basement it led down to was startlingly large. Mostly empty, as the girl had said, leaving only half a dozen crates of what looked like rum behind.
+
+“What was this room for, do you think?” Angharad wondered. “It looks like nothing in particular.”
+
+It was a square of bare stone, interesting only in that the walls looked about the same height and length. As he’d expected there was a second set of stairs in the left wall, leading up to what must be another house on the block. But it was only when the lantern light reached the wall in the back he drew in a sharp breath. Angharad cleared her throat.
+
+“It only looks like stone to me,” she said. “Though of different kind than the other walls.”
+
+“I’ve seen stones likes those before,” Tristan said.
+
+His fingers clenched.
+
+“It was used for the paths in that strange empty layer Maryam and I crossed to exit the palace,” he said.
+
+Angharad’s brow rose.
+
+“That seems unlikely to be a coincidence.”
+
+“Agreed,” Tristan said, then worried his lip. “But there’s nothing the likes of you and I are going to be getting out of that wall.”
+
+They’d have to come back with a signifier. Breathing out, he unclenched his fingers. Tempting as it was to check where the other set of stairs led, bet not to risk it.
+
+“Come on,” he said. “Let’s get out of here before Chara’s friends come to pay this place a visit.”
+
+—
+
+The return to Black House was mercifully prompt: Angharad had stood through the short brawl well enough, but as the hour stretched her strength waned. It was frustrating, how even though her body was most of the way to recovery it seemed unaware of that fact – why else would it buck her at the slightest of exertions?
+
+They paid the coach and were welcomed in by the servants, who informed them that ‘Mistress Maryam’ had just had her evening meal and if they headed directly for the dining room they could catch her there. Angharad hesitated, balancing the prospect of a warm meal against the other woman’s company, but Tristan took the choice out of her hands.
+
+“Please tell the kitchen we will be along shortly,” he said.
+
+Angharad cocked an eyebrow at him and he shrugged.
+
+“You haven’t done the contract tests for the day anyway,” Tristan said. “There’ll be no avoiding her.”
+
+“I could do with a full belly,” she conceded.
+
+He abandoned her on the way there, passing by his room to ‘take care of something’ – likely putting away his impressive set of lockpicks, which Angharad suspected even owning was very illegal – which left Angharad to enter the small dining room alone. The general service was in the larger one, at a set time, but Maryam must have waited for them some time before giving up. She was sipping a cup of tea when Angharad arrived, and raised an eyebrow at the entrance.
+
+“Tristan should not be far behind,” Angharad said.
+
+The pale-skinned woman shrugged.
+
+“Sit,” she said. “How did the outing go?”
+
+Angharad had barely begun digging into the tale when the thief joined them, shortly preceding the warm meals brought by the servants – rice, beans and chicken. Starving, the Pereduri passed on the duty of spinning the yarn to Tristan while she dug in. As expected, when they reached the end of the informal report Maryam’s interest was stoked by the mention of the wall with the familiar stone.
+
+“I’ll go to have a look tomorrow, then,” she said.
+
+A beat. Tristan set down his fork, deliberately.
+
+“I’m not sure that would be wise,” he said.
+
+“Lieutenant Mitra gave me a clean bill of health,” Maryam mildly told him.
+
+Angharad decided to concentrate on her meal, strategically looking away and pretending she was not listening. She was not so much of a fool as to step in the middle of that.
+
+“Lieutenant Mitra didn’t watch you make a bird out of Gloam while liberally mixing Antigua and your native tongue,” Tristan flatly said. “I am no signifier, granted, but I’d put good money on that not being a Sign.”
+
+Angharad swallowed her mouthful of rice, eyes moving to Maryam who was scowling at the gray-eyed man mightily. The kind of scowl usually reserved for the Pereduri herself, which boded ill for Tristan.
+
+“I had training before joining the Watch,” Maryam replied, tone dismissive.
+
+Forcedly so, in the sense that the undertone was forced.
+
+“Training that I never once saw you use before that night, even when your life was on the line,” Tristan shot back. “I expect there’s a reason for that.”
+
+Angharad speared her green beans and chewed on them quietly as she kept count. The thief was ahead, she reckoned, at least for now. Maryam got vicious when she felt on the backfoot.
+
+“I do not owe you that answer, Tristan,” she coldly said.
+
+“No,” he easily agreed, “but neither do I have pretend I think it a sound notion for you to investigate the passage into a realm that induced a fit of mania in you barely two days ago.”
+
+“Lucky for us, then, that your approval has no bearing on whether or not I can do it,” Maryam replied. “You are not my commanding officer. Song-”
+
+“Will be making that decision,” Tristan agreed. “The letter I sent her will reach the palace by day’s end, I expect. We can wait for her answer before continuing this discussion if you’d prefer.”
+
+Ah, so that was what he had been doing before joining them. Maryam’s face clenched. Angharad winced as she wallowed the last of her beans. That is a face of wrath, Tristan, she thought. Tread lightly, or the turtle will snap off a finger. In truth given Maryam’s habitual hostility a hippo might be the apter emblem, but some lines should not be crossed between women.
+
+“You went behind my back,” Maryam slowly said. “To Song.”
+
+“Of course not,” Tristan said.
+
+A start of surprise on Maryam’s face, then he put on a remarkably insolent grin.
+
+“I also sent a letter to Captain Wen,” he said, “so it should be said I went behind your back to the both of them.”
+
+That was not treading lightly, Angharad noted. Maryam kicked up to her feet, knee hitting the tabletop and shaking the plates, and she raised her hand like she wanted to throttle him. Angharad could not blame her, even she somewhat felt the urge at the sight of that smirk. Only when Maryam’s fist clenched, trails of Gloam-black smoke wafted off her knuckles.
+
+The Izvorica did not notice until all mirth went out of Tristan’s face like a snuffed candle, the thief idly taking up his fork and pointing at the clenched fist.
+
+“There it is,” Tristan said. “You spent a day rolling around in sweat-soaked sheets like a poppy fiend kicking the habit, and ever since your temper has been… stormy, to say the least.”
+
+He had been putting on a show, Angharad realized, purely to draw out her ire. Between the skulking and the easy smiles, sometimes it was easy to forget that on the Dominion the thief had corralled together a crew of the written-off and led them to the second trial without a single death. That was not something that could be accomplished without a deft understanding of people and what moved them.
+
+There was a reason that among the Thirteenth she was wariest of the thief.
+
+Maryam loosened her grip, the black smoke guttering out instantly, and looked torn between anger and concern. Angharad sipped at her water, making sure not to make noise. If she did they might remember she was there.
+
+“That layer, it did something to you,” Tristan said. “I know it is a point of pride for you to overc-”
+
+“It’s not what you think,” Maryam interrupted, jaw yet clenched.
+
+He raised an eyebrow, inviting her to continue, which had the pale-skinned signifier even more irritated. Angharad smothered a smile. She had wanted him to insist he was right so she could jump down his throat for it. Yet being denied that small satisfaction was only keeping the anger smoldering, the noblewoman thought, he should have let her vent. Unless you think anger is the only way she will tell you anything, Angharad then thought.
+
+“It was not the layer,” Maryam bit out reluctantly. “The creature that goes around wearing my face? I encountered it inside and took back some of what it stole from me.”
+
+Tristan’s brow rose.
+
+“It had stolen your old training?”
+
+Maryam grimaced.
+
+“No,” she said. “Not exactly. My mother gifted me something, which I thought lost, but I think the shade might have swallowed it instead. I took back… a sliver, I think. A hundredth of a whole, or something along those lines. It may sound a small part, but digesting it had proven difficult.”
+
+Angharad eyed her warily. Is that gift colossal in scale or colossally dangerous, for such a small sliver to affect you so?
+
+“It’s affecting your mind,” Tristan said.
+
+“More like Gloam comes easier than I am used to,” Maryam admitted. “I never had to learn not to spill over like I just did, because pulling on it has never been that easy for me. I used to have to reach for it, now it’s always at my fingertips.”
+
+“And Mitra said that’s fine?” Tristan scorned.
+
+The anger that’d been ebbing low flared back up.
+
+“It’s not a curse, Tristan,” she snapped. “It’s my Measures being in alignment, what prodigies get to work with.”
+
+“But you are not used to that new balance,” he pushed.
+
+“It’s fading anyway,” she scoffed back. “Going back to the way it was before. Maybe a little better, but hardly a difference.”
+
+“Then we wait for that,” Tristan said. “That wall’s not going anywhere, and it’d probably be wiser to let the coterie clean out the last of their stash before returning anyway.”
+
+“Or we could have requested that Lieutenant Mitra go with us, to keep an eye on me,” she said through gritted teeth. “I could have learned from this, Tristan. Improved my craft. Instead you…”
+
+Maryam snarled in frustration. Angharad cocked her head to the side. The Fourth and their patron were still in Tratheke for a few days, but they would soon leave for western Asphodel – and with that departure Maryam would lose any opportunity of studying the layer with the help of a senior signifier. Only Song was surely due to return to the Black House soon, so Angharad was not convinced that the opportunity was truly gone.
+
+Delayed, more likely, but she understood Maryam’s frustration. Tristan had not even granted her the courtesy of a conversation before acting to block her off. Ah, but would she have listened if he had not? Evidently he did not believe so, for he looked unrepentant.
+
+“This conversation is over,” Maryam bit out as moved away from the table. “Lest I say something I will later regret.”
+
+It was a good thing she had eaten before they arrived, because on that she stalked off without another word. Angharad, who unlike Tristan had been eating all this time, polished off her last mouthful of rice and set down her utensils. The thief was rubbing the bridge of his nose, silently staring down at the table. She decided to count down to twenty before moving and remind him someone had been in the room the entire time.
+
+“That could have gone better,” he said, straightening up.
+
+And looking at her as he did. So he was aware of her presence. Good, that meant she was free to leave.
+
+“It could also have gone worse,” Angharad replied.
+
+“Always,” he said, then shook his head. “Sorry, by the way.”
+
+“I can survive some passing discomfort,” she assured him.
+
+“Not for that,” Tristan snorted. “You’re doing contract tests after this, no? She, uh, might not be in the greatest of moods for them.”
+
+Angharad stared down at him for a long moment.
+
+“You prick,” she finally said.
+
+“That’s fair,” he conceded, picking up his fork.
+
+—
+
+The hanging sword ended up carried off by the wind: despite half-built expectations to the contrary, Maryam was entirely even-tempered as they went through the tests. For that unspoken slight, reparation was owed.
+
+“I did you disservice in my mind,” Angharad told her. “I offer apology for it.”
+
+The blue-eyed woman studied her for a moment from across the table, then shook her head and sighed.
+
+“My father always said that you should sit on your anger for a moon’s turn before acting on it,” Maryam told her. “Mother called him an indecisive grudge-hen, but then she had a temper like a bear with a broken tooth so I expect the better way lies somewhere in between.”
+
+Angharad half-smiled.
+
+“I thought my mother plain-spoken, as a child, but I learned better,” she shared. “It was with her family she allowed herself that, and only us – else she would not have lasted at court. There are men there who will trap you in a maze of honor duels for a simple misplaced word.”
+
+She sensed a mistake in the way Maryam shifted in her seat, face hardening. It was the mention of court, Angharad thought. That Rhiannon Tredegar had once been high in the confidence of the High Queen that conquered the Izvorica’s home. But the sharp-tongued comment she was bracing for never came. Instead Maryam grit her teeth until she blew out a long breath, leaning back into her seat.
+
+“Even half a moon’s turn does seem a little too long,” Maryam finally said. “I suppose that makes me my mother’s daughter.”
+
+Angharad did not apologize, for what was there to apologize for save that she was who she was?
+
+“It’s not you I’m angry at, anyway,” Maryam continued. “It would not be fair for you to shovel Tristan’s shit.”
+
+“That is appreciated,” Angharad admitted.
+
+The Izvorica sighed.
+
+“I figure if there’s anyone in this house I should not be taking out feeling useless on, it’s you,” Maryam said. “Sometimes you look at that cane like you want to snap it.”
+
+Angharad’s fingers clenched. She had not noticed doing that. It did not mean she not imagined it, vividly.
+
+“Waiting to recover has been… taxing in unexpected ways,” she said.
+
+“I figure you have it worse of the two of us, in some ways,” Maryam said. “You’re used to being good at what you do. Me? I was expecting the other shoe to drop from the start.”
+
+“I would think that worse, if anything,” Angharad quietly replied. “Salvation being dangled ahead of you, then kept just out of your grasp.”
+
+Maryam’s jaw clenched so tight it looked like her teeth might snap off.
+
+“I have a way through,” she said. “Taking back my due, piece by piece. I just need a way to do it that won’t leave me a raving lunatic.”
+
+The pale-skinned woman tucked back an errant strand of hair.
+
+“But we’re not here for me tonight,” she said. “Try it again.”
+
+Angharad breathed out, then glimpsed ahead. Or tried. The sensation began, but then it came apart.
+
+“It failed,” Angharad frowned.
+
+Again. That made thrice in a row. Maryam hummed, tapping her steel-tip pen against the paper booklet she’d brought to take notes.
+
+“Maybe we need something less extreme,” she said. “Try to leverage me with a slap instead.”
+
+Angharad tried for the glimpse again, and this time it came easily.
+
+(She slapped Maryam across the face. What was your father’s name? Angharad asked. Tell me or I will slap you again. Maryam lifted her middle finger, and Angharad raised her hand to)
+
+She breathed out in relief.
+
+“That one worked,” she said.
+
+“Ah,” Maryam smiled. “So there we have it, our line in the sand.”
+
+Angharad slowly nodded.
+
+“My actions in the glimpse must be something I am genuinely willing to do,” she said. “Not a mere hypothetical.”
+
+Which was why she could not use a glimpse ahead to learn the name of Maryam’s father by shooting her in the belly and threatening to blow her brains out. She would never truly do it, and so the glimpse refused to follow down that thread.
+
+“Like most limits on your contracts, it appears to be determined by your own personality,” Maryam observed.
+
+“In other words,” Angharad darkly said, “I am the weakness in my bargain.”
+
+Someone able to convince themselves of anything, that they would be able to do anything, would have been able to use the Fisher’s boons in ways she could never dream of. Snatch secret out thin air, see sights unseen.
+
+“That is one way to see it,” Maryam replied. “Yet I expect it was no accident the contract was offered to someone like you.”
+
+Angharad turned a cocked eyebrow on the other woman, wondering what unflattering meaning was to be attached to the sentence. Maryam must have read it on her face, for she snorted.
+
+“Someone whose mind is firm,” she explained. “In the aether, you feel like a blade – sharp, solid. Like there’s not a lot of bend in you.”
+
+She decided, after a moment, to take that as a compliment. Though one that contradicted Maryam’s point.
+
+“That sounds like the sort of individual least fit for such a contract,” Angharad pointed out.
+
+She smiled mirthlessly.
+
+“I’ll use someone we both know to argue,” she said. “Tristan, given time and motive, can convince himself of near anything. He’ll find himself reasons, justifications for whatever he wants to do – and they’ll sound convincing, too. It’s a knack he has, hard to believe until you have seen him do it.”
+
+She paused.
+
+“Should he have your contract I expect he might have been able to glimpse for answers with a gun, were it was aimed at someone he disliked.”
+
+Maryam raised a finger.
+
+“But a contract pulls both ways, Angharad,” she said. “Someone with more bend to them, constantly glimpsing, they’ll lose grip on the boundaries – what’s true, what’s not. What can and should be done. How many times can you see yourself torture and butcher before the deeds cease to repel? Before the world around you feels like just another glimpse?”
+
+Angharad shivered.
+
+“No, Angharad Tredegar,” Maryam quietly said, “I would not call you unfit for such a contract at all. You may just be the only kind of person who can bear it without slowly coming to drown in those waters.”
+
+And Angharad would have liked to dismiss that, to look away and bury it, but she could not. Dared not.
+
+Because, in that dark and quiet place where he was imprisoned, she could hear the Fisher laugh.
+
+—
+
+It was infuriating that, the morning she was finally free of the rector’s palace, Song barely had time to pass through the Black House before she was on a coach again. She had not seen her friends in days, but there was no time for more than a quick chat while she dressed before she stepped onto the Watch’s own coach and disappeared back into the capital streets.
+
+She had been invited for tea, and could not afford to be late.
+
+If Zhan Guo had merely been appointed as a diplomat by one of the republics, Song might have been able to delay answering the invitation, or even decline it. To merely meet with the representative of a republic could be enough to make enemies in another, and Song had already had too many of those in Tianxia.
+
+Ambassador Zhan Guo was an appointment of the Ministry of Rites, however, so not only did she immediately accept she made sure to put on her best formal clothes.
+
+It was a common mistake for foreigners to think of the Ministry as priests administering the lottery and offering a neutral meeting place to resolve disputes between sister-republics. That was, in truth, only the very surface layer of the Ministry’s influence.
+
+The Heavenly Republics did not, in principle, necessarily share common diplomacy with foreign powers. Trade tariffs in Mazu and Wendi could be wildly different for the same trade goods, and it was hardly unheard of for a republic to sell arms and iron to Someshwari states fighting at sea with another of the Ten. Which was not even getting into how republics not infrequently warred on each other, though with mercenaries instead of militia.
+
+Yet Tianxia was still bound together, as they shared the Luminaries and the issue of being surrounded by larger, conquest-inclined neighbors.
+
+The seat of the Ministry of Rites, the holy temple that directed the Luminaries, was deep in the south of the Tianxi peninsula and so it had been spared the ravages of the Wars of Abolition – the Cathayan Wars, as some called them. Yet after the Kingdom of Cathay fell apart, long before either Izcalli or the Someshwar invaded, there had been vicious fighting over control of that holy place.
+
+Fear of damaging the temple itself had eventually led to the formation of the fledgling Ministry of Rites, a priesthood bound to the land that would oversee it in the name of all Tianxi. The early Ministry had been at the mercy of the states surrounding it, the distribution of the Luminaries subject to treaties between the small realms that emerged from the corpse of the Kingdom of Cathay, and would have remained that way if not for the Wars of Abolition.
+
+After the second such war, when over half of Tianxia fell under foreign occupation, the three southern republics now known as the Sanxing came together and undertook the generations-long toil of liberating the homeland. This great work won them the privilege of ganji, the ritual gift of a Luminary to any of the Sanxing who did not draw one, but it had also indirectly led to the rise of the Ministry of Rites.
+
+Ganji needed to be writ into law by all republics, and treaties of defense against invasion must bind together all the republics lest the Sanxing be forced to liberate Tianxia again in a few decades. Yet who was to enforce this, in a land of republics who bowed only to the dignity of their people? The Ministry of Rites was, as a consequence, empowered.
+
+It grew from simple temple custodians to an assembly that would stand witness at signing of certain treaties, the breaking of such treaties then earning the consequence of losing the light of the Luminaries.
+
+The years made the temple-town into a city as diplomats and bureaucrats from every republic crowded the surroundings of the shrine, first to barter with the priests and then for the realms of Tianxia to treat with each other. The Ministry was invested with the powers no republic trusted another to wield over itself, kept from abuse by the necessity of a vote of the Republics over every such granted power.
+
+What that meant, here and now, was that Zhan Guo was not some well-read merchant with connections: every single one of the Heavenly Republics had formally petitioned the Ministry of Rites to appoint him. While he would have to juggle the interests of all the republics, he also represented the full might of Tianxia – to kill him, for example, may very well result in war with all of the Ten Republics.
+
+So it was with some nervousness that Song took a coach to the address on the letter. Though she wished she could have brought Tristan with her for the second pair of eyes, one simply did not bring an uninvited guest to tea with a Ministry appointment.
+
+The coachman took her through to what turned out to be, for lack of better word, the Tianxi district of the city. A small cluster of streets and edifices where Asphodel brass lanterns were covered with colored paper, where shop signs were in characters as well as letters and the street food smelled like home instead of a garden’s worth of garlic.
+
+The destination itself was a gracious townhouse by the brass canal that delineated the north end of the neighborhood – filled with nenuphars and half-submerged lamps – where a pair of men in a formal blue hanfu stood by the door. Armed only with spears and pistols, as the right to bear muskets within Tratheke was restricted.
+
+The province of only nobles, lictors and watchmen.
+
+The Watch coachman nodded at her, pointing where he would settle to wait, and Song lightly made her way up the short flight of stairs. Her silver-embroidered chang-ao was not as hard to walk in as more ritual kinds of formal wear, but the wide sleeves made hurrying look unseemly. The guards saluted at her approach, the one to the left stepping aside to open the door.
+
+“Mistress Ren,” the other said in Cathayan. “You are expected, please enter.”
+
+Song calmly bowed back. She kept her face blank as she stepped past the threshold into a beautiful home – Asphodel stone and brass covered by lacquered wood, elegant furniture and panels displaying the light of the house in ways pleasing to the eye. Another man in a blue hanfu, this one unarmed, greeted her with a bow.
+
+“If mistress would allow me the pleasure to lead her upstairs?”
+
+She nodded her assent, following the quiet-footed man through the rooms. Her gaze lingered on the open prayer room, which bore two altars – one to the house god, a second to the Three-Handed Sage. The god said to have first created Cathayan characters was a fitting enough patron for an ambassador. Even the stairs had been covered with blue tiles, she realized as she followed the man up and through a small hall adorned with calligraphy before he stopped and bowed again.
+
+“Mistress may enter as she wishes,” the man politely said.
+
+Song did not let herself breathe in or hesitate. There was no place for weakness here. She stepped through the threshold, the door quietly slid behind her, and found herself in an elegant tearoom bordering the front of the townhouse – the lantern-light from outside mixed with the faint golden tinge of the Asphodel daytime. At the low table bearing the teapot sat a small man in a simple green robe, his black hair pulled back into a topknot.
+
+By the window lounged a woman in a blue hanfu like the others, unarmed – though only in appearance. In the golden letters above her head Song read her name was ‘Dongmei’ and that her contract was a fighting one. Some manner of shell?
+
+Now was not the time to get distracted, so Song bowed respectfully.
+
+“There is no need for that, Mistress Ren,” the man gently said.
+
+He was not fair of face, she thought, but he was neat. Shaved without a single hair missed, his eyebrows plucked and his simple robe slightly worn but without a single speck of dust. It was the robe that told her something was off – even a man fond of simplicity would not have worn this when meeting another in the role of ambassador.
+
+“You are not Zhan Guo,” she said.
+
+“I am not,” the man agreed. “I merely requested he facilitate this meeting. Please sit.”
+
+Song’s silver eyes flicked to the woman by the window, who gave her an insolent grin. Her teeth clenched, but she sat. The man bowed in thanks, then set the cups in place to serve them. He poured deftly, if a little cautiously. She simply stared at him, awaiting an explanation.
+
+She was owed it.
+
+“I apologize for the deception,” the man said. “Unfortunately, Zhan will not be present today. To have a formal meeting with a Ren would likely cause his appointment to be revoked.”
+
+Her jaw clenched. A snicker from the woman by the window.
+
+“Are you then part of his staff?” Song asked.
+
+“Ah,” the man smiled, setting down the pot of tea.
+
+He gestured towards the cup, invited her to try. She sipped, hiding her surprise at the taste of Jigong black leaf. Such tea was growing rarer by the year, and so ever more expensive.
+
+“Good tea,” she said.
+
+He inclined his head in thanks.
+
+“You may call me Hao Yu,” he pleasantly said. “I am a man born under Heaven.”
+
+Under the table her fingers clenched. Only one sort of man used that sentence in that precise way.
+
+“Yellow Earth,” Song said.
+
+“My calling is the liberation of all mankind,” Hao Yu easily agreed.
+
+“And your companion?” she asked.
+
+“Ai is a trusted colleague,” he said.
+
+One you gave me a fake name for, she thought. That was twice now they had deceived her. Song sipped at her tea again, mirrored by Hao Yu.
+
+“Does the Yellow Earth wish to express concerns to the Watch?” she blandly asked.
+
+‘Ai’ pushed off the wall, snorting.
+
+“Does putting on a black cloak make you that, Ren?” she asked. “You are student still. Do not oversell your importance.”
+
+Song sipped at her tea.
+
+“So unimportant am I,” she said after, “that you sent me an invitation to meet under false pretenses. An interesting stratagem.”
+
+She studied them both as she spoke, watching their faces. Was Ai to be the hard hand while Hao offered the soft words? Or was Ai simply harsh-tongued and not entirely under the man’s thumb? The contractor scowled at her words, but Hao Yu was as readable as morning mist.
+
+“It has come to our attention that your brigade was drawn into recent troubles,” Hao Yu said.
+
+She cocked her head to the side and said nothing, wanting him to keep talking. The more he did, the better the chances he would let something slip.
+
+“The Watch made you bodyguard to the local yiwu kingpin after you saved his hide,” Ai sneered. “So much for the rooks taking no part, yes?”
+
+On purpose, Song decided. They do it on purpose. But that last part, the one implying the Watch’s neutrality was a lie? It had Hao Yu’s jaw slacking the slightest bit. The way those muscles moved when you made them loosen so they would not clench instead. It is a ploy, but she pulls at the leash.
+
+Song drank her tea and waited in silence.
+
+“Your report,” Hao Yu finally said, “mentioned the assassin was of Cathayan race.”
+
+Song wondered if the Lord Rector knew that any report the Tianxi ambassador was read in on made it to the Yellow Earth. Likely he did. Evander Palliades had not struck her as a fool.
+
+“So it did,” she acknowledged.
+
+“Given our cause’s purpose, some might suppose our involvement in such an attempt,” Hao Yu said.
+
+His silence invited elaboration.
+
+“Some might say this,” she agreed.
+
+He was too good for her to catch him out twice as being frustrated, but ‘Ai’ was not so schooled. She marched back and forth across the room, sneering.
+
+“Lacking manners,” Song mildly observed.
+
+Ai turned to glare, opening her mouth, but Hao Yu curtly gestured. The leash pulled, the contractor reining it in at the last moment but looking like she wanted to spit on the ground.
+
+“The damage done to our reputation Asphodel has my comrade agitated,” Hao Yu said. “The truth is that, while we may not be friends to the Lord Rector, we had no involvement in this unfortunate affair.”
+
+Song cocked an eyebrow.
+
+“That is a relief.”
+
+Her tone must have been a tad dry, as the man sighed before taking a sip from his cup.
+
+“I do not ask you to trust my word,” Hao Yu said. “Merely to consider that Ambassador Guo is under strict instructions to secure access to the shipyards. Strict instructions.”
+
+“And he’s getting no such thing if the boy king’s dead and half of Asphodel fights a civil war over who gets to take his throne,” Ai said. “There will be a time for all the tyrants of the earth. When we want things out of this particular tyrant is not it.”
+
+Song sipped at her tea to hide her expression. She was, as it happened, inclined to believe them. While the Yellow Earth would back a coup to put the Trade Assembly in charge in a heartbeat should they believe it had good chances of succeeding – or even simply of crippling the Asphodel nobility – she saw no indication that the Trade Assembly was anywhere near ready for such a thing.
+
+At the moment it looked like Minister Apollonia Floros would be the leading figure in a succession, and that was hardly an improvement for Tianxia. Most of her supporters were economically in bed with the Malani, it was gifting the High Queen influence over this island’s affairs for no real gain.
+
+“I hear your words,” Song acknowledged.
+
+Hao Yu inclined his head.
+
+“That is all I ask,” he said. “And to celebrate our meeting, I would offer you a gift.”
+
+He glanced back at Ai, who padded up to the table as she reached behind her for something tucked into the cloth belt. A piece of paper, which the woman put down before Song with a disdainful smile. The silver-eyed woman did not move to take it, only turning an inquisitive look on Hao Yu.
+
+“It has come to our attention that the Watch is investigating the cult of the Golden Ram,” he said. “Such a collection of parasites is no friend of ours.”
+
+He sipped at his tea.
+
+“Thus we gift you the location of a trade warehouse recently bought by House Anaidon, a family that does not trade or deal in leasing properties.”
+
+Lord Hector Anaidon, Song recalled, was the man whose boon matched closest the description of what the cult of the Golden Ram was meant to provide. Not an idle trail, this. She inclined her head in thanks.
+
+“A thoughtful gift,” she said, taking the slip of paper. “I receive it gratefully.”
+
+But not so gratefully, Song thought as she smiled pleasantly at them, that it does not occur me to ask a simple question.
+
+If the Yellow Earth wanted her looking at that warehouse, what was it they didn’t want her looking at?
+
