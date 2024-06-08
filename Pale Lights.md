@@ -48941,3 +48941,533 @@ But not so gratefully, Song thought as she smiled pleasantly at them, that it do
 
 If the Yellow Earth wanted her looking at that warehouse, what was it they didn’t want her looking at?
 
+# Chapter 46
+
+Thunder, the pistol bucked and Tristan’s hand with it.
+
+Batting away the plume of smoke, he took a look at the target and groaned. Shoulder shot, again. That made the third in a row, and at this point they’d have to ask one of the staff to bring back more straw to stuff that poor scarecrow with.
+
+“You have the stance and the breathing down,” Song said. “Only in a learned way, not yet drilled, but that will come with repetition.”
+
+Black House, being the polite version of the Rectorate allowing the Watch to build a fort inside their own capital, naturally had a shooting range within its bounds. The reason that the pair of them were down here at six in the morning to use it, though, was that the student brigades were no longer the only ones lining up to use it.
+
+The diplomatic delegation from the Rookery had arrived with an armed escort, who were quite high-handed in making use of the facilities. The Fourth Brigade had been evicted by them when using the range yesterday, which was why Tristan was here at six failing to improve his accuracy: at this hour every morning the retinue were running formation drills in the largest courtyard.
+
+The thief wiped his slightly smoke-tarnished hand on the side of his uniform, for which he got glared at even though the damn thing was already black so it wouldn’t even show!
+
+“If that’s true, then why does Strawcifer’s torso still remain stubbornly un-shot?” he challenged.
+
+Song had first stood with him to check his stance, but since retreated to a bench by the side of the range where she was slowly drinking her way through a pot of one of those Tianxi teas that only she liked. In the Thirteenth, anyway. How she had yet to so much as spill a drop when the shots sometimes rattled the porcelain was impressive, he’d admit.
+
+“First off, I have not and will not agree to naming the target,” Song said.
+
+“It does not matter,” Fortuna said, sprawled besides her on the bench. “We voted, majority carries.”
+
+She had been poured a cup even though she could not drink it and Tristan had no intention of doing so, showing that Song Ren was a quick learner in matters of divine appeasement. The Tianxi’s silver eyes narrowed as she read the lips, mouthing along. Tristan had decisively not offered to voice Fortuna’s words, knowing that once that road to Hell was paved there would be no walking it back.
+
+“The Watch is not a democracy,” Song said. “Superior rank carries. Which is why Straw- which is why the target will go unnamed.”
+
+“If you say so, darling,” Fortuna condescendingly said, throwing back her golden curls.
+
+The condescension would perhaps have stung more if she did not then immediately put her hand through the teacup trying to drink it, having for the third time forgotten it was not of her own making.
+
+“And second,” Song said, wisely hiding her amusement at the sight, “your problem is neither of those. It is that you flinch every time the powder blows.”
+
+Tristan grimaced, because that had the ring of truth.
+
+“I have a hard time trusting guns,” he admitted. “There is a reason Abuela did not much train me on them.”
+
+Reasons, really. While it was fine for her to teach him how to load and fire a pistol, it would have been another for a thief like him to own one – more attention that someone intending to last in that profession ought to court. Song sipped at her cup, set it down. Her stare was considering.
+
+“Your contract.”
+
+He hesitated, nodded. His misfortune liked a loaded gun, loved it really. It was the kind of blowback that was easily tailored to how strong he’d pulled on the luck while being difficult for him to avoid. Which the bad luck preferred when it could easily arrange it.
+
+“Powder in general is something I learned to be wary of,” Tristan said.
+
+“That is not without sense,” she assured him. “But consider that you currently carry a pistol while being a middling shot. The risk is already taken, but by improving your aim you make taking it worth more.”
+
+“You don’t need to sell me on the practice,” he said, somewhat amused. “I’m here, aren’t I?”
+
+She nodded.
+
+“Would that the others were as well,” Song said, “but I suppose having a designated time for the contract experimentation is for the best.”
+
+He hid his amusement this time. He was fairly certain the only reason Angharad had suggested the arrangement in the first place was to avoid spending the better part of an hour on the range taking instructions from Song.
+
+“Repetition is how the flinch will go,” she continued. “My eldest brother had the same issue and that was what the drillmaster prescribed to rid him of it.”
+
+“Is he a fine shot as well, then?” Tristan asked.
+
+Song’s face went very calm and very remote. She sipped at her tea, the winter mask only thawing a touch from that heat.
+
+“I am afraid not,” she said. “He threatened to shoot himself if ever handed a pistol again, so our parents desisted.”
+
+Manes, Tristan thought. How was it that Song’s living family somehow ended up being just as tragic as the rest of the Thirteenth’s buried ones?
+
+“Well,” he said with forced cheer, “both of mine are dead so I sounds like I won’t be able to wiggle my way out. Way to dangle that false hope, Song. Think of the orphans next time, why don’t you?”
+
+Fortuna turned an incredulous look on him, the silver-eyed girl next to her staring him down stone-faced. Then the mountain cracked, and she let out the most disbelieving bout of laughter he had ever heard. It was a solid eight seconds before she got that under control.
+
+“Gods,” Song said, “did you really just say that?”
+
+He shrugged.
+
+“We can blame it on the wind if you want,” he said. “And I’m switching to musket for the next few shots, I’m more comfortable when the end of the barrel is further off from my head.”
+
+She snorted, got to her feet.
+
+“Then I am going to demonstrate the stance again,” Song said. “Else you’ll bruise your armpit, and Maryam will start making peach puns at breakfast again – we are weeks past any of the good ones.”
+
+“There were never any good ones,” Tristan somberly replied. “Deep down, you know this to be true.”
+
+Song thinned her lips in that way she only ever did when forcing herself not to smile, and the thief hid his own grin. There were worst morning routines to have, he’d admit.
+
+—
+
+It was harder to remain angry at Tristan now that the reason she was had been made obsolete, but through the powers of perseverance and believing in herself Maryam managed. He’d apologized, of course, but not mean a single word. No, he had to be made to feel a sting else he’d not even hesitate before doing it again. She’d forgive him, because she had been pushing further than was safe out of pride, but she could not let him get into the habit of making decisions for her.
+
+Lieutenant Mitra had proved quite amenable to her request – made in the presence of Captain Wen, to make it official business – and almost too enthused at the notion of heading into a dangerous part of Tratheke to study a potentially even more dangerous whirlpool in the aether. Maryam had even resigned herself at the thought that Alejandra Torrero would likely be dragged along so she might learn from the experience as well.
+
+Some favoritism was only to be expected and Lieutenant Mitra was the Fourth’s patron. Now, standing with the gathered expedition crew, Maryam could only yearn for the glowing days when she’d thought only one of the Fourth would be coming along.
+
+“Bait,” Captain Tupoc Xical said. “How go the supplies?”
+
+“They wouldn’t let me take the good wine,” the aforementioned Bait replied, “but I got a whole roast. With the mustard sauce.”
+
+Murmurs of approval from the rest of the Fourth, who had taken to the sweet mustard sauce that the Black House cooks considered their specialty and slathered liberally on most meats. It was not Asphodelian in the slightest, but Maryam would take all the breaks from garlic that she was offered. Bait, whose true name was Adarsh Hebbar, straightened a little at the approval of the rest of his brigade. He then ruined that burst of confidence by nervously fiddling with his glasses.
+
+Expendable, the Malani boy with the grand hat and a presence in the aether that felt like a wild animal howling and scratching at bars, cleared his throat. He had wolf’s eyes, this one, and rarely spoke unless directly addressed.
+
+“Did you ask for…”
+
+“Your cuts were set aside,” Bait volunteered. “Barely cooked.”
+
+The Malani contractor nodded thanks while the least of the brawl-enforced naming scheme, Acceptable Losses – a slender Tianxi whose burn scars covered half her face and had turned her left eye milky white – checked her pack again. Where Bait had been charged with procuring the food for a picnic, packs that would be split between himself and Alejandra Torrero, Acceptable Losses appeared to be carrying a haversack stuffed full of explosives.
+
+Hiding her dismay, Maryam turned her gaze on her sole ally present: Wen Duan, who busied himself nibbling at a peach. He paused in that crime on the senses to shrug.
+
+“If Mitra thinks the place is too dangerous, we’ll collapse the teahouse and burn everything out,” Captain Wen said.
+
+Maryam grunted. That was, in truth, a sensible decision. Almost made up for her dangerous investigation of an eldritch gate into a cursed half-layer realm being turned by Tupoc into a glorified picnic. The most horrifying part of that, admittedly, might just be how easily the Fourth had been solid on having a meal over a potential layer entrance.
+
+They took two carriages out, but there were too many people for Maryam to be able to swing sharing hers with only her patron. She inherited Bait and Losses, somewhat offended when she realized that sharing a coach with her had been turned by Tupoc into a punishment. Well, she comforted herself, mostly likely it was Wen that they counted a lash. His Saga lesson still had the students from the other brigades wincing every time he reached for an orange.
+
+Fortunately for everyone else, Wen cracked open a book about… Sarayan pottery patterns, really? Anyway, he buried himself in his book and pretended they did not exist, which left an awkward silence to linger as the coach rolled smoothly through the streets of Tratheke. When it got too much, Maryam cleared her throat and tossed out as inoffensive a conversation starter as she could muster.
+
+“How are the Umuthi classes?” she asked Acceptable Losses. “I hear Commander Tredegar’s supposed to be quite gifted.”
+
+Losses glanced at her. She could see through the burned eye, Maryam thought. Likely not well, but under the pale film she could make out the iris moving when her gaze did.  
+
+“He’s Clockwork Cathedral, which is good for me but not Coyac,” she replied. “He’s Deuteronomicon track.”
+
+The Clockwork Cathedral, Maryam recalled, was the name for the part of the Umuthi Society that built pure machinery. The Deuteronomicon, in contrast, concerned itself mainly with aether machines. Though the first stretch of education for both tracks was much the same, later on it diverged rather radically. Aether engines could work on principles that contradicted physical laws, after all.
+
+“Any good as a teacher?”
+
+“Fishing for the other Tredegar?” Acceptable Losses sneered.
+
+Maryam met her eyes and let that silence stretch out uncomfortably. The Tianxi coughed into her fist.
+
+“He’s fine,” she mumbled.
+
+The Izvorica’s gaze moved to Bait, who flinched. If his neck could bur itself into his body, she suspected there would be no trace left of his head.
+
+“Please do not curse me,” Adarsh Hebbar politely requested. “…ma’am.”
+
+Maryam approved of the ma’am – all folk should address her thus, really – but cocked an eyebrow at the request.
+
+“Why would I curse you?”
+
+“Your entire brigade is bad luck,” Acceptable Losses informed her happily. “The Ren needs no explanation, but Tupoc says that Abrascal is some kind of contracted corpse and everyone knows Tredegar was possessed. Not only do you look like a hollow-”
+
+“Tread carefully, now,” Maryam warned.
+
+“-but Alejandra says she’s pretty sure you’ve been eating Gloam creatures,” Losses finished with a smug smile.
+
+A page turned in the corner, louder than usual, drew their attention.
+
+“That’s untrue,” Wen said without ever raising his eyes.
+
+A beat passed.
+
+“Chronologically speaking, it’s more likely that hollows are the ones looking like the Izvoric,” he noted.
+
+Ah, she should have known better than to think Wen Duan would help by now. Sighing, Maryam wrote off the ride as a lost cause and let the silence reign. However stilted, it was still better than talking to these people.
+
+—
+
+To her mild surprise, Maryam did not recognize the surroundings of the teahouse.
+
+Part of it must be that it was now the Asphodel daytime, which meant half the brass lanterns went out, but it now occurred to her that she might not have been entirely out of the fugue state when Tristan helped her through these parts. The streets were not as she remembered them, too short and not as narrow, and though they were objectively better lit than they must have been that night they still seemed darker to her eye.
+
+To begin seeing through the dark was one of the signs of Gloam intoxication: it was a lesser form of how darklings saw the world.
+
+Swallowing a grimace, the pale-skinned woman silently revised how quickly she must forgive Tristan. He’d had better cause to worry than she grasped, however unacceptable his method of acting on it. Her nav tasted at the aether around them and found it full of small eddies: shallow but continuing ripples, as if some underground source was feeding into a small river. Much calmer than she remembered this place to be from her last visit.
+
+“Found the entrance,” Tupoc called out.
+
+Their entire party had come wearing the black, this time, so what few people had been out in the streets before those horrid Reeking Rows ducked out at the sight them. Blackcloaks were respected, but seen as bad omens more often than not – rare was the sight of a rook in a place where no trouble lurked. The Fourth passed through the trick window one after another, Mitra then following, but Wen took one look at the sawed-through planks and grimaced.
+
+“Go ahead,” he said. “This might take me a bit.”
+
+Maryam did him the courtesy of passing through quickly and not looking back. Wen was surprisingly agile, for a man of his size, but no amount of agility would broaden that windowsill. The Fourth had spread out across the room, avoiding the center. Even with her nav retracted, Maryam could feel the wisdom in that. There was… something in the air.
+
+“No fresh tracks since Abrascal’s report,” Tupoc said. “We are the first visitors since.”
+
+“On this side, at least,” Maryam said. “There’s the back.”
+
+The door to which still hung open. Lieutenant Mitra, looking unusually serious as his eyes remained peeled on the center of the hall, let out a grunt.
+
+“Tupoc, check if the back is clear,” he ordered. “Khaimov, Torrero, with me. Stand close.”
+
+Maryam obeyed, coming elbow-to-elbow with an interested-looking Alejandra. Mitra’s hand snapped out and he traced Gloam like a charlatan would throw powders into flame, all broad strokes and verve. It was not at all how she’d been taught to trace, and the furrows of Gloam he left behind in the air felt… deeper, and somehow more nuanced? His eyes were bright when he finished and Maryam’s eyes was drawn to her feet. Around the three of them was a perfect ring of oily darkness, hovering half an inch above the floor and centered perfectly around the lieutenant.
+
+“Do not extend your logos beyond the ring,” Lieutenant Mitra ordered. “Forward, now.”
+
+They followed him, shuffling awkwardly, until he came to a half maybe a dozen feet away from the exact center of the room.
+
+“Here,” Lieutenant Mitra said. “The best vantage we will get it.”
+
+Maryam could only agree. To her nav, it felt as close to the source of the eddies in the aether as they could get without being in the eddy. She breathed out and focused her will, feeling out the waves as they passed – and brushing past Torrero’s own nav as she did the same. They came almost every minute, steady and very nearly regular.
+
+“They are getting weaker,” Alejandra muttered. “And maybe slower? By very small fractions, though.”
+
+Maryam grunted in assent.
+
+“There is no impulse behind it I can find,” she added. “It feels like an echo.”
+
+“Because it is,” Lieutenant Mitra said. “Someone did very slapdash work cutting their way out a layer adjacent to the material and it was the metaphysical equivalent of tossing a boulder in a pond. The marks of that impact are fading, and if we return in a few days there will be no trace left at all.”
+
+“I was in a manic state that night,” Maryam acknowledged, “but from what I recall the local aether did feel a lot messier.”
+
+The trouble had not been that her mind was gone but that suddenly there had been too much in it. When she ripped a kernel out of the shade and consumed it, she had taken back parts of her old memories but also of the Cauldron – the ancient working woven from all the secrets of the Craft, which she’d thought lost but had in truth been stolen.
+
+And a kernel of something so massive had been as a year of learning, most of it incomplete and incoherent but the parts that were not searingly vivid. Almost truer than her own memories, before she came back to herself. The ritual of inheritance, it had precautions to ward the mind of they who were to become the Keeper of Hooks. Devouring pieces of the shade had no such wardings.
+
+And there was more, too. Yue had not been wrong, to say that taking from the shade would expand… Maryam’s perspective. Not only were her Grasp and Command in perfect alignment, however fading the phenomenon, the signifier had found that tracing felt different now. That she knew, instinctively, how to curve and tuck strokes so that the Gloam would not struggle as strongly against the Sign.
+
+And that was not something that could be taught.
+
+“- this place?”
+
+Maryam snapped back to attention in time to tune in on Lieutenant Mitra’s answer to the question she had missed.
+
+“The fabric of the aether should be nothing too unusual when the eddies smooth out,” the Someshwari said. “We are, in the end, nothing more than endless reiterations struggling for a different ending, inherently doomed to failure.”
+
+He paused.
+
+“Though I expect that if our assassin knew they would emerge here, as is suggested by their visiting the place in advance, there must be some connection to their means of crossing,” he added. “Let us have a look at that wall, yes?”
+
+Behind them was a grunt, a curse, and then a loud thump. They all pretended not to hear Wen Duan dragging himself back up to his feet.
+
+—
+
+There was no trace of whatever the criminals had once kept here, save for one bottle of transparent liquor left in the middle of the too-large basement. Tupoc ripped out the cork, took a sniff and then had a swallow.
+
+“Strong stuff,” the Izcalli said. “Tastes a little like pine.”
+
+A moment passed as he stared down at the bottle.
+
+“And it’s not poisoned, either, fancy that,” Tupoc happily announced. “It seems like we’ll have drinks with lunch after all.”
+
+“Give me that, Xical, it’s contraband,” Wen said. “Very illegal stuff it is, can’t trust students with it.”
+
+The pale-eyed Izcalli turned a cocked eyebrow on his own patron. Wen mouthed ‘half and half’ at him.
+
+“It could be drugged,” Lieutenant Mitra smoothly agreed. “Captain Wen and I must investigate.”
+
+He cleared his throat.
+
+“Abrascal never found out what lies on the other side of those stairs,” he added, pointing at the set they’d not entered the bare room through. “Go do so, and take Yan and Velaphi with you.”
+
+“As you say, sir,” Tupoc drily replied. “Bait, go back in the room where Abrascal almost got killed and ready the food. It seems like a good place to have our meal at.”
+
+Maryam casually flipped him the finger, which only had him grinning as he sauntered off. That left behind the three signifiers and Wen, whose sole contribution was to go through the bags Bait was bringing up one at a time to fish out a pair of tin goblets. Best get this done before the patrons started drinking, Maryam thought as she picked up one of the lanterns on the ground and headed for the wall at the back.
+
+It was as Tristan said: the stone there was the same as the roads in the empty layer.
+
+Alejandra caught up, but driven by the same distinct as Maryam she took not a step past the lantern. Lieutenant Mitra, however, brushed past the both of them with his robes aflutter. He hummed as he paced back and forth, slashing a few lines of Gloam through the air in the form of a fast-fading Sign before laying his palm against the stone. It stayed there, Mitra closing his eyes, and she risked tasting the aether around him with her nav.
+
+It felt, she thought, like a man rapping his knuckles against a jar. He was pulsing Gloam while pricking his metaphysical ear for an echo. What he heard, though, she knew not.
+
+“That,” Lieutenant Mitra finally said as he withdrew his palm, “is brackstone. And of rather high quality, too: my Reverb Sign couldn’t even pass all the way through.”
+
+“Brack-stone,” Maryam tried out. “As in ‘bracken stone’?”
+
+“Technically they are a manner of brick, not natural stone,” Mitra mused, “but yes, you are correct. It is used for containment and protection because it bears salt inside. Much stronger against aether than Gloam, but still difficult for a signifier to pass through.”
+
+“I’d never heard of brackstone either,” Alejandra admitted, scowling.
+
+“It fell out of use over a century and a half ago,” Captain Wen said, and Maryam almost jumped out of her skin.
+
+She’d not heard him cross the room, and now he was barely three feet away from here.
+
+“The Malani discovered that adding salt and wood ash into simple bricks has about the same effect at a tenth of the cost,” Wen said. “The Imperial Someshwar stole the recipe off them and it’s spread most everywhere since.”
+
+“The older parts of the Rookery have entire towers made of brackstone,” Lieutenant Mitra told them. “Though hardly of such quality as this wall.”
+
+“To build roads of such a stone inside a layer seems… odd,” Alejandra said.
+
+“Unless you want every way out to be hostile to whatever lies inside,” Maryam said. “That sphere at the center of the layer that I found, I must now wonder – was it sand that I was walking on, or very fine salt?”
+
+“Your report mentioned a bronze harpoon within,” Lieutenant Mitra said.
+
+“Tall as a ship’s mast, and about as broad,” she agreed. “Plunged deep in the sand.”
+
+A detail that grew more ominous now that it occurred to her the very ‘sand’ might be a prison.
+
+“That is your key, I wager,” Mitra said. “Our assassin was able to enter the paths using an object that has a connection to the harpoon. The exact mechanics yet escape me – it cannot be a simple compass, else it would not have allowed them to leave the layers and certainly not know where they would cross back into the material – but that harpoon is the only feasible metaphysical anchor.”
+
+He chewed his lip, thoughtful.
+
+“Even if one follows the logic that the stone here is connected to the paths, it should have been difficult for the assassin to predict where she would emerge,” Mitra said. “I expect our wall here, the structure is it part of, will not be the only one hidden under the foundation of Tratheke. So why this place and not another?”
+
+Maryam cleared her throat.
+
+“And when Tristan and I emerged out in the street…”
+
+“You followed through an already open path, the easiest way out, but without whatever tool allows the assassin precision,” Lieutenant Mitra absent-mindedly said. “Hence ending up in the street.”
+
+She took a second to parse that out.
+
+“It sounds to me,” she ventured, “like the paths can be entered from anywhere but one emerges only at places connected to the layer.”
+
+“A reasonable hypothesis,” Mitra agreed.
+
+“So it likely can’t be used to enter the rector’s palace, only leave it,” she continued.
+
+He glanced at her.
+
+“Unless there is structure connected to the paths in the palace,” Lieutenant Mitra said, “but again that is a reasonable assertion.”
+
+“That’ll be a relief to the lictors, I imagine,” Wen drily said.
+
+“I wonder what the structure is,” Alejandra muttered. “If those digging the basement found the wall by accident or this room is as old as the rest.”
+
+“Too much guesswork is building with sand,” Mitra said. “Though of course our lives are all painted in the bleak, indifferent colors of fated impermanence.”
+
+“Best not to fiddle with that wall,” Wen said. “We’ll bring Song into this, Maryam, but it seems to me our wisest way forward is to make inquiries with the Lord Rector. Even if House Palliades does not know what this is about, there is bound to be something in their private archives.”
+
+“Sending word to Stheno’s Peak would be equally wise,” Lieutenant Mitra noted. “We will have our own records.”
+
+Not a dead end, Maryam decided, but a hint. Something was buried beneath Tratheke, and some fool had decided to meddle with it. They left the wall to its dark and silence, waiting until Tupoc and his minions returned to news of the other stairs leading to a cramped tunnel eventually ending in a house further down the street. By the looks of it there had been a dormitory of sorts for guards there, and a discreet back door through which to bring crates.
+
+They ate their meal upstairs before leaving, and alas for the students none of the bottle survived the thorough inspection it was given by their patrons.
+
+—
+
+It was dark out, and though Song would have had no trouble navigating the night Tristan’s presence had warranted bringing a lantern – shuttered until only a thin slice of light went through. At the thief’s request they had kept off the well-lit avenues of Asphodel, moving through side streets instead. It slowed them down, but not as much as she would have thought.
+
+Be they great or small, all the streets of Tratheke were paved with the same smooth, perfectly fitting stones.
+
+They were, according to the city map they had borrowed from Black House, not far from their destination. Out in the northwest of the city, past the houses and shops crowding the inner ward and the Collegium, then past the two of the less impressive neighborhoods centered around the large avenue cutting straight through the northwestern quarter of the city.
+
+Tratheke was built as if a god had used a ruler when setting down the stone and brass, which Song found extremely appealing to the eye, but this far out the original grid only meant so much. Filth and dirt had crawled in, tainting perfect facades and caking the bottom of brass lanterns.
+
+“This does not seem like a wise part of the city to have warehouses in,” Song muttered. “The people of the district mere minutes away do not look wealthy.”
+
+Was it not unnecessarily reckless to store trade goods near those who would be tempted to steal them?
+
+“A coterie runs the place,” Tristan replied. “Basilea, as they call them here. It’s what those grey wings they put in the corner of glass windows mean, that dues have been paid to the Pegasoi.”
+
+“And the owners of the warehouses pay the Pegasoi to keep thieves out,” Song slowly said, “because warehouses here are inexpensive enough compared to the prices in southern Tratheke that bribing the thugs is still cheaper than buying there.”
+
+“Guesswork, but that is also my bet,” the thief said. “Everyone’s going to want the warehouses closest to the causeway leading to the Lordsport, it’s the same as the land around the harbors in Sacromonte.”
+
+It was the same in every port, she thought. Mazu, which she was most familiar with, was no exception. It was not without reason that much of that city’s waterside was owned by the city itself and rented to merchants instead of sold. Song’s father had once told her that foreigners wanting to lease it must pay five times the rates as locals and that the city made almost as much from Malani trade companies as the rest of the rents put together.
+
+Yet where Mazu was thriving, sure to be the richest of the republics outside the Sanxing if not for the border with Izcalli and the ring of manned forts that forced it to maintain, the northwest districts looked desolate. The only ones profiting from this arrangement were the thugs and the yiwu, as tended to be the way under the rule of kings.
+
+“Here,” Tristan whispered, jolting her out of her thoughts. “That’s the one, just past that intersection.”
+
+Mildly irritated – and impressed – that the half of this pair that could not see through the gloom was the better navigator out in these streets, Song followed his jutting thumb. Keeping an eye out for anyone who might be lurking, they walked the rest of the distance with their hands on their blades.
+
+The warehouse was, unsurprisingly, not one of the nicer ones in this derelict place. A low-ceilinged rectangle of a place maybe six hundred feet long, its brass-boned roof had caved in at several spots and only been shoddily patched. There were multiple padlocks on the front gates, but only a lock on the side door. And unlike the warehouses they’d passed by earlier, closer to the Pegasoi stomping grounds, there were no hired guards keeping an eye out.
+
+“Side door?” she quietly asked.
+
+“I can pick it,” Tristan agreed. “But I saw a gap under the front gates. Check if there’s anyone inside, would you?”
+
+Clever, she thought. Someone else would see only darkness if no lights were lit, but that was no trouble to her own eyes. She lowered herself to the ground as he kept watch, peeking through the thin slice of room under the door. An open floor, skeletal frames of metal and not a soul in sight.
+
+“Clear,” she whispered.
+
+He made quick work of the lock when they doubled back, and almost silently to boot.
+
+“Tell me that isn’t Tianxi,” she murmured.
+
+He grinned, which was answer enough.
+
+“It’s a Bohe,” he said. “The cheapest stuff your workshops put out, it’s actually worse than sixty-years old locks. You can get one for the price of a bushel of oranges, though.”
+
+That House Anaidon had put the literal cheapest lock on the market on the door of their suspect warehouse was somewhat amusing, she’d admit, even more so when it occurred to her that them buying a Tianxi lock might just well have been what drew the Yellow Earth’s eye here in the first place.
+
+Cutting corners always came at a cost.
+
+Moments later they were in, her with her jian out and Tristan with his blackjack. They entered what appeared to be some kind of office, by the amount of desks, but there was nothing to go through here: the tabletops were bare, the drawers outright gone and the only chair left only had three legs. The place had been stripped bare, only furniture too large to fit through the door and too shoddy to be worth pulling apart left behind.
+
+The door on the other side of the room led to the warehouse floor, which another sweep confirmed to be empty save for those strange skeletal frames. Tristan opened the lantern fully, bringing it up, and by unspoken accord they split up to inspect the warehouse. Her gaze lingered on the frames, which were not of the brassy alloy everywhere in Tratheke but rather rusted-through iron.
+
+She thought they looked like half a set of ribs, at least until she realized they’d been laud to rest the wrong way. There were pegs higher up the walls where the frames must have once been hung, looking like dull hooks curving upwards. To support something, perhaps? She knew that Asphodel exported cedar wood, prized in shipbuilding everywhere as cedar did not rot.
+
+Perhaps trees had been laid to rest on the hooks, though for what reason she could only guess.
+
+“Mhmmm.”
+
+Her gaze went to Tristan, who was kneeling next to… rags? She headed his way, and her eyes narrowed as she got closer. Those were not rags but blankets. So ragged they might as well, and tossed away in piles, but blankets nonetheless. By the size of the piles, at least a hundred of them.
+
+“Scorched stone over there,” Tristan said, jutting a thumb to his left. “Cooking stove, I’m guessing. I’m sure we’ll find more trace if we keep looking.”
+
+There were. A corner in the back was clearly full of dry piss, by the smell, and not far off were traces of shit at the bottom of a wall. Someone had missed the chamber pot, though of those there was no trace. Meanwhile Tristan found trace of another stove and half-erased chalk in the form of a grid with symbols on it.
+
+“A ritual grid?” she wondered. “Some sort of cypher?”
+
+“It’s a tomb and stars grid,” Tristan told her.
+
+That sounded ominous, though for some reason he seemed amused. Was it-
+
+“The most popular dice game in the western isles,” he said.
+
+Song cleared her throat.
+
+“Is it now?”
+
+“I mean, they changed some of the symbols,” he said, “but that’s probably just the version local to Asphodel. All the biggest cities tend to use their own symbols for the stars, and for some godforsaken reason Old Saraya uses a different one for the tombs.”
+
+He shrugged.
+
+“I’ve taken a good enough look to draw them again, so I’ll confirm the symbols with the servants when we come back.”
+
+She nodded, frowning. Not at her mistake, though that was also decent reason.
+
+“Threadbare blankets, a stove and dice games,” Song said. “This does not seem like the lair of a revel cult.”
+
+“It sounds like someone stashed soldiers here,” Tristan flatly said.
+
+She raised an eyebrow at him and he shrugged.
+
+“Looked, I saw your face when you saw shit on the wall but think about it,” he said. “As many men as there were blankets, here for who knows how long, and only one mess? There was a concerted effort to keep traces of presence light, and discipline in sticking to it. It’s not a few vagrants off the streets that tripped the lock and stayed a few days.”
+
+“You might have a point,” Song admitted.
+
+And if someone had kept soldiers here, it stood to reason arms had been kept as well. She swept through the warehouse floor again, this time not looking for marks of life so much as – ah, and there we were. The men that’d stayed here had not wiped the floor free of dust before putting down their blankets, so the parts where they’d stayed had even streaks and clumps of gathered dust. There was one section of the floor, though, that was universally clean.
+
+Tristan caught up with her.
+
+“Too clean?”
+
+“Too clean,” she agreed.
+
+“I’m not seeing seams for a false floor,” the thief said. “Mind you, I wouldn’t if it’s well done. A powder trick would-”
+
+Song crouched, breathing in and focusing. Seeing the truth, and the truth was a hairline fracture in the floor. She followed the contour, the straight lines and corners, until she found one the corner that was chopped. Uneven.  She made her way there, fingers pressing down, and found the catch. She rotated a spot in the stone, something clicking beneath the surface and then she carefully lifted a square of stone only large as her fist and thick as a finger.
+
+Tristan let out a whistle.
+
+“Well, here’s two hours of my life saved,” he said. “I fucking hate doing the powder trick, so a hundred flowers to you. I don’t suppose you’d want to swap contracts?”
+
+“Contracts? No,” Song said. “Though if you ever discover a way to swap gods…”
+
+“Sold,” he replied without hesitation.
+
+He spent the following minute protecting his face from the righteous beating of his shouting goddess, which almost made up for the other part. The small ping of amusement coming from the depths of her own soul, Luren’s mirth like the tinkle of a silver bell.
+
+Once Tristan was done groveling his way back to peace, they got to work. The rest of the stone hiding the cache was heavier and thicker, covering much more surface. The part she had removed was to leave room to slide in a perch and leverage it out. Trying out her sheath only revealed that the bottom was further down, but they improvised by sawing off a long swath of iron frame whose bottom was rusted off and using it as perch.
+
+While wearing gloves, of course, as Song did not intend having to append how she had caught lockjaw to the official report.
+
+The inside was disappointing in that it was empty, not so much a stray blade left she could bring back as proof. Lowering herself down, though, she inspected the corners and smiled at what she saw. Grease and smudges blackpowder. In several places, too, not only corner.
+
+“They kept at least ten barrels of powder down here,” she said. “Maybe more.”
+
+“That’s a lot of powder even for a hundred men,” Tristan said, crouching at the edge. “Unless they intend to be firing volleys, anyway.”
+
+“My thoughts exactly,” Song replied, leaning against the wall.
+
+She took out a cloth to wipe her hands clean of the grease and powder before brushing back her hair.
+
+“So someone’s smuggling soldiers and powder into Tratheke,” he said. “Either the cult of Golden Ram’s not at all what we thought it was…”
+
+“Or we have not caught the cult’s tail at all,” Song completed. “Hector Anaidon is not the head of his house, and his brother would not necessarily let him in on a conspiracy.”
+
+“You think someone’s preparing a coup,” Tristan said. “And that Lord Ainaidon’s in bed with them.”
+
+“From the inside is the only sensible way to take Tratheke,” Song said. “It is an Antediluvian-made box with only fortified gates in and out. I’ve read through Asphodel histories, Tristan, and the capital has never been stormed successfully – and not for lack of rebels besieging it. Those brass walls will shrug off cannon fire.”
+
+“And if the only way in and out is those big gates, all you need to do is put a couple of cannons facing the roads and shoot whatever tries to march in,” Tristan agreed. “The enemy will run out of volunteers long before you run out of powder. Traitors opening a gate would be cheaper even if you promise each their weight in gold.”
+
+“Or never needing to open the gates at all,” Song said, “because your army is already inside the walls.”
+
+“That’s a bold plan,” Tristan said. “Risky, though. You’d need to move them into the capita’s empty parts while smuggling the rest in and Tratheke’s empty parts aren’t really empty – there’s the basileias running about. Someone will have seen something.”
+
+He paused, arriving at the same conclusion she already had.
+
+“Unless they’re in on it,” he finished, clicking his tongue. “Yeah, it could work. Still risky.”
+
+“The only force in Asphodel that had soldiers to spare and can bring them through the mountains unseen is the Council of Ministers,” Song said. “They have the arms, the land routes and as of recently the motivation to make a gamble like this.”
+
+Tristan cursed.
+
+“Because of the shipyard,” he said. “If those start churning out skimmers, it doesn’t matter how many men they can put together – Evander Palliades will be rich enough to buy every mercenary company kicking about the Trebian Sea and drown them in bodies. They need to knock him out before those shipyards solidify his position.”
+
+“No more than six months,” Song quietly said. “Any more than that and not only are the risks too high someone will flip but he should be getting money out of the Republics.”
+
+That was what Hao Yu said, that Ambassador Guo was under strict instructions to get access to the shipyards. If he could not accomplish that within six months, he would be dismissed and replaced by someone who could.
+
+“This feels out of our jurisdiction,” Tristan finally said.
+
+“Agreed,” she said. “It needs to go to Brigadier Chilaca.”
+
+“So you’ll finally get to meet the man who sold you out to the Lord Rector,” he drily said. “Lucky you.”
+
+She rolled her eyes, then breathed out.
+
+“We are thin on evidence,” Song finally said. “He might not believe us.”
+
+“Then he doesn’t believe us,” Tristan shrugged. “We’ll hurry up with our contract and get out of this powder keg before someone throws a match.”
+
+He paused.
+
+“Interesting, though, that the Yellow Earth knows we’re hunting a cult but sends us after what looks like noble conspiracy.”
+
+“The thought occurred,” Song acknowledged. “Though in all fairness the Anaidon connection might have tripped them up as it did us.”
+
+She rolled her shoulder.
+
+“It is still throwing us off their trail,” she acknowledged. “Which begs the question of whether they do so because they do not want us stumbling into their usual schemes or because there is a cult connection.”
+
+“The Yellow Earth’s not going to be this easy to sniff out,” Tristan warned. “That lot knows how burrow, Song. The infanzones have been trying to dig them out of the City for years and they have dust to show for it.”
+
+“The Yellow Earth works in sects,” Song told him. “Each is different, though there is supposedly a grandmaster that leads the movement. I doubt the Asphodel sect will be anywhere as well put together as the Sacromonte one.”
+
+She chewed the inside of her lip.
+
+“Point taken, however,” she said. “We do not know this city.”
+
+“We’ll need locals,” Tristan agreed. “And I can think of only one sort that’d be willing to treat with us.”
+
+“Criminals,” she said.
+
+“Basileias,” he shrugged. “If you want us to pull at the Yellow Earth’s tail, the lictors aren’t going to do any good.”
+
+Because if the lictors knew of members of the sect, they would currently be strung up on gallows.
+
+“Help me up,” Song said, extending her hand.
+
+He pulled and she pushed herself up the wall, scrabbling back onto solid ground. Now came the unpleasant part: putting it all back in case someone came to look.
+
+“Perhaps Angharad will find us a lead,” Song said. “But if she does not, the Yellow Earth now seems our likeliest suspect in having ties.”
+
+Which was more than passing odd, considering the Lord Rector’s belief that the cult was being made into a vessel for a noble coup. Well, Evander was right about the coup at least if she was reading the signs correctly.
+
+“I’ll pray our friends in the Brazen Chariot will answer my invitation, then,” Tristan said. “Else I’ll have to go fishing off the list Hage gave me, and that could get tricky.”
+
+“I have no doubt you will succeed at getting us a meeting,” she said, and was surprised to find she meant it.
+
+He squinted at her.
+
+“You’re trying to guilt me into pulling the false floor instead of pushing, aren’t you?” Tristan asked.
+
+“Of course not,” Song lied.
+
