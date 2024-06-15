@@ -49471,3 +49471,425 @@ He squinted at her.
 
 “Of course not,” Song lied.
 
+# Chapter 47
+
+
+
+The Thirteenth usually ate its evening meal together, occasionally alongside the other brigades, but with Song and Tristan out tonight Angharad had elected to make other arrangements. Though she had a working truce of sorts with Maryam, she would much prefer not to eat an entire meal alone with the other woman.
+
+Besides, it had been too long since she shared a table with her uncle.
+
+Osian Tredegar was a commander of the Watch, which meant that unlike her he had been able to make requests of the Black House kitchens: it was before an attempt at a classic Pereduri spread that they sat. The heart of it was smoked mackerel, roasted cheese rarebit and wild spinach. An attempt at laverbread had been made by the cooks, but the seaweed tasted wrong. A side dish of rabbit made up for it, though, the local game spruced up with flower salt.
+
+“It’s better than the flower salt from Carchar Mulfrain,” Angharad admitted, feeling somewhat unpatriotic.
+
+“Rhiannon never bought Carchar salt in her life, Angie,” Uncle Osian snorted. “She always got the cheaper fare out of Tariac that they dry a second time under the Carchar Glare. Insisted it was just as good.”
+
+She goggled at him.
+
+“I have been eating Aztlan salt all my life?”
+
+It would be unfair to treat all the Aztlan peoples as if they were Izcalli, for though that eponymous people and kingdom stood the greatest among the Aztlan they also tended to be despised by their kin for the constant flower wars they inflicted on their neighbors. Still, Tariac was a tributary state of the Grasshopper King in all but name and only support from Malan kept it from teetering past the edge of the cliff.
+
+“It’s all from the Straying Sea regardless,” Osian replied, amused.
+
+She glared at him. There would be a difference, she was sure of it. At least she had not been betraying the Duchy of Peredur by preferring Asphodelian flower salt to its own, which was something of a comfort. She dug into the mackerel, which was ‘horse’ mackerel instead of the snake mackerel common around the Isles but was quite skillfully prepared nonetheless. Delicious.
+
+The rarebit was even better, to her surprise. It was not a complicated dish, but it was hard to get your hands on a decent one outside Peredur. Half the world seemed convinced rarebit was some sort of quiche, and some of the things they sold under the name in southern Malan should be treated as a crime.
+
+“-knack for it.”
+
+Angharad finished her slice of rarebit and guiltily coughed.
+
+“I missed that last part,” she said.
+
+Osian snorted, sipping at dark wine.
+
+“I was saying that the Tianxi girl from the Fourth, the one that goes by ‘Acceptable Losses’, has a real talent with powders,” he said. “Only to be expected from the daughter of firework artisans, but she would be a catch for a munitions workshop.”
+
+“Your own workshop,” she slowly said, “is not concerned with the munitions themselves, as I understand it.”
+
+He wiggled his hand.
+
+“Our focus is gunsmithing and artillery, but that involves some degree of powder tinkering,” Osian said. “The bullets for rifles are not the same as for muskets, and the powder charger differs as well. Not my area of expertise, but I’ve worked quite closely with such specialists.”
+
+He sipped at his glass.
+
+“That and the occasional deuce when one of them was foisted on us,” he sneered.
+
+Angharad cocked her head to the side.
+
+“Deuce?” she asked.
+
+His lips twitched.
+
+“How many members of the Deuteronomicon does it take to open a door?” Osian Tredegar asked.
+
+Angharad swallowed a grin. Ah, one of those jokes.
+
+“How many?”
+
+“Two,” he said. “One to declare the door impassable, the other to claim it doesn’t exist. Then the Cathedral opens the door.”
+
+“No,” she gasped, delightfully scandalized. “And you call them this to their faces?”
+
+“They call us clockboys,” Osian shrugged. “And those are some of the nicest sobriquets thrown around by either side.”
+
+“And to think I’d believed a scholarly society like the Umuthi would be a realm of civility,” Angharad grinned.
+
+“Then you must not know many scholars,” he noted. “I have read correspondence between Umuthi and Peiling professors so scathing it felt the paper should be aflame.”
+
+He took a bite of mackerel, then dabbed his lips with the tablecloth.
+
+“That Coyac boy from the Nineteenth is a good egg regardless of his chosen track, mind you,” Osian told her. “Perhaps the most sincerely cordial young man of such high birth I’ve met.”
+
+Angharad’s brow rose as she tried to recall his full name.
+
+“Izel Coyac,” she finally found. “I know little of him but the name, I’ll admit, and had no notion of him being highborn.”
+
+“He is related to Doghead Coyac, the Izcalli general that won them the Sordan War,” her uncle said. “How closely I am unsure, but I expect he’s a nephew or similarly close kin.”
+
+Her brow rose even higher. Much of the Kingdom of Izcalli’s nobility was looked down upon in Malan and the Someshwar because of their position being so transient: fireflies, they were called, for many noble titles under the Grasshopper King could only be passed on or maintained by waging war in his name. That did not mean, however, that the military nobility was not powerful or influential.
+
+A general of Izcalli would be at least a calpuleh, ruling directly over a fortress-temple as well as receiving taxes from a dozen townships. With that seat and income they were expected to raise and train a retinue of soldiers, which would serve as their core troops in any campaign the Grasshopper King assigned them. There were intricacies to this involving warrior societies that were somewhat beyond Angharad, but she had learned as a girl that Izcalli generals could often field retinues comparable to those of izinduna, the great lords of Malan.
+
+General Coyac was, in other words, a very influential relation to have.
+
+“To his cordiality, then,” Angharad said, raising her cup.
+
+Osian matched the toast. Then spent an hour eating and drinking, and though she’d not imbibed enough to be drunk Angharad felt some knot in her shoulders loosen. It was a balm for the soul to spend time with the family she had left.
+
+No. Almost all the family she had left.
+
+As if reading the shadow that fell over her expression, Osian Tredegar waited for the servant to disappear with the last of the dessert plates to let out a long breath. The door was closed but he still pitched his voice low when he spoke.
+
+“Brigadier Chilaca has requested access to the cache, but the Lord Rector is using the attempt on his life as an excuse to stonewall him,” Osian said. “He’s giving ground on an inspection of the shipyard, however, and I will be part of that along with a Deuteronomicon scholar. It should happen over the next few days, but as my role will be to ascertain the likely rate of production of the shipyard I will not be able to wander.”
+
+It would have been risky for her uncle to find the infernal forge while on official Watch business anyway, Angharad thought. The odds were too high there might be company with him also capable of identifying the device, which would make obtaining it much trickier.
+
+“That is still good news,” she said. “You will learn something of the location.”
+
+“The condition presented to Chilaca for the inspection was that our inspectors are to be sedated while brought to the shipyard,” Osian grimaced. “He has already accepted.”
+
+She grimaced back. So they would still have to find their own way in. Time for her part of the report, then.
+
+“That same assassination attempt cut through the sole party I attended,” Angharad quietly told him. “I was not able to secure an invitation from Lord Cleon to his estate.”
+
+She clenched her fist beneath the table. She had spoken with him a second time that night, before the lictors burst in and politely detained everyone, but to go fishing for an invite while alarms bells were ringing would have been highly suspicious. Still, she was not out of the race yet.
+
+“Lord Menander has sent me an invitation to a garden party at noon tomorrow,” she said. “I will do what I must to secure access then.”
+
+“We do not know for certain Cleon Eirenos has found a path to the shipyard,” Uncle Osian reminded her. “Only that he is the most likely lord to have found trace of the lictors out in the hills.”
+
+While the Watch had been told that the shipyard was beneath the island of Asphodel, its exact location and that of the path to said shipyard had proved elusive. And not for lack of looking, either. The colonel of the Stheno’s Peak garrison had reported suspicions that the entrance must be outside the capital, as Lord Rector Evander had too many eyes on him there to have been able to refurbish an Antediluvian shipyard without anyone noticing the flow of men and supplies.
+
+That meant the Tratheke hills, as open plains were no hiding place, and of the nobles to have noticed something there Lord Cleon was their best bet.
+
+“He was attracted to me, and not entirely opposed to boasting,” Angharad said. “I should be able to get him talking if he knows anything.”
+
+It was somewhat uncomfortable a thought, close to lying and certainly a deception, but it could not be helped. She would make certain not to harm the young man in any way and seek a way to repay the favor if he did end up helping her.
+
+“And your… friend?” Uncle Osian hesitantly asked.
+
+Captain Imani, he meant. The ufudu with a hand around her throat, ready to squeeze. Amusingly enough, though Imani Langa had tried to approach her several times she had not been able to – both Song and Tristan had taken a dislike to her and kept tripping her up. So long as the Eleventh remained lodged at Black House it was inevitable that Imani would find an opening, but for now Angharad was allowing herself to enjoy the other woman’s misadventures.
+
+“We have not recently spoken,” Angharad said. “I will tell you when we do.”
+
+“Do so,” Osian Tredegar flatly said. “I am helping you with this, niece, so that you do not get yourself killed – but I will not tolerate being left in the dark.”
+
+She nodded, for what else could she do? Though her uncle’s fingers around her throat were more kindly meant than Imani’s, their grip was no weaker. Angharad needed his help and his silence no less than she needed Imani Langa’s good word to the Lefthand House. Tomorrow, she told herself. Tomorrow I will get that invitation and come a step closer to an end for all this. Ancestors, let it be so.
+
+Every day this felt a little more like drowning.
+
+—
+
+(Where did you get your hatchet? Angharad asked. The armory in Allazei, Maryam replied, but it is not standard issue so I had to pay a fee.)
+
+She frowned as she emerged, feeling the inside of her veins aching. As if it had bruised. Soon she would be reaching their agreed-on limit for the day. That was the downside of doing the contract tests in the morning, as far as Angharad was concerned: it tied her hands regarding its use later in the day.
+
+“You got your hatchet from the Watch armory of Allazei, after paying a fee,” Angharad said.
+
+Tristan leaned forward, flipping a paper on the table and revealing the question and answer she’d glimpsed laid out in his cramped handwriting. He still smelled faintly of gunpowder, Angharad noticed not for the first time. The morning practice she had avoided but would have to find a way to make up for. Perhaps Sergeant Kavia could be asked for a hand.
+
+I look at you and I see a dozen intentions, none of them yours, Song had told her. That, more than any of the rest, still burned. Enough she wanted no part of standing before those too-keen silver eyes beyond the strictest of needs. Angharad bloody well knew what she needed to do, it simply did not happen to be what Song Ren might want.
+
+Her return to the Thirteenth Brigade was only temporary, she reminded herself. It would be odd for her to change brigades when she had passed her yearly test with the Thirteenth to join one that had not, admittedly, but that did not mean remaining with them for the whole year. There would be a span of some months before the end of the year, after the other tests were finished, where a transfer would be easy enough to arrange.
+
+It was a good thing that Song discomforted her, Angharad told herself. A reminder not to get too comfortable here.
+
+She was shaken out of her thoughts by Maryam’s humming, the Izvorica glancing down at the four rows of three papers on the table. Of these six were now flipped, each displaying a question that Tristan had written down with its answer that Maryam had not known about in advance. The pale-skinned woman jotted down a few notes with her steel-tipped pen.
+
+“I think it reasonable to call it confirmed youcan obtain information from individuals without them being made aware,” she said. “Tomorrow we will focus on counter-exercises, I think – can someone expecting you to use your contract prevent such interrogation?”
+
+Tristan, who had pointedly not been given a seat at the table despite Maryam having two more empty chairs, let out a sigh.
+
+“I take it I volunteered for the counter-exercises?”
+
+The blue-eyed woman smiled pleasantly, leaning forward.
+
+“I don’t know,” she said. “Did you?”
+
+He squinted at her, but that smile only grew more radiant.
+
+“Yes,” Tristan grudgingly said. “I did.”
+
+“Good man,” she said. “I’ll see you later, then.”
+
+Angharad sipped at her water goblet, having been struck by a sudden episode of blindness and deafness. The thief had been trying to buy his way back into Maryam’s good graces ever since their argument, but she was holding his feet to the fire without mercy. But not with any real cruelty, either, so neither could he get angry and turn the balance back on her. Maryam was impressively skilled at grudge bearing, it must be said.
+
+A half-sketched thought tying that to the tales of Izvoric retaliation against settlers was set aside, unneeded. Maryam was perfectly capable of terrible pettiness on her own, her race had nothing to do with it. And ugly as the admission was, Angharad found it easier to put the faults to the woman instead of the people.
+
+She had few feelings about the Izvoric either way, but her time in the Thirteenth had allowed her to develop a great many opinions about Maryam Khaimov.
+
+“One hopes,” Tristan drily replied. “Angharad, enjoy your party. See you at dinner, yes?”
+
+“Most likely,” Angharad agreed, the deafness having passed. “You’ll be having a look around the city, as I understand it?”
+
+“I have a lead on finding Hage’s latest Chimerical,” he said. “There are only so many creatures out there matching the description of ‘a cat that looks like it ate several other cats’.”
+
+“Prince Mephistofeline has a most elegant bearing,” Angharad loyally said.
+
+“And much of it, if one measures by the pound,” he drawled.
+
+He waved them both goodbye as she glared half-heartedly, Maryam conceding him only a small nod. Angharad sipped at her water again while he closed the door behind him, eyeing Maryam curiously.
+
+“Don’t you start,” Maryam grunted. “I’ll ease off on him tomorrow, he’s put in the work. And his method might have been worth a chiding, but he might also have had more of a point than I figured.”
+
+“I did not intend to say anything,” Angharad said.
+
+Maryam hummed.
+
+“You have been getting better at that,” the other woman said..
+
+Maryam was not as skilled at compliments as grudge-bearing.
+
+“You still have the tell when you use your contract,” the signifier continued. “It’s not blinking exactly, more like fluttering your eyes.”
+
+“I do not notice doing it,” Angharad admitted. “Perhaps it is part of my contract.”
+
+Maryam flicked a look at the closed door.
+
+“I’m told that contracts often breed little tics but that they can be trained out,” she said. “We can throw that onto the list, if you’d like – a single flutter shouldn’t draw attention, but if you use your contract repeatedly in front of someone they might catch on.”
+
+Angharad hid her surprise, finishing the last of her water and setting it down in a measured gesture. It was the first time Maryam even hinted at Angharad having any influence on what was to be done during these sessions. Their grant was, after all, something the Pereduri had offered as part of her bargain for being allowed back in the Thirteenth. She cleared her throat.
+
+“That would please me,” she admitted. “It is kind of you to offer.”
+
+Maryam waved that away.
+
+“We’ve established the boundary conditions of your ‘glimpses’, more or less,” she said. “I don’t mind freeing up a few uses to practice killing your tell. I have some ideas concerning ways the glimpses might be used we’ll test, but that chapter is largely closed – here on Asphodel, anyway. Captain Yue has some tools that’d let me study the effects better, but that is beyond the remit of our bargain.”
+
+Much to Angharad’s relief. Captain Yue sounded like she’d had her empathy surgically removed to make more room for further dubiously ethical experiment ideas.
+
+“We begin work on the visions, then,” Angharad quietly said.
+
+“Soon,” Maryam agreed. “I believe I have a sufficient grasp of your contract’s basics to begin investigating the deeper uses.”
+
+“You have theories,” she said, and it was not a question.
+
+“A dozen,” the Izvorica laughed. “I expect our first week will be mostly weeding to rule out the most out-there among them.”
+
+Angharad inclined her head.
+
+“I will look forward to it,” she said.
+
+A heartbeat later she began to word a qualifier, but after another beat she faltered at the realization she did not need to. She was looking forward to their work together. Even though navigating small talk with Maryam remained arduous, the Izvorica was thorough in her methods and free with information. More than that, there was something oddly satisfying about learning the limits of the power she had obtained from the Fisher.
+
+She clenched her fist under the table. Eyes on the prize, Tredegar, she told herself. It is more than merely your neck that is on the line. She could not afford distractions.
+
+—
+
+Lord Menander Drakos’s annually thrown ‘green party’ was one of the most beloved events of Tratheke good society.
+
+Not one of the most exclusive – Angharad would not have been invited were it so – but it was reputed as a hotblooded war of fashion and fencing that drew much excitement. Given that Angharad was again to be dressed as a poor relation she could not muster much excitement for the first part, but she had high hopes for the latter one. Until she learned the ‘fencing’ was to be done with reed sticks, anyway.
+
+She had not been expecting death duels, but surely first blood was not too much to ask for? What an odd land, Asphodel.
+
+The Black House stocks did have dresses to borrow, and a very helpful tailor among the staff, but Angharad was not a short woman or a slender one. Only two would ever fit her without the intervention of miraculous spirits, and of these she was only willing to wear one. There were frills, and then there was the fit of madness that seized whatever seamstress was responsible for such an offense to the eyes.
+
+Angharad was fitted into a lovely pink gown, of which her fuller figure made the neckline more daring than it had likely been on the previous owner. Her height meant it had to be hemmed the ankles instead of the floor, but the white chemise she wore beneath brought it all together with a natural air. The gold-embroidered cuffs fitted past her gown sleeves added a tasteful accent to the ensemble, though Angharad’s lack of jewelry would out her as being from an impoverished house.
+
+Which was for the best. A mysterious young noblewoman of Isles stock splashing wealth around Tratheke society would draw raised eyebrows, and more scrutiny that the effort to hide her being part of the Watch was likely to survive. Better she be assumed someone’s charity than be considered worth investigating.
+
+Llanw Hall was not so rich an estate she had ever grown deluded about her standing, anyhow.
+
+Though the edifice the hired coach brought her to was in the southeastern quarter of Tratheke, among a neighborhood of grand residences kept by nobles – only the very wealthiest of Asphodel could afford a manse inside the Collegium, where even shops went for the prices of a small ship – she had expected some kind of interior garden to warrant the sobriquet of ‘green party’.
+
+Yet there was not a hint of greenery as she was led through the antechamber and up several sets of curved marble stairs, Angharad leaning on her walking stick and eyeing the tasteful decor with approval every time she was forced to stop and catch her breath. Few paintings, the local preference for colorful mosaics and painted statues followed closely. This was, she decided a mansion used only to receive. It had too many lounges and salons and too few bedrooms for it to be otherwise.
+
+The last level, where all the guests were gathering, was led to by a final set of marble stairs and the gates were opened by liveried servants – to a burst of warm, almost humid air and a blinding sea of green. Not only was the entire summit of Lord Menander’s manse a hothouse, but it was also a glasshouse. The ceiling and the upper third of the wall were a curved length of green glass with slender brass bones, almost the Lordsport ceiling writ small.
+
+The entire room and every guest within were bathed in tinted light, transforming everything Angharad’s eyes could see.
+
+She took a few limping steps forward on the grass, taking in the sights. Ladies in dresses colored to take advantage of the green – streaks of pale cloth, embroidery in gold and silver, gauze and heavy pearls – while the men either stood out in well-tailored black, cream hose and the occasional waxed cloth. The hothouse itself was pleasant mess of grass and orchids, bordered by trees and small canal-rivers where colorful fish swam.
+
+Most the guests gathered around pavilions whose roofs had been overtaken by artfully cut ivy, either seated at the tables or being served drinks.
+
+“My lady,” her guide said. “If you would allow me to guide you to Lord Menander?”
+
+“Please,” Angharad nodded.
+
+The grass was soft against her slippers, and just humid enough she was glad her gown’s hem was not too low. Stains on a first borrow was simply atrocious manners. Lord Menander, his mustache in particularly fine form today – enough so  Angharad forgot she was taller than the man until she stood right by him – was holding court at one of the pavilions.
+
+ She was announced by her guide, who then retired as the older man enthusiastically introduced her to the handful of nobles he was entertaining. All minor houses, Angharad noted, whose holdings were in Tratheke Valley and thus owed direct fealty to the Lord Rector. His peers, if poorer and less influential than Menander Drakos was said to be.
+
+Trifling small talk such as what ensued was hardly something she enjoyed, and it required her to play the exotic creature from the misty isle of Peredur even though sailors from the Kingdom of Malan were hardly unknown sight in these parts. She even spoke a few words in Gwynt, to immediate cooing about the beauty of such an ‘ancient tongue’.
+
+Which wastrue, it was a beautiful language, but those hangers-on would have made the exact same noises if she showed up with a puppy. Weathervanes, these were, deluded into believing they could rise by laughing at the right jokes and nodding at the right complaints. Such sorts always grew in the gardens of the powerful, Vesper’s most inevitable weeds.
+
+Lord Menander walked a span with her afterwards, down a stretch of grass bordered by peach trees.
+
+“You continue to fare well,” the mustachioed man said. “That is pleasing to see.”
+
+“You do me honor,” Angharad replied.
+
+However small of one.
+
+“It is almost a shame you are a rook,” Lord Menander murmured. “You would have little trouble making a home in the capital, I think.”
+
+“It is a beautiful city,” she said. “Like none I have ever seen.”
+
+“There is greatness in the bones of this isle,” Menander Drakos said, looking up at the glass. “Buried deep, but Asphodel was once a seat of empire. The days for that sort of business are long past, I’m afraid, but it behooves us to have greater ambitions than remaining a catspaw for the Six.”
+
+“I have heard little good said of infanzones here,” Angharad acknowledged.
+
+“Nor will you at court, at the moment,” Lord Menander said. “Now that Malan and the Republics are reaching out to the Lord Rector over this shipyard business, Sacromontan envoys have been making noises about mediating such negotiations for us. They can be put off for now, but episodes like the attempt on Lord Rector Evander’s life will only embolden them.”
+
+A look was slid her way.
+
+“Is the assassin any closer to being caught?”
+
+Ah, there it was. A helpful man, Lord Menander, but still a creature of the court. If he was to keep lending her aid in Tratheke society, he intended to benefit as well – and for a courtier, what better coin than word of this most important of investigations from the mouth of one of the investigators?
+
+“Trails have been run down in the city,” Angharad vaguely replied.
+
+His gaze on her was mild, but she still had to fight the urge to bite her lip. If she did not give him something, she knew, then the fountain of help would dry up. Yet to say too much would be, if not necessarily unlawful, at least a breach of privacy expected between the Watch and one who employed them. Menander Drakos was an ally of the Lord Rector’s, but only to an extent.
+
+Did she still need his help? Bitter as it was to admit, she well might. Even should she succeed today and earn an invitation from Lord Cleon, she still needed to find traces of the cult – and without a guide and provider of invitations, she was unlikely to make much progress.
+
+Which meant concessions.
+
+“The would-be killer was Tianxi,” she murmured. “Inquiries have been made about the Yellow Earth, though word was passed denying involvement.”
+
+“As well they would,” Lord Menander snorted. “Those insurgents have been infesting the workshops and warehouses for years, Lady Angharad, with the tacit help of the Trade Assembly. The magnates would sell all of Asphodel to the Republics, if it let them obtain the lands of aristoi.”
+
+His contempt for the Trade Assembly was thick and entirely obvious.
+
+“Investigation continues,” Angharad simply replied.
+
+She had given ground, so the Pereduri was not surprised when Lord Menander then reintroduced her to Lord Cordyles. The white-haired old man was pleased to see her, and mostly sober since Lord Arkos was absent and thus could not be competed against in drink. Shortly after, in another reminder that Menander Drakos’ eyes were sharp, Lord Cleon was brought into their little circle for a chat.
+
+He complimented her dress twice, and stared so stubbornly at her face it was painfully obvious where he was forcing himself not to look.
+
+Lord Menander drew to them a small crowd, but the man himself soon left to tend to other guests. A lively circle was left in his wake, most of them younger nobles – several of which were acquainted with Lord Cleon – and a woman Angharad had only seen and heard in passing, Lady Doukas. Who, for a woman in her forties, was most shapely and generous with her charms.
+
+The beauty spot near those full lips drew Angharad’s eye more than once, but alas the lady had only eyes for the young men in tight doublets. Besides, she had not come here to dally.
+
+It was not difficult to converse with Lord Cleon, given how eager he was to stand with her, but Angharad could not fish for an invitation too quickly without being transparent in her intentions. They spoke of the likes of the hunt in Peredur, of how it informed fashion for men and women alike and how different this was from the ways of Asphodel. By the time Angharad considered the road well paved enough to lay a hint, however, there was an interruption.
+
+Small bells were rung, earning cheers, and loud announcement revealed that inscriptions were opened for the ‘fencing tournament’. Cleon Eirenos excused himself to participate, leaving her once more in the wind. In truth, much of the circle dissolved in the following moments as nobles of all stripes and ages rushed pavilions to have their names written on paper. Only Lord Cordyles remained with her, and snorted when she asked if he intended to participate.
+
+“I won the green crown once or twice when I was a young man, but it would be a waste for me to try for it now,” he said. “It is, after all, mostly an excuse to play barefoot with lovelies.”
+
+Angharad was somewhat aghast to see this was true. The guests were handed slender sticks of reed, the sort that would hardly hurt on a hit unless you swung with your back, and much peacocking and giggling ensued as the tournament began. Most of them spent more time flirting than fencing, when the matches began. Angharad was no stranger to the lovely thrill of crossing blades with a beautiful woman, that thrumming tension in the air, but this was not a sparring match but a tournament.
+
+She left Lord Cordyle’s side to secure a drink, a cup lemon water with some sort of anise liquor added in, and drained it in quick order. She did not order a second, but was tempted to.
+
+“Oh? A pleasant turn fortune to find you here, Lady Angharad.”
+
+She forced herself not to stiffen at the voice, which she recognized. She turned to offer a curtsy to Lord Gule of Bezan, ambassador for the Kingdom of Malan, who joined her on the grass one limping step at a time. His hearing horn was already in hand, pressed against his ear.
+
+“Lord Gule,” she greeted him. “A pleasant turn indeed.”
+
+The older man, still dressed in sober grays, offered her a smile before gesturing at the man trailing behind him.
+
+“If I may introduce Jabulani, my attendant,” Lord Gule said. “As fine a valet as man might ask for.”
+
+Angharad inclined her head in greeting but did not bow or curtsy. Even as the daughter of a fallen house she was of higher status than a valet. Jabulani, she noted, was taller than his master and with a face like stone. The near-shaved hair, sharp eyebrows and strong lips only added to the impression.
+
+“A pleasure, Lady Angharad,” Jabulani said, politely bowing before turning back to his master. “I await your orders.”
+
+Lord Gule nodded in acknowledgement.
+
+“A drink, then, if you would,” the ambassador said. “That herbal concoction that’s been in vogue of late, though easy on the liquor, and for Lady Angharad…”
+
+He cocked an eyebrow at her.
+
+“Naught for me,” she replied.
+
+“Only that, then,” Lord Gule said.
+
+Jabulani bowed again, deeper to his master as was proper, and departed to see to the arrangements. It left the two of them standing by the sprawl of grass and the ivy roof, watching the guests tussle with their reed sticks in a flurry of raised skirts, laughter and shrieks. Lord Menander and his attendants, as masters of the ceremonies, kept the track of the large slate with the tournament brackets on it – by the sheer size of it, there would be ‘duels’ for at least an hour yet.
+
+“I imagine it must look rather ridiculous to you.”
+
+Angharad did not look his way. If he could see her face, she would be easier to read.
+
+“How so?” she asked.
+
+“Those silver stripes name you a mirror-dancer,” Lord Gule said. “Unless a mistake of some import was made when putting ink to your skin.”
+
+“It was no mistake,” Angharad evenly said.
+
+The ambassador inclined his head in acknowledgement.
+
+“Then to one trained and tested as you were, calling this ‘fencing’ must seem ambitious,” he noted. “I have known swordmasters who would bare steel over it.”
+
+Angharad watched a plump boy in white and silver turned green by the glass strike the elbow of a giggling woman twice his age, triumphantly winning the ‘bout’. This was fencing as much as she was Malani. Still, it was not her place to find insult here.
+
+“It is a game,” she finally said. “One they much enjoy. I try not to find foes in laughter.”
+
+Lord Gule chuckled.
+
+“Then you are wiser than many I have met,” he said. “Even myself, once upon a time. When I lost much of my hearing, as a boy, for a few years I grew to despise singers.”
+
+She shot him a surprised look.
+
+“I was something of a singer myself, you see,” Lord Gule told her, “but after the accident I could no longer tell if my pitch and volume were correct. It took me a long time before I ceased to see my lost gift put to use in another’s hands as anything but an insult.”
+
+Two young men in doublet and trousers slapped their blades against another as they went to and fro across the grass, more interested in eye-catching flourishes than attempting a touch on the other – they heaved and boasted and shook their hair to catch the attention of the crowd. How odious it would have all seemed to Angharad, were she truly never to recover what she had lost.
+
+“It would be presumptuous for me to wear a sword, now,” Angharad spoke through gritted teeth. “Past the boundary of boast.”
+
+Into a lie, she was implying. She did not need to feign the bitterness in her voice at that. She had spent most of her life learning the blade, only for that labor to be stripped away from her by a single evening’s failure. How fragile the sum of the hours of her life truly was, when push came to shove.
+
+“It is tradition, I think, for the eldest in losses such as hours to offer kind lines about how in grief there are lessons,” he said. “How we grow around the wound and find ourselves in different ways.”
+
+“But,” Angharad said.
+
+“But while I have learned to sing as I am,” Lord Gule of Buzan pleasantly smiled, eyes ahead, “I still miss how fucking easier it used to be.”
+
+She started in surprise at the language. His face had not changed, and she half-thought she had imagined the word.
+
+“But the world goes on,” Lord Gulan shrugged.
+
+A glance her way.
+
+“I will not speak to you of future, for you are still in those months where it lies fresh,” he said. “But there will come a time, Lady Angharad, when you begin looking ahead again, thinking of the rest of your life.”
+
+He gently smiled.
+
+“When that time comes, do consider calling on me.”
+
+And with a simple nod he was gone, leaving her to stand there wondering. At his words, yes, but most of all at this: why was it now, that twice the ambassador had sought her out?
+
+She knew better than to take kindness as face value, come from an induna’s hands.
+
+—
+
+The playacting with sticks continued for the better part of an hour, the ‘vanquished’ helping themselves to the comfort of the drinks liberally served and occasionally allowing themselves to be nursed back to smiles by someone who had caught their eye.
+
+Angharad spent most of that time drinking with Lord Cordyles, who seemed to find her mood most amusing, and keeping an eye on the lay of the nobles. Even that vigilance proved to be of little use, as while there was a great deal of talk between highborn the manner of it had more to do with a pleasure garden than anything remotely politic.
+
+In the end, it was not court manners or trickery that won her an invitation to Lord Cleon’s country manor. As the tournament came to a close the young man returned flushed with victory, having come in third place within that absurd contest that seemed so prized by the locals. Red-faced and grinning, he offered Angharad a courtly bow.
+
+“It seems a shame that you’ve yet to try hunting in Asphodel, my lady,” Lord Cleon said. “In that spirit, I would invite you to my family’s manor in the hills to the east – I assure you, the entertainment will be memorable.”
+
+A few other youths, having accompanied him, let out teasing shouts in a mostly good-natured attempt to embarrass a fellow in their pursuit of a courtship. That tradition, at least, was beyond the borders drawn by man.
+
+“It would be my pleasure,” Angharad replied, offering a small curtsy.
+
+All that work, she thought, and what settled it was a burst of confidence earned in a stupid tournament of what she refused to call fencing. Angharad had gotten what she came for, but could not help but feel a little miffed by it.
+
+These days even her victories tasted off.
+
