@@ -44,7 +44,7 @@ def download_chapter(url):
 
 def download_contents(config, book: str):
     TABLE_OF_CONTENTS_URL = f"{config['base_url']}/table-of-contents/"
-    LINK_REGEX = f"\<li\><a href=\"({config['base_url']}/[0-9]+/[0-9]+/[0-9]+/.*/)\"\>(.*)\</a\>\</li\>"
+    LINK_REGEX = f"<li><a href=\"({config['base_url']}/[0-9]+/[0-9]+/[0-9]+/.*/)\">(.*)</a></li>"
     response = requests.get(TABLE_OF_CONTENTS_URL)
     response_text = response.text
 
