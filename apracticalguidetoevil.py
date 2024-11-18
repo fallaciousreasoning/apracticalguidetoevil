@@ -5,12 +5,13 @@ from bs4 import BeautifulSoup
 import html
 from concurrent.futures import ProcessPoolExecutor, as_completed
 from tqdm.auto import tqdm
+import sys
 
 
 configs = [{
     'base_url': 'https://palelights.com',
     'title': 'Pale Lights',
-    'author': 'erraticerrata',
+    'author': 'erraticerrata'
 }, {
     'base_url': 'https://practicalguidetoevil.wordpress.com',
     'title': 'A Practical Guide to Evil',
@@ -44,7 +45,7 @@ def download_chapter(url):
 
 def download_contents(config, book: str):
     TABLE_OF_CONTENTS_URL = f"{config['base_url']}/table-of-contents/"
-    LINK_REGEX = f"\<li\><a href=\"({config['base_url']}/[0-9]+/[0-9]+/[0-9]+/.*/)\"\>(.*)\</a\>\</li\>"
+    LINK_REGEX = f"<li><a href=\"({config['base_url']}/[0-9]+/[0-9]+/[0-9]+/.*/)\">(.*)</a></li>"
     response = requests.get(TABLE_OF_CONTENTS_URL)
     response_text = response.text
 
@@ -59,9 +60,9 @@ def download_contents(config, book: str):
 
         yield match[0]
 
-def write_book(config, book="all"):
+def write_book(config, book="all", split=False):
     with ProcessPoolExecutor() as pool:
-        book_name = "all books" if book == "all" else f"book {book}"
+        book_name = "all books" if book == "all" else f"Book {book}"
 
         links = list(download_contents(config, book))
         futures = {}
@@ -73,8 +74,14 @@ def write_book(config, book="all"):
         for future in tqdm(as_completed(futures), total=len(futures)):
             chapters[futures[future]] = future.result()
 
+    book_title = ""
 
-    with open(f"{config['title']}.md", "w", encoding='utf-8') as f:
+    if split:
+        book_title = f"{config['title']} - {book_name}.md"
+    else:
+        book_title = f"{config['title']}.md"
+
+    with open(book_title, "w", encoding='utf-8') as f:
         f.write(f"% {config['title']} ({book_name})\n")
         f.write(f"% {config['author']}\n\n")
 
@@ -84,9 +91,41 @@ def write_book(config, book="all"):
             f.write(f"# {chapter.title}\n\n")
             f.write(chapter.text)
 
+
+def process_args(args):
+    split = False
+
+    for i in range(len(args)):
+        if args[i] == "-s" or args[i] == "--split":
+            split = True
+        if args[i] == "-h" or args[i] == "--help":
+            print("usage: pyton3 apracticalguidetoevil [args]\n")
+            print("-s or --split: Creates seperate .md file for each Book")
+            print("-h or --help: Prints this help message")
+            exit()
+
+    return [split]
+
 if __name__ == '__main__':
     multiprocessing.set_start_method('spawn', force=True)
 
-    for config in configs:
-        print('Downloading', config['title'])
-        write_book(config)
+    processed_args = process_args(sys.argv[1:])
+
+    if processed_args[0]:
+        for config in configs:
+            # Finding out how many Books for each series until now
+            # (Should be future proof unless they change the formatting again)
+            TABLE_OF_CONTENTS_URL = f"{config['base_url']}/table-of-contents/"
+            LINK_REGEX = f"<h2.*>Book ([0-9]+|I).*</h2>"
+            response = requests.get(TABLE_OF_CONTENTS_URL)
+            response_text = response.text
+            matches = re.findall(LINK_REGEX, response_text)
+
+            for i in range(1, len(matches)+1):
+                print(f'Downloading Book {i} of {config['title']}')
+                write_book(config, book=i, split=True)
+
+    else:
+        for config in configs:
+            print('Downloading', config['title'])
+            write_book(config)
