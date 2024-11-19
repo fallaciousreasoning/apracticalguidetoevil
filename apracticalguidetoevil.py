@@ -27,6 +27,13 @@ class Chapter:
 
 def download_chapter(url):
     text = requests.get(url).text
+
+    # Hacky way to properly parse bold and italics text
+    text = text.replace("<b>", "**")
+    text = text.replace("</b>", "**")
+    text = text.replace("<i>", "_")
+    text = text.replace("</i>", "_")
+
     soup = BeautifulSoup(text, "html.parser")
 
     content = ""
@@ -122,7 +129,7 @@ if __name__ == '__main__':
             matches = re.findall(LINK_REGEX, response_text)
 
             for i in range(1, len(matches)+1):
-                print(f'Downloading Book {i} of {config['title']}')
+                print(f"Downloading Book {i} of {config['title']}")
                 write_book(config, book=i, split=True)
 
     else:
