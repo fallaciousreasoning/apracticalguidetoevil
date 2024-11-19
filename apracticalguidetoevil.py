@@ -9,10 +9,6 @@ import sys
 
 
 configs = [{
-    'base_url': 'https://palelights.com',
-    'title': 'Pale Lights',
-    'author': 'erraticerrata'
-}, {
     'base_url': 'https://practicalguidetoevil.wordpress.com',
     'title': 'A Practical Guide to Evil',
     'author': 'erraticerrata'
@@ -33,6 +29,10 @@ def download_chapter(url):
     text = text.replace("</b>", "**")
     text = text.replace("<i>", "_")
     text = text.replace("</i>", "_")
+
+    # Hacky way to properly parse the horizontal lines e.g. Book One Chapter 4
+    text = text.replace("<hr />", "<p>***</p>")
+    text = text.replace("<p>—</p>", "<p>***</p>")
 
     soup = BeautifulSoup(text, "html.parser")
 
