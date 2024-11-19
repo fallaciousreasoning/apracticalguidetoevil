@@ -9,6 +9,10 @@ import sys
 
 
 configs = [{
+    'base_url': 'https://palelights.com',
+    'title': 'Pale Lights',
+    'author': 'erraticerrata'
+}, {
     'base_url': 'https://practicalguidetoevil.wordpress.com',
     'title': 'A Practical Guide to Evil',
     'author': 'erraticerrata'
