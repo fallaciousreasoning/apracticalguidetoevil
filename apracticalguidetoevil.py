@@ -33,6 +33,8 @@ def download_chapter(url):
     text = text.replace("</b>", "**")
     text = text.replace("<i>", "_")
     text = text.replace("</i>", "_")
+    text = text.replace("<em>", "_")
+    text = text.replace("</em>", "_")
 
     # Hacky way to properly parse the horizontal lines e.g. Book One Chapter 4
     text = text.replace("<hr />", "<p>***</p>")
@@ -64,7 +66,10 @@ def download_contents(config, book: str):
 
     for match in matches:
         # Hacky system for determining the book we want        
-        if book != "all" and "prologue" in match[0]:
+        if book != "all" and "prologue" in match[0] and config['title'] == "A Practical Guide to Evil":
+            book -= 1
+
+        elif book != "all" and "chapter-1" in match[0]:
             book -= 1
 
         if book != 0 and book != "all": continue
@@ -85,10 +90,10 @@ def write_book(config, book="all", split=False):
         for future in tqdm(as_completed(futures), total=len(futures)):
             chapters[futures[future]] = future.result()
 
-    book_title = ""
+    book_title = "output/{config['title']}"
 
     if split:
-        book_title = f"{config['title']} - {book_name}.md"
+        book_title += f" - {book_name}.md"
     else:
         book_title = f"{config['title']}.md"
 
