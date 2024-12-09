@@ -69,7 +69,7 @@ def download_contents(config, book: str):
         if book != "all" and "prologue" in match[0] and config['title'] == "A Practical Guide to Evil":
             book -= 1
 
-        elif book != "all" and "chapter-1" in match[0]:
+        elif book != "all" and ("chapter-1/" in match[0] or "chapter-1-" in match[0]) and config['title'] == "Pale Lights":
             book -= 1
 
         if book != 0 and book != "all": continue
@@ -90,7 +90,7 @@ def write_book(config, book="all", split=False):
         for future in tqdm(as_completed(futures), total=len(futures)):
             chapters[futures[future]] = future.result()
 
-    book_title = "output/{config['title']}"
+    book_title = f"output/{config['title']}"
 
     if split:
         book_title += f" - {book_name}.md"
