@@ -122,7 +122,8 @@ if __name__ == '__main__':
             matches = re.findall(LINK_REGEX, response_text)
 
             for i in range(1, len(matches)+1):
-                print(f'Downloading Book {i} of {config['title']}')
+                title = config['title']
+                print(f'Downloading Book {i} of {title}')
                 write_book(config, book=i, split=True)
 
     else:
