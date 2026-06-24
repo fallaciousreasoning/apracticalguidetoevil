@@ -2,7 +2,7 @@ name: Rescrape
 
 on:
   schedule:
-    - cron: '0 8 * * SAT'
+    - cron: '0 8 * * *'
   workflow_dispatch:
 
 jobs:
@@ -22,13 +22,21 @@ jobs:
         run: |
           python apracticalguidetoevil.py
 
+      # Pin the build timestamp (SOURCE_DATE_EPOCH) and the dc:identifier so
+      # that identical Markdown produces a byte-identical EPUB. Otherwise pandoc
+      # stamps the current time and a random UUID into every build, so the
+      # committed EPUBs churn on every run even when the source hasn't changed.
       - uses: docker://pandoc/core:3.9
+        env:
+          SOURCE_DATE_EPOCH: '1735689600'
         with:
-          args: -o "Pale Lights.epub" "Pale Lights.md"
+          args: --metadata identifier=https://www.royalroad.com/fiction/65058/pale-lights -o "Pale Lights.epub" "Pale Lights.md"
 
       - uses: docker://pandoc/core:3.9
+        env:
+          SOURCE_DATE_EPOCH: '1735689600'
         with:
-          args: -o "A Practical Guide to Evil.epub" "A Practical Guide to Evil.md"
+          args: --metadata identifier=https://practicalguidetoevil.wordpress.com -o "A Practical Guide to Evil.epub" "A Practical Guide to Evil.md"
 
       - name: Commit & Push Changes
         run: |
