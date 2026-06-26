@@ -42,5 +42,12 @@ jobs:
         run: |
           git config user.name github-actions[bot]
           git config user.email github-actions[bot]@users.noreply.github.com
-          git commit -am "[Automated]: Update books"
-          git push
+          # Only commit/push when something actually changed. Now that the EPUB
+          # builds are reproducible, a run with no new chapters produces an empty
+          # diff, and an unconditional `git commit` would exit non-zero and fail.
+          if [ -n "$(git status --porcelain)" ]; then
+            git commit -am "[Automated]: Update books"
+            git push
+          else
+            echo "No changes to commit"
+          fi
