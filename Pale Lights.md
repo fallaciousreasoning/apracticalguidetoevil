@@ -101671,3 +101671,915 @@ And would you look at that, they were acquainted with a Laurel. Ishanvi had been
 
 No doubt she’d appreciate getting a bit of research done for her good friends in the Thirteenth.
 
+# Chapter 64
+
+“It would be safer for you to remain here another week.”
+
+Tristan met the woman’s eyes over the offered paper, and found in them only the professional interest of a physician. Not a priest, this one. She was not one of Lady Knit’s vultures, loving to caw about how paying up with the last gift Fortuna was the only way for him to get back on his feet.
+
+“Will I die if I do not?” he bluntly asked.
+
+“Not unless you rip open your wound again,” the physician conceded. “But it has yet to heal properly, and will not for some time yet.”
+
+Twenty-nine days. He’d already spent twenty-nine days lying down in his bed of coals, writhing against the knowledge that now every hour was a part of Fortuna forever gone. That she was being stripped clean and made into materials for an old horror.
+
+“Then I must insist on leaving,” Tristan replied, signing his name. “Thank you for your help.”
+
+“Just try to avoid wasting our work,” she sighed, taking back the dip pen. “They are very well-done stitches.”
+
+“The best, I’m sure,” Tristan smiled.
+
+He could get out of that accursed place soon enough. And, waiting on the steps for him, was silver eyes and face cast grim.
+
+“Change into fighting fit,” Song Ren ordered, pushing a bag onto his hands. “We have a skimmer to board.”
+
+_Finally_.
+
+--
+
+The unit of blackcloaks moved briskly across Hostel Street, light rain swatting down at their hats, and Maryam watched them as she nibbled on a piece of pork jerky from the cover of the Rainsparrow Hostel’s entrance hall. It was getting too hard for her teeth, but it would have been a waste to throw it away.
+
+“Headed for the bastion, do you think?” Angharad asked.
+
+Maryam swallowed, but before she could reply her sister’s head popped out of her shoulder to cut the grass under her feet.
+
+“Or the Templeward defenses,” Ester said. “Azocar’s shuffling the troops around.”
+
+Like every time she even thought the name, there was a faint ripple in the aether. The improvised ritual had worked more than just well: Ester’s true name was now barded with steel, untouchable by all save who had been freely given it.
+
+“He’s been preparing for today,” Maryam agreed. “The Lucierna men bolstered his ranks enough he can afford to take a swing at the bastion, but it’s not the sort of thing you try half-cocked.”
+
+Admiral Zokufa had proved willing to lend his mariners to the garrison to help man the defenses along Templeward - which had again been tested last night by a pack of lycosi, the sound of gunfire waking up half the Triangle – but the Western Fleet had drawn a line over providing men for an assault on Cai Wei’s fort. A few days back, however, the first wave of reinforcements from the Trebian Northwest regional command had arrived. Only a hundred, but it had opened up options for Azocar.
+
+“I’ve heard some concerns that the force besieging the fort is too exposed,” Angharad shared. “They are dug in and I understand the necessity of securing a foothold across the waterway, but should Wei sally out against them early…”
+
+“The open grounds are as deadly for the revenants as they are for our side,” Ester pointed out.
+
+Scholomance had wasted no time turning the once-lake into a simple water reservoir, allowing the Watch to bring in rowboats through the Trench and cross the water without needing to go through the winding way that passed under the Sheba Bastion. The garrison had promptly landed boats on the far shore and set up a rough crescent of gabions and crates facing Cai Wei’s fort, defended with field cannons and rows of muskets.
+
+While Azocar had understandably refrained from ordering a charge across the stone canyon in deference to the withering casualties it would cost, the same was true from the other way around: the revenants would also need to charge into a killing field to reach the garrison force. It was not much of a siege, since it was believed the revenants were not truly bottled in, but the garrison presence there was a threat that Wei had to respect. That was the point.
+
+“That siege force is the reason there hasn’t been a second raid,” Maryam said. “Wei couldn’t send out too many revenants or she risked us taking the fort, and if she loses that she’s finished.”
+
+Angharad cocked her head to the side.
+
+“You speak with much assurance on the tactic.”
+
+Ester laughed.
+
+“It’s how the Malani rolled over the lowlands,” she said. “They were getting bled from the all the hit and run, so they started sending these large and slow detachments after important castles.”
+
+Angharad frowned, missing the implication.
+
+“It was to force a choice,” Maryam explained. “Either the partisans out in the fields headed to the castle to defend it – and stopped being a problem to supply lines – or they abandoned the castle to stand on its own and much of the locals turned on the partisans for it after it fell. Why would they feed or aid those who abandoned them to the mercy of the enemy?”
+
+Mother had once told her that the first governors sent by Malan had been explorers and colonists, building men. But by the time the war truly started those men had long been replaced by soldiers trained in all the clever cruelties of conquest.
+
+“A ruthless stratagem,” Angharad said, looking down at her hands. “There seems to have been a surfeit of those employed.”
+
+“It’s not on your head,” Maryam said. “You weren’t even born when Zarla’s Drift fell.”
+
+Ester cleared her throat.
+
+“Besides, the comparison is not entirely apt,” she said. “There is a third side to our war here.”
+
+“Scholomance had been worryingly quiet,” Angharad agreed.
+
+Common belief was that the god in the walls had spent the last month mustering its own force to hit both sides while they fought over Wei’s redoubt. Just as the Machinist’s forces had made every new revenant they could and Azocar had prepared troops for a push, Scholomance pulling back her kobaloi and the blinded onjancanu leading them hinted that the god was massing its strength for a decisive battle.
+
+“If today goes poorly, it might lead to a student levy,” Maryam muttered. “Azocar has been firm about restricting participation to volunteer brigades of students for now, but if the battle for the bastion is botched there’s only so many places to get the bodies from.”
+
+“What would it change for us?” Ester shrugged. “It was never in the cards for us not to participate.”
+
+And not just because of their interest in what lay past the fort. Wei’s obsession with Angharad had been of too much interest to the Watch for them to allow her to sit the assault out, though Song had struck a bargain so that they would be able to operate with a degree of freedom.
+
+“We will put an end to it,” Angharad evenly said. “She has run free for too long.”
+
+“We’ll find out in a few hours, I suppose,” Maryam said. “Throwing everything at the bastion should ensure a victory.”
+
+A pause.
+
+“Or a crushing defeat.”
+
+Twin looks were leveled on her.
+
+“This is why Song does the speeches,” Ester said.
+
+But at least Angharad’s lips were twitching. And, wonder of wonders, there was finally movement from the right direction. Izel was walking around, accompanied by a pack of students and professors that the Thirteenth had been requested to ferry. Maryam pulled her hood up and stepped into the rain, joining them along with Angharad, and clapped Izel’s shoulder.
+
+“No Ishanvi?” she asked.
+
+Izel blinked at her.
+
+“I thought she was with you two,” he replied. “She wasn’t at the muster point with all the other passengers, so I assumed she’d met up at the Rainsparrow.”
+
+“We have not seen her this morning,” Angharad slowly said. “And yesterday she was quite explicit that she might have news for us.”
+
+“Maybe she headed straight for the ship,” Ester suggested.
+
+_Maybe_, Maryam thought with a frown. They’d find out soon enough, since they were headed for the skimmer. It’d be a shame if she slept past the hour after reading too late into the night, but the Thirteenth couldn’t wait. They were on a schedule, and would have to leave port within the hour lest they risk missing the assault.
+
+Ishanvi did not turn out to be at the ship but Tristan was, with Song, and between that and the dawning assault she put it out of her mind.
+
+--
+
+Maryam suspected that part of her would always hate giving up the wheel to someone else, but Bolic had proved an apt navigator. She would not trust him with Watch maps unless she must, but he could handle taking the ship through Sheba Bastion and to the far shrine easily enough.
+
+The main deck was lively, crowded with the Scholomance volunteers the Thirteenth had agreed to ferry across the waterway on the morning of the assault. Mostly students – and most of them Skiritai – but also a few patrons and professors. She’d posted Poltava at the bottom of the stairs to ensure that no one went sniffing around the personal affairs of the Unluckies down below.
+
+Maryam had no intention of joining the press on the deck. Instead she had given the wheel over to Bolic so she could swing around the side of the captain’s cabin and take the brass ladder up, hoisting herself rung by rung. The perch above the cabin was a fancy crow’s nest in all but name, with a brass roof and a glass panel on either side – one of them cracked by the ketos and much, _much_ too expensive to be replaced – to shield whoever kept watch there from the elements.
+
+Maryam’s fingers closed around the same rung where she’d flinched last time, given in and turned back. The fear was still there, the wall of silence surrounding above. People didn’t disappear into corners when they felt like talking.
+
+She breathed out, let the fear settle and pass. Then she began climbing again.
+
+Tristan was sitting by the edge, legs dangling over it as he looked out into the distance. A look was spared for her as she climbed in, a nod, then he went back to his staring. She didn’t mind; it’d take her a bit still to gather her courage.
+
+His fighting fit was slightly rumpled, as always, and his worn leather tricorn back over his head. It was no longer angled to hide the golden stripe in his hair not because the angle had changed but because the stripe was no longer there. She’d seen it when he first came out of the hospital, but there was a fresh reminder in how the slight piece of lock that should have peeked out from under the rim was gone.
+
+Fortuna’s mark on him had faded in color week by week while he was stuck in bed, but it had still been a shock to find it entirely disappeared.
+
+“Ester seems in a good mood,” he said, breaking the silence first.
+
+Maryam went to sit beside him, close but not touching, and followed the cast of his gaze. Her sister was chatting with Professor Artigas and Guadalupe de Tovar, waving animatedly and burning bright in a way that she could only envy. Maryam simply didn’t have it in her, the flame that drew people. What Song had, what she thought her sister might grow into.
+
+“She felt hemmed in before,” Maryam said. “I kept her out of sight, under indirect names. Now she gets to spread her wings.”
+
+“Good for her,” Tristan said.
+
+The tone was shallow. Not insincere, but lacking depth. What he had of that was promised to other labors.
+
+“Do you want to talk about it?” Maryam asked.
+
+She looked at him as she asked, read in his momentary stillness how he considered playing dumb and then discarded the idea. She was still worth that, at least.
+
+“No,” he finally replied.
+
+She could have pressed, told him that silence would not help Fortuna, but it would do no good. You didn’t get Tristan Abrascal to open gates by knocking at them.
+
+“Tell me about Scolomancia,” she asked instead.
+
+That surprised him, she could tell.
+
+“She’s around us,” he said. “She has plans for today as well.”
+
+They’d all known as much. The disappearance of the kobaloi had been telling. As was the way he had immediately tried to redirect her question into a tactical matter, not that she’d let him.
+
+“It’s more than just glimpses now,” Maryam stated. “You can feel her, can’t you? Speak with her.”
+
+His jaw tightened. He did not deny it.
+
+“Priesthood?” she asked.
+
+“It has been offered,” he admitted.
+
+Maryam did not hide her relief at the implication that he’d not accepted. She was not sure that taking up the priesthood of the god in the walls would be enough to get him executed, but she did not think it unlikely either. Certainly not with all the black marks their records had been picking up this year.
+
+“I can’t think of too many things she can offer that would tempt you,” she said. “Only one, really.”
+
+His fingers clenched. She had gotten there anyway, just the long way around.
+
+“Clever,” he praised.
+
+Were he on more even keel, there would have been genuine appreciation in that. Enough that she’d be tempted to preen. But he was pulled so taut the slightest tear would split him, so this once it was just words.
+
+“I wish I wasn’t,” Maryam honestly replied. “That I didn’t have to be.”
+
+He chewed on that, she could tell. And whatever the calculus taking place behind those gray eyes, it yielded the result of a long exhale.
+
+“She can help me free Fortuna,” he whispered. “The canyon is leverage, Maryam. She put it there so I would have to ask for her help.”
+
+Because a bare, open path into the gunline of a bastion was not something a Mask could get around. There was no cover, no room to maneuver and make use of the skills he had been taught. The god had made it so that Tristan must either wait for the Watch to win this for him or take the offered bargain. And they’d all seen the canyon: it was a killing floor. Assaulting the bastion through it was going to be a costly and risky affair. The god opening up secret paths had better chances of succeeding.
+
+Maryam did not ask what Scolomancia wanted him to give up. She had her suspicions, but in the end the only thing that mattered about the price was that he’d balked at paying it and that giving in would make him a priest to this carrion god of death and defeat.
+
+“I’m worried about you,” she said.
+
+He snorted.
+
+“It is dire straits,” Tristan dismissed, “but there is always-”
+
+“Not the situation,” she cut through, “I mean _you_. Anyone can put on a robe and call themselves a priest, but Scolomancia’s looking to make you her celebrant.”
+
+“And?”
+
+“And that means there is enough death and defeat in you that a god of it found you a fitting high priest,” Maryam simply said.
+
+He smiled and she immediately wanted to rip it off his face. That was the rogue’s smile, put-on theatre. It had no place in this conversation.
+
+“Well, it _has _been a long year and we are barely four months into it,” he drawled. “Why, at this rate-”
+
+“No.”
+
+A pause.
+
+“No?” he asked.
+
+“Refuse to talk, if you want,” she said. “I’ll stay on that side of the line. But don’t you fucking try to _handle_ me, Tristan.”
+
+There was a beat of stillness, then he grimaced.
+
+“That never really worked with you, did it?”
+
+She let it ride. He rubbed at his forehead.
+
+“What do you me to say, Maryam?”
+
+_That you love me_, she thought. _That you’ll still be alive by month’s end. _Everything else they could mend.
+
+“I want you to tell me why you’re so sure Scolomancia can help you free Fortuna,” Maryam said. “She’s already tried and failed to drive out the forces of the Machinist. You know bargaining with her is a bad idea, plainly.”
+
+“I gave the right way a chance,” he sharply said. “Don’t you pretend otherwise. I was patient, I sat down and did the work like a good reasonable boy in the hopes that we would pull through. That the Watch would pull through. And we haven’t.”
+
+He bared his teeth.
+
+“How much of Fortuna will be left by now?” he asked. “Half, a third, a quarter? I don’t know, Maryam, but I’m done waiting. If I have to pray for deliverance, it might as well be to an altar that’s going to pay up _something_.”
+
+“You haven’t answered my question,” Maryam said.
+
+His brow creased.
+
+“I did,” he said. “What do you-”
+
+“How do you_ know_?” she insisted. “Scolomancia can lie, and she obviously doesn’t mind twisting your arm. Even if she does offer you some secret path to the neitspawn, deigns to let you use her minions as footsoldiers, why are you so sure that it’ll work? She already wanted the revenants gone and she couldn’t do it. If you become her priest, all she’s gained is you.”
+
+She stared him down.
+
+“Do you think a single priest will be enough to swing the balance her way?”
+
+“I,” he said, licking his lips.
+
+_You should have seen that_, she thought. Even at his most terrified, his most desperate, Tristan kept clear eyes. It was the talent the Krypteia had wanted him for. So why hadn’t he, this time? Something had covered his eyes. And it was tempting to blame Scolomancia for that, the god’s influence, but she shouldn’t have that much reach. Not unless she was let in first, and that meant someone had opened the door for her.
+
+“What did you meet down in that layer?” Maryam quietly asked.
+
+He swallowed.
+
+“I’m not allowed to say.”
+
+_Allowed_. As in officers had forbidden him to speak of it. And there was one towering, terrifying figure that Maryam knew for a fact was treated like a disease needing containment. Yue had told her about it, warned her off ever encountering them back when the Thirteenth was trying layers. She breathed in sharply, struggling for the right words. Anything too open could get him killed.
+
+“Thus I have learned the language of all living things,” Maryam said.
+
+He hesitated, weighing if he’d get away with it.
+
+“Its name is violence,” Tristan replied in a whisper.
+
+Lucifer. Fuck. He’d met the Lightbringer down there. Even a shadow of that thing was enough to drive a man mad. The Lightbringer’s sight was said to be second to none, both ahead and behind. He was the only known example of absolute concurrent actualization, the only reason the Akelarre even knew it was possible. And now it began to make sense, how things had been going. Maryam forced herself not to think of it as an Unlucky but the way a creature like that would see it, the bird’s eye view.
+
+This wasn’t about Tristan, Tristan was a tool. One being aimed at something.
+
+“Who is the enemy?” she asked.
+
+This time he did not hesitate. If anything he sounded relieved.
+
+“The Machinist.”
+
+She closed her eyes.
+
+The Machinist was hidden deep inside Scholomance. Which meant Maryam-the-creature had one arrow to fire, and it was already headed the right way: into the school grounds, for the delve. It would need to get through the Trench though, through the lake, through the canyon. Only when past all of it could it reach the Machinist and harm him.
+
+And what she saw was that the odds were _bad_.
+
+The Thirteenth and their allies wasn’t much of a muster, and they were facing great enemies – several of which were out to get them in particular. In the Trench alone it would be child’s play to take one wrong gamble, lose two of the Unluckies and then the brigade was dead. Tristan would try to push through on his own anyway, die. The arrow wasted.
+
+No, you had to twist the odds. And you had to do it without using a single speck of power beyond knowledge.
+
+The answer was Scolomancia. The god created under Lucifer’s reign, still haunting his palace, put there for the purpose of protecting something. Scolomancia, who wanted the Machinist out and was throwing minions at the problem in fruitless attempts.
+
+Scolomancia moved the Trench, ruled the shrines and the water. She was the one who set the final road the Repository, the one who would never balk at sacrificing something kill the Machinist. The best way to land that arrow was to make sure that Scolomancia fought _for_ it to get there instead of against, but the old bitch was a blunt instrument. A shackled monster swiping at anyone who got to close.
+
+But she wasn’t only that, was she? She was also a god. If Tristan Abrascal was made into something that belonged to her, something she treasured, he could get through. He wouldn’t want to, though. He was already a priest to the Lady of Long Odds and he wasn’t desperate enough to renounce that. Besides, there was not enough death or defeat in him to pattern mirror something like Scholomance.
+
+But that could be fixed.
+
+A single conversation wouldn’t be enough, but it could slide in the right words. You could operate on Tristan Abrascal with cold precision, cut into his trust and his love and everything that kept him together. Undo the seam, just a little, then let the world pull at it for you. Delay. Defeat. Exhaustion. Fortuna still just a little out of reach after every victory, days and nights passing relentlessly. All of it making him an increasingly better mirror to Scolomancia, all leading to that fool run down the canyon, getting him shot and laid down for a month.
+
+More than he could tolerate. He would put it all on the line today because there would be no tomorrow, no other chance. If the garrison failed it would not launch another assault for months and by then Fortuna would be gone. So today Tristan Abrascal took the deal. Became the priest, wielded all that gave him and mustered every inch of that power to reach the Machinist. The arrow found its mark.
+
+Maryam could only wonder at what the outcome would be. She didn’t think that Tristan could do it even if given leave to command Scolomancia’s horde, but it might not be what Lucifer was really reaching for. Maybe the attack would be enough of a distraction that the Watch could take the bastion and finish the Machinist, or maybe it would go so catastrophically wrong that the Watch panicked and called in mass reinforcements to drown this mess in steel.
+
+Maryam couldn’t know, not without reading the world the way something like Lucifer could. Even beginning to glimpse what existence was like from that perspective felt... vertiginous. Staring down past the edge of the cliff.
+
+What she_ did_ know, though, was that the Lightbringer wouldn’t care what was left of the arrow after it wounded the Machinist. And now she knew exactly who had convinced Tristan that Scolomancia could give him what he wanted, who had slid in a single sentence like a knife and let the world do the rest of the work.
+
+“You’re a lit grenade being thrown at the Machinist,” she quietly said. “You’re not meant to come back from this, Tristan. Your death is part of the plan.”
+
+He was silent for a long, ugly moment.
+
+“I can’t abandon her, Maryam,” he whispered. “I just can’t. I guess he saw that too, that even knowing it doesn’t change things enough. He knows everything we ever put out in the aether.”
+
+And there was the true horror of what Lucifer had done, she thought. This far in, even knowing he was being used wouldn’t be enough to change Tristan’s mind.
+
+Maryam looked at him and sought the words. Something that would convince him, even as part of her whispered that it couldn’t possibly work. That Lucifer would have seen it coming too, that he would have- Maryam glanced down below, at the laughing Ester. At her little sister, who for so many years had been force-fed the worst of her. Her lone living eye turned to Tristan.
+
+Lucifer, it suddenly occurred, didn’t know her. He could not, when Maryam had been pushing off the worst of her into her sister’s soul instead of releasing it into the aether. His conception of her would be flawed.
+
+She was, until she stepped out of it, in a blind spot of the Father of Lies.
+
+The moment she spoke, though, that she put herself back into the sight? She became predictable again. She had one chance, one shot. The abrupt weight of that realization had her clutching the edge of the perch hard enough her fingers ached. Could she really? After the botch of year they’d had, the disappointments and the conversations unsaid. To say something was on the mend was, stripping out the sentiment, to say it was still broken.
+
+Gods, but she wasn’t a schemer. She didn’t have that talent, the knack to turn a phrase into a lever that’d move a soul. All she had was too much anger and the candle of hope she’d been allowed to kindle in this place. No, it wasn’t in her to move him if he didn’t want to be moved.
+
+So instead Maryam looked down below and told him something she never had before.
+
+“I didn’t plan to choose you, on the Bluebell,” Maryam said.
+
+He stilled. She had his attention.
+
+“When Song and I talked about prospects, I thought Ishaan was the most promising,” she told him. “He had a contract that seemed useful, came with a gunslinger attached, he was scholar in metaphysics – useful stuff for both Song and I – and he had family in the black, which means connections.”
+
+And he’d been Someshwari, which was not as good as Tianxi but a lot less likely to treat her like an escaped slave than some.
+
+“But you did not approach his group,” Tristan said.
+
+“I was still leaning that way until we made shore,” Maryam said. “Until we looked out at the distance together and we saw some of the same things. And I knew, then, that if I chased after the smart prospect instead of running down the rabbit hole with you I’d regret it.”
+
+She touched his wrist, ever so gently.
+
+“And I haven’t,” Maryam said. “Regretted it.”
+
+She withdrew her hand.
+
+“I love you,” she gently said. “We haven’t decided how, but that doesn’t really matter. I do. And as someone who loves you, I tell you this: you disappoint me.”
+
+He looked like she’d just knifed him, but she steeled herself.
+
+“I’m not the only who chose you,” she said. “Song did. Izel. Gods, _Angharad_ chose you and then broke you in to it like you were a nervous horse. And Fortuna too.”
+
+She shook her head.
+
+“I won’t pretend to grasp how it was with you two,” she said. “How is started, what it was. But I know she chose you, because no one who ever saw how you were with each other could call it anything but love.”
+
+She met his eyes with her own.
+
+“And when you climb onto that pyre you don’t even really believe will save her, Tristan, you spit on all those choices. Mine, theirs, hers.”
+
+“She asked me to save her,” Tristan rasped.
+
+“Is that what you’re doing?” Maryam asked.
+
+She got up, hand on the brass grip, and looked down at him a moment.
+
+“There’s a trick to it that they don’t tell you,” Maryam shared. “Once you made the choice the first time, it becomes easier to make it again. Not quickly, mind you, and easier’s not easy.”
+
+She leaned in to press a soft kiss against the side of his head, and for a moment if felt like he was leaning into it. But just a moment.
+
+“But it does get easier,” Maryam promised.
+
+She left him sitting on his perch, and prayed to any god listening it would be enough because it was all she had.
+
+--
+
+Seventhday morning, the thirtieth of fourth.
+
+Rain fell in heavy curtains, flowing down the angled stone slopes of the canyon in streams that gathered at the bottom. The ankle-deep water splashed up everyone’s boots on its down to the shrine mouth, turning the stone perilously slick. Soldiers kept tripping and a gun carriage’s wheel had come off, carried by the water all the way down to the shore of the dark waterway below.
+
+The front rank of the Watch’s fortifications was the batteries. The cannons had been hoisted onto beds of rock-filled crates protected by sloped half-rings of gabions and bags filled with sand or wood shavings. To keep them mostly dry tarps were put up above them, kept in place by poles. One of them kept toppling until some unlucky artilleryman was ordered to stand there holding it up.
+
+There was no such rain-shielding luxury on the flat mustering grounds behind the siege investments. More than three hundred garrison soldiers had gathered here to stand in the rain, black-cloaked and hatted and armed for war. Corporals moved through the ranks, shouting and jostling to be heard through the downpour, and standing among the troops under a canopy was Colonel Fermin Azocar himself. The old man was speaking with senior officers, pointing at the bastion ahead.
+
+And then, to the side of them all, were the Scholomance lot. Student and instructor volunteers who had come to make war on Cai Wei and her brood of walking corpses, to slay the aether-forged horror hanging off the cliff above the bastion. The Thirteenth stood among them, as did their allies, but she had stepped away to get a better look at the canyon. It would soon begin.
+
+Wide-brimmed hat angled to keep the rain out of her eyes, Song Ren pulled out her old pocket watch and watched as the needle chased down the inevitable.
+
+Ten o’clock came with a tick, then passed. Ten seconds past, twenty, thirty-one-
+
+-the two mortars of the Watch belched out plumes of sulfurous smoke, iron balls sent flying up with whistles that cut through even the rain. The first ball hit the right side of the bastion, smashing hard into the stone, but the second wildly overshot and hit the cliffside above the great monstrous spider. It came apart in a burst but did not even make the monster, the neitspawn, flinch.
+
+And as if the mortars had smashed open the gates of the Earthen Court, death came pouring out.
+
+From the heights of the bastion, the ramparts of statues and packed debris lit up in spurts as the revenants fired every cannon they had been able to scrape together. Song counted them – six, ten, _fifteen _– and her shoulders tensed as stone balls and bronze shells hit the Watch’s circumvallation, the walls of gabions and crates ferried tirelessly across the waterway.
+
+Wood and stones broke, sand went up in plumes and there were screams when a ball skipped off the top of the investment and went careening behind. It took off a man’s leg at the knee and bounceed up into a woman’s ribcage to lodge itself in a burst of gore. First blood went to the revenants.
+
+Song closed her pocket watch, the clean snap of it audible even through the rain.
+
+Not all cannons had reached the stacks, and some old piece had misfired and blown instead, but nine shots had still hammered into the Watch’s investments. _Fewer than we brought, but they have the heights._ It was easier for the revenants to hit the blackcloak battery than the other way around.
+
+A heartbeat later, the Watch returned fire.
+
+The mortars belched first, arcing their shots through the rain, but the garrison had brought war guns to bear and these roared out: the six bronze culverins spat tongues of smoke at the bastion, their shots tearing into the walls. They broke and cracked stone, but the walls were thick and the angles of the triangle sapped the shots of much of their power – several bounced off the slopes and were lost in the side halls. The commanding officer, an old acquaintance, saw as much.
+
+“Up,” Lieutenant Navpreet shouted. “Sweep the battlements!”
+
+At her order the last of the Watch cannons, four falconets, fired at the enemy position. Half the shots were too low or too high, but one smashed through a statue and another hit an enemy cannon on the mouth. The old thing went flying back as if kicked by a god, crushing a revenant and toppling munition barrels – thought not detonating them. It was still one less cannon to worry about.
+
+A breath later, the revenants fired back and as the two sides settled into that brutal dance the world was swept away by a tide of powder and shouts.
+
+Song watched it all, swallowing drily. The lucky shot that’d killed a cannon did not repeat. Instead artillery crews milled about like ants on both sides, filling the air with smoke and death as the noise of it all grew crushing, rattling inside her bones. Heated iron sizzled against the rain as artillerymen cleaned, loaded and rammed their deathly machines. Chasing that next shot. That next hit, that _break_.
+
+“Of the three punishments fear most the Fire Torture, for its torment is the greatest,” Song quote in a whisper. “The flames of the Earthen Court blacken the earth and smother the sky in smoke.”
+
+“It’s a beastly view,” Izel agreed.
+
+Her hands clenched, though she had enough mastery of herself not to flinch. The tinker had been standing so quietly by her side that she had entirely forgotten he was there.
+
+“So it is,” she forced out.
+
+Izel cleared his throat.
+
+“The Earthen Court, it’s where the Tianxi claims souls stop on their way back to the Circle Perpetual?”
+
+She nodded, filing away that he must have been raised _Jiaxin_ – the false faith, northern Orthodoxy.
+
+“Where the worthy are wiped clean and sent on their way but the wicked must be scoured clean instead.”
+
+“And your death god the Red-Crowned Official decides who’s wicked and not,” Izel continued.
+
+She winced.
+
+“Red-_Robed_ Official,” she corrected. “There is no crown. And he doesn’t do it alone, under him are the Nine Judges of the Court.”
+
+There _had _been a crown in the Earthen Court, once. No more. Not after the Grand Heavenly Emperor was dragged to the foot of Sangshan in iron chains, cut into four quarters and buried under the river flowing from that mountaintop. The Official had wisely bowed to the people afterwards, put down his crown and become a bureaucrat overseeing the Earthen Court instead of a tyrant claiming to rule over it.
+
+“Well, your god will have his work cut out for him today,” Izel grimly said. “Azocar just gave the order, they’re going to start.”
+
+He was right. The garrison sergeants were shouting, leading men in groups of at least a dozen to pair up and hoist the handles of gabions, those wicker baskets filled with rocks and wood. Another thundering volley from above was answered from below and in its wake shouts of _now, now!_ erupted along the line. The rooks broke cover, charging ahead into the smoke and rain with their gabions in hand.
+
+They stretched out in a diagonal crossing the width of the canyon, the captain among them obsessively kept checking her watch under the cover of her cloak. _They waited until they had the measure of how fast the enemy can fire_, Song thought. And just before that time came, the captain shouted _down, down!_ Down they went, dropping the gabions and laying prone in the water.
+
+A single row of wicker baskets was not much protection, and Song’s nails dug into her palm as she watched three shots tear through them and the prone men behind them, spurts of blood and bone and screaming. The captain went back up to her feet once the storm had passed, checking her watch still and screaming _back, back!_ as they began to withdraw to the investments.
+
+“They’ll have to do it again,” she said, throat tight.
+
+“Azocar will rotate the units, if he has any sense,” Izel said. “But yes. They’ll make that run until the sap – that diagonal line of gabions – can be reliably used as cover.”
+
+His pointed finger followed the diagonal going from left to right, stopping at the end.
+
+“And then they’ll start again,” he said.
+
+His finger went from right to left in a diagonal that cut forward into the canyon.
+
+“And again after that, until they’re in charging distance of the bastion,” Song whispered, imagining the crisscrossing lines getting ever closer to the fort. “Gods, the casualties we’ll take...”
+
+“Their cannons will have to stop soon,” Izel clinically said. “They’re old models, and not well-manned. But our culverins and mortars will have to stop as well and the falconets aren’t going to do much more than batter those battlements.”
+
+He grimaced.
+
+“Not that it will spare us much death: the real casualties will start when we enter musket range from the bastion, about two hundred yards in.”
+
+Izel pulled his cloak tighter around his shoulders.
+
+“I expect that the reason Azocar decided to attack today instead of tomorrow is in the hopes that the rain will be a plague on arquebuses and older guns, anything that uses wicks instead of flint.”
+
+“We’ll still lose dozens,” Song said. “More.”
+
+“The better part of a hundred, at least,” Izel said. “And that’s before the bastion is stormed. That part is always the bloodiest.”
+
+She breathed out.
+
+“Did your father teacher you that?”
+
+His face pulled tight.
+
+“I know entirely too much about war,” Izel said. “But then you have to know something to truly hate it.”
+
+He shook his head. At the edge of the investments, soldiers in black cloaks were massing again. Gabions in hand, hoping that when the hand of death came down they would not be the ones picked. In the distance the enemy’s cannons had gone silent, waiting for the charge to fire. Cai Wei was a fool, but not an idiot. She’d realized what the Watch was up to.
+
+“Come,” Izel said, tugging at her arm. “They won’t need us for at least another two hours. We’re not going anywhere until their guns go silent.”
+
+Song took one last look before she let him lead her away, at the silhouettes on the heights and the smoke batted down by the rain and the blood in the water. Past those walls was her sister’s life, her family’s life. Tristan’s oldest friend and Angharad’s honor.
+
+Well worth storming the Earthen Court for, so she would.
+
+--
+
+The climb began slightly past noon.
+
+It had been exhausting in a way that Angharad found it hard to describe to watch the garrison soldiers crawl their way through the canyon, battered and bloodied by the revenants above. Some of those bodies had stayed half-floating in the water for an hour before the time was finally spared to drag them away, but they’d been preceded by the streaks of red blood that flowed down to the shrine mouth.
+
+It was a kind of bravery Angharad had not known before, the way these soldiers had crisscrossed the canyon building their gabion walls under enemy fire and dying for it. Not even fighting the enemy but putting your life on the line to buy someone else the chance to fight them. She was not sure whether she was horrified or moved by the sight of it. Perhaps some of both.
+
+Either way, when the blackcloaks reached musket range of the bastion and began trading fire with the revenants above the push slowed to a crawl. It was time for the second part of the assault to commence, the one where Angharad would get to put her sword on the scales instead of Watch as brave lives were reaped from the heights.
+
+Colonel Azocar gave the order, and soon the front was drowned in those odd Tianxi grenades – Feng Chen Pao – that blew into clouds of thick smoke. There was no need for a signal after that, they’d all been waiting for the moment.
+
+The sixty-odd Scholomance volunteers opened the climb not at a run but with spikes and hammers, nailing footholds into the canyon slope. Angharad measured the strength of her blow: it must be strong enough to drive the spike into the stone deeply enough it could bear a soldier’s weight but not so deep that boots would slip trying to rest on it. The battering rain made it harder than it needed to be, turning the stone darker and slippery-slick.
+
+Tristan was a better hand at it at this sort of thing than she was, by virtue of long practice, but he was also likely to rip his stitches swinging a hammer. There was probably a particular knot meant to be used when she tied the rope around her waist to the hook in the spike, but she had not thought to ask it and it was too late to turn back.
+
+She’d not surrender her place in the vanguard unless forced.
+
+The slope was relatively gentle and they were well-equipped for the climb, so the hardest part ended up being the weight they carried. Arms and equipment – the large box strapped to Izel’s back – munitions that all added up to unpleasant clumsiness the higher she reached, the rain slapping at them as she moved and soaking the straps. Even with a hat on she felt like a drenched dog, rivulets of rainwater getting past the tight waxed collar Song had insisted they wear to mix with the sweat trickling down her back.
+
+Two thirds of the way to the top, the shooting started.
+
+The smoke had served as decent cover, but the inclination of the slope meant that had to leave its protection sooner or later. The revenants had noticed and Cai Wei must have ordered them to turn a cannon on the climbers, because a shell hit the wall twenty feet below Angharad and bounced off into the distance. There were shouts of dismay from some climbers, but it’d be riskier still to abandon the labor this far in.
+
+They kept climbing.
+
+It had always been the plan that they would be seen. There was a reason that Angharad’s rope line was the one closest to the bastion.
+
+The moment she heard the cannon fire the second time, she flicked out her contract. Rolling her eyes at what she saw, she gave rope and slid down a dozen feet as canister shot tore with red-hot balls where she’d been nailing a spike. There was a shout from further down the climb. Really, how many canister shots could Wei feasibly have? How petty to waste one on a chance at Angharad while being actively besieged.
+
+The cannon shot twice more before falling silent. One went wide, by accident landing near a munitions pile of the Watch past the investments and very nearly being a disaster, but the second scythed through a Skiritai climber. The death rippled when the man’s corpse went flying, tearing several knots of ropes and collapsing most of his climbing line. Angharad grimaced. The slope was light enough that falling down to the bottom shouldn’t kill you unless it was headfirst, but it’d still end up in broken limbs for certain.
+
+But there was no time to spare for sympathy: the spike went in, Angharad hoisted herself onto it and then reached for the top edge of the canyon wall to wriggle past it, rain falling into her face. She’d made it to the top.
+
+Even as she cast a look around and secured the rope other climbers began going over – Captain de Tovar had actually been ahead, but also short enough she’d had to nail a second spike instead of being able to push up as Angharad had – and in a matter of moments the six remaining rope lines were in place. Captain Rhys Kota, who’d been among the vanguard, whistled sharply.
+
+“Tovar, Tredegar,” he called out. “I want eyes on the west edge.”
+
+Their eyes met under the rims of their hats and a nod was shared, Guadalupe and Angharad setting out with blades out. She’d been curious about what the top of the canyon would look like, and the answer was a little disappointing: it was essentially a long rectangle of the same gray stone as the slope. There _were_ two wooden structures touching the western side of that rectangle, though, so they headed to the closest one.
+
+Now, Angharad thought as she reached the first, _that_ was more like it. The western slope was even gentler than the one they’d climbed, but that was because it’d been hacked up into a half a hundred layers of terrace farms. The lay of them was uneven, some accommodations had been made for water channels meant to feed the farms, and the grounds had been overtaken by a tangle of trees, moss and stagnant pools.
+
+The wooden structures they’d seen from a distance were old bridges going from here down to the bottom, held up by thick wooden poles. Much of the wooden had rotten away or been carried off by the wind, and the two still standing were not the only ones: there were half-standing remains of what must have been another three bridges scattered around the green woods.
+
+“Movement,” Guadalupe the Tovar said, pointing her rapier down.
+
+Angharad soon found what she meant. There were silhouettes creeping through the bottom rungs of the terrace farms. Small but nimble, and there was not a black cloak in sight_. We’ve found where Scholomance mustered her troops._
+
+“I’ll warn them,” Angharad volunteered, only when she stopped halfway into the turn.
+
+Because there were people on the bridge now, passing above the horde, and they wore black cloaks. They were led by a figure in a black Tianxi jacket and long skirts, an arrangement she had encountered before.
+
+“What do you know,” Guadalupe de Tovar said. “Our friend Cai truly does thirst for your company, Angharad. I’d not expected her to actually show in person.”
+
+“We have business yet to settle,” Angharad said.
+
+“I’ll carry the warning,” Guadalupe offered. “Give her a warm welcome on our behalf, would you?”
+
+Angharad’s hand closed around her pistol.
+
+“I shall endeavor my best,” she said.
+
+The revenants did not tire, did not care for slopes or heights or pace, and neither did Cai Wei: they went up that bridge at a pace even a horse might envy. There were no more than a dozen blackcloaks on the heights, so Angharad grit her teeth and drew only long enough – glimpse, miss, adjust, glimpse again – to put a bullet in a revenant’s belly before withdrawing to the gunline that Captain Rhys had put together.
+
+There was no standoff, no speech, no theatre: once Cai Wei crested past the end of the bridge, the blackcloaks unleashed a volley and the skirmish began.
+
+The revenants all wore blades and a few of them pistols, none of them muskets – they must be up on the walls – but with how quickly they were able to close it hardly mattered. The gunline only got a second volley in before they had to toss down the muskets and draw, the lines of twin black cloaks ramming into one another like runaway carriages. The revenants had the advantage in numbers for now, but watchmen were still climbing and the third wave should have Navigators.
+
+Angharad could have gone looking for her, but she knew there was no need. She simply moved to the edge of the melee and waited.
+
+It took exactly seven seconds for Cai Wei to come for her life.
+
+The guandao’s blade whistled through the air as Wei leapt out of the melee in a deep lunge, Angharad narrowly backpedaling out of the way. She didn’t take the opening seemingly being offered, having learned from last time it was simply a trap to get her close.
+
+“Finally out of hiding, are we?” Wei smiled, pulling back the polearm.
+
+She twirled in an unnecessary flourish after.
+
+“Hiding? I am not the one who built some lair in the depths of Scholomance,” Angharad replied.
+
+“I’d say I built you a tomb as well, but that’d be a lie,” the deserter said. “You’re getting wrapped as soon as I get my hands on your corpse, Tredegar. Setting you after your brigade should be good for a laugh.”
+
+Angharad’s teeth clenched. The hate came easy. As did the part of her that took the words as the kind of thing one said in a duel to make the opponent lose their temper, make a mistake. But then she beheld the girl whose thoughts stopped there, the one who would ignore the words Maryam spoke to her under starlight, and she killed her. She made another, and looked again.
+
+And what she saw was fear.
+
+Cai Wei’s body was not flesh and blood, it was a shell of solidified aether, and still Angharad could read the fear writ in it. The way Wei had angled herself never to lose sight of the ridge where watchmen were climbing, the way she held her guandao just a little too close to her body. The way her expression went slack when Angharad did not rise to the bait.
+
+Maryam, she thought, had been right. The woman in front of her was terrified of dying again. It was in her like a poison, pulsing along with her heart and lungs.
+
+“There is no good ending for you now,” Angharad said. “You have to know that.”
+
+“Good?” Cai Wei smiled mockingly. “That’s _yiwu _talk, Tredegar. There is dead and there is breathing. The rest is luxury.”
+
+Angharad had planned the duel carefully, sketched it out again and again inside her mind. She’d fought against every Skiritai wielding a guandao willing to spar, refining her tactics, until she came to a notion of how the fight should be fought.
+
+And the moment Cai Wei took her first step, she discarded all of it. She wasn’t fighting the woman she had thought she was.
+
+Angharad stepped into the blow, into killing range, and as the guandao scythed downward to her left she placed a small careful cut at the shoulder. And the tomic edge, Izel’s work, carved through cloak and jacket like they were paper. Now, if Wei had ignored this to pivot she could have slammed the shaft of her guandao into Angharad’s ribs. Broken at least one, downed her and put her in position for the kill.
+
+Instead Cai Wei hissed and backed away. Because she’d just been shown that her forged body was far from invincible and she was, above all, afraid to die.
+
+“What did-”
+
+She flicked her blade up, to the side. The guandao when up, so Angharad shifted her footing and cut down with all her strength. The shaft split clean in two, the tomic edge carving through with relish, and there was naked fear on Cai Wei’s face. She only wished she could enjoy the sight of it, instead of feeling vaguely dirty.
+
+She drove her back, cut by cut. Step by step. Drove her back until she was nearly all the way to the bridge, and the realization had Cai panicking – calling, through some invisible tie, on all the revenants. They peeled off the melee almost as one to fall on Angharad’s back, but a glimpse told her she had nothing to worry about.
+
+A massive flock of Gloam-black ravens swept between them and the revenants, stopping them cold, and Maryam walked out of it with her hood up and fingers wreathed in darkness.
+
+“None of that,” Maryam Khaimov said, voice echoing with her sister’s layered tone.
+
+She’d known it was a possibility but it still came as a surprise when Cai Wen _ran_.
+
+She turned clean hells and ran for the bridge, the two Unluckies hesitating for a beat before pursuing. Sleeping God but that shell was quick. By the time the two of them were standing on creaking wood, Wei was ten steps down. Back to them.
+
+That cost her, when Angharad drew the bulky device Izel had leant her and shot her in the back with the blastcap.
+
+It didn’t melt the body the way it had the false dantesvara, but it did what the device was originally meant for: it stunned her, locking her limps and toppling her to the ground. They pursued, Maryam grunting with the effort of maintaining the flock that was keeping the revenants from following them onto the bridge.
+
+“Not much longer,” the Khaimovs echoed.
+
+Angharad moved to end it, even if the thought of killing an adversary from behind left a sour taste in the mouth. She placed the blow, aimed at the neck, and swung – only for Cai Wei to gasp, moving like lighting, and strike the bridge with all her strength.
+
+It broke apart like it’d only been waiting for the blow.
+
+Cursing, Angharad tucked her blade under her arm just in time to hang on to a piece of railing kept in place by the still-standing pole below. She sheathed it in the beat that followed, turning to find that-
+
+The planks Maryam had been standing on were gone, fallen into the green. So was Cai Wei, and a scream of fear and frustration ripped out of her throat.
+
+--
+
+Tristan had never seen a battle so clearly and cleanly become a defeat before, so in a way it was instructive. He held on to the rope, boot on the rain-slick spike, and looked on as the Watch’s assault of the bastion broke.
+
+It’d seemed such a small thing, when it happened. Two revenants, crawling through the water and grime with satchels, and suddenly risen up and run for the investments closest to the bastion. One was shot in the stomach but it wasn’t enough to stop them, both of them making it over the gabion wall before dying.
+
+Then a shot had come from above, hitting one of the satchels, and in a heartbeat the bags full of pitch exploded into fire.
+
+The deaths, the fear, weren’t even the real problem. That was the sortie, the rows of revenants – few dressed in black, old civilians rustled up for the occasion and armed with dusty weapons – that were thrown at the investments. They were heralded by two of the cannons fallen silent being wheeled back out, emptying canister shots at the further investments. It killed and wounded few, but it did stop reinforcements cold.
+
+Last on the Thirteenth’s rope line, almost at the top, Tristan watched with cold and bloodless clarity as the sortie swept through the outer saps. The pitch burned hot and smoky, the living soldiers behind the gabions coughing and choking as black-cloaked revenants climbed the mounds with swords and daggers to murder them in the rain.
+
+The cannons on the heights fired again, keeping Azocar from reinforcing his wavering line, and Tristan could see it all fall apart in his mind’s eye.
+
+The assault was about to fail. Wei wouldn’t be able to drive out the Watch, her revenants would be stopped cold by the order’s guns when the melee ended, but after the hard losses and the lost of the furthest saps there would be no more talk of assault. Not for months yet, until reinforcements had arrived from every nearby fortress.
+
+Scolomancia had not shown her face, but he could feel her presence hanging over him like a shroud. She was waiting for him to beg, to be desperate enough to go crawling to her for a miracle. All it’d take, he knew, was reaching out and speaking the words she wanted to hear.
+
+That and burning out the last touch of Fortuna on his soul.
+
+He could give up. Tristan was not some raving madman, he _knew _that he could give up. That he had already done more than what most would. That the thought of sacrificing his health, perhaps even his life, for Fortuna was not a choice many would make. Not even among priests, which he hardly was at the best of times. Manes, but there were many who would count him better off for the loss. Fortuna was a great boon in some ways, but in others she was... demanding.
+
+But he could almost hear the whisper into his ear.
+
+_You have new people to love who are less inconvenient_, the Father of Lies has said, speaking a merciless truth. _Not as loud or capricious or demanding. It’s best to cut ties now, when no one will blame you for it. _And then the most damning part of all: _you tried your best_.
+
+Because Tristan hadn’t. He could still do more. He could take Scolomancia’s deal, choose that Fortuna’s life was more important than his bond to her. Avoid the ugly, selfish choice of deciding she could only live if she was his, that she was only worth saving if it didn’t cost him much. That salvation should only be repaid in kind when it was _affordable_, when it was safe and easy. How fucking heinous.
+
+She’d never balked when it came to him, not even when it got her snapped up by the same aether-trap he was now thinking of leaving her in. It was worthy of shame that he’d even considered not taking the deal.
+
+Breathing out, he ripped his gaze off the dawning debacle below and planned it all out in his mind as he finished the climb. He went over the edge, grunting as it pulled at his stitches, and found the skirmish up here had mostly gone the way of the Watch. The last revenants here were being driven into a wooden bridge, and by the looks of it Angharad and the Khaimovs were in pursuit.
+
+His odds of slipping off unnoticed were much improved. He moved close to the edge and found terrace farms below as officers shouted command, sparing Izel a false smile on the way.
+
+Taking Scolomancia’s deal up here would be unwise, the odds were too high he’d be noticed and potentially stopped. Best to wait until people were setting out and slide down onto the upper terrace, make his way through there.
+
+Potential risks. Navigators? None close, though there was no telling where their logos might be. As for contracts, the only that that might be a danger was – his eyes turned to the sight of a woman standing at furthest edge of the clifftop, looking down at the bastion below with her rifle in hand. Song’s eyes might be trouble, she would be able to see Scolomancia gathering.
+
+She would need to be worked around. Tristan did not enjoy treating her like an enemy, but-
+
+_And as someone who loves you, I tell you this: you disappoint me._
+
+His fingers clenched. Maryam didn’t get it, could not. Her god was the memory of her people still free, he had... But the thought felt hollow, because this wasn’t her being sentimental. It was him failing to meet her esteem, and for someone who knew him like Maryam Khaimov did to think that stung. Stung in a way that few things had since his mother passed, because the only person to know him that well since then had been Fortuna. It wasn’t something he could simply brush off.
+
+The first step was the one that almost stopped him. Forcing his foot to move forward, his knee to bend. The second felt easier, but still cramped. Unwilling. He still did it, step by step, until he was standing on the canyon’s edge besides Song. She glanced at him. An officer’s glance, noting his readiness and then moving away as given, but an instant into moving away she stopped. Went back, looked at this face again.
+
+“What happened?” Song asked.
+
+He did not answer. In the distance there was the sound of steel on steel, the furious melee in the saps.
+
+“Tristan,” she said. “What happened?”
+
+He clenched his fingers.
+
+“Scolomancia offers a bargain,” Tristan rasped out, the words torn out of him. “Priesthood for a secret path into the bastion.”
+
+Silver eyes studied him in silence.
+
+“It’s going to shit down there, Song, you saw it,” he said. “The assault is dead and once they’re forced to pull back we’ll have to do the same up here or be cut off and wiped. I don’t have months to wait until the Watch finds its stomach again. If it isn’t _today _then-”
+
+“All right,” Song Ren said.
+
+He paused. Unexpected.
+
+“You think I should take the deal?” he asked.
+
+“I will personally knock you out if you try,” she replied without batting an eye. “But you’re right, it has to be today. If the others retreat will we have to get reckless and breach the bastion on our own.”
+
+His eyes narrowed.
+
+“You mean that.”
+
+Or she had become a much better liar when he wasn’t watching.
+
+“I left too many of you behind this year, too many times,” Song quietly said, tucking back a wet strand of hair. “It is a failing as a captain, not to know when to cut your losses, and yet.”
+
+She looked away.
+
+“I find myself reluctant to cut while the cutting’s still good,” Song said.
+
+She adjusted her hat, moving it slightly to then put it back exactly at the measured angle she prefeered.
+
+“I won’t promise victory, but I expect neither can Scholomance,” Song said. “And even if we fail... well, we’ll give them a scare. All our opponents felt our teeth this year – even Cao apparently panicked when you stole her ministry papers.”
+
+Tristan stilled. She had never mentioned that before.
+
+“She what?”
+
+Song looked askance.
+
+“Is this really the-”
+
+“_Tell me_.”
+
+“Colonel Azocar told me she visited the warehouse in the middle of the night after you robbed her,” Song said.
+
+There was no reason for Cao to really fear the loss of the money. She had been a colonel for the better part of a decade, she was a woman of means. What about the loss of the paper money could possibly...
+
+“Huh,” he whispered.
+
+“Tristan?”
+
+“I think,” he slowly said, “that we just found how to get rid of her.”
+
+“You can’t be serious,” Song said, then bit her lip. “No, later. Come, we need to gather the others. If we’re going to try for the bastion, we’ll need to time it carefully.”
+
+Only Tristan was... not stunned, perhaps, but stopped. At the deceptive intricacy of what had just happened. He’d not really spoken to Song since he failed her, since he stopped being useful enough she might go on a limb for his sake. So if he’d not just talked to her right now, in the midst of this debacle, she might never have thought to mention this particular detail to him. It might never have triggered a particular idea in him. Dozen of small things, small coincidences, all coming together in one time and one place.
+
+A complex thing greater than the sum of its parts, and all it had taken to come together was a thimble trust.
+
+He laughed, ignoring her concerned question, and covered his tired face with his hand. This entire time, they’d had pieces of the answers and simply never put them together because they’d not talked. _It isn’t enough to make the right choice once, boy, _Hage had reproached him_. You have to keep making it, else it never meant anything at all_. Even Wen, in his own way, had said it. That he needed to pick who he was, else it would get him killed.
+
+Choose. Choose the right thing, again and again until it was no longer a choice but simply who he was.
+
+“No,” he said.
+
+“Tristan?” Song asked, but he wasn’t the one she was talking to.
+
+And she wasn’t the only one listening. He could feel it slithering across his skin, Scolomancia’s attention.
+
+“Not today,” he told her. “Not tomorrow. Never.”
+
+The air shivered with warning. With a threat. The weight of it grew oppressive, as if there were lead in his lungs.
+
+“Or what, you’ll kill me?” he laughed.
+
+The hateful slice of violin was so loud, so utterly overwhelming that it blanked out the entire world. Like a scream uttered into his very soul, but he was laughing again. His fingers clenched around a coin that did not exist, flame licking at his skin but falling away as he bared his teeth.
+
+“Try it, then,” Tristan Abrascal said, a faint glimmer of gold in his gray eyes. “I bet I’ll live, _tia_. Shall we find out whose luck runs better?”
+
+The violin cut out abruptly.
+
+But the silence did not last long, for in the distance gibbering shrieks erupted. Kobaloi whipped into a frenzy, mustered into march by the great bellow of the onjancanu. And Tristan had some faint suspicions as to, uh, whose head on a pike they were being sent to collect.
+
+“Tristan, what did you?” Song asked in a strangled voice.
+
+“You can’t prove that was me,” he replied out of pure reflex.
+
+The silver stare that ensued was genuinely withering.
+
+“I did us a service, really,” he insisted.
+
+“And how is that?” she flatly asked.
+
+He considered it a moment.
+
+“Well,” he said. “I think I just secured the distraction that’s going to get us into the bastion.”
+
+He was about to duck away from whatever verbal violence was soon to ensue when something solid came to rest on his shoulder, feather light. It was, he realized.
+
+“Well now, boy,” Marshal de la Tavarin said. “You just said something interesting.”
+
+The old man offered the smile of a grinning skull.
+
+“Tell it to me again.”
+
+--
+
+They were going to need to have a word with Tristan, because the sisters Khaimov had fallen out of a tree into two ferns and a thornbush and that thornbush _hurt_. It was not at all an appropriate thing to call charming and delicate ladies like themselves, even if spoken with fondness.
+
+She spat out a leaf, rolling through a bed of vines to climb up a slippery root the size of a cow. Behind her a tree feel, Cai Wei letting out a shout of rage. She’d not enjoyed being catapulted at the bottom of a pond after Maryam and Ester figured out how to make the chord elastic. Still, they’d been concerned about getting lost before someone came for them and that worry was firmly put to rest. The repeated attempted murders by Wei were loud enough there was no way they’d be missed, though Maryam was mildly insulted that after running from them and Angharad the deserter had decided she could get rid of them now that the mirror-dancer was gone.
+
+They stopped atop the root, glancing through the aether and picking their moment as they traced Gulati’s arrow.
+
+Wei burst out of the bushes just in time for the spike of Gloam to punch into her knee. She fell screaming, clutching at the burning and oily darkness.
+
+“Normally you’d be right to think you can take us,” Maryam told her, gingerly getting back down the root. “Signs won’t actually hurt you all that much, and your body’s strong enough to overpower most bindings. I expect even a Master of the Guild would struggle to contain you, and I’m a long away from that.”
+
+Gulati’s arrow kept burning through the knee, but she could tell it did more pain than harm. It was like trying to set fire to ston. Wei finally ripped out the Gloam arrow and crushed it in her hand – Maryam relinquishing control a beat before to avoid the words of the backlash.
+
+“You’re an Akelarre-killer in a lot of ways,” Maryam continued. “Especially in terrain like this.”
+
+“A deathbed confession?” Cai Wei mocked. “A little early, but I’ll take it.”
+
+Maryam brushed off her robes.
+
+“Unfortunately for you, I’m not just an Akelarre,” she said. “And I’m not alone.”
+
+Which was when Ester punched Cai Wei in the stomach.
+
+She doubled over, gasping. Not out physical pain, she no longer had that. And Ester’s hand had gone straight _through_ the body, anyhow, to reach the soul of Cai Wei. Maryam drew on their nav, traced a Burden and slapped it onto Wei’s left leg. She tried to catch Ester, but Maryam’s sister coiled up the arm to land a brutal uppercut that toppled Wei.
+
+Maryam drew on their nav and slapped another Burden on the left leg.
+
+“This is essentially logos fencing, only you don’t know how to wield a sword,” Maryam said. “It wouldn’t matter against most Akelarre, since unless they catch you entirely by surprise you can pulp their head before they start wielding their logos. My sister and I, though...”
+
+Wei struggled to rise only to get kicked in the stomach.
+
+“We are a little different,” Ester finished.
+
+Burden.
+
+“We can do both,” Maryam said, even as Ester stomped down on Wei’s arm.
+
+Burden. The leg was so heavy now that even Wei’s forged body could not lift it. She changed target to the right arm.
+
+“And we have the endurance to keep doing it,” Ester added.
+
+Burden. Burden. Burden. Burden. Burden and a beating, until Cai Wei was moaning and shackled on the ground. Unable to get up. Ester put her foot down on the wrist of the right hand while Maryam went to crouch besides the fallen deserter.
+
+“Fuck,” Wei rasped. “_Fuck_. FUCK!”
+
+She kicked the only foot she could still raised against the ground, the sound like a whipcrack as it sent wet earth flying.
+
+“Even with the shell,” she got out. “It wasn’t enough. I was fucked from the start.”
+
+“You fucked yourself,” Maryam said, “the moment you tried to eat Angharad instead of asking for her help. If you had, Wei, she would have moved shore and sky to save you.”
+
+“I know that_ now_,” Wei snarled back. “But how was I supposed to know she actually buys into that Malani honor bullshit? I woke up already having taken a bite of her, the seeds were sown. As far as I knew it was her or me, and I won’t apologize for wanting to live.”
+
+She screamed.
+
+“I won’t,” Wei screamed. “This entire school is_ fucked_. They feed us to mazes and monsters like it’s some sort of coming-of-age trial, but it isn’t. Some of us die, Khaimov. I died down in the fucking Acallar, after a beast tore out my throat, and then they just... kept having lessons there. I’m not even sure they raked the sand my life spilled out on.”
+
+She laughed, the anger coming out unhinged – not lunatic, no, but loose.
+
+“So _sorry _for thinking this was just another pit fight, that I needed to keep my mouth shut and get mine to make it out of this place,” Wei said. “_Sorry _for thinking I deserved better than the void, or being spat back out onto the same sand where I died so some batty old killer could put a bullet between my eyes.”
+
+“Angharad did not deserve what you were doing to her,” Maryam said.
+
+“I didn’t deserve to die,” Wei rasped. “It happened anyway. We’re all fucking killing each other in this cursed place, aren’t we? Ramming the knives, and then the Watch pats the back of those who live and tells us it was all right, we deserved to win and the losers deserved to die.”
+
+She laughed.
+
+“Fuck them,” she said. “And fuck you for buying into it. It’ll be your turn one day, Khaimov, mark my words.”
+
+“And you thought the Machinist would help you?” she asked.
+
+Wei snorted.
+
+“Machinist,” she said. “That’s not a bad name, I guess. I got the impression it likes to make things. It certainly doesn’t care much for people.”
+
+She shook her head.
+
+“I know it’s using me,” Wei said. “It needs to buy time for... whatever it’s doing in there. But after I helped it win it would cut me loose, and I know what you’ll say – loose ends, cutting. But you never met that thing, Khaimov. It’s not a god, it’s... I don’t know how to say. It’s not something that needs to lie to you, the same way we don’t lie to ants. It wouldn’t _care _enough to kill me after, I was that inconsequential in its eyes.”
+
+“It may yet kill everyone on this island,” Maryam told her. “If it can make constructs like these while still contained, it’ll be a nightmare when free.”
+
+“And what’s that to me?” Cai Wei rasped. “I have no allies here, only enemies.”
+
+Maryam looked down at her, then sighed.
+
+“Just finish it,” Wei got out. “Gods, Khaimov, just end it. Enough.”
+
+“You’re right,” Maryam said. “You’re an asshole Wei, but you’re right: the Watch lost any claim it might have to your loyalty the moment Marshal de la Tavarin tried to summarily execute you in a dining room. It doesn’t make anything you did just, but the moment you pull a pistol on someone you lose the right to complain about what they do to live.”
+
+The Wintersworn had not been shining jewels of chivalrous warfare. They’d been an army of hardened warriors waging a war on Malan, and that war not been a happy business. No one had cleans hands, by the time it was ground to dust, but that did not change the fact that no one would have picked up a sword without the Malani starting that war. There had been evil all round, but it mattered who had begun that war. Who had made, in a time of peace, the choice to open the gates to chaos and darkness.
+
+Even if you lied to the Black Goat, you were a liar.
+
+“So let me go,” Cai Wei said. “I’ll leave, I swear. Find some other way off this island when the Machinist takes the body back.”
+
+“I can’t do that, Cai,” Maryam gently said. “Not after the raid, after all the students you killed.”
+
+“If you’re going to give me to them, just kill me,” she said. “I’d rather it be here and clean than what the Krypteia will dream up.”
+
+“You have red in your ledger,” Maryam said. “Instead of running out on your debts, pay them back. You have things to bargain with.”
+
+She leaned in.
+
+“Help us,” Maryam said. “You can get us into the bastion, help us kill the neitspawn and the revenants. I won’t pretend they’ll let you off with a pat on the back, but you can work to settle what you’ve done.”
+
+A pause.
+
+“And I expect the Krypteia will be very interested in learning where you got that pitch and oil for the raid,” she added.
+
+“It’s Morcant,” Wei replied without hesitation.
+
+Her surprise must have shown.
+
+“What, you think I like the little shit?” Wei said, sounding amused. “I don’t, he was just using me. I’m pretty sure he tipped of that Stripe colonel in advance, too, she didn’t act like someone surprised.”
+
+“He gave you those barrels himself?” Maryam said, disbelieving.
+
+“No. He sent his Navigator to make a ruckus near Scholomance with a pile of barrels,” she said. “I’ve had revenants looking for where he’s holed up, but it’s too far from the grounds. Somewhere east, I think.”
+
+_Oh_, Maryam sadly thought. _Bingwen, you fool, why didn’t you listen?_ That might just be the end of his time at Scholomance. Although...
+
+“Bingwen, you’re sure it was him?”
+
+“Yeah, the kid’s easy to recognize,” Cai said. “Why?”
+
+“Because you’re the only witness to a Navigator fucking up,” Maryam bluntly replied. “I think that can be swung into you becoming a prisoner of the Akelarre Guild instead of the Watch at large. At least for a while.”
+
+Wei hesitated.
+
+“You witches will still hand me off to the Watch eventually, though.”
+
+Maryam nodded.
+
+“There’s too many corpses in your wake that didn’t have it coming,” she honestly said. “But I give you my word that this doesn’t end down in the Acallar with a bullet. You get to stand before a tribunal, a real one that holds to your rights, and any good you do today goes on your slate as much the bad.”
+
+Cai went quiet.
+
+“They’ll still kill me,” she said.
+
+“Maybe they will,” Maryam said. “But if they do, you get to look them in the eyes and tell them exactly what you think of them – instead of dying here in this hole, just a line in a report they’ll skim.”
+
+The deserter’s head fell back down, against the floor, and she let out a rattling breath. Something just a little too angry to be a sob.
+
+“Yeah,” Cai Wei said. “Yeah, all right. I’ll help.”
+
+Maryam dismissed the Burdens and offered a hand. Ester was gone from sight, waiting – they were not fools – but Cai wouldn’t know the details. Maryam saw the thought come, that if she moved fast enough she might be able to crush her throat before anything happened.
+
+Cai Wei breathed out.
+
+She took the hand, and let Maryam help her up.
+
+ 
+
