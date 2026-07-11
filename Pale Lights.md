@@ -102583,3 +102583,325 @@ She took the hand, and let Maryam help her up.
 
  
 
+# Chapter 65
+
+Something had come loose when he pushed out Scolomancia. His moods came and went like quicksilver, moved by the smallest of things, and all Tristan could do was put a smile over the storm. So he did. Something was better than nothing.
+
+“Ladies, gentlemen, accomplices,” he announced. “Thank you for coming, we hope the gunfight and assorted hospitality have been to your liking. We will now be taking questions.”
+
+Drenched despite his fine hat’s valiant attempts and unsure he would ever dry again, Tristan gestured down at the tracing on the ground through the pouring rain. A few craned their necks to look again, but most had already had their fill and simply stood there huddling in their cloaks and keeping their powder dry. The better part of sixty blackcloaks had made it to the top of the cliff and lived, but barely a third of that was standing in a circle here.
+
+Only the leaders among this motley crew of volunteer brigades, short-straw drawing professors and the particular kind of unhinged that considered a death march through Scholomance’s belly to be a good time was gathered around the demonstration of the greatest sorcery wielded by Song Ren: being pretty good at drawing maps with charcoal sticks.
+
+And that map was sorely needed, Tristan mused, because the geography of it all was a little tricky.
+
+It went something like this: first, in the middle of it all there was the canyon. It ran in a straight line northwards, until it hit the triangle shape of the bastion. At that point it split into two angled corridors along the sides of the bastion, northeast and northwest, both of which ran for some time before reaching the bottom of the mechanical lifts that went up to the Glass Repository.
+
+Now, the tricky part began with this delightful crew having climbed up the west cliff of the canyon. The east could thus be forgotten about, it didn’t matter as far as this battle was concerned.
+
+So, from the top of the west side of the canyon they’d been able to learn two things: one, continuing straight west the cliff turned into another slope descending westward. That slope was a pack of old terrace farms, wildly overgrown, and at the bottom of the slope they merged into the messy forest spread out there. The northwest corridor hugging the side of the bastion turned into a road that touched the edge of said forest, and from the heights courtesy of Song Ren’s eyes – and assorted longviews – they had been able to tell what was on that road.
+
+About halfway down the bastion’s length was a ramp that led up into it, carved through the wall. Past the end of the bastion was the bottom of the western lift leading up to the Repository, as they’d expected.
+
+So! If their lovely little company wanted to get into the bastion, they needed to make their way down to the bottom through the terrace farms, cut through the forest to the northwest road and then make their way up that ramp. There were just, uh, a slight few troubles with that.
+
+“If we charge up that ramp and there’s a gunline waiting at the top, we’ll be slaughtered like pigs,” Captain Guadalupe de Tovar flatly said. “There’s not a speck of cover.”
+
+So spoke one of the foremost representatives of the ‘ambitious brigades’ corner of this crew, though she stood in fine company. Assorted standouts were Nenetl Chapul from the Third and good ol’ Ferranda from the Thirty-First. Captain Beremundo from the Eightieth was also there, presumably because almost his entire brigade was from Garrison families and down below garrison men were still dying like flies. He was not the only captain here for that reason, even a first-year brigade showing up to honor that legacy of service.
+
+Well, it took all sorts.
+
+“That implies we made it to the ramp in the first place, captain,” Muchen He said. “Which is already dubious.”
+
+It had been made dubious in part by virtue of Tristan having the mildest of disagreements with Scolomancia, who was currently expressing her displeasure by mustering an army of slavering lemures to mount his head on a pike. Some gods just took things too personally. Anyhow, that army of kobaloi led by a very large and very angry onjancanu had been hiding in the forest below and was now stomping around looking for something Tristan-shaped to murder. The big one was missing its eye, though, so already things were looking up.
+
+And not for the onjancanu, because it was blind.
+
+“The tactical situation is not optimal,” Song conceded.
+
+From Song, the kind of woman who would inform sailors headed into a hurricane that it wasn’t even the second largest on record this century, that sentence was in fact a significant concession.
+
+“Aha,” Tristan said. “Worry not, my friends-”
+
+“We’re not your friends,” Guadalupe de Tovar informed him.
+
+“I’m his friend,” Shalini countered.
+
+So stood Shalini Goel, pleased to be here despite her broken shoulder because she was a member of a second corner of this crew: the Skiritai lunatics here to have a good time, also known as killing their deserter and the enormous forged neitspawn.
+
+Shalini was the chattiest of that bunch, despite the occasional worried looks shot where Angharad had been seen climbing down a wooden post into the terraces to help Maryam finish Cai Wei, but she was not the leader of that number. That honor went to the genuinely horribly dressed old man with the triple-feathered hat, Marshal de la Tavarin. That Tristan had not noticed him coming up the cliff on a rope despite being largely dressed in orange, green and bright maroon was somewhat concerning.
+
+“And I would not mourn if he fell off ten cliffs in a row, so we can call it even,” Lindiwe Sarru said.
+
+His popularity among the Skiritai contingent was somewhat varied, one might say. Tristan batted his eyes prettily at Muchen He in the hopes of a tie breaker in his favor, but while the man smiled back it was only to better draw his finger across his throat. Eh, fair enough. Tristan _had_ shot him the once.
+
+“Friends and the honorable Guadalupe de Tovar, assorted _et cetera,_” he gallantly amended, making sure to slight Angharad’s rival in brigade solidarity. “As I said, these complications are no cause for worry. They are our very opportunity!”
+
+He pointed down at the forest.
+
+“Our shrieking acquaintances below are currently most interested in collecting my scalp,” he shared. “I had a bit of a tiff with the god in the walls.”
+
+Someone in the back made a solid crack about how even Scolomancia had thought the snail poison was going a little too far, so he winked at them. You had to roll with the punches, especially those in the gut.
+
+“It seems to me that if we can get the kobaloi to chase me up that ramp,” Tristan said, “then we have acquired a wave of meat shields that would make a charge to top of the bastion significantly less suicidal.”
+
+“Well, I’ll not vote against a plan that has you charging into a slaughteryard alone with a horde of monsters on your heels,” de Tovar said, “but you’re being a tad too cheerful for that to be the actual plan.”
+
+“Well spotted, captain,” Tristan praised, which to his pleasure pissed her off a little. “If I may invite Professor Formosa to address the crowd?”
+
+Baltasar Formosa, leading representative of the third part of his crew – Scholomance professors and patrons who had drawn the short straw when their covenants decided they must send someone to the fight for the sake of appearances - cleared his throat before stepping up to the edge of Song’s map.
+
+“The horde is being aimed by Scholomance, but in practice it is led by the onjancanu,” Professor Formosa said. “If we can get close enough to hit it with the right Signs, we can make it believe that Abrascal is fleeing up the ramp – it will then terrorize the kobaloi into following.”
+
+Guadalupe de Tovar chewed at her lip.
+
+“If we make it into the bastion and we are not immediately swept back, the revenants will have to pull back from their gunline on the heights and that will free up the regulars to charge and join us,” she said. “That part could work. It would still leave one very large problem, however.”
+
+Tristan’s eyes flicked to the massive creature called the neitspawn, that distorted spider-thing hanging from the side of the cliff. He was not the only one.
+
+“Skiritai will do the Skiritai’s work, girl,” Marshal de la Tavarin idly said. “Worry not of that.”
+
+“I worry of the lives in my charge, sir,” Guadalupe replied without hesitation. “That is_ my_ charge, as their captain.”
+
+“And also to spend them,” the Marshal smiled ghoulishly. “But it is not so pretty to boast of that, is it?”
+
+Tristan cleared his throat. Bit of a piss-in-his-own-hat moment to have to intervene in an argument between two people who quite disliked him, but such was life.
+
+“Fascinating stuff, but concerning that matter I would direct you to the Thirteenth Brigade’s contingency planning department.”
+
+He theatrically revealed a skeptical-looking Izel Coyac, who had been trying to hide behind him the whole time. Good luck with that, he was at most six tenths of an Izel.
+
+“He calls me that because I carry grenades,” Izel sighed.
+
+Although he only had the two today, instead carrying an overlarge and bulky blunderbuss that wasn’t really one at all. The tinker then tapped the large wooden box strapped to his back.
+
+“But I do have a device on me that might help in bringing down the neitspawn.”
+
+When tartly questioned as to what that device did, Izel simply pointed up and shook his head. A reminder that Scolomancia was always listening and it was best not to loop her into all of their plans. Even as far as Unluckies schemes went this one was a tad risky, but by virtue of there being nothing better on the table it passed unanimously.
+
+It then ran off the road within five minutes, as was the way of things.
+
+They found Angharad on the second terrace down, through the mystical ritual of following the trail of dead kobaloi. Tristan had not spared so much a second of worry for her until he saw her mud-touched face, at which point he was so overwhelmingly filled with relief that tears pricked at his eyes. Fuck. It had swung again. He made a fool joke about dinner plans he hardly even thought through, which had the others rolling her eyes and not paying attention to how his nails were digging into his palms until they left red marks.
+
+Angharad was pleased to see them, less so to report that there were kobaloi warbands loose even in the highest rungs of the terraces and the revenants were still lurking. On the bright side, she had caught the trail of the Khaimovs: several shattered trees, one of them looking like it had been eaten away by acid. The earlier relief turned into utter terror in an instant at the thought of losing Maryam, his eyes dilating and his breath coming short until he put fresh marks on his palm. Manes, when would the turn go back to that sort of golden nonchalance from earlier? It was easier to ride.
+
+When they found the Khaimovs, they found they’d been beaten to it: the melee raging over the massive fallen tree splitting a muddy swamp in half already had three sides to it.
+
+Scholomance’s side was hard to miss, a kobalos war pack was scrabbling up the side of the tree with old knives and rusty blades, wearing little more than rags and patches of metal scrap as they squealed in fear and excitement. The cause for the latter was clear Maryam and Ester standing back-to-back atop the fallen tree’s trunk and blasting the climbers with spinning bolts of Gloam that ripped right through their scrap armor.
+
+More surprising was how on the other side of the trunk there was another brawl, black-clad Cai Wei in her fancy Tianxi robes hewing revenants open with a long-hafted axe. Tristan spared a half moment to gawk at the sight of her splitting one in two from skull to belly, then adjusted where she stood in this when Wei punched in the throat a revenant in old iron armor before they could toss a javelin into Maryam’s back.
+
+He tried not to think too much about how that fight might have gone if the revenants had muskets to spare instead needing them all on the bastion heights. Wei was quick but not _parry a bullet_ quick. No, better to focus on how either the Machinist had turned on his traitor-general or Wei had flipped on the Principality. Either way, Tristan knew what he needed to do.
+
+The addition of six more signifiers – including a Master of the Guild – and about sixty odd muskets added an injection of overwhelming force to the fight on the Watch’s side, but Tristan didn’t even bother to draw a pistol as he moved. Let the fighters fight. Instead he deftly climbed up the side of the wet trunk, hissing as his stitches pulled tight, and after sparing a smile for the sisters he leapt down.
+
+He landed in ankle-high mud with a surprisingly wet _florp_, and instead of in any way helping as Cai Wei smashed in the temple of the last revenant who’d not died to musket fire with her backswing he waited one, two, three. When he threw his arm over Wei’s shoulder, pulling her close like a friend, he was met with startled disgust from the traitor and disbelieving noises from above. It still worked, though.
+
+Marshal de la Tavarin, who’d approached quietly as a cat and had been placing the point of his blade for a single killing thrust, proved unwilling to press that blade through Tristan’s body. Narrowly.
+
+“Let’s all put our blades down, yes?” he smiled. “There’s no need to be hasty with our friend Wei.”
+
+Their friend Wei pushed him off, but that emotional independence did not prevent her from stepping behind him to use him as cover against the guns and blades pointed her way.
+
+“Cai Wei has surrendered into the custody of the Akelarre Guild,” Maryam shouted. “She is not to be harmed.”
+
+The Skiritai were unconvinced, but Maryam spoke a few quiet sentences to Professor Formosa and the man immediately backed her.
+
+Wei and Maryam were dragged aside for a rapid interrogation – their enemies were mustering, lingering would be unwise – and Tristan slinked his way in by pretending to be carrying Song’s things. Song then actually made him do so, which was unfortunate but not unfair. Things were taking a turn, he could feel it, and the weathervane in his belly turned again. Aaah, back on hubris. _Finally._ Anyhow, Wei should have great insight into the defenses she built. And as to the speculation she could command the revenants...
+
+“I have been stripped of the capacity,” Cai Wei stiffly said. “They’ve gone back to the neitspawn’s control.”
+
+“Which one assumes will be less than tactically sound,” Tristan said. “You know, on account on her being animal regardless of the authenticity involved.”
+
+“Once he builds the beasts, he can’t control them anymore,” Cai Wei confirmed. “They obey the instincts they were imbued with. It will be smarter than the dantesvara was, but not by much.”
+
+She grimaced.
+
+“The real problem is that it’s going to run.”
+
+The Marshal looked interested, and so marginally less murderous.
+
+“And why is that?”
+
+“Because the Watch is wrong,” Cai Wei told the Watch. “The Machinist isn’t in some layer you can reach through the Repository. His workshop is _inside _the beast.”
+
+Gods, was that been what the strange aether sphere was when the false dantesvara was slain? To think he had been this close – and just the thought had his thoughts darkening, the good mood turning to gloom matching the rain.
+
+“So if it looks like the neitspawn is in genuine danger, a contingency the Machinist imposed on it will force it to run,” Professor Formosa said.
+
+Cai Wei nodded at his guess. Tristan caught Song’s eye. There was only one way to cut that retreat off and they both knew it.
+
+“You want to get ahead of it,” she said.
+
+“If it goes anywhere, it will be up. Someone needs to get on top of the cliff with something that can knock it back down. We’re the ones with the means.”
+
+Izel’s breaching machine, the same as he’d built on Asphodel. Used on a construct like the neitspawn it should vaporize a large chunk of the body the same way his blastcap had. They’d meant to use it as a way to kill the beast while signifiers held it in place, but knocking it down the cliff might do the trick anyway. _We’ll have to lower it with rope, thought._ Only they didn’t have anywhere enough of that, so a Sign from Maryam would have to do the trick instead. Song chewed at the inside of her cheek, considering.
+
+“We’ll still need to bait the onjancanu close enough for a Sign to snag it first.”
+
+Tristan grinned. The weathervane turned again.
+
+“How hard could that really be?”
+
+--“Fuck, _shit_, fuck,” Maryam hissed.
+
+She ducked but the barbed javelin still caught in her cloak and she almost tripped on the shaft, held up only by Angharad as her friend caught her elbow and sliced through the shaft in the same heartbeat.
+
+“Go,” the mirror-dancer ordered. “Help Izel.”
+
+The plan had seemed like an improvement on the old one, the well-polished lunacy that was mindscrewing the onjancanu leading Scholomance’s horde of minions with enough Acumenals that it became convinced Tristan was charging into the bastion and they had to charge after him. They’d dangled him like bait, the onjancanu had bit and Professor Baltasar snagged him in a heartbeat, the old tyrant then bullying his kobaloi into moving out.
+
+The Thirteenth had then lagged behind the main war party and waited until the thick of them were setting out before running straight for the lift. Only the moment the Unluckies actually parted ways with the rest of the blackcloaks, there’d been a terrible rippled of power in the air and more than half the kobaloi ran off after them instead of sticking with the assault.
+
+The other blackcloaks couldn’t actually shoot at them without breaking the plan and starting a fight out in the open - in musket range of the bastion - so instead they’d gotten out of the way and the Thirteenth had _run_.
+
+Maryam grit her teeth and moved her aching limbs, stopping only to wrench Izel’s grenade back off his shoulder and tell him to hurry – the crate on his back kept tumbling either way, he had to slow his run or fall but they couldn’t afford to be slow. From the corner of her eye she saw Angharad side-step two crossbow bolts and cut down a kobaloi before retreating, Song’s shot putting down her closest pursuer as the latest of many.
+
+Maryam ran and cursed and tried to stop the crate moving so much so Izel could run faster while her friends executed a fighting retreat against a tide of chittering kobaloi, and by the time she stumbled into the ornate brass cage that was the left she was breathing loud and red-faced, falling to her knees. Tristan was inside, also winded, and fiddling with a pair of levers marked marked in some ancient language that must activate the thing.
+
+Looking through the crystal walls of the lift, Maryam saw Song and Angharad abandoning the fight entirely and running for it, the dark-skinned woman stopping half a beat to drag Song out of crossbow bolt’s way.
+
+“- has to be the left one,” Izel said. “I know that glyph, it means movement.”
+
+“Good,” Tristan said. “Maryam, tell me when.”
+
+They weren’t going to make it in time, she saw. The kobaloi were too close. Those with crossbows had fallen behind to reload, you couldn’t run and do so, but the rest would pour into the lift a heartbeat after Song and Angharad did and then they’d all be fucked.
+
+Maryam gritted her teeth, she and Ester tracing even though they were getting closer and closer to their limit. The fight against Cai Wei had taken a lot out of them, and not enough had passed since. The formed the Gloam, shaped and released and set a thought at the center of the Flock: fragments in the shape of hundred crows erupted, marked with the intent to avoid Song and Angharad but nothing else.
+
+Adding a second target to avoid meant the Flock scattered quick and wild, but it was still enough to sear the front rank and let the her friends slip in two seconds before the beasts followed.
+
+“Now,” she shouted.
+
+The lever was pulled, the brass doors began to close and a spear was shoved right through. Something toothy screamed as the spearhead wriggled, looking for flesh, but everyone had thrown themselves aside. The lift began to rise as the horde of kobaloi smashed against the crystal walls, but to Maryam’s surprise they did not break. Neither fists nor teeth nor knives did more than scrape the surface. And up they went, to safety as the creatures hollered in anger.
+
+Slowly, or at last it felt like it. It might be the height of the cliff they were climbing that gave the impression.
+
+A hush fell over them, broken only by Izel’s disbelieving laugh. Maryam brushed back the hair sticking to her sweaty forehead, slumping. By the time the small kobaloi looked like nothing more than distant puppets the Unluckies began moving again, strength and lungs renewed.
+
+As they began rising towards the glass spires they were able to look down at the unfolding plan. It did not go without a hitch: the onjancanu, still under influence, was having a hard time sending the remaining kobaloi up the ramp. Trickier still, about halfway up the ramp the beast threw off the veils. It was still too late, as a mass of revenants had been sent to the top of the ramp to empty their muskets into the horde.
+
+“That is too many,” Song muttered. “They don’t have that many guns.”
+
+Cai Wei had told them that the neitspawn was not as clever as a human, and it showed: there were more guns than expected at the top of ramp because the creature had largely stripped the wall. It had seen a direct threat and thrown almost everything at it, even having some of the cannons wheeled in. It was a slaughter for the lemures, but more of a problem was that it was going to be a slaughter for their comrades as well.
+
+“Wait, no, look at the wall,” Ester said. “See the ropes?”
+
+Her sister was right. While the slaughter took place on the ramp, some of the Skiritai had begun scaling the side of the bastion and were now going over the freshly-stripped wall. They were barely a dozen, but they moved faster than the neitspawn knew how to react to: instead of hitting the gunline they silenced all the cannons before disappearing down the opposite ramp, the one on the northeast the earlier sortie had gone through.
+
+And even as shooting began from the blackcloaks at the bottom of the other ramp and the cramped gunline at the top of it, the Skiritai came back with garrison reinforcements from the canyon and flooded the bastion.
+
+“Huh,” Tristan said. “We actually won that.”
+
+“Guadalupe is going to be very tedious about it,” Song sighed. “She’ll never-”
+
+The neitspawn had evidently come to the same conclusion as they had, because as the battle turned sharply the way of the blackcloaks the massive monster began to flee.
+
+For yet another time in a too-quick succession, the plan took a turn: the beast was going up, but also to the _side_. Where the movement of their cabin had drawn its attention. In a mere two heartbeats it had caught up to every inch of progress the Thirteenth’s lift had made, of a height with them, and the creature twitched at the sight of them.
+
+Maryam flinched. She was not unfamiliar with monsters and lifts, and was quite out of fingers to spare. Izel was already kneeling on the floor, revealing a familiar device: a silvery auger with a wheel lever and a small furnace attached to a piston. The same device he’d used to punch into the layer back on Asphodel.
+
+“How close does it need to be?” Maryam asked.
+
+“Close,” Izel grimaced. “Which is where your...”
+
+He gestured vaguely would come in.
+
+“... comes in,” he finished.
+
+“The chords,” Maryam frowned.
+
+Not Signs but Craft, the secret she and Ester had teased out of the Cauldron at the beginning of the year.
+
+“It gets difficult at range,” Ester said. “It might have to wait until we reach the top of the cliff and-”
+
+“I suspect this might not be an issue,” Angharad mildly said.
+
+“_Duck_,” Tristan screamed.
+
+Glass exploded everywhere as a hairy leg punched through the lift wall, Maryam cursing whoever had thought this was in any way a clever plan. The appendage wriggled through the cabin, trying to find something to crush, and forcefully kept the lift in place as it struggled to go up. Izel still had his machine in hand so Maryam and Ester ripped out a strand of Gloam and wove it as a ribbon they tied around it. Glass dug into Maryam’s face as they tied another chord around what should be the neitspawn’s body, Angharad cutting into the leg and spraying ichor everywhere.
+
+Ester traced _in place_ against the veil, seeing what Maryam could not, and she shouted.
+
+“How is it triggered?”
+
+“Lever,” he shouted back. “Pull the lever!”
+
+Ester did, there was shrill shriek and-
+
+--
+
+Izel sprawled across the ground, face first.
+
+That was a problem, because he shouldn’t have moved at all. Shit. He’d miscalculated. The Machinists’ lair _was _a layer, or close enough, so the breaching charge hadn’t harmed the neitspawn at all: it’d punched open a door into the lair and sucked them all into there. Dragging himself up, he silenced a groan as he finally got a look at his surroundings. He’d expected a workshop or a smithy, some kind of mechanical wonderland matching the entity called the Machinist.
+
+What he was looking at was a butcher’s shop.
+
+In the penumbra of a great cavern row after row of gods hung from hooks, the chains disappearing into the dark, and their mangled bodies dripped crystal-clear blood into the gutters at their feet. The channels in the ground gathered at the foot of a simple pale stone table, on top of which waited a set of tools that it burned Izel’s eyes to behold. He would go blind looking, he thought, and turned away.
+
+Just in time to see it happen. Maryam and Ester, hanging in the air inside an amber bubble, disappeared without a sound. Expelled from here. Others were still floating inside theirs: Song, Angharad, Tristan. _The contracted_. Those that could be made into fodder for the- he saw it then, standing under the three spheres, and swallowed.
+
+It was fair to behold: a silhouette crafted in pure light, whose exact shape blinded the eye. It guttered and flickered, sometimes man and sometimes woman, but in between also shapes inhuman. Snakelike or a broad-maned lion, a thing of many folded wings or a wheel of eyes. The only part that remained the same was that it was crowned in pale gold. Hair or halo he could not tell, nor did he care.
+
+Izel had never before seen something so utterly, terrifying beautiful. The abject horror of the Machinist’s beauty had him wanting to weep, to tear out his own eyes and slam his own forehead against the ground in prostration until submission dripped red across his face.
+
+This was not something being done to him. It was, he knew as an absolute truth, the simple natural reaction of something as miniscule as him standing in front of a greater being.
+
+“Izel. Coyac.”
+
+It was not a voice. It was a harmony of buzzing, like a chorus of a thousand insect wings all slightly different from one another. It did not speak words, only shaped them. Like the meaning was pressed into the air, stamped.
+
+“Machinist,” he got out.
+
+It sounded like he was weeping, because he was. He only then noticed the tears going down his cheeks, the trails of wet. For the barest instant, he thought that the light took the shape of a man holding a smith’s hammer.
+
+“Surrender. Pacify.”
+
+He didn’t get to answer. Without warning, Izel felt every single speck of him – inside and outside, every inch of his brain every corner of his guts – burst into flame. He continued to feel it as he was incinerated, left a statue of ash. Then he breathed not-air and was himself again. Not burned, not touched at all. Still there with the not-blunderbuss on his back.
+
+“Comply.”
+
+“Aren’t you a god?” he gasped, reaching for the straps. “Make me.”
+
+He drowned. He cracked and burst into dust.
+
+Swallowing a scream, Izel took off the strap. Put up the gun. Why hadn’t it expelled him yet, destroyed him?
+
+“Comply.”
+
+He was melted like wax, shattered into red ice. Trembling fingers reached for the trigger he wept, looking for the way out. She had to be there, she had to.
+
+“Comply.”
+
+He was erased like chalk, sliced into a thousand bleeding ribbons, ground into flour and bent into a ball of broken flesh. And between every brutal death, every wound against his soul, he looked for her. Until finally he’d found her. The blastcap blunderbuss was heavy against in his arm as he raised it up.
+
+“Comply.”
+
+_You can’t make me_, he thought. _That’s the trick. You can only act on metaphysical forces, that’s why you were able to trap them all except me. Because you’re still within the bounds of Scholomance, and she’s stopping you from getting out._
+
+“No,” Izel snarled, and pulled the trigger.
+
+There was a ripple in the workshop, then a beat of silence. The Machinist dissolved, reforming as lines of light snapping into place besides him as the gold-crowned deity studied him. The... words came quick, lower, less like a seal stamped and more like letters printed on page. He could make them out, and though intonation was beyond him to infer he could at least feel the structure of the thought, more or less.
+
+“alchemical.reaction.scavenged.hemeran.silviculture.concentrated.aethyr.harmless.contaminated.thesis:ignorance”
+
+A god, Izel dimly realized, had just called him stupid.
+
+“I wasn’t for you,” he got out. “It was for _her_.”
+
+The goddess on the hook, lifeless and wan. Her once vividly red dress little more than wan rags, her skin paper-thin and her hair white. Or at least it had been, before Izel shot her. Now she twitched, wriggled on the hook. The red was a splash of blood, light burned in her fair curls. Her eyed opened, the color of molten gold.
+
+Fortuna’s sole priest and celebrant had spent hour after hour blessing the contents of the percussion cap, after all. Izel hadn’t shot her with raw aether, he’d shot her a hard infusion of her own power. And there was one last thing still.
+
+“O Fortuna,” he gasped. “You bet on your high priest. What were the odds he’d make it here, do you think?”
+
+Her gaze snapped up to him.
+
+“I would call them long,” Izel Coyac said. “So take your winnings, Lady of Long Odds, and get us _out_.”
+
+A bet made, a bet paid out.
+
+Fortuna laughed, the sound like clear bells, and Izel grinned as the Machinist screamed and his little pocket burst apart at the seams.
+
+ 
+
