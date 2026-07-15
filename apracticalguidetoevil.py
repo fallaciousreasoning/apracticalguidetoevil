@@ -147,6 +147,41 @@ def _royalroad_hidden_classes(soup):
     return hidden
 
 
+def _get_with_retries(session, url, attempts=5):
+    """GETs a URL, retrying on transient network errors and bad statuses.
+
+    Royal Road sits behind Cloudflare, which intermittently resets connections
+    or returns transient 5xx/429 responses partway through a long scrape. A
+    single such blip should not abort the whole run, so retry with exponential
+    backoff before giving up.
+
+    Args:
+      session: A `requests.Session` reused across chapters.
+      url: The URL to fetch.
+      attempts: Maximum number of tries before raising.
+
+    Returns:
+      The successful `requests.Response` (HTTP 200).
+
+    Raises:
+      RuntimeError: If every attempt fails.
+    """
+    last_error = None
+    for attempt in range(attempts):
+        try:
+            response = session.get(url, headers={'User-Agent': USER_AGENT}, timeout=30)
+            if response.status_code == 200:
+                return response
+            last_error = f"HTTP {response.status_code}"
+        except requests.exceptions.RequestException as error:
+            last_error = error
+
+        if attempt < attempts - 1:
+            time.sleep(2 ** attempt)  # 1s, 2s, 4s, 8s ...
+
+    raise RuntimeError(f"Failed to fetch {url} after {attempts} attempts: {last_error}")
+
+
 def download_royalroad_chapter(session, url, title):
     """Downloads and cleans a single Royal Road chapter.
 
@@ -158,13 +193,7 @@ def download_royalroad_chapter(session, url, title):
     Returns:
       A `Chapter` with the cleaned, Markdown-flavoured body.
     """
-    response = None
-    for attempt in range(3):
-        response = session.get(url, headers={'User-Agent': USER_AGENT})
-        if response.status_code == 200:
-            break
-        time.sleep(2 ** attempt)  # back off if Cloudflare throttles us
-    response.raise_for_status()
+    response = _get_with_retries(session, url)
 
     soup = BeautifulSoup(_to_markdown_inline(response.text), "html.parser")
 
