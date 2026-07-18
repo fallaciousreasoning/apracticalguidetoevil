@@ -102905,3 +102905,641 @@ Fortuna laughed, the sound like clear bells, and Izel grinned as the Machinist s
 
  
 
+# Chapter 66
+
+Of all the many perils that day, the lift came closest to killing them all.
+
+By a narrow margin. The Machinist effortlessly captured Song the instant she stumbled into its workshop, the thing of light not even sparing her a glance before trapping her inside a bubble of amber. It had felt like being inside a sphere of mud, only translucent and in no way hindering her breathing. More worrying still had been that she could feel her contract was trapped as well, Luren’s presence dimmed to a faint ember. She didn’t like to think about what it would have done to them, if not for Izel.
+
+The powerlessness behind any clearsighted assessment of that situation was... difficult to swallow.
+
+Yet in the end Izel had come through, and after Fortuna freed herself in a flash of gold the workshop had been torn apart – and the Thirteenth were spat back out exactly where they had entered, inside the lift. With the slight problem of the lift having one of the neitspawn’s legs still clutching it. The creature could have ripped the lift out of the rails and killed them all in a heartbeat, if it so wished. It didn’t, on account of being mind-dead.
+
+The stream of furious gods that ripped their way out of the physical anchor of their prison made sure of that. Yet the neitspawn was still very much a problem because the massively heavy construct fell down towards the bastion and its leg was still _stuck inside the lift_. Song was not ashamed to admit she had shouted in fear as the weight of the dead creature dragged the lift down a dozen feet against the efforts of mechanical strength dragging it up the rails.
+
+Several brass bindings snapped, and when the leg finally did fall out the lift shot up in a flash and almost threw Maryam out of the broken window. Angharad caught her by the hood.
+
+The cabin then stopped a dozen feet away from the top of the cliff, so they had to risk climbing out through the broken glass and standing on top of the roof to climb past the edge. Some of them, anyway: Tristan had been knocked unconscious by Fortuna’s release, steady breaths his only sign of life, so they had to pass him around like a package while hanging on a teetering cabin hundreds of feet in the air.
+
+But they made it to the top of the cliff, in the end. More than that, they had made it to the very place that Song had been trying to reach ever since Chunhua Cao told her about the book that might be waiting within: before the six of them stood the Glass Repository, Lucifer’s own library.
+
+It had loomed tall from the bottom of the cliff, but from here the size of it was... oppressive. The edifice was a great rectangle with a curved roof of paned glass – it reminded her of Tratheke, save that the glass here was not green – that was interrupted in the middle by a towering glass dome held up by silvery arches. The walls were old white stone, too chalky to be marble, and two gargantuan wooden doors nailed with silver stood in the middle. Each tall as four men and wide as two, paneled with inscriptions in a cant she did not recognize.
+
+Song was not sure they were meant to ever be open, as the left gate had a smaller iron door set into it that was cracked open.
+
+“You want to go in.”
+
+Song started, turning to spare Maryam a look. Her friend was kneeling by Tristan’s unconscious form, a hand on his forehead. Silver eyes flicked eastward, where across the width of the bastion below she could see the upper end of the second lift. There was a platform there, and levers to call it up.
+
+“It would be wiser to go back down,” she acknowledged.
+
+“I’m not so sure about that,” Izel called out.
+
+He’d been standing at the edge of the cliff, looking down, and only now backed away.
+
+“The revenants collapsed,” the tinker said, “but the remnants of the kobaloi are still fighting the regulars and the volunteers. It might actually be wiser to stay up here until the fighting is done.”
+
+Against her will, Song’s eyes went back to the small iron door.
+
+“I should wait,” she said. “But to have answers so close...”
+
+To finally known whether there truly was a copy of the Book of the Lofty Mountain or whether she’d been struggling in vain. Whether all the sacrifices of these last few months had been wasted.
+
+“Well, it’s not like we’re not going anywhere,” Ester said, head popping out of her sister’s shoulder.
+
+“You aren’t going in there alone,” Angharad firmly added. “We have been warned that a spirit dwells in the Repository.”
+
+One the Watch had an accord thing, if the old records were to be believed. Students and professors had used the Repository, when the school was last open. The god that dwelled on the ground – the Librarian - was not exactly friendly but neither was it hostile.
+
+“I’d rather avoid more time with gods today,” Izel said, tone a little shaky. “But I can keep watch at the door.”
+
+Song breathed out, centered herself. Denying herself the answers without a good reason for it would be vanity, not a proper decision but sacrificing at an altar.
+
+“Let’s go,” she allowed herself to say.
+
+She set out briskly, the others falling in. The walk was longer than they’d thought, the sheer size of the Repository tricking perspective out of an honest gauge, but that only meant a few minutes longer than expected. There was no shadow cast by the edifice, for the Orrery was at their back, and Song swallowed as she laid a hand on the iron door. Cool to the touch. No curse erupted, no monster jumped out. Breathing out, she pushed the door open the whole way.
+
+She squeezed Izel’s arm in thanks, leaving him there, and entered with Angharad at her back.
+
+She barely took two steps before the sights stopped her cold.
+
+Song was well acquainted with the cost of books. Uncle Zhuge had a very fine library – larger than the one on the estate she’d been raised – and a scholarly interest not only in literature but its spread. He had been the one to teach her that the history peddled by schools, how Charvi Bairwa had invented the printing press in 6 Dominion and thus freed Vesper from the shackles of handwritten manuscripts, was a tale for fools. Mistress Bairwa had gone bankrupt within a year of printing her first copy of the _Atmastuti,_ because printed books still used parchment and parchment was _ruinously_ expensive to make books from.
+
+_Bairwa unlocked the door_, Uncle Zhuge like to say, _but it was Yoloztin who opened it._ Cathayan paper had existed since before the Second Empire, mostly made out of bamboo or mulberry bark, but the rarity of both in Izcalli had led paper-makers there to experiment with hemp and cotton instead. Yoloztin of Olhuac not only crafted the standard recipe for this, he’d also built the first river-powered paper mill to replace the labor of men and animals. Within fifty years the cost of paper books was a fifth of their parchment equivalent, and the gap had only widened since.
+
+It was why Uncle Zhuge could afford a private library of almost sixty books when a century and a half ago maybe twenty collections north of the Trebian Sea had surpassed this in size. Even now books were largely the province of scholars and the wealthy outside regions where paper was milled as an industry – Yoloztin had merely made it so that the basic requirement for owning a respectable library was being rich instead of ruling an Izcalli duchy.
+
+The thing was, the Glass Repository had been built during the Century of Accord. The century _preceding _Dominion, which meant that the vast majority of the book she was looking at had been written by hand, and save for the Tianxi volumes also been written on parchment.
+
+Song Ren was standing in a library whose central hall was three hundred feet long, the stacks flanking her on either side at least forty feet high. On this aisle _alone,_ there were more books and scrolls visible than had existed within the entire the Kingdom of Izcalli during the Century of Accord. And, saltless gods, this was the largest aisle but hardly the only one.
+
+From the inside the Glass Repository was a beautiful sprawl of glass, silver and polished wood. The rectangle cut right in the middle by a long hall, but spread out on either side into a maze of stacks – most at least two levels high, with wooden walkways around the second level. There were raised platforms that caught the Orrery lights in elaborate mirror-traps and deep wells dug into the floor were silver cages kept restricted volumes safe.
+
+Above their heads the labyrinthine twists and turns were overlooked by a spread of bridges connecting the top of the stacks to one another, forming small islands held up by arches where lanterns burned and tables had been set.
+
+Gods, Song thought again, swallowing dryly. There must be tens of thousands books and scrolls in here, perhaps hundreds. How many hundreds of ancient libraries had Lucifer plundered to fill these stacks? There must be volumes here stolen from the Desolation to the mouth of the Biscarosa. Song genuinely doubted that a room filling the same stacks with solid gold instead would be worth more.
+
+“Impressive,” Angharad murmured, and Song shot her a look that would strip off paint.
+
+Impressive was someone doing a handstand in fighting fit, this was a _miracle _of a place.
+
+Song walked down the hall, footsteps echoing softly as her gaze caught on small motes of dust bared by rays of light, and kept her focus on the shape ahead. Under the gaze of the central dome and the circular open ground beneath it stood a large wooden counter, two thirds of a rectangle open at the back. It was beautiful redwood, polished to perfection, and covered with haphazard piles of books. There was a single opening in the towering piles, facing the hallway she now strode, and it revealed the sitting librarian as they wrote in a ledger. It had not taken a shape clearly a man or a woman’s, and why should they? The Librarian was a god, one old and powerful enough to manifest. Such trifles were beneath them.
+
+The god’s brown hair was tousled and short, artfully messy, and their eyebrows slender. Their dark skin was flawless, their cheekbones sharp and their jawline just a little too rounded to be square. They had soft lips, dark eyes under round silver spectacles, and were dressed finely: a silken open coat in gray over a matching waistcoat with silver buttons, a pale collar peeking out from beneath. They had a silver pocket watch tucked away, hanging from a chain, and fine matching silver earrings.
+
+The dipping pen in their hand was silver as well, and was raised when Song and Angharad approached.
+
+“Names?” the Librarian asked.
+
+“Giving our names to a strange spirit seems unw-” Angharad began.
+
+“Song Ren,” she cut through.
+
+The pen scratched against the ledger.
+
+“You are added to the list, Song Ren,” the Librarian said. “Books can be borrowed for exactly seven days from the moment of borrowing. Restricted volumes from the cages cannot leave the premises. Late fees will be directly collected.”
+
+“Late fees?” Angharad skeptically asked.
+
+“The very hours of delay,” the god said. “In lifespan.”
+
+That sounded more than fair, Song thought. What sort of savage madman brought back library books late anyhow?
+
+“And should the books be damaged?” she asked.
+
+“Memories, according to the degree of damage,” the Librarian said.
+
+Its eyes rose from the ledger for the first time since they had walked into the Repository. They were ink-black, Song saw. As if made of such a number of letters that they’d become solid black from it. Angharad was looking at the god like she was wondering how best to kill them if it came to that.
+
+“Might I trouble you for the year?” the god asked.
+
+“The Fifth of Smoke,” Song said.
+
+The silver penned still.
+
+“Worse than I’d thought.”
+
+The god shook their head.
+
+“Though if I might say, Mistress Ren,” the Librarian smiled, “it is a very great pleasure for the Repository to finally open its gates again. A return long overdue.”
+
+“Oh,” Song said, “the pleasure is all mine.”
+
+She paused.
+
+“What might I refer to you as, sir?”
+
+The old reports had called it the Librarian, but it might prefer something else.
+
+“I am the Librarian,” the god said. “Custodian of these volumes, by the Lightbringer’s curse. It is my charge to maintain these grounds and to aid to who come here seeking knowledge.”
+
+“I am one such,” Song said, throat tight.
+
+“Do you require aid, then, Song Ren?” the Librarian asked.
+
+“I seek the Book of the Lofty Mountain, the work of Momu the Lame,” she said. “Is it among the stacks?”
+
+The Librarian paused and there was a faint shiver in the air.
+
+“The Old Kingdom collection,” the god said. “Western stacks, third row, second story. The full text is spread across three woodprints.”
+
+The Librarian’s eyes went back down to the ledger.
+
+“Good reading, Mistress Ren,” they said. “Do not forget to sign out the volumes should you borrow them.”
+
+Song managed to hold it in until she’d found he woodprints. Only then did she kneel down on the wooden floor, forehead against the stacks as Angharad’s warm hand stayed on her shoulder.
+
+“Burn you all,” she whispered in Cathayan. “They’ll live. _My sisters will live._”
+
+Song would buy them enough years to kill that curse on their name. She thought about what Yue had told her, the foothold the curse god had in her, and smiled. _Can you see me? Can you hear me? I hope you do._
+
+Song wanted it to know she was coming for its neck.
+
+--
+
+Angharad had never been part of a battle before, but somehow it felt wrong to head back to town after one and learn it wasn’t even supper time yet.
+
+The skimmer was not the first ship to return, the wounded had been sent back on galleasses – not yet the dead, which were still being counted – but the Thirteenth and the crowd of student volunteers they were asked to ferry back were insistently sought when they docked. The townsfolk wanted to know how the battle had gone, and once word spread that it’d been a Watch victory cheer spread with it. _Let them be pleased while they can_, Angharad thought.
+
+Many of the dead in the canyon would have families in town.
+
+They were all bone-tired, to the extent that Angharad had briefly fallen asleep on the way back while keeping watch over Tristan’s still-unconscious body. They brought him to their room in the Rainsparrow, settled him, then proceeded to collapse around the beds and carpet. Maryam didn’t even bother to disarm before toppling face-first on a pillow.
+
+“We can rest first,” Song decided. “A meal can be had after-”
+
+Knocking on the door had all their stares swiveling that way. Maryam whimpered and Izel was struggling to keep his eyes open – and his fingers trembled, though he tried to hide it – so it was left to Angharad and Song to head to the door. Ancestors, let it not be someone summoning them for a report. What Angharad found when she opened the door, however, was something else: Professor Tenoch Sasan, face somber.
+
+“Angharad, Song,” he nodded. “Good evening. I am sorry to disturb you after a battle, but I thought you’d want to know.”
+
+“Know what, sir?” Song asked.
+
+“Ishanvi Kapadia is missing,” he said.
+
+Angharad stiffened. Ishanvi_ had_ been supposed to join them for the day’s fighting, hadn’t she? She’d put it out of mind, grown used to relying on the Thirteenth and fellow guildsmen, but their younger colleague had never joined them on the ship and not caught up later either.
+
+“What sort of ‘missing’?” she asked.
+
+Such a thing did not need to be sinister, though Sasan Tenoch’s very presence at their door had her fearing otherwise. The professor grimaced.
+
+“The sort where no one saw her leave the Ossuary last night and there are traces of struggle in her archive den,” Sasan Tenoch said. “Talk is that she was doing research on your behalf and means to join your brigade, so…”
+
+“So you came to us, rightfully,” Song said.
+
+Angharad almost smiled at the iron in her voice. Her captain closed her eyes, thinking for a moment before breathing out.
+
+“I know it is usually frowned upon to bring in students from other covenants, sir, but do you think you can take me to where she was grabbed?”
+
+“Us,” Angharad corrected.
+
+Silver eyes measured her, finding there would be either adjustment or argument.
+
+“Us,” Song adjusted.
+
+“They’ll make an exception for this,” Professor Sasan flatly said. “Only you two?”
+
+Song glanced back, then nodded.
+
+“A moment, we’ll need to arm ourselves,” she added.
+
+They read in the other two, Maryam immediately insisting on coming, but Song would have none of it.
+
+“Sleep,” she said. “If it comes to a skirmish we need you able to signify and your rope’s stretched taut already.”
+
+Considering that rope had borne the weight of all their lives more than once today, Angharad thought, it could be forgiven for that tautness.
+
+“_I _should go at least,” Izel said.
+
+_You’ve been acting like you are afraid to blink ever since we escaped the Machinist_, Angharad thought. _Like you’ll wake up and find you’re still in there._ Izel might need the rest even more than Maryam did. She’d not well seen what happened to him in the workshop – the Fisher’s utter fury at being contained had been overwhelming, like being stuck inside a bottle with a tempest – but it _had _looked like the spirit was tormenting him. Not that being told he was in not fit state to wander Port Allazei was likely to be taken as anything but a gut punch.
+
+“Someone needs to keep an eye on Tristan,” Angharad told him instead. “The physician at the dugouts advised we keep a close eye on him for at least two hours to see if his state worsens.”
+
+Izel argued, but feebly. He did not truly want to go, only not to let his friends down. Giving him a worthy out settled the matter. Song and Angharad went with Professor Sasan, the man guiding them briskly to the Ossuary and taking no detours. Whispers were abloom in town, cautiously happy, and sometimes cheers erupted as news the victory in the depths spread. Festivities would likely wait until Colonel Azocar made a formal announcement of victory, she thought, but the town’s mood was lifting.
+
+Between that and the presence of a professor, they were only glared at twice on the way there.
+
+Angharad had never been inside the Ossuary before – the upper floors were open to all but she’d never had a reason to visit - but the innards looked much like the shell: a grand old mausoleum in marble and slate, its halls pristine and well-lit.  The professor got them through two closed and guarded doors, then down a broad set of green marble stairs that felt almost obscenely congenial after all the cramped spiraling stairs that she’d had to take over the last few years.
+
+Below the halls of learning was what Professor Sasan had earlier called the ‘archives’.
+
+There must be twice as many rooms under the Ossuary as in it, Angharad thought, for these archives were a series of pleasant rectangular libraries and repositories ringed by smaller studying nooks. Some were quite large, essentially private studying rooms with doors that could be locked, and it was to one such that Professor Sasan led them. It was locked and guarded, but the soldier guarding the door opened it at the professor’s request.
+
+Angharad’s brow rose. Hierarchy within the College societies was famously loose, but Saga professor was apparently higher in the ladder than she’d believed.
+
+“Here,” Sasan Tenoch said, inviting them in. “It is largely as we found it.”
+
+The two of them stepped inside. The room itself was the luxury, a space carved out for personal use, so within were the strict basics: two wooden chairs, a work table and an empty bookshelf. There wasn’t even a carpet. A chairs was tipped over, one of its feet broken, and there were books all over the floor as if swept off the table. Angharad knelt by one, finding words in Umoya expounding on the spirits of the Middle Isle.
+
+“Ishanvi was working on our behalf when she was grabbed,” she darkly said.
+
+And thus likely _because_ of it. A debt of honor was owed. Song was kneeling under the table, sniffing at the ground, and Angharad cocked an eyebrow at her.
+
+“Something off?”
+
+“One patch is less dusty than the rest,” she said. “And this smells of some chemical brew, though I can’t name it. It must have been something to subdue her.”
+
+Would that Tristan were here. Between his training as a physician and his Mask wiles, he had a wide breadth of knowledge in such chemistries. There was nothing more to learn from the trace, so they went looking through the books. A thought occurred to Angharad, however.
+
+“Are these all the books that Ishanvi borrowed?” she asked the professor.
+
+He went to check and it turned out they were not. There were five books in the room and seven had been borrowed.
+
+“One was partial translation of an old Lierganen law codex, the first after the empire’s conquest of Malan,” Sasan told them. “The second is called ‘Tales of the Isles’, and it’s an attempt by Malani historians to recover local stories from before Morn’s Arrival.”
+
+Angharad frowned. The Tender of Reeds was one of the oldest spirits in Malan and espoused the principles order and hierarchy, but why the interest in ancient laws and stories? What had Ishanvi been looking for?
+
+“It’s not the only thing missing,” Song said. “There is ink and a dipping pen here, but nothing to write on. Where is her journal?”
+
+“They took it,” Angharad slowly said. “Or destroyed it. She must have found something that they were afraid of.”
+
+Or Morcant in particular, at least. They went through every book, just in case, but found nothing but a bookmark that Ishanvi must have left inside. Song idly flicked the small piece of string tied at the end, flipping the bookmark, and pause at the sight of the words scribbled on it. Several were in Samratrava, one was ‘ubunjalo’ crossed out several times and the last was ‘halorime’ underlined twice.
+
+“Halorime,” Song read out loud. “Is that Umoya? It sounds unusual.”
+
+Angharad stilled.
+
+“Because it isn’t Umoya, not exactly,” she quietly said. “It is a word borrowed from Gwynt a deformation of _hawl o rym_.”
+
+“Which means?”
+
+“Right of might,” Angharad said. “It is an ancient turn of phrase, from Peredur’s oldest records.”
+
+From the Green Book, if she recalled it right. Father had occasionally used it when feeling poetic. But why the concern about an ancient Pereduri phrase?
+
+There was nothing else to use here so they thanked the professor, who made a point of escorting them back to the Rainsparrow Hostel. He promised to send word through Captain Wen of the search for Ishanvi when the garrison began looking into the matter, not that they intended to wait that long to settle the matter. They found Maryam awake and on her feet, at the front desk. She was scowling like the paper in her hand had mortally offended her.
+
+“A letter was left for me this morning, after we sailed out,” Maryam said. “It’s not signed, but I think we can tell who sent it.”
+
+She passed it and Angharad gave the lines a quick read through.  
+
+_She will remain unharmed so long as you obey instructions. You are to come alone to Scraptown tomorrow morning at the sixth hour. A second letter will give you the location._
+
+Good handwriting, though put to foul work.
+
+“It would be greatly foolish to follow these instructions,” Angharad said.
+
+“We don’t know where he’s holed up, Angie,” Maryam said. “Cai Wei thought he was somewhere in the east of the city but she couldn’t find out more.”
+
+“He’s within walking distance of Scraptown,” Song said. “That narrows things down.”
+
+“Scraptown is nestled between two of the most dangerous parts of Allazei,” Maryam reminded them. “The Nettlewood and the Scrapyard have both taken students. Wandering around them looking for Morcant’s lair in our current state is likely to have us join them.”
+
+“So is allowing yourself to be blindly led into either on Morcant’s order,” Angharad said. “We must-”
+
+They were interrupted by the sound of a pistol being cocked. Song’s hand was steady as she aimed at the stomach of the man in the doorway. Tianxi, his eyes upturned and his hair loose. The Navigator’s robes had Angharad’s hand reaching for her blade even as she recalled his name. Bingwen. The Akelarre to their enemies in the new Forty-Ninth.
+
+“It is a trap,” Bingwen said, hands up.
+
+The gun did not go down.
+
+“That much is obvious,” Song said. “But why are you here telling us as much?”
+
+Her eyes were ice cold.
+
+“Taking you hostage until Ishanvi is returned seems an obvious response.”
+
+Angharad’s lips thinned. She had nothing against hostage-taking – it was a natural thing, a guarantee of promises against nobles who did not take their word as seriously as Malani did – but keeping a Navigator imprisoned sounded like a nightmare. They could not truly be disarmed and their arts were so wide and varied that few defenses covered against them all. Bingwen’s eyes flickered to the Khaimovs, Ester having stepped out of her sister for this.
+
+“Because I’m the reason he had the girl grabbed,” Bingwen reluctantly said. “I’ve had a seal on a book since the beginning of the year at his order, when it was taken I was notified and passed it along.”
+
+“What book?” Angharad pressed.
+
+“_Tales of the Isles_, it was called,” Bingwen shrugged. “I don’t know why he doesn’t want it read.”
+
+There was something there, just on the tip of Angharad’s tongue. A way all these details fit together.
+
+“Thank you for the warning,” Song politely said, then took a single step to press the pistol directly against his chest. “Now kindly guide us back to Morcant’s lair.”
+
+Bingwen’s lips thinned.
+
+“I cannot,” he said. “He has something on me.”
+
+Angharad’s eyes narrowed. Perhaps it was all the talk of hostages, but a notion occurred.
+
+“Not blackmail,” she slowly said. “He would need something quite dark to be worse than what he now drags you into. Morcant has taken from you, hasn’t he? With his contract.”
+
+“He gives it back,” Bingwen tiredly said. “What he takes he can keep for a few days. When we were still in town it was a cycle, he’d pay one of the townsfolk to collect a little from them so when he’d give back what he took from us he’d fix something at the same time - I used to have a crooked toe, Jobe had rattling breath – but ever since you drove him out of town it’s been…”
+
+“A hostage,” Angharad said. “He will give it back when you return to him, then draw again in the same breath.”
+
+“You can get pull that trigger if you want, Ren,” Bingwen said. “It’ll hurt. But I’ll heal, while what he took never will.”
+
+“Pain can be enough,” Song coldly said. “To make you talk, at least.”
+
+“Do you think I’m a fool?” Bingwen scoffed. “I know you lot are ruthless, you demonstrated that quite clearly in the Trench. I showed up anyway.”
+
+He thinly smiled.
+
+“Because I _also_ know that if you abduct and torture a student after what Abrascal pulled with the snail poison, you’ll get put up against the wall and shot.”
+
+He was, Angharad grimly thought, largely right. That much had been made plain to the Thirteenth.
+
+“You’ll do it,” Maryam said.
+
+He sneered at her.
+
+“I should have known that one good turn would be enough to make you think I’ll roll over,” Bingwen said. “You-”
+
+“I have a confession by Cai Wei that you oversaw the passing of the barrels used in the torching of the Triangle,” Maryam cut in.
+
+Bingwen’s face went ashen.
+
+“My word is what’s between you an execution,” Maryam said. “So you’ll do it, Bingwen, because gunshots heal significantly less when delivered to the back of the head.”
+
+“And while we’re at it,” Ester idly added, “you can stop pretending this is a _good turn_. It’s not, you’re just trying to cover your ass for when this goes south on Morcant without actually needing to_ do_ anything.”
+
+Sweet reason prevailed, once coated in the threat of violent demise. Say what you would about the Khaimov sisters, Angharad mused, but they knew their way around an ultimatum.
+
+Izel insisted on coming, and this time there was no talking him out of it.
+
+Nathi Morcant’s lair was deep in the west of the city, past Scraptown and the rusty fields and dunes that spread out to its north. They hurried, for night time would turn the Scrapyard into a most perilous ground. In the depths of the monster-infested rust there was a small ring of shrines at a place where strange ancient metal aqueducts converged, and there Nkosinathi Morcant had holed up and was keeping Ishanvi prisoner.
+
+That’d been a mistake. The entire affair, but it turned out the place in particular. They were keeping her in a shrine whose gates they had managed to unlock.
+
+“Tristan has been here before,” Maryam told them. “He told me there’s another way in.”
+
+“It would be preferable to rescue Ishanvi before they notice we’re present,” Song noted. “It diminishes the risks of her being harmed.”
+
+Morcant was not alone. Today the other two members of his brigade were at the shrine as well, and Bingwen had made it clear that given their own hostage ubunjalo they’d fight on his behalf.
+
+“I can attempt to sneak in,” Angharad offered.
+
+“It’ll be risky,” Song said. “But if there’s only one person guarding her, you_ are_ our best chance at taking them out quietly.”
+
+Maryam argued for her to try instead, but apparently Morcant had sent for an amulet with a chunk of Rhadamanthine quartz inside that made it difficult for Signs to affect him. Song took Angharad aside before she went out.
+
+“You seemed almost eager to go,” Song said.
+
+Angharad shook her head.
+
+“There is something about Nathi’s desperation that itches away at me,” she admitted. “I want to see it in person.”
+
+The description of the means of entry that Angharad had been given proved still true: the pipe headed into the shrine was still there, and the fallen chunk of it could be used a means to quietly climb into it. Angharad did, frowning at the way that there seemed to be no one keeping watch but writing it off as the element of surprise. Morcant did not expect to be tracked down here and it’d been weeks since he first settled in, his guard was not up.
+
+At the end of the pipe was a bronze grid, through which she saw the room below: a pressure chamber missing its door. Through it Angharad saw lantern light. Quietly she reached through the holes in the grid and took out the pressure seals keeping it in place, catching it before it fell and going down the ladder to the bottom. There she pressed herself next to the wall, finding that below was a bare stone room with some sort of metal tub and a small oil lantern. Arms and supplies were being kept here, blades and powder and a crate of what looked like rations.
+
+Angharad slithered down to hang onto the edge of her perch, then dropped below. Her knees stung, but it was quiet work and she moved to the door at the back of the room. There waited a shrine with bronze altar, the floor laid with bedrolls and a few field furnishings as well as Glare lanterns. More importantly Ishanvi Kapadia was there, gagged and in the back. Eyes open, though she looked sluggish. Drugged?
+
+Ishanvi was also alone. Which was odd, considering the shrine gates were closed. Shouldn’t someone- the gates clunked heavily, beginning to open as some metal chain slid out of sight, so Angharad ducked back out and prepared to hide. There was shouting and three people hurried in, carrying a fourth. Nathi Morcant and his two remaining loyal cabalists, the Skiritai with Someshwari looks and the Savant with Malani surname.
+
+They were dragging in Izel.
+
+The Savant fired her pistol blindly at as Morcant ducked out of sight to pull a lever, the door beginning to close as a splash of Gloam splattered against the floor and ate away at the stone. There was shouting on both sides, Angharad’s hand stilled by the sight of the Skiritai with a knife on an unconscious Izel’s throat. Morcant pulled the lever back up but stopped halfway, and the door stopped as well with about hand’s span of room between the door and wall.
+
+“That was a mistake, Bingwen,” Nathi Morcant shouted. “And you as well, Ren, for thinking I would not anticipate the possibility.”
+
+_They were ambushed_, Angharad realized. Even with that on their side they’d been forced to retreat, but not without first taking a second hostage.
+
+“Two for two,” Morcant continuing. “I will release both prisoners unharmed so long as Song Ren and Angharad Tredegar resign from Scholomance. I’ll require oaths and collateral.”
+
+She could not make out what Song shouted back – perhaps pointing out that if he executed a hostage he was dead himself – but it didn’t matter. Not daring to pop her head in, Angharad drew a glimpse to find out where everyone in the room was. The Skiritai was securing Izel with rope while the Savant was checking on Ishanvi.
+
+Were it only the latter two present, Angharad would take her chances. But the third was a Skiritai and she still knew little of the skills of Dasa Gaurav. And something was, again, itching away at her. Why was it Song and Angharad in particular that Morcant wanted gone? Angharad was under oath to savage him and Song was the captain of the Thirteenth, that seemed the obvious answer, but if he’d been aiming for a measured ending why first take drastic measures like arming Cai Wei and attempting to bait a death out of Izel?
+
+Another glimpse told her that the Savant had left Ishanvi to join Nathi and that the younger girl was now fully awake and aware. _I need to know what you know_, Angharad thought with frustration. Somehow she doubted that Morcant would let her indulge her curiosity, though, and it wasn’t as if she could secretly tell her that-
+
+Or could she?
+
+Silently, Angharad doubled back to the last room. The storage. She went digging, finding a stick of chalk, and snuck back closer to the door. Slowly and carefully, she began to write on the wall with the chalk.
+
+_This is Angharad._
+
+_Why does halorime matter?_
+
+She waited, hoping that Ishanvi’s little friend would read the words, but nothing happened. A glimpse told that Ishanvi’s head was cocked to the side, though. And a moment later she heard the Laurel begin to laugh.
+
+“Conquest is lawful,” Ishanvi Kapadia shouted.
+
+And now it all fell into place.
+
+Why the books about laws. Why the books about old stories – and what spirit of Malan was older than the Tender of Reeds? – and also why Nathi Morcant had seemingly lost his mind after their fight. The flight, the drastic escalation, the wild risks being taken even now. Why he specifically needed Song and Angharad off the island.
+
+Angharad walked out of hiding without even drawing her blade. She wouldn’t need it.
+
+It took them two beats to realize she was there – sloppy, Gaurav – and they reacted like startled birds, guns on her as the Savant stepped away from the work of gagging Ishanvi to draw her blade.
+
+“It’s your spirit,” Angharad told him.
+
+“Tredegar,” Nathu Morcant said, “you are kneel and put your hands behind your head. _Now_.”
+
+Angharad shook her head in disbelief.
+
+“I wondered at the sympathy I felt for you,” she told him. “It wasn’t over your views, I knew that much. Or even at the fear so obviously moving you. The whole time, I think that part of me was able to tell that your contract is with as vicious an old spirit as mine.”
+
+“Have you been struck on the head?” Nathi scorned. “I am contracted to-”
+
+“An old, old entity,” Angharad said. “A Malani one, that must have taken interest in you back in Isasha. But you didn’t _stay _in the capital, did you? They sent you here instead, throwing away all your work at the isikole.”
+
+She met his eyes.
+
+“Yours is a powerful contract,” Angharad said. “And it seems like its price might just have ruined your life.”
+
+“You know _nothing_,” Morcant hissed. “You think because you kissed up to some dying river spirit you can understand-”
+
+“The Tender of Reeds speaks to order, to hierarchy and laws,” Angharad said. “You contract lets you take from those below you, but the price will follow the same logic. What is it that you owe those _above _you, Nkosinathi Morcant?”
+
+His face clenched.
+
+“A tithe, prizes?” she idly asked.
+
+But she already knew the answer. No, the Tender of Reeds would not care much for coin or glory. What a spirit like that would want was an orderly world.
+
+“Obedience,” Angharad said. “You owe obedience to your superiors, mandated by contract.”
+
+The spike of pain on his face told it all. Ancestors, no wonder his lady mother had sent him away. However powerful his contract, all it would take for him to spill all the secrets of the Morcant at court was standing in the presence of an izinduna who ordered him to talk. _It’s why you cannot risk turning yourself in to the garrison_. If Colonel Azocar asked him questions, he might well be bound to answer them.
+
+It was why he had been so very, very careful never to stand in Song’s presence long enough she could read his full contract. Why he wanted her gone from Scholomance, now that enmity guaranteed Song would make a study of him and find out the details.
+
+“Change of plans,” Morcant said. “We’ll need to make it look like an accident. Dasa, shoot her.”
+
+But Dasa Gaurav did not move. He looked at his captain, instead, wondering.
+
+“Conquest is lawful to the Tender of Reeds,” Angharad softly said. “It establishes a hierarchy. And I am a woman of noble birth who defeated you in single combat and forced terms upon you. As far as the spirit is concerned, I am now your superior.”
+
+Which was why he needed her off the island just as badly as he did Song. Morcant swallowed, eyes wild.
+
+“I’ll burn all I took,” Morcant threatened. “I still can, I-”
+
+Angharad looked at him, then. And through him she still saw the machine, the great devouring beast, but she also saw the boy. Scared, sorely used even as he made brutal use of others. The laws he lived under were kind to no one, and the Tender of Reeds had been a spirit of hierarchy long before crowns began to speak of any right but the sword.
+
+“I order you to return all that you took,” Angharad Tredegar said.
+
+After a heartbeat he moved to obey, and as wonder bloomed on the faces of his cabal the fight ended without her ever touching her blade.
+
+They were over.
+
+--
+
+It was not over, Angharad learned a few hours later as they came back from the hospital to find Tristan awake in the Rainsparrow room. Awake and manic, eyes wide as he was surrounded by a pile of books and ledgers.
+
+“I need some help with a cypher,” Tristan said.
+
+“No,” Maryam moaned out. “Noooo. It’s past midnight, you bastard.”
+
+“Tell me more,” Song said, eyes bright.
+
+The word cypher alone had somehow served as a few hours of sleep for her. Angharad traded a look with an equally exhausted Izel and they both sighed.
+
+A little longer, then.
+
+--
+
+She was here, but he couldn’t see her. Not yet. It needed a little more to snap back into place, and an opportunity had appeared while he set to tying up the loose ends.
+
+So the morning after the bastion fell Tristan Abrascal sat in the dark, patiently waiting for more than an hour before that opportunity showed up.
+
+The door opened. She walked in briskly, lamp in hand, and set it down on the table to pick up a lightstick. She dipped it into the lamp until it caught fire then set about lighting up the room. She’d done two candles when she suddenly stilled, something about his presence suddenly registering, and she had a pistol leveled at him in the heartbeat that followed. He’d not even noticed it was tucked into her coat.
+
+“Good morning, Colonel Cao,” Tristan said. “Don’t let me stop you, it _is_ a little dark in here.”
+
+He saw her jaw tighten at the sight of him sitting behind her desk. Her eyes narrowed, then the temper grew leashed. The pistol went down.
+
+“You’re in my seat, Abrascal,” Chunhua Cao said, picking up the matches again. “If you’re still there by the time I’m done with these candles, we’re going to have a problem.”
+
+He smiled, leaning forward to rest his chin on his palm.
+
+“Alas, you are going to be having one of those regardless,” Tristan said.
+
+She shot him an unimpressed look, working her way through a candelabra.
+
+“Are you under the impression that opening up the Repository is enough to dislodge me from Tolomontera?” she said. “I suppose that’s why you’re not in a _greater_ tradecraft class. I assure you I won’t be going anywhere.”
+
+“Yesterday wouldn’t do it,” he agreed.
+
+He reached under the desk, then slapped down a large leather-bound book onto the table. Colonel Cao’s eyebrow rose an inch.
+
+“And this is?”
+
+Gods, he thought with reluctant admiration, but she was good at this. If he were guessing, if he hadn’t _known_, he’d believe her.
+
+“One of seven ledgers in the Hostel Street warehouse that contains everyone’s lockboxes,” Tristan said. “You ought to recognize it, since you replaced the original with this one.”
+
+That gave her pause.
+
+“Sounds far-fetched,” she said. “What would I want with a ledger?”
+
+“I wondered the _same _thing,” Tristan happily said. “Well, not exactly. When I first heard from my captain that after I robbed you of your ministry papers you panicked, I thought maybe there was something special about them. But Hage allowed me to verify and there isn’t, they are simple paper money. Why, then, would you head to the warehouse to check on the lockbox containing them in the middle of the night?”
+
+He paused, for effect.
+
+“Unless you weren’t there for the money at all.”
+
+Cao casually set down her lightstick.
+
+“Is this going somewhere?” she said. “As far as stories go, I’ve heard more compelling.”
+
+“Well, I can tell you another if you’d prefer,” Tristan agreed smilingly. “Like this one, which I learned by consulting our mutual friend Colonel Azocar: Chunhua Cao was the first covenant teacher to arrive on the island. Nominally this was to oversee the restoration of the Galleries according to her preferences, but she also took a great deal of interest in the garrison infrastructure. Hardly unusual, for an Academy graduate. She visited the gatehouse, Fort Seneca, the student vaults and even the lockbox warehouse – where she soon began to rent a box.”
+
+“One you confessed to robbing,” Colonel Cao mildly said. “I will enjoy seeing you flogged for that, I think.”
+
+“Don’t be so hasty,” he pouted, “the story’s not over yet. See, this Chunhua Cao of lore wasn’t actually renting a lockbox. She just put paper money in there because that’s the sort of thing she was expected to do. What she was actually doing is buying a reason to visit that warehouse.”
+
+“A warehouse that I could visit for free at any time?” she said. “Quite the plot you ascribe me.”
+
+“You paid for a pretext,” Tristan continued, “because you’d stashed something else there you wanted to be able to check on if you needed to. But _where_? And now we come to a different story, that of our darling Ishanvi Kapadia.”
+
+Cao blinked, this time genuinely surprised.
+
+“What does the kid have to do with this? As far as I know she’s safe in the hospital now.”
+
+“She got one past you by knowing the old rules about going up a year,” Tristan said. “And now that I’ve learned about _how_ she knows these things, it revealed a detail for me: those old rules must have still been physically present. Indeed, as it turns out almost everything from the last time Scholomance was open is still around.”
+
+His grin broadened.
+
+“Why, the warehouse alone has an entire bookshelf full of ledgers about lockboxes from over a century ago that no one ever touches. It’s been sitting there gathering dust for years, entirely forgotten.”
+
+“And this is one of these ledgers?” Cao asked, pointing at the leather-bound book on the table. “So I’m to tremble at the sight of century-old minutiae, then. You must have truly gone mad.”
+
+“I know why you’re still pretending,” Tristan told her. “Because if I don’t have the cyphers, this is just a ledger. The problem for you is that I’ve broken into a lot more rooms than I’ve trashed, and that means I got the list with the books and numbers off the _Fall of Techantli_. Which means I can match them to the names and number sequences.”
+
+He paused, watched the mask of indifferent confidence begin to melt off Cao’s face like hot wax.
+
+“I want you to know it was Song who cracked the first numeric cypher,” he gently said. “Who used the book about King Chongsheng to learn that some Garrison commander on the Riven Coast called Shuren Yan fell for a honeypot trick by the Ambassadorial and gave them access to restricted archives.”
+
+The specific piece of information ripped off the last of the confidence, if only a moment, before a fresh mask fell into place. She was smiling now, tucking away the pistol before striding across the room to sit on the other side of the desk. Huh. He’d been expecting a lot more gun being pointed at his face at this point. Way to keep things interesting.
+
+“Well done,” Colonel Cao said, leaning back into her seat. “You getting your hands on my leverage_ is_ troublesome. But your presence here in this room also betrays that you’ve been read in on the situation above our heads.”
+
+“Most of the Obscure Committee will vote to keep you here now that your coup is dead,” Tristan agreed. “It’s a black eye for the Academy and they’d rather keep you here and weak than let a Stripe with a clean reputation replace you.”
+
+“And however weakened my position, it is still stronger than most,” Cao said. “Still, you have a knife at my throat. That truce between us must result is obvious enough.”
+
+She folded her hands.
+
+“What manner of reparations are the Thirteenth looking for?” she asked.
+
+The guts on this one.
+
+“You are being quite amiable,” Tristan noted.
+
+“I have been on your side of the desk too often to count,” Cao said. “What ensues need not be antagonistic; some of the most productive work relationships I’ve had over the years were with individuals I had leverage over.”
+
+She smiled.
+
+“It goes both ways, Tristan,” Colonel Cao said. “Now that you can twist my arm at will, it is in your interest for me to remain in a position of authority where you can use me to your advantage. Why, in a way the Unluckies are now the closest allies I have on this island.”
+
+_What will you do, Cryptic?_ Hage had asked him_. What mask will you choose to wear, what cause will your knife cut for?_
+
+“I don’t really care about you trying to coup Azocar,” Tristan confessed. “Even when you threatened to fuck over the Orels, I could only muster anger in an abstract sense.”
+
+Anger in principle. Because worse was being done to people just as decent everywhere under firmament, and the notion that Tristan should give more of a shit about these particular souls because Maryam had once lived in the same region seemed... insulting, almost. If you didn’t care about all of it, then it was just pretend. A coterie writ large, your brave enforcers against the other side’s brutal thugs.
+
+“I never actually intended to allow the Izvoric into Morcant hands,” Cao assured him. “I had a berth prepared for them on a ship that would take them to Luxing, where my brother owns workshops. They would have been offered employment there.”
+
+And Chunhua Cao would have coincidentally gained powerful leverage over Maryam Khaimov, the informal apprentice of the principal opposition to Cao’s coup among the covenant instructors. Gods, the schemes were endless. He could almost admire it.
+
+“The blackmail is the problem,” Tristan told her.
+
+She frowned.
+
+“How so?”
+
+“Because you’re right,” Tristan said. “It goes both ways. Once you’ve got them leashed, there’s a profit in keeping the bastards in place. In maintaining the rot. There’s so much power in it, colonel, that you built your entire career around the practice.”
+
+The frown deepened.
+
+“A morality lecture from a Mask? I don’t recall lending you the key to this office, boy.”
+
+“Boy is right,” he said. “I am still young to the trade, and not so long ago I was asked the kind of Mask I want to be by my teacher. I finally have an answer for him.”
+
+He smiled.
+
+“One whose knife cuts out rot, colonel,” Tristan Abrascal said. “Which is why your entire stash is going to be brought to the light of day. No more scuttling in the dark for the cockroaches.”
+
+The pistol was pointed and cocked in the same heartbeat. Ah, finally back on track!
+
+“You little lunatic,” she hissed. “Do you not realize the damage that could do? The officers you’ll burn, the damage it will do to the reputation of the Watch?”
+
+“Gangrene is not an argument,” Tristan told her.
+
+“_Enough_,” she snarled. “Where are the other books?”
+
+He leaned back into her seat, amused.
+
+“Colonel, _really_.”
+
+He bared his teeth.
+
+“Do you really think me such an amateur? They sailed off on a Western Fleet ship last night, along with a copy of this one. They’ll be spreading the contents at every port they stop to on the way back to anchorage. Every dirty little secret will be out by month’s end.”
+
+He leaned even closer, pressing his forehead to the barrel.
+
+“You’re done here,” Tristan told her. “Every single person you’ve held those secrets over during the span of your long career will come for you now, with nothing left to lose. All their friends and families and allies, every single person whose feet you stepped or who you fucked over for your advancement. _They are all coming for you now_.”
+
+She went ghostly white.
+
+“You’ve left me with little to lose as well, boy,” she said. “I could pull the trigger right now.”
+
+“You won’t,” Tristan said. “Because you’re a coward at heart, Chunhua. We both know that. And if you kill me you won’t leave this island alive, but if you run right now? Well, there’s still a few weeks before you’re burned. You might just be able to survive in a posting at the edge of the world, if you turn yourself in to the right people.”
+
+He looked her in the eyes. Slid a finger down the cup inside his soul, felt the dice rattle in the cup. Rattle, rattle, rattle.
+
+“So what will it be, colonel?”
+
+The dice fell: the gun went down, and her career with it.
+
+And despite the bet, the roll of the dice, Fortuna did not appear. _Only one thing left_, he thought.
+
+The shrine. It had to be the shrine.
+
+ 
+
