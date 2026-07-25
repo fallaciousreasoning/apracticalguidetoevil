@@ -103543,3 +103543,425 @@ The shrine. It had to be the shrine.
 
  
 
+# Chapter 67
+
+It was like being denied the right to drink a cup pressed against your lips.
+
+Tristan could feel Fortuna now, he knew she had returned. Yet running his finger down the seam did not let him feel the rattling of the dice if he was not gambling, and even did not let him taste the odds as it once had. But he felt _something_ again. The connection was not yet complete, there was still something missing.
+
+The sole shrine to the Lady of Long Odds had yet to be restored.
+
+It took time to get that done, more than he would have liked. Over the next few days he made the time, though, even when it meant cutting into his sleep. Masonry was beyond his skill and means to mend, but the shrine had always been a ruin of sorts. For it to be ruined again did not mean it had been _broken_, really. Sometimes you had to learn to love the scars as much as the rest.
+
+The back half of the house-turned-shrine had been swallowed by the false dantesvara, the chimney and the whole wall it was set in. Between a second wall being ripped out and the weekly rains the last of the house had caved in, but there was something to be made of that. With only the front wall and the left remaining, the remains of the tiled roof had collapsed inward. The triangular intersection of the walls had been filled with a slope of masonry and tiles, though it stopped about halfway up and left the stone walls bare.
+
+It was enough.
+
+It took him three days to carve away hours enough to finish, but Tristan was pleased with the work. Fortuna herself he put as close to firmament as he could: her golden hair crowning the top of the walls, the goddess filling them with the deep red of her dress. Golden eyes burned in a pale face, the angle of the walls having cast the heart-shape of it into something subtly starker, and from the hem of her dress the Lady of Long Odds bled out across the entire shrine. Rivulets of red slid down the tiles to mix with swirls of orange and red, her sleeves bleeding in strands to join green and gray.
+
+It was a simpler pattern than the last, not as elaborate, but there was a beauty to it. In Fortuna standing between earth and sky, a bridge to both. In the rain that would come and spread her across the colorful remains of her old shrine, the traces of which still lingered on the floor. The new and the old, intertwined.
+
+The last thing Tristan did was carve out a place for offerings. Nothing too elaborate – he moved tiles and masonry around to form a bare bones alcove where a clay bowl could be left safe from the elements. Tristan had placed trinkets in the old one, pieces used in games of chance and cheap sticks of incense, but those wouldn’t be enough for today. Instead, as the lights above turned faint gold with evening’s arrival, he sat in candlelight and sliced a knife across his palm.
+
+Part of him screamed it should have been on his arm or his leg, somewhere the wound wouldn’t hamper him, but Maryam had taught him better. It wasn’t a sacrifice if you were sacrificing nothing. The pain and inconveniences to come were what gave the blood he dripped into the bowl weight, why it counted for more than red paint.
+
+Even as the bottom filled and blood dripped down his skin, he kept on feeding the trickle – until it happened. A shiver in the air, almost like a sigh. A breath released. The knife fell through his trembling fingers as he wildly looked around, starving for the sight of her, but she was-
+
+She was there. Standing on the slope of the shrine, before the very outline of her in paint as if summoned by it. Silent, still, but very much there. Her long, billowing gown was the same shade of red as his spilled blood and rested across the tiles in a spread, but she wore no jewelry. Only the gold of her locks and eyes, a serious mien looking down at him.
+
+“Fortuna,” he choked out. “You’re back, you’re all right?”
+
+She studied him for a moment.
+
+“Thank you,” she said, “for freeing me.”
+
+And nothing else. Even as moments ticked on she said nothing, simply looking at him with a calm patience that was like nothing he had ever seen of her.
+
+“No,” he whispered. “_No_.”
+
+The golden stare was unblinking.
+
+“He said you’d lose parts, but also you’d cling onto me longest.”
+
+He’d lied. The Father of Lies had lied, a thought that sounded so childish and foolish he had to swallow to a scream. His fingers bit into his blood-slick palm.
+
+“Tell me you know who I am,” he begged.
+
+“You are my celebrant,” Fortuna said.
+
+“You must remember something,” he rasped. “_Anything_. Not even our contract?”
+
+In a whisper of silk she was standing past him, looking up at the Orrery gold. He turned to watch, her not quite allowing himself hope. It would be too deep a wound if it were spoiled again.
+
+“I must have loved you very much,” the Lady of Long Odds thoughtfully said. “A part of me still burns in your soul.”
+
+“Take it back,” he choked out. “I don’t want it.”
+
+Not if she was to be like this. He wanted no part of this fucking stranger. She shook her head.
+
+“I cannot,” she said. “It was a gift.”
+
+A hand was laid on his shoulder and for the first time since he could remember Fortuna’s touch made him flinch. She hummed, then withdrew.
+
+“Not power, or a boon,” she said. “How strange.”
+
+“Then what is it?”
+
+“Remembrance,” the Lady of Long Odds said. “I can only see glimpses.”
+
+And through the curtains of grief, Tristan saw it. The possibility, the chance. _I bet on you_, she’d said as he fell into the layer. As she flooded his veins with something that the goddess now called memories.
+
+“Oh,” Tristan Abrascal said, and closed his eyes. “_Oh_.”
+
+“You seem relieved,” she observed.
+
+“I am,” he sighed. “Because you’re not gone. Just missing.”
+
+“How so?” the Lady of Long Odds conversationally asked.
+
+As if they were discussing the weather. _Because you gave me your memories of our time together,_ Tristan thought. _You stashed them where you knew the Machinist wouldn’t be able to take them from you._ She had trusted him to return them to her.
+
+“I just need to find a way to give you a gift, that’s all,” Tristan Abrascal said, fingers clenched. “And gods willing or not, _I will_.”
+
+--
+
+Ferranda pushed to strike while the iron was still hot.
+
+Song suspected it would have been very easy to resent her for that had the infanzona not been there with them, fighting on the rise and then through to the bastion. But the Thirty-First_ had_ been with them, even Shalini with her broken shoulder, so the resentment curdled before it could truly take root. Ferranda Villazur had a right to exploit the victory she had fought to make happen.
+
+That she would be willing to put her life and her brigade’s lives on the line for it had been a surprise. Song had probed her colleague some and quickly found the source of that change of heart. It’d not been all that difficult to recognize, when she knew what to look for: Song was not unfamiliar with what the stitches following a hard conversation with Angharad Tredegar looked like.
+
+Date and place were debated heartily, everything from the Galleries – with Colonel Cao missing and said to have boarded a ship, the interim covenant teacher had relaxed the rules of who could enter – to renting out the Dregs or even the Old Playhouse. Zenzele cut through the discussion with but a few words when they’d already spent an hour exhausting themselves.
+
+“Misery Square,” the one-eyed diplomat said. “Let them remember why this needs to be made at all.”
+
+It lacked the comforts of most places they’d entertained, but it would have room for everyone and the symbolism of it_ was _powerful. Zenzele Duma got his way.
+
+Consulting everyone for a date that suited them all would take days and a despicable amount of back-and-forth, so they simply picked a morning a week away and let people decide whether or not they’d make the time. Once enough had agreed, it pushed those who’d hedged their answer into coming – and even some of those who’d refused to change their minds. And once the attendance of those who’d already agreed to buy in was confirmed, they could send the last invites.
+
+Every brigade of the second year, but some mattered more than others. First Brigade. Second, Third, Fourth. The Eighth and Ninth. The Twentieth, the Thirty-Eighth, the Sixtieth. All those who had made the top ten of Cao’s rankings and not been involved in this from the start. The invitation came appended with the numbers of the brigades who would be showing, which in practice forced all their hands. None of them could afford not to be there, when of the fifty-three remaining second-year brigades thirty-one had said they would attend.
+
+And once those leading cabals were in, the last holdouts flipped around. Every single student of the second year would be there, save for those in the hospital or the grave.
+
+Come that morning the brigades mostly deeply involved – the Thirteenth and Ferranda’s lot, but also the Eighth and the Eleventh – came early, as much to make sure the ruins around Misery Square were free of lemures as to bring the sole piece of furniture, a wooden table. An ink pen and a large, almost empty ledger were set down on it.
+
+The crowd began to trickle in with the green star, at six in the morning. Boots shuffled up from the Triangle through the partly-cleared rubble, coming to mill about the open grounds of the square. Talk was muted, eyes bleary and more than a few had brought their fast to break with them. As brigades filled up and most the crowd gathered, sleep’s dregs fell off and talks began in earnest. Song was sought after, if not anywhere as much as Ferranda or Captain Pillai. It was the nervous ones who came for her, seeking assurances.
+
+“And if there is retaliation,” Captain Tristan Ballester of the Forty-Fourth pressed, “can I count on-”
+
+“Yes,” she flatly said. “Look around you, Ballester. At the numbers gathered. Does it look like something that can be scattered with a hard look?”
+
+He scoffed.
+
+“One is always alone in a crowd, Captain Ren,” Ballester replied. “But your word is enough. You have proved you will follow through with it whatever the cost.”
+
+Song put on a cordial smile and chased him off so she could offer essentially the same assurances to the captain of the Fifth-Third. She was put out of this misery by a sudden hush. She caught the reason with but a glance: the last guests were arriving. At a delay, of course, lest they be mistaken as coming together in any way.
+
+Sebastian Camaron was flanked by the elite among the Garrison princelings: Guadalupe de Tovar and her Second, Captain Mandal and his Twentieth. Vivek Lahiri bore the banner for the free companies, along with Captain Gengeshe from the Sixtieth. And last of them Nenetl Chapul with her fellow in-betweener, Captain Philani of the Thirty-Eighth. Tupoc and his Fourth came alone, as if to insult everyone.
+
+There was a balance to it, however precarious. The Garrison had put more brigades in the top ten, but these cabals were only broadly allied to Sebastian Camaron and Vivek Lahiri had claimed the top spot for the free companies while keeping a tight alliance with the Sixtieth and a better reputation with the student body at large. Nenetl had many friendships and was owed favors on all sides, but she lacked relationships with leading brigades and her faction was far from steady.
+
+“Step in quick,” Song quietly advised Ferranda. “Else Camaron will see a stage and claim it. It is in his nature.”
+
+“Princeling prick,” Ferranda fervently agreed.
+
+She stepped out before anyone else could, helped in drowning out noise by the signifier from the Eighth. Zama Luvuno had learned the same Sign that Professor Baltasar had once used at the first delve meeting, allowing Ferranda’s voice to carry across the whole of Misery Square. She quickly moved on from thanking everyone for their attendance to the thick of the matter, though she did not make it seem hurried. A trained speaker, Song mused.
+
+“When they first let us past the gates of Port Allazei, we were told that Scholomance has only three rules,” Ferranda Villazur said.  “Simple ones: students must not kill one another, they must not cross the painted lines and they must be part of cabal.”
+
+She paused.
+
+“That is all,” she said. “Not a word about cutting off limbs, about imprisonment or even rape. For more than a year now we have lived in this city with only an unspoken accord keeping us civil to one another.”
+
+Her gaze swept the crowd.
+
+“And this accord is _failing_.”
+
+Murmurs from the crowd. It was not the sort of thing one cheered at, but more than a few heads nodded in agreement. Lahiri caught where this was headed first, Song thought. She caught a flash of rage on his face, before he killed it and looked around. Began looking for angles. She could not say who between Sebastian and Nenetl got there first, but their reactions stood out. Sebastian contemptuously amused, Nenetl’s eyes narrowing. Looking for an opportunity, as Vivek was.
+
+She’d seen further ahead than her rival had.
+
+“-beatings and cripplings, possessions stolen and homes set aflame. Feuds have become commonplace, and they grow less and less measured.”
+
+There was not a hint of apology on Ferranda’s face at what she said next.
+
+“Barely three months ago, one of us gunned a first year down from behind and poured poison down her throat while she bled out,” Ferranda said. “Where was the punishment, in the wake of that? Nowhere, for none of Scholomance’s three laws were broken.”
+
+She scoffed.
+
+“Is there anyone here who believes that this was just?” Ferranda asked.
+
+Rumblings of approval.
+
+“We have been set to compete and rewarded it for it so thoroughly that we forgot where we are,” she continued. “_Scholomance_. The school that devoured so many of our predecessors that the Watch had to close it. The cursed ground that still traps and kills us to this day, a place of malice we must dwell in five days a week. Why are we pulling knives on each other over assignments and point rankings when just there, past the horizon, dwells a god trying to _murder us all_?”
+
+Feet were stomped. Rare was the student with a fondness for the god in the walls.
+
+“The Watch has only given us three rules,” Ferranda said. “That does not mean there can only be those three. We can make our own.”
+
+And there she ceded the place to another. Just in time, Song thought, to avoid the perception that this was her game alone. Captain Saran Pillai joined her at the heart of the plaza, his signifier moving the Sign to him instead.
+
+“During the delve, a clever idea was put forward,” he said. “It was immediately put to fool use, but the foundation remained sound: a student association.”
+
+Murmurs spread. Captain Pillai laid out the bare bones: a student association that any Scholomance student could join. It would be an oath to abide by some basic rules. Limits on violence, no thefts or attacks on each other’s property, no torture or imprisonment, aid against lemures and Scholomance when feasible. Meditation by a tribunal whose members would be drawn by lot when there were conflicts between members. When in conflict with non-signatories, the entire strength of the association was to be mustered.
+
+Song kept her eyes on the three that could still try to sink this: Vivek Lahiri, Sebastian Camaron and Nenetl Chapul.
+
+The tribunal talk got stuck in Vivek’s throat, as she had thought it would. The only reason the captain of the First had not tried to make largely the same play already was that such a move from him would get the entire roster of Garrison princelings to band against him, including Nenetl and her Third. But he’d been leading up to it, no doubt, with the scheme in mind to have a guiding hand of the association behind the scenes.
+
+Now he could not have a founder’s prestige and tribunals drawn by lot meant he could not try to squeeze a niche as an ‘impartial’ judge either. Both irked, but did they irk so much he’d pass on the advantages of the association?
+
+Nenetl, on the other hand, realized early on that she had little to lose. Her ‘faction’ was already a loose web of friendships and favors spread across every faction of the student body, so if anything the cover helped her. The black mark on it from her perspective was that one of her main bargaining chips – offering the help and protection of the Third – would largely cease being useful, but she could adapt. She was in before Pillai even finished his speech, Song judged.
+
+Sebastian Camaron was very much not.
+
+If the First Brigade had tried to be a diplomatic force, then the Ninth’s strategy had been to be the head of the pack. They offered access to goods and services by virtue of their connections that no one else could and used that and their record as a hard combat brigade to pressure other brigades into doing what they wanted. Losing the threat of force was a problem for Sebastian in the way it was not for the other two. And, most of all, he didn’t believe that anyone was in a position to strongarm him over this.
+
+So with a smile he stepped into the aftermath of the speech. Prowled, really, with the distasteful confidence of man who was handsome and had never not known it.
+
+“All lovely sentiments,” Sebastian said. “Truly. But in the end, this is little more than daydreaming. I must ask you, Pillai – who is it that enforces your pretty rules?”
+
+He flicked the man’s chest with a laugh before drawing away.
+
+“I am a peaceful man,” he said. “But your little laws will be tested, and when they are they will fail because you are simply incapable of imposing them through strength. How many of those you want to sign your ledger are actually willing to_ bleed_ for them?”
+
+He was cut off by a laugh. Ferranda grinned at him.
+
+“A fair point, Captain Camaron,” she said. “But worry not: we have a volunteer.”
+
+And so Song Ren stepped up onto the front with the others, Camaron’s face darkening at the sight of her.
+
+“The Thirteenth Brigade has volunteered to be the first brigade assigned as enforcers,” she said. “We will work with any other who joins us on the roster.”
+
+“Is this a joke?” he said. “The Unluckies were nearly half the examples of unhinged violence that were quoted as a justification for this so-called association.”
+
+“Amnesty is offered to all who sign today,” Song calmly said. “We will be as subject to the rules as anyone else going forward. We bear further duties, not privileges – no enforcer brigade will be eligible for the tribunal draws, so we have no voice in any judgement over our practice as enforcers.”
+
+“All you are doing is fleeing from the consequences of your schemes,” Camaron angrily said.
+
+“You’re free to think that,” Song shrugged. “No one is _forcing _you to be here, Sebastian. You were invited here as a courtesy.”
+
+She gestured towards Arsay Avenue.
+
+“You can leave whenever you want.”
+
+He was too angry to see it clearly, but not Guadalupe. She noticed, right from the start, the trap being laid: if they didn’t join, the free companies princelings were sure to. So was Nenetl. And suddenly the largest and most powerful faction, the Garrison legacies, would be simultaneously diminished and set against almost the entire rest of the year. It was the very definition of a losing fight.
+
+So Guadalupe de Tovar measured the cut and struck.
+
+“While I respect the strength demonstrated by the Thirteenth, I cannot say the same of its integrity,” Guadalupe cut in sharply. “It would be a loss to us all for the Unluckies to cause the collapse of this association through their… unruliness.”
+
+She smiled thinly.
+
+“The Second Brigade volunteers to be the second enforcement brigade. A steady hand is needed.”
+
+_You bitch_, Song admiringly thought. In the same stroke Guadalupe had threatened Sebastian’s position  as leader of the Garrison faction, splashed mud on Song’s face and positioned herself as a core member of the student association. By the very miffed on Nenetl’s face, she had been planning to do the same – presumably without the mud – but de Tovar had beaten her to the punch.
+
+Half a dozen expressions flickered across Sebastian Camaron’s face in the span of a moment. Rage, of course, but also surprise and fear and the slightest sliver of gratitude. Because in the same move where she slid a knife in his back, Guadalupe had left him a way out.
+
+“I cannot doubt your commitment to order the way I do the Thirteenth’s, Guadalupe,” he said, smoothly pivoting. “Your generosity allays much of my concerns with this arrangement.”
+
+“Are you quite done with the face-saving, Camaron?”
+
+Song’s eyes flicked to the source of that, Vivek Lahiri himself. The smiling man’s entrance into the fray meant she could withdraw, and without a word she ceded her place back to Ferranda.
+
+“We have no such concerns about the integrity of the proposed association,” Vivek said. “We are ready to sign immediately.”
+
+“So are we,” Nenetl Chapul agreed.
+
+Sebastian lost a few feathers but avoided disaster. Vivek, the smooth bastard, managed to have his signature be the first on the first page and was now occasionally implying he had supported the entire effort from behind the scenes from the beginning. It didn’t matter, though. Ferranda was entrusted with the ledger and the power to call on the signatories for a tribunal or mediation, an implicit recognition that she had been the one to arrange all this, and the matter was closed before everyone began the trek to class.
+
+Song stayed behind, watching as Ferranda looked down at the thick ledger on the table with its drying ink. At the hundreds of signatures: every single living second year, save for those at the hospital. The silence stretched out.
+
+“I thought it would fail,” Ferranda suddenly said. “Somehow. We had eighteen brigades ready to sign from the start, but they could have backed out. Manes, I expected half of them to do so the moment the princelings walked in.”
+
+“They didn’t,” Song said, “because you offered them something worth the risk.”
+
+The other woman let out a disbelieving laugh, passing a trembling hand through her hair.
+
+“Zenzele helped me write the speech,” she said. “Shalini said she was proud of me.”
+
+And she spoke those two sentences, Song thought, like they were more a treasure than anything else that’d happened today. She squeezed Ferranda’s arm.
+
+“Now is the hard part,” she said. “You have to keep it that way.”
+
+Ferranda shook her head.
+
+“I owe you,” she said.
+
+“This helps us more than I can say,” Song replied. “Even after the Machinist our reputation has been... tarnished. This turns us from the mad dog to a guard hound.”
+
+And they didn’t need to stay an enforcement brigade forever, either. Next year or the one after, when their reputation was recovered, they could pass the torch.
+
+“Your reputation is the only reason half of those people believed me when I said the rules would be enforced,” Ferranda said, shaking her head. “I could not have done it without you.”
+
+“Or us without you,” Song said.
+
+The Unluckies could not have gathered the people who’d been in Misery Square today. They were simply not that sort of brigade.
+
+“A common effort, then,” Ferranda said.
+
+Song met her eyes, after a moment.
+
+“The best friendships tend to be,” she said, and offered her hand.
+
+Ferranda sucked in a breath.
+
+“Yes,” she said. “Yes, that’s true.”
+
+She took the hand, and the other thing too.
+
+--
+
+It had been three weeks since the fall of the bastion, and Song was one of three summoned to the island of Kofoni to face the music.
+
+It turned out that the town hall and trade hall she had both heard mentioned were the same edifice. It was the largest building in town by a fair margin, built out of the stone bones of an ancient temple to some god the Second Empire had stamped out. The people of Kofoni had patched the holes with clay bricks and rebuilt the roof in thatch, and the floor was now beaten dirt and widespread straw.
+
+As they approached, Song found that it reeked ever so faintly of shit.
+
+“They must use the place to hold cattle when storms roll in,” Izel muttered.
+
+“Much of the town seems impoverished,” Song said. “Odd, considering that the oldest buildings are stone instead of clay. These were a wealthier people once.”
+
+And it shouldn’t be the skirmish when the slavers and the town guards had tried to abduct the Orels that was responsible for the decline, either, given that little of this seemed recent. Only the damages near the docks could be traced back to that, and it wasn’t even the Watch that’d done that – it had been Kofoni’s own ancient He Fu mortar that blew up and started a fire when it was dragged out of storage and fired.
+
+“The island went to shit after Scholomance folded last time,” Captain Wen idly said. “Almost half their trade was selling food to Port Allazei, so when the port emptied the place went to the dogs.”
+
+Song cocked her head to the side. That did go some way in explaining how despite the Watch’s recent imprisonment of the local mayor there had been more hope than resentment turned on them at the sight of black cloaks. Some of the folk here would have been told that in the days of their grandparents the order had brought prosperity. The three of them reached the open doors of the town hall, stopping by the armed men guarding it. The officer in charge asked for their papers, which Wen dutifully provided. They were waved in without further ado.
+
+Despite its twin functions of town and trade hall, the inside was only lightly furnished. The standout was a large counter of worn wood at the back, where the mayor and reeves would have once settled cases and weighed coinage on the town scales, which was currently occupied by two officers.
+
+One had a golden pin on the collar in the shape of wide-branched trees, the symbol of the Umuthi Society. That and the gold chain around his necks bearing heavy keys marked him as a member of the Wednesday Council, the ruling body of that society. The other blackcloak was a dark-haired woman in regular’s uniform, sitting by several neat piles of papers and an open ledger that was flanked with an inkpot and dipping pen. _The judge and the scribe_, Song thought. They were flanked on either side by soldiers who bore clubs and iron chains, the constables of the court.
+
+Set before the long counter were two rows of roughly carved wooden benches, most of those on the right occupied. The first bench bore a heavily bearded sergeant, flanked by a Tianxi wearing commander’s gold braid knots on her formal uniform and what appeared to be the captain-general of a free company. The benches behind these three held neatly ordered ranks of officers, every single one of them a colonel. Song counted, her stomach clenching, and found eighteen.
+
+Marshal Camaron must have called in a great meany favors, to be able to muster so many senior officers.
+
+“Now this is a real who’s who,” Captain Wen said. “Our beaded friend up front’s your thief, Izel, Sergeant Who Cares Calvo-”
+
+One might imagine that Wen would lower his voice when calling Sergeant Garci Calvo a lying thief and everyone who supported him thus corrupt patsies, but he had not. Wen Duan being who he was, he had instead raised his voice.
+
+“-and the Cathayan besides him is Commander Yao, Camaron’s favorite charmless hatchetman,” he said. “Captain-General Averico is from the Twenty Companies, they’re so terrible with money they’ve essentially become a bought Conclave seat for Lucierna-”
+
+The faces of both officers in question darkened. So did many of those Wen named as they went down the aisle, naming them ‘Rookery snakes’ or ‘Merchant Fleet sellouts’ before concluding that everyone he’d failed to name was ‘some second-rate monocrat cloak, since this is apparently a sad reunion sitdown of the breed’. This had the effect of angering everyone he’d not yet angered, to the man’s open enjoyment.
+
+“Did we_ have_ to bring him?” Izel plaintively asked her.
+
+“I asked,” Song admitted. “Twice.”
+
+And he’d been careful about watching his meals near the date of departure, so Tristan hadn’t been able to arrange ‘food poisoning’ and Sergeant Mandisa sadly being forced to replace him. Izel folded his arms, leaning in.
+
+“There are more than I expected,” he whispered.
+
+“The release of the Cao files made us many enemies,” Song grimly said. “I expect Marshal Camaron would not have been able to muster half so many if we’d not stepped on so many toes.”
+
+Their own row of benches was... lightly filled, to say the least. There were exactly two people seated there, in the second row: a willowy officer in formal robes, who must be Professor He. They were ignoring everyone else. Besides them was Professor Achari, Izel’s main instructor at Scholomance, who spared a wave. The three of them went to join them on the front bench, barely sitting down before the judge leaned to the side to address one of the constables. The man nodded before moving forward and raising his voice.
+
+“Officers and enlisted, rise,” the man ordered.
+
+Dutifully everyone shuffled up onto their feet. The judge, a heavily tattooed man of middle of age with an Aztlan look, swept the room with a gaze.
+
+“Thank you,” he said. “You may be seated.”
+
+He waited until the shuffle of sitting back down ended to continue.
+
+“I am Professor Xochintz, elected judge for this patent contest by the authority of the Wednesday Council.”
+
+Xochintz leaned back.
+
+“To be clear from the beginning, this is only an assessment hearing,” he said. “We are not here today to decide on which of the claims is correct, if any, but to have both claimants state their claim on formal Conclave record. That will be the beginning of legal proceedings.”
+
+He paused, eyeing both Izel and Sergeant Calvo with open displeasure.
+
+“Patent contests are a disgrace to the name of the Umuthi Guild, and whatever their outcome lessen the trust invested into our society by all its members,” he sternly said. “Do either of the claimants care to retract their claim before record is entered?”
+
+Sergeant Calvo was called on and declined. So did Izel.
+
+“Then we enter formal record,” Professor Xochintz said. “Scribe, you may proceed. We will begin with a full statement of-”
+
+The judge was interrupted by another rising to their feet: Captain-General Averico, who demanded right to speak.
+
+“You are interrupting proceedings, captain-general,” Xochintz icily said. “You had best have a reason for it, or you will be expelled from this hall.”
+
+“As a sitting member of the Conclave, I exercise my right to present petition the Wednesday Council,” Averico replied. “If I may approach?”
+
+“No,” Xochintz replied. “Pass it to the constable.”
+
+Averico looked miffed but did so. The papers he passed were presented to the judge. Only after a long few minutes did he return his attention to the hall.
+
+“This is a formal demand that a Conclave committee should be created over this matter,” he said.
+
+He paused.
+
+“I would be most interested in hearing why the Wednesday Council should entertain such a brazen attempt to circumvent its authority over its own tinkers,” Xochintz continued.
+
+Averico was unruffled by the professor’s open displeasure.
+
+“Sir, as the petition makes clear the lightlance’s potential not only as a weapon against lemures and darklings but as a way to create areas where they cannot enter makes it more than simple patent: it has strategic implications for the order as a whole. While the Umuthi Society should have the leading voice on the decisions regarding this, it should not have the _only _voice.”
+
+At her side, Izel breathed in sharply. It was worse than he’d guessed, after all. Marshal Camaron had decided he wasn’t even going to bother with the pending petition ploy and instead try to push the entire matter to a Conclave committee stacked with allies. _We thought he would play the long game, but he went for the throat with the opening blow._ Still, she really saw no reason that the Umuthi should humor the demand even if there was a shocking number of senior officers on the thieving side of the room.
+
+“This is not only my opinion, but that of all signatories of the petition,” Captain-General Averico continued. "You will find that the rank and numbers threshold for a grand petition have been met.”
+
+Song frowned, turning to look at Captain Wen.
+
+“Grand petition?”
+
+“If they get twenty senior officers in total from at least three different Watch commands to sign a petition, they can brute force getting it onto the next Conclave docket,” Wen said. “It’s not often used, these days. It was abused by charterists to prevent votes during Dominion so now unless there is a genuine need you can get demoted for putting your name on one of these.”
+
+“-would prefer not to file it as such, but we will if necessary,” Captain-General Averico said.
+
+And now the entire plan was out, Song thought. Marshal Camaron had presented the petition to the court here instead of sending it to the Conclave so he could strike a bargain with the Umuthi Society. The carrot was a controlled transfer to adjudication by a committee where the Umuthi could still maintain some degree control over the proceedings, while the stick was pulling the trigger on the grand petition and putting to the Conclave – with no guarantees that the tinkers would be the dominant force in whatever judgement emerged.
+
+It was, Song thought, skillfully done. If it worked, then the threat used would never enter the record. If it did make it into the record, Camaron could point out that he’d tried to compromise with the Wednesday Council first and they’d refused. Song wouldn’t bet on most men winning an influence battle against a covenant, but this was a particular case. The Unluckies had just made a great many enemies, Izel’s lenslight was potentially worth a great deal of wealth and influence to whoever secured the rights to it and Camaron was a well-entrenched marshal.
+
+One who was currently very difficult to touch because his command was offering a great deal of logistical and material support to Scholomance.
+
+That was the whole point of filling the room with his supporters, beyond the grand petition threat: it was a warning to the Umuthi Society that the assembly of senior officers who’d sailed to this little island town in the middle of nowhere were committed to the fight. That they were willing to put their name and influence behind securing the lenslight.
+
+That, she saw, gave the judge pause. It was not the kind of struggle he could lightly commit the Wednesday Council to. _And that’s what Camaron is counting on_, she thought. The marshal couldn’t possibly think he could bully his way to a victory today. He was just preventing the formal proceedings from beginning so he’d have the time to approach the Umuthi and cut a private deal while Izel was stuck on Tolomontera, out of the loop.
+
+“If they dismiss proceedings for the day, we lost,” Izel whispered. “Song?”
+
+“I wouldn’t worry about that,” she said.
+
+He turned his eyes on her.
+
+“Why?”
+
+“Because Maryam never could resist a dramatic entrance,” Song said. “And she came by it honestly.”
+
+Captain Isoke Falade was the first to walk in.
+
+It took some time for others to notice as she limped in, her eyeless stare unmoving as she navigated her way to the bench behind Izel. Word had begun to spread, officers craning their neck to look, when another three Navigators walked in. Then another. Then another, and another and _another_.
+
+The room fell completely, utterly silent.
+
+By the time they stopped coming in, there were exactly thirty-one captains of the Akelarre Guild present. From the free companies and from the Garrison, from the Rookery and secret islands, great fortresses and royal courts. Most were old, a rare handful youths. They were men and women and everything else and in between, of very shape and color. They had walked into the room in silence, and in silence every single one of them made sure their right hand was visible.
+
+It was the hand bearing the silver rings marking every single one of them as a Master of the Guild.
+
+They didn’t say anything. Captain Falade, who alone sat the second bench, simply stared down at the other row of benches through white eyes. Someone swallowed drily, and suddenly every single officer sent here by Marshal Camaron was presented with the very real prospect of being on the Akelarre blacklist by the day’s end. Of tangling not only with the tinkers but also the Navigators, that nest of wealth and dark arts.
+
+The oppressive silence continued until Captain Falade cocked her head to the side.
+
+“By all means,” she said. “Continue.”
+
+“How?” Izel whispered.
+
+“I sent a letter,” Song said.
+
+To Captain Falade, who would read it because Song was a Scholomance student so it was her right to appeal to the Obscure Committee. Captain Falade, who had been told in a letter exactly what Izel’s lenslight would do to flesh with Gloam in it – as was the case with all signifiers. Captain Falade, who had been told that Izel Coyac would sit on that patent for five years and Marshal Camaron would have a workshop cranking them out by the end of spring.
+
+So the Navigators had come today to put the weight of their guild on Izel’s side of the scales.
+
+Sergeant Calvos’ face went ashen as he realized this and in the same breath saw his career evaporate. He’d crossed his own covenant for whatever he’d been promised Marshal Camaron, and the last thing the marshal would want now was to be directly involved. No protection would be extended for what was to come. He hastily rose to his feet.
+
+“Apologies, professor, I believe a mistake was made,” he said. “I withdraw my claim to the patent.”
+
+That didn’t end it. Neither would the sergeant being stripped of Umuthi membership by day’s end, the fines and demotions that would scattered across half the officers on the right side of the room by month’s end or even the monetary reparations the sixth Khalkea workshop would soon be forced to offer Warrant Officer Izel Coyac for their egregious claim. It was only a delay, five years on the clock, and the Thirteenth had gained attention and the enemies while winning it.
+
+But Song couldn’t quite bring herself to care, when looking at the tears in Izel’s eyes as he whispered _thank you_.
+
+ 
+
