@@ -103965,3 +103965,855 @@ But Song couldn’t quite bring herself to care, when looking at the tears in Iz
 
  
 
+# Chapter 68
+
+Professor Achari arranged it at his request.
+
+It could not be an official place, else it would be an official talk and that was the last thing Izel wanted. The forge ended up being the most deniable location, the same where Izel had made the decision to cross his line in the sand and reforge Angharad’s blade. He’d taken on a responsibility by doing that, and he meant to meet it properly: Izel had been practicing with Poltava to learn enough of swordsmithing to take care of what he’d made.
+
+The northerner blacksmith had made only a handful of swords in her life, but she knew the essentials from the war service she had once owed on Juska. Now they were growing past these basics together, making blades and sharpening them once a week after improving her threadbare forge in town so it could handle quality steelwork. As there was little market for the quality of blades they made in Tolomontera, Izel simply brough them back to the Workshop to melt down and make into ingots.
+
+Since they kept using the same steel and Izel was spending part of his fuel allocation to furnish half the coal, their practice was rather inexpensive. A relief, given his still shoddy finances.
+
+Today he was melting their last attempts back to ingots, the blaze of the furnace turning the forge into a sweltering pit despite the vents in the walls. Izel had a pocket watch open on the table, ticking away as the steel slowly began to melt, and he kept going back and forth between it and the bellows to keep the blaze high. It helped him to avoid looking at the omens: the way the flames in the furnace rustled like feathers, the Deathless Bird’s promise of violence to come.
+
+For the blades, or the conversation?
+
+Even with his eyes shying away from the marks of the gods he noticed the snakes slipping underneath the door, eyeless and bloodstained. _The Serpent Mother_. It removed any surprise from the knock on the door that followed a second later, and from the sight of Helena Vargas’ expressionless face after he bid her to enter. Even had he not known she was coming, who would better be heralded by the goddess of vengeance, mutilation and terror?
+
+Helena closed the door behind her and the sight of her had his stomach clenching. Her hair was still long and luxurious, but the impish smiles had been replaced by a tightness around her eyes and a somber look.
+
+“Helena,” he greeted her, reaching out to take the watch from the table.
+
+He snapped it shut and tucked it away in the front pocket of his leather apron.
+
+“Achari got me here,” she said. “What do you want?”
+
+He frowned at her.
+
+“You made it sound like I had you threatened.”
+
+“Didn’t you?” Helena asked. “The professor made it clear that given the suspicions currently being levied at me, ignoring a teacher’s polite suggestions would be ‘unwise’.”
+
+She spat out the last word. His fingers clenched. The sight of the toll the situation had taken on her had softened his anger, but that pity was now being steadily whittled away.
+
+“I expect he might have been more sympathetic, had you seemed to regret what you did even the slightest bit,” he sharply said.
+
+She met his eyes unflinchingly.
+
+“Is that what you wanted me here for?” Helena asked. “So I can beat my chest and lament my ways, beg for your forgiveness?”
+
+She spat to the side.
+
+“I’ve still enough respect for you to spare you double-talk,” Helena said. “So I won’t bother with the pretense it was someone else: I broke into your chest and sketched the design. I even dug out my spare notes from when we first talked about it and sent those on as well.”
+
+“You sound proud,” Izel evenly said, “of having broken the most fundamental tenet of trust in the Umuthi Society. That we do not steal each’s other work, that we do not rip out the cogs at the foundation of the house of steel.”
+
+Her face hardened.
+
+“The arrogance of you,” Helena said, shaking her head. “Quoting society philosophy when you don’t believe a lick of it. You tried to_ bury_ your work, Izel. Your lenslight’s not going to change the world – it’s too fragile, too specialized – but the things that could be built off that foundation might. With lasting artificial Glare lights, entire regions of Old Liergan could be reclaimed!”
+
+He breathed out. It was a helpful thing, the bigger picture. A large canvas detracted from the ugly little details of the work.
+
+“And this gave you the right to steal from me?” Izel asked.
+
+“Your disease,” Helena Vargas told him, “is that you think inhabit a tragedy. That these choices you make, throwing away opportunities and success, they make you some sort of wronged prince. They don’t. They’re props for your ego.”
+
+Her jaw tightened.
+
+“Maybe you’ve got principles,” she said. “That doesn’t make you a good man. I could live with you being a cheaper than I’d thought – using me to scheme against your old betrothed, lying to my face to avoid hard subjects. It was disillusioning, but we’re none of us perfect. When you decided to _piss away_ the frontierworks, though? A chance to actually change the world, to uncover a piece of how it works for everyone?”
+
+Her fingers clenched.
+
+“That’s the most selfish thing I ever saw,” Helena said. “It’s spitting on everyone who’d have taken the offer, tried to make it work, and you’re not _better than us_.”
+
+She scoffed.
+
+“You’re not better than the Watch, no matter how much you put your nose up at the people who actually keep the lights on.”
+
+“And this,” Izel softly repeated, “gave you the right to steal from me?”
+
+“I’m sure the story you’re telling yourself about how this went down is comforting,” she said. “That if I’d _simply talked to you_ it would have gone differently, that I would have seen the wisdom of your ways.”
+
+She snorted.
+
+“Fuck you, Izel,” Helena said. “You never respected me enough to actually talk to me. Why should you be afforded anything better? The only thing I regret is dragging my family into it.”
+
+He looked at her, searching for some sort of front. For a hint this might be a face put on fear and anger, gods just on _shame_. Yet he saw none of that. Just someone he’d not really known, when it came down to it, and that he must admit he had treated poorly. Someone who had so thoroughly lost respect for him that they were able to talk themselves into breaking one of the most basic trusts of the Umuthi Society so long as it was at his expense.
+
+It was novel thing for him to be held in contempt for who he actually was instead of who he was failing to be. The cut of it was different, in some ways deeper.
+
+It didn’t mean what Helena did was acceptable, or even that she was right about him. But there was enough truth in what he’d been told today that Izel knew he would not be able to simply toss it out. That it would stay with him for years to come. He took out the pocket watch, set it on the table again. Tick, tick, tick.
+
+“You’re right,” he said.
+
+Somehow that made her turn even more contemptuous.
+
+“I was telling myself a story about how this conversation would go,” he admitted.
+
+Maybe not about chest-beating tears, like she’d accused, but some manner of regret. A bridge they could meet on.
+
+“I decided to forgive you days ago, not because I thought there was anything right about what you did but because I want to be the kind of person who forgives things like this.”
+
+He breathed out.
+
+“That _is _arrogant,” Izel said. “You’re right about that.”
+
+“Finally-”
+
+“Oh, shut up,” he bit out. “Tell yourself whatever you want, but this was much spite as it was anything like principle. I disappointed you and you wanted to punish me – it’s not magic, Vargas, it’s too many people I’ve known. And I made the decision long before I came here that trying to get vengeance on them for it was just pissing into the wind.”
+
+He popped the watch open, checked the time. Soon the steel would be ready.
+
+“I’m not going to get revenge on you,” he told Helena Vargas. “Or try to save you. You’ll get what you’re owed for what you’ve done, by the laws we both live under.”
+
+He reached for the tongs waiting on the anvil, then met her eyes.
+
+“I’ll tell Professor Achari we had the conversation I asked for,” Izel simply said. “Nothing’s keeping you here.”
+
+Her jaw clenched. Helena stayed there for a long few seconds, eyes burning, but then she turned a clean pair of heels and strode out. Izel had thought she would. Because she wanted to say more, to keep tearing into him, but she’d been telling herself a story about today as well. And that story was about her being forced to be there, not walking into the room spoiling for a fight.
+
+Izel deliberately made himself not look at the door when she slammed it.
+
+It was soothing to work afterwards, to make something of his hands. He left the cooling steel ingots in the Workshop and rolled his shoulder to work out a kink. He’d ask Angharad about spending some time in town, or perhaps visit the Orels. He felt like keeping company tonight, like a boy seeking a hearth after remembering the bite of the cold. Jingyi caught him on the way to the door, looking aflutter.
+
+“She’s here again,” his friend said.
+
+Izel’s brow rose. Before he could ask who, Jingyi pressed on.
+
+“I know you had her Workshop ban revoked, but are you sure it’s fine?” he asked. “Vusu is still around and he’s, you know. I mean, we can all walk to town together.”
+
+Izel did know. Vusumuzi Kunene was six feet six, muscled enough for two oxen and had run away from a promising career in a Malani sword school to become a tinker. These days he mostly used swords for party tricks with wine bottles, but he was probably the finest fighter among the second-year Umuthi anyway.
+
+“You meant Yaotl is out there?” he asked.
+
+“The princess, yes,” Jingyi said, and pushed up his glasses. “With the new paint.”
+
+Izel clapped his shoulder gently.
+
+“There is no need to worry,” he said. “But thank you for doing so.”
+
+He considered, just for an instant, telling Jingyi that the lenslight had not failed at all. _No_. _Don’t make that decision now. _Best to let the conversation with Helena bleed out of him first. Jingyi still followed him to the door, and did not disappear from the threshold until he was reasonably sure that Izel would not be immediately knocked on the head and abducted. Yaotl was waiting by the dead fountain, sitting alone.
+
+Like Jingyi had said she had the new face paint on, the sole black stripe across her face at eye height.
+
+“You’ve been wearing it often,” he said, tapping by his own eye.
+
+“I am no artist,” Yaotl shrugged. “It is as close to a Watch face paint as I can devise.”
+
+“It fits,” Izel assured her.
+
+The Acatl face paint had left bare the same skin she now had covered, there was an attractive symmetry to that. Yaotl rose to her feet.
+
+“It occurred to me that I have not yet withdrawn my declaration of war against your brigade,” she said. “I would ask you to make introductions to your captain so that I might do so.”
+
+Izel eyed her for a long moment. _You never respected me enough to actually talk to me, _Helena had said. Misreading him: it had not been a lack of respect but a wealth of fear. Not that the reasons changed what he’d done. And looking at Yaotl Acatl now he could not help but remember that he had not spoken to her either, before he left. And that couldn’t be taken back, or any of the things that had taken place between them.
+
+But that didn’t mean he had to repeat his mistakes either.
+
+“I can do that,” he said, then cleared his throat. “Would you like to have a drink first?”
+
+Yaotl stilled.
+
+“Izel?”
+
+“We’ve known each other a long time, Yaotl,” he quietly said. “But I think that in some ways, we’ve been strangers to each other just as long.”
+
+He offered his hand.
+
+“We don’t have to _stay_ that way.”
+
+Dark eyes searched his. After a long moment, Yaotl sighed.
+
+“A drink, then,” she said. “But do not think I will curb my tongue to keep the peace.”
+
+She took his hand and they shook on it. But he was smiling, and so was she.
+
+--
+
+He’d put it off as long as he could, but any longer and Tristan knew there would be summons. Best to avoid that.
+
+It felt odd to walk the streets without feeling hunted, no longer needing the twists and turns to cut line of sight, the shadows and rooftops to lose the pursuers. Odder still was his companion, the... restraint of her. The Lady of Long Odds – she was not Fortuna, not so long as she wore that grave face – had made herself perceived, but she stayed in his dead angle and hardly made a sound. Part of him kept flinching, waiting for an explosion of noise and pettiness that simply never came.
+
+They reached the place at an hour straddling night and evening, Tristan forcing his steps not slow as he walked down the last of the street. The Chimerical was closed, a rarely used sign in the dirty window telling bystanders as much, and he was left to wonder if Hage had known he was coming. He likely had. The old devil always seemed to know, somehow.
+
+“I know this place.”
+
+He whipped around. The Lady of Long Odds was frowning at the window and the faded sign.
+
+“The Chimerical,” he said, hoping the name might shake something loose.
+
+“I_ can_ read,” she mildly said. “Does a sworn enemy of my temple dwell here?”
+
+Tristan’s brow rose.
+
+“Not unless you count the cat,” he said.
+
+And, in all fairness, an argument could be made for that.
+
+“The devil only banned you until you apologize for rudeness.”
+
+“The- never mind that,” the Lady of Long Odds frowned. “An establishment demanded apology of _me _and my celebrant did not torch it in retaliation?”
+
+The fondness for arson hadn’t gone anywhere, Tristan noted. He wasn’t yet sure whether he found the throughlines connecting the Lady to Fortuna to be reassuring or unsettling.
+
+“Hage is my teacher,” he said. “And you _were_ being quite rude.”
+
+The goddess levelled him with a long, unimpressed look before letting out a scoff and vanishing.
+
+“It’s still sulking even if you’re invisible,” Tristan informed the air.
+
+Ah well. It was probably for the best that she was not there for the coming talk, anyway. There had never been a talk with Hage where Tristan felt he’d brought a surfeit of wits to the table, so the distraction would not have been a boon.
+
+For all that the shop was closed, the door was not locked or barred when Tristan pushed it open. Another mark added to the tally of hints Hage had known he was coming. The door slammed shut behind him and he let the rush of warm and bitter air fill his nostrils, stepping into the Chimerical to find it deserted. Empty save for two things: the lantern hung behind the counter, burning pale, and the music box on the counter again singing that sad, strange melody. The reaper man’s song.
+
+“_I once knew a man in Saraya_
+
+_A canal-lord, crowned in gold_.”
+
+Tristan stepped into the ring of light. However vacant the common room might seem, Tristan knew better than to put stock in it. He made for the counter and between two breaths, two blinks of an eye, an apparition slid into place behind the counter as if it had always been there. Hage wore black tonight. His were still the clothes of a merchant, the cap and doublet and hose, but they were all Watch-black and bare of ornament. It made the white of his large, tufty eyebrows stand out even more starkly. Even the cap was featherless.
+
+It was all satin, though, as if to compensate. Hage would be Hage, even clad in winnower’s clothes.
+
+_“Friends, he said, do you remember_
+
+_The peace we had of old?”_
+
+Tristan did not bother to pretend surprise, instead taking the last step to the counter and climbing onto a stool.
+
+“A drink?” Hage asked.
+
+“Water.”
+
+It was almost tempting to order the most expensive coffee in the house – Inkqayi Hills beans, from northern Uthukile, said to draw their taste from the barrows they grew over – and proceed to waste it, but Tristan found himself too worn for games tonight. Hage did not argue, for once, and simply poured it from a carafe. He did pour into one of the nicer republican porcelains, though. The water was lukewarm and Tristan barely wet his lips before setting it down.
+
+_“And his army roared like thunder.”_
+
+That small slight pause – sorrowful, tired? The man singing had a rich voice.
+
+_“I once slew a man, in Saraya.”_
+
+Tristan hesitated, not quite sure how to begin, but was spared by the old devil.
+
+“Walk me through the decision,” Hage said.
+
+Neither pretended ‘the decision’ could mean anything but sending off Colonel Cao’s blackmail stash with the Western Fleet. He was under no delusion that Hage had not known before the ship set sail, or Lord Asher for that matter. Neither had stopped him, but had that been approval or letting him put out the rope for his own hanging?
+
+After a beat Tristan put the thought aside as useless. There was no tricking Hage here, or Asher for that matter. They had been at this since long before he was born. So he would, for once, scrape together enough honesty for an honest accounting of what he had done and why. The rarity of it ought to be refreshing, if nothing else.
+
+“After you suggested I cut a deal with Colonel Cao, I considered it,” Tristan admitted. “But it would have cost me.”
+
+He laid his palm down on the counter, looking down at the fingers splayed against the wood.
+
+“Personally, I mean. I had enough cards to buy a truce, but it would have cost me with my brigade.”
+
+Song he thought he might have been able to mend fences with, in time. It would have wounded the trust between them, perhaps forever, but she was no stranger to making ugly decisions to keep afloat. Maryam, though? Maryam would have worried that betrayal like a bone until she died.
+
+There was a faint whistling sound and Hage bent down, producing a small iron pot and a porcelain plate to set it on. He then reached for a delicate iron cup and poured from the pot into it, the thick boiling brew reeking of rotting corpse. Tristan coughed, looking away and sipping at his water just to wash out some of the taste.
+
+_“O Father, are you smiling_
+
+_At the weeds you have sown_
+
+_Or the sickle that we swing?_
+
+_The reaper man’s own.”_
+
+Hage breathed in of the cup, let out a little sigh of pleasure – the faint but fervent clicking of mandibles behind it betraying it as genuine – and let the rafflesian coffee sit. What a horror that thing was. No book seemed to agree on what the beans were, save for scarce, but having smelled the thing he could believe that the seeds had to be sown in fresh corpses.
+
+“It is discouraged for Masks to get too attached to their cabal,” Hage said. “Your role is to observe them on our behalf as much as it is to aid them.”
+
+Tristan thought of the Masks he knew. Ruo Xuan and the First, Silumko and his easy comradery with Yaq. The lines on Imani’s face after she lost her signifier at Misery Square. Even Cressida. None of them were as cold as Hage described, save perhaps for Ruo.
+
+_“I once loved a maid in Jiushen_
+
+_A scholar, so clever and bold.”_
+
+“And how well does that work, really?” Tristan honestly asked.
+
+“In an environment like Scholomance, poorly,” Hage acknowledged. “So your motives were personal?
+
+“No,” Tristan said after a moment. “I started looking because of that, I won’t pretend otherwise. But alone it wouldn’t have been enough. Realistically speaking I didn’t trust Cao to respect more than the outline of any deal we struck, so shaking hands with her was only delaying the problem by few months. Not really solving it in any real way. And there was more.”
+
+_“Saying: beloved, why must we die?_
+
+_I have found methods untold_
+
+_That we might never say goodbye.”_
+
+He took his fingers off the counter, closing his hand into a fist. Tristan hesitated, looking for the right words. He’d wrestled with the thought more than once, wondering at the source of his revulsion at the thought of making a deal with Chunhua Cao. He’d made bleaker bargains with worst women, so why had this one felt like crossing a line?
+
+“It dug at me,” Tristan confessed. “The thought that she would remain. That someone so corrupt, who thrived _through_ corruption, should be... accommodated. That she was too much trouble to weed out so she would be allowed to keep on growing.”
+
+“An argument could be made that what you call corruption is precisely what allowed Colonel Cao to serve as an effective troubleshooter for the Watch,” Hage noted.
+
+The old devil brought the cup of rafflesian to his mouth. The angle he sipped at just a little off, a little wrong.
+
+“Her ledger of blackmail and favors allowed her to bypass much of the usual bureaucratic hurdles. For example, her intervention at Yueliang Shang secured an end to the siege by bringing in two cabals that found the hidden paths the rebels had been using to resupply. She used purely personal leverage to achieve their presence.”
+
+_“I once slew a maid, in Jiushen.”_
+
+“But that comes at a price, doesn’t it?” Tristan asked. “For her to keep having that leverage, she has to protect it. To enable it. You’re entrenching the rot at the heart of the Watch.”
+
+He adjusted the angle of that thrust, unable to resist.
+
+“Looking at the bones of it, it’s a secret hierarchy that that evades ranks and jurisdiction. Was the Krypteia really willing to just let that go?”
+
+Hage made an amused noise. Not at his words but at the transparent attempt they represented.
+
+“Chunhua Cao and those like her – for there are many other like her, Tristan, if few as successful – have long been a subject of debate,” Hage acknowledged.
+
+The devil traced the rim of his iron cup with his finger’s shell. He collected even the faintest of drops and brought them to his mouth, smiling at Tristan’s open disgust.
+
+“On one hand, keeping the Watch free of corruption is not truly feasible,” Hage said. “The order is spread out across the breadth of Vesper and large swaths of its military strength pay only nominal allegiance to the Conclave’s authority.”
+
+_“O Father, are you smiling_
+
+_At the weeds you have sown_
+
+_Or the sickle that we swing?_
+
+_The reaper man’s own.”_
+
+“For the Krypteia to actively work to cut out the rot everywhere – work at, not even succeed - it would need to be larger by at least twentyfold and would likely bankrupt the Watch within a decade.”
+
+Hage clicked his teeth.
+
+“And I’ll remind you that most forms of lawbreaking are not even part of our covenant’s remit, strictly speaking.”
+
+Because the Krypteia’s most important mandate was not really about men at all. It was about keeping old evils buried, and the Masks concerned themselves with men mostly when they picked up a shovel to do to something unwise.
+
+“We do not ignore such matters, that would be short-sighted, but our focus has traditionally been on partionist movements - would-be warlords, cult influence and patronage systems.”
+
+“Cao counts as the latter, I assume,” Tristan said.
+
+The entire Academy was one, really, but that’d be trickier to burn.
+
+_“I once hated a man in Tenoch_
+
+_Crafty and cruel, candlemaker.”_
+
+“And thus the debate,” Hage said. “Chunhua Cao unearthed quite a few scandals and blemishes, some of which we found it difficult to act on and others we’d been unaware of.  So long as she uses her leverage to aid Watch objectives and stabilize the order, is it not a waste of our limited resources to pursue her?”
+
+“I’d argue the opposite,” Tristan said. “The same reason she’s influential – her stash of files – makes her the kind of target the Krypteia should prioritize. If you get her, you get to cut out an entire web of corruption with her. If you only have so many Masks to send after corruption, Cao and those like her should be the first on the block.”
+
+He frowned, belatedly arriving at a realization.
+
+“And I can’t be the only on who thinks she needs to be contained,” Tristan slowly said. “Else why would she be at Scholomance in the first place? This is a plum assignment in some ways, it lets teachers put their stamp on a people who will be very influential over the coming years, but it’s also risky. No one knew whether our first year would fail or not, and that disaster could have blown back on her.”
+
+_“A hundred did he feed to fire_
+
+_And twice that died to his dagger.”_
+
+“If it had,” Hage said, “Colonel Cao would have been forced to accept the promotion to lieutenant-general she has been avoiding for years. She would have been given command over a frontier fortress, important but far from the centers of power. That decision was a compromise between two wings of the Krypteia.”
+
+He sipped at his coffee again. The small, measured intake of someone trying to make a rare pleasure last.
+
+“The faces and philosophies have changed over the centuries, but the names reflect the core of the positions espoused. They are known as the sawbones and the gardeners.”
+
+Tristan’s eyes narrowed.
+
+“Sawbones are only called in when the wound’s ugly,” he said. “When you’ll die even if no one saws your arm off.”
+
+“That is the essence of their position,” Hage said. “That the Watch is a living thing, which cyclically takes wounds and heals on its own. It does not need Krypteia knives sawing away unless the situation is grave. In this perspective, keeping the Watch stable and functional is more important than keeping it pure. Most corruptions wean themselves out without our intervention eventually and the Krypteia is not all-powerful: we must preserve our strength and means to use them in the service of our true mandate. Cryptics should intervene in the affairs of the order only refraining would allow lasting harm to the Watch.”
+
+_“But his candle, it burned brighter.”_
+
+The pause. Resigned, guilty, determined?
+
+_“I once spared a man, in Tenoch.”_
+
+“And Cao wasn’t that sort of a problem,” Tristan said.
+
+“No, she was not,” Hage said. “According to the sawbones, anyhow. The gardeners disagreed.”
+
+“Because she’s a weed,” he said.
+
+An almost-smile of approval.
+
+“They see the Watch as a garden,” the old devil said. “It must be allowed to grow on its own, but pests and weeds must be eradicated lest they multiply and ruin the plot. Small problems cut early do not grow into large ones. The object is not to guide to but sanitize – and that requires a small but constant hand. The Krypteia must seek out weeds and rip them out, because the greatest tool in our mission is not the Krypteia but the Watch itself. When healthy, it is the greatest force for good that we can muster.”
+
+There was, Tristan thought, wisdom to both philosophies. In treating the Watch like the ship carrying the Krypteia – something Masks put enough effort in to keep afloat but nothing more - but also in treating it like a hound to be kept free of sickness.
+
+“The sawbones wanted to keep her on, the gardeners wanted her gone,” Tristan said. “The compromise was to send her here.”
+
+_“O Father, are you smiling_
+
+_At the weeds you have sown_
+
+_Or the sickle that we swing?_
+
+_The reaper man’s own.”_
+
+“You were not meant to succeed against Chunhua Cao,” Hage said. “She was to be a measuring stick for the students of Scholomance, a tool to teach them how to deal with the likes of her.”
+
+Tristan’s eyes narrowed. That implied Hage had genuinely not believed he would win, and for that to be true...
+
+“You didn’t actually know where her blackmail was stashed,” he said.
+
+“Not until you flushed her out by emptying her lockbox,” the old devil acknowledged. “Which leads us to an unusual position, as you did not learn the lesson I set out to teach you.”
+
+“Taking the loss,” Tristan quietly said. “Living with it.”
+
+“The trouble, of course, is that despite the starkness of your chosen course you successfully carried it out,” Hage said. “In this sense, you have surpassed my expectations. That is worthy of praise.”
+
+“But you’re a winnower,” Tristan said. “You’re not looking for field results, you’re looking for bad seeds to throw out – and by winning, I failed to prove I’m not one of them.”
+
+Because someone wielding the tools and authorities of the Krypteia who always doubled down when meeting with an obstacle was a danger to it. Masks were supposed to know when to accept the fortress couldn’t be stormed, to retreat and find another way to get the job done.
+
+“Your decision to send out the files without first informing us also means that Asher has barred you from ever taking greater tradecraft,” Hag conversationally said. “Implicit is that you will likely never reach the upper ranks of the Krypteia. But such things are not my concern. You are.”
+
+_“I once sought a priest in Kanish_
+
+_August and wise, a hierarch.”_
+
+The old devil drained the last of his cup, set it down on the plate.
+
+“You have explained your decisions to me,” Hage said. “Is there anything you would like to add?”
+
+Before he passed judgement. Tristan looked down at his still half-full glass of water. Did he have more to say? Maybe he did.
+
+“I didn’t beat Cao because I was better than her,” he said. “When I went at it alone, Hage, I failed and near lost my mind and shit the bed by almost becoming a priest to Scolomancia.”
+
+_Which you suspected,_ he thought. _Else why was the Marshal standing right behind me with a blade when I almost gave in on the heights?_ He flicked a finger against the side of the porcelain.
+
+“I pulled through because I trusted Maryam,” Tristan said. “And she told me to trust Song, and Song told me to trust them all.”
+
+And that trust had kept him alive when all his self-satisfied cleverness failed him. And gods, maybe it would again.
+
+_“Of rites secret and grand_
+
+_And she whispered in the dark:_
+
+_“I know you, reaper man’s hand.”_
+
+“I lied to you,” Tristan confessed.
+
+Hage said nothing. He reached out and gently stopped the music box, the sound cutting out.
+
+“The Lightbringer told me one thing more,” Tristan said. “_The way through is to become her priest_.”
+
+The old devil did not ask whose. Instead he cocked his head to the side, those grand duke eyebrows making it seem all the more owlish.
+
+“But you did not,” Hage said. “That is interesting to me, Tristan.”
+
+He folded his arms. Well, his skull had not been cracked against the counter yet. Presumably this was a good sign.
+
+“Why?”
+
+“Because Father’s scheme failed,” he said. “His schemes always fail, in the end. The failure is built into their bones. But you did not become what he wanted you to be, and that is... rare.”
+
+“Bad?” Tristan said, wondering how much to be alarmed.
+
+“Oh, I woudn’t say that,” Haagenti softly said. “It has been a very long time since I last felt envy, Tristan. I had almost forgotten how it feels.”
+
+He swallowed, unsure what to say.
+
+“He still got his way, of course,” the old devil said. “The backlash of the workshop’s destruction was enough to drive back the Machinist. It is once more kept out of the Material by the grand seal that is Scholomance, and the god in the walls will look to fill the weakness in the prison that first allowed it to reach through.”
+
+“What _was_ that thing?” Tristan asked. “I know gods, Hage. I’ve had one riding my back since I was a boy. That thing was not one.”
+
+“It is the oldest enemy,” Hage said. “Our father for all his many flaws, loved us in his own way. For us he meant freedom in all things, save for a single duty: the Great Work.”
+
+The devil’s breath came out in a hiss.
+
+“To stop the Principalities from escaping their prison, whatever the cost.”
+
+He shook his head.
+
+“I grow loose tongued in my old age,” Hage said. “But then I suspect that will not be your last encounter with them: a useful tool does not know rest.”
+
+He leant over and fiddled with the box. A beat passed, the song resuming.
+
+_“Before I was slain, in Kanish.”_
+
+Tristan swallowed.
+
+“You did not learn the lesson you were meant to,” Hage said. “But you learned. And when power was offered for you to get your way, you refused it.”
+
+“So I live,” Tristan softly said. “You don’t hand me over to Asher.”
+
+“No,” Hage said. “Not this time.”
+
+A moment of silence spread out between them, covered by the veil of the reaper man’s song. The violin yet playing.
+
+“How close did I come to dying tonight?” Tristan made himself ask.
+
+“Three words,” Hage simply replied.
+
+His stomach clenched in fear. A cold thing to say. But not unfair.
+
+“The song,” he said. “Who’s singing it?”
+
+Hage smiled, running a gentle finger across the side of the box.
+
+“It is difficult for a human to understand what it is like, being one of us,” he said. “Ashmodai has been there since the beginning, Tristan. He led the Krypteia when it was still a butcher’s knife, before Iscariot convinced him that they could be more. He’s been wielding the sickle since before men know how to make them in iron.”
+
+The old devil sighed.
+
+“He had a lovely singing voice, when we were young,” Hage said. “But even back then, we only ever knew sad songs.”
+
+_“O Father, are you smiling_
+
+_At the weeds you have sown_
+
+_Or the sickle that we swing?_
+
+_O Father, summer runs long_
+
+_And my hand it grows tired_
+
+_From all the many wrongs_
+
+_I have wrought and retired_
+
+_As the reaper man’s own.”_
+
+--
+
+The Akelarre Guild was still denying access to the garrison, but they could not refuse Marshal de la Tavarin: Cai Wei was still his student, treason notwithstanding.
+
+Angharad had not needed to do more than ask to be brought along to the Marshal’s visit. She’d gotten the impression that he expected entertainment to come out of that conversation and that was reason enough for him to agree. Captain Yue had not been pleased at her addition, but neither had she protested. Whether it was due to the ties between the sister guilds of the Guildhouse or the very poorly dissimulated soft spot the captain had for Maryam she did not know, and did not intend to look the gift horse in the mouth.
+
+The two of them were ushered through quiet, dimly-lit halls to a part of the chapterhouse where the Akelarre seemed to dwell. The rooms were small but lived-in, the glimpses Angharad caught revealing that the fashion here seemed to be sprawling cushions and heavy drapes. The drab tones contrasted to the often rich furnishings – there were more candlesticks in silver than in tin. The Marshal followed her gaze and clicked his tongue disapprovingly.
+
+“Disappointing,” he said. “Wealth softens even the finest souls.”
+
+Angharad shot him a skeptical look, up and down. Today’s finery was another set of eye-searing silks, heavy on purple and pink. The two large feathers sprouting out of his hat were both encrusted with a ruby.
+
+“Fashion doesn’t count,” the Marshal dismissed.
+
+“Then your clothes _definitely_ qualify,” the Navigator escorting them muttered.
+
+Before the old man could take offense, the young Tianxi escorting them stopped by a bronze-barded door and clapped his hands.
+
+“Here we are,” he said. “Captain Yue gave you fifteen minutes, and under no circumstance save self-defense are you to harm the prisoner.”
+
+He then hastily wrenched open the door and retreated. The Marshal still spared him a glare.
+
+“The youth of today knows nothing of taste,” de la Tavarin sniffed.
+
+Angharad made the strategic decision not to address this. She followed the Marshal in, the door closing behind them, and her fingers clenched at the sight of Cai Wei. Not because she was in a pitiful state, some bruised victim wasting away in the dark, but because of the opposite.
+
+Wei had been stripped of her Machinist-forged shell but she had not taken a student’s shape. She now wore loose inside clothes in earthy tones; a wide-sleeved robe with a round collar, ending in skirts and sandals. She was sitting by a low table, bent over a long and partly unfurled scroll bearing ink paintings and so many Cathayan characters it must be some sort of book. A small bowl burning something like incense sticks let out thin streaks of smoke to her left, unattended.
+
+Angharad’s indignation at the sight was only partly quelled by the glimpse under her sleeve that Wei turning to face them allowed: there were slender bracelets of obsidian beads around her wrists, each carved with the strange symbols of the Navigators. Binding shackles of some sort.
+
+“Whatever happened to knocking?” Cai Wei tartly asked.
+
+“Knocking is for guests,” Marshal de la Tavarin said. “You, girl, are a prisoner.”
+
+A prisoner in a pretty, well-furnished room where efforts had been made to accommodate her. Angharad was surprised to find how much that infuriated her. She had not wished for whips and chains, but this looked more like a reading retreat than imprisonment. _Anger will do me no good here_, she reminded herself. Angharad killed the girl who wanted to keep on clutching to it and became another. Instead she crossed the room, past a tensing Cai Wei and her table.
+
+She resisted the impulse to run a finger across the length of the bookshelf, past the dozen books and scrolls no doubt grabbed from a greater library somewhere in the chapterhouse, and noted the absence of a bed.
+
+“Maryam’s word is being upheld,” she finally said, turning to face Wei.
+
+The spirit grimaced.
+
+“I won’t be staying here,” Cai Wei said. “I’m being shipped to the Rookery by the end of the month and Captain Yue says the best I can hope from the trial is being remanded to Works and Means.”
+
+Angharad frowned, for she was unfamiliar with the terms. The Marshal was not, for he laughed and hummed a little tune.
+
+“We’ve got work, for the worst of the mean
+
+We’ve got means, for those pieces of work
+
+We’ll send them in, where the hope is lean-”
+
+“First into every pit where monsters lurk,” Cai Wei flatly finished. “I know the ditty, you old ghoul. It is a penal battalion whose assignments are decided by the Committee of Works and Means, Tredegar. A death sentence with shackles on.”
+
+“Live long enough and you might get promoted to officer, duck out death by handling training or supplies,” the Marshal said, stroking his mustached thoughtfully. “I’ll still recommend that you should be drawn and quartered, mind you. Like we used to do to traitors back in the old days.”
+
+“My sole joy in all this,” Cai Wei said, “is that I might yet outlive you, you heinous old fossil.”
+
+“Don’t bet on it,” the Marshal happily said.
+
+Angharad sighed. Whatever she had wanted out of this conversation it was not this... petty bickering. She derived no joy from it, unlike these two. She cleared her throat.
+
+“Marshal, might I have a word with her in private?” she asked.
+
+The old man eyed her a moment, then wagged his finger.
+
+“Don’t kill her with that pretty tomic edge,” he said. “I don’t have the loadout on me to kill our way out of a chapterhouse.”
+
+Part of Angharad was burningly curious about what such a loadout would be – grenades with Glare-touched powder? – but if taken up on his comment the Marshal might indulge until the end of time and they’d only been given fifteen minutes. So instead she simply nodded and the old man snorted, slipping out of the room. Angharad leaned her back against the bronze-barded door, arms crossed. Cai Wei stared her down.
+
+Silence lingered, until the other woman lost patience.
+
+"What do you want, Tredegar?” she asked. “If you’re going to gloat, actually gloat. This is just awkward.”
+
+“I am not sure what I want,” Angharad admitted. “I was told you would soon be shipped off the island, and the thought of not looking you in the eyes at least once before you went away seemed intolerable.”
+
+“I’m not your monkey or your priest,” Wei said. “If you’ve got nothing to say, I was busy reading.”
+
+She tapped her scroll.
+
+“I’m almost at the juicy part where the Farmer God gets all the emperor’s wives pregnant. Pretty explicit stuff, if you can get past the seed metaphors.”
+
+Angharad bit at her lip.
+
+“How did you come to attend Scholomance?” she asked.
+
+That gave Wei pause.
+
+“It must itch at you,” she said. “That Khaimov didn’t put a Gloam spike in my skull when she could. That I got put up here because the Akelarre want to keep that Bingwen kid from ending up in the shit like the rest of Morcant’s crew and my testimony is their best tool for it.”
+
+“You rode in the back of my body for months,” Angharad said. “You saw much of my life. It would not be unfair for you to tell me at least this small part of yours.”
+
+“I don’t care about being fair to you,” Cai Wei honestly said. “You’re looking for some sort of misfortune that’ll make me palatable, but there isn’t. I died, Tredegar. I died and I was afraid and I fucked you over because I thought it was my best shot at coming back.”
+
+“You did more than that,” Angharad coldly said. “Your attacks on students were treason, but I will concede at least that it was war waged on armed soldiers. When you set fire to the Triangle, more than forty innocents died. Choked by smoke, burned or buried. Three of them were children.”
+
+It had been a blow, to learn that, but also a relief in a way. She could better understand how some in town still despised the sight of the Thirteenth. Grief demanded a culprit and Cai Wei had been far away while Angharad Tredegar had been among them, walking the city’s streets.
+
+It was also a relief when Wei’s face flickered, as if she struggled with keeping her form for an instant.
+
+“I knew it might happen,” the spirit tightly said. “Fires don’t discriminate.”
+
+“Why start one, if it was me you were looking for?”
+
+“Because a fire would slow down the garrison, force them to play defense,” Cai Wei said. “Enough that the Machinist would finish what it was up to.”
+
+It would have worked, Angharad conceded, if not for the arrival of Western Fleet. The influx of sailors that Admiral Zokufa had been willing to allow to serve on the town defenses – at combat pay rates – had freed up men for Colonel Azocar months ahead of when the last batch of reinforcements from Lucierna would have arrived.
+
+Looking at them cold, empty of everything else, all the decisions Wei had made were... perhaps not sensible but not senseless. Logical, under a certain breed of logic. Angharad was not a fool, she could see that much. But she still could not understand.
+
+“It didn’t have to be this way,” Angharad said. “If you had asked for my help-”
+
+“_I know_,” Wei hissed.
+
+She slapped the table hard enough the incense bowl shuddered.
+
+“You think I’m so stupid I didn’t realize that? That it wasn’t a thorn in my thumb while I was thinking up that raid how I was the one that got myself there, that if I’d taken a chance I could have avoided the pit?”
+
+Cai Wei’s face was twisted in what Angharad would have called a snarl, were it not filled to the brim with loathing.
+
+“But I was already in the fucking pit, Tredegar, so I kept digging,” she said. “It wasn’t like I trusted the Machinist or liked the damn thing, it was just... that or death, and I didn’t want to die. Call me a coward if you like but-”
+
+“You are,” Angharad calmly said. “A coward. You chose to harm and kill others to save your own skin, repeatedly.”
+
+That gave Wei paused. She’d not expected that.
+
+“But I know many who are not cowards only because they were not put to the test you were,” she admitted. “And they will keep on lacking that label because they won’t be.”
+
+“Where are you going with this?” Wei frowned.
+
+“That you’re not some sort of evil spirit out of a scroll,” Angharad said. “You’re just a woman. Fallible, and you failed.”
+
+“You’re a bundle of comfort, aren’t you?” Wei drawled.
+
+“You don’t deserve my comforting,” Angharad frankly said. “I do not respect the choices you made or your reasons for them. And it would be childish to ascribe them all to some... fatal flaw you were born with, or a haunted past leading you astray.”
+
+She shook her head. _You were not a lesson I failed to learn,_ Angharad thought. _Some test or crucible. You were just scared and selfish and handed a weapon._ She let out a long, relieved breath.
+
+“I have what I came for,” Angharad said.
+
+ She rapped her knuckles against the door twice.
+
+“Farewell, Cai Wei,” Angharad said. “I don’t expect we will meet again.”
+
+The other woman looked at her for a moment, face unreadable, then she scoffed.
+
+“Are you still here?” Cai Wei said. “Leave me to read in peace, Tredegar.”
+
+So Angharad did.
+
+--
+
+Maryam had thought about asking for a face-to-face.
+
+Yue had good as told her she could have one if she wanted. Apparently there wouldn’t be a fight over the request: Commodore Oddar had withdrawn all protection from Nathi Morcant the moment it came out he’d provided the oil and tar that were used to raid the town. For now the matter was not yet made public, as the Watch was still investigating how the supplies had been smuggled into the island – hoping to catch the ship to do it, or at least find out where the oil and tar were bought and pick up the trail from there – but it was only a matter of time.
+
+The last thing the commodore would want when the truth came out was to be seen as someone shielding Nathi Morcant from the Watch. That’d be a career-killer of a mistake.
+
+Maryam was looking forward to the whole sordid tale being made public, and not just because it would ruin the slaver’s name for good. The story coming out ought to clean up the reputation of the Unluckies by putting the blame for the raid squarely on someone else. Song signing the brigade up for enforcer duty had done much to reassure fellow students that the Thirteenth was settling down, but that’d not trickled down into town.
+
+There the Unluckies were still eyed up like lepers, though businesses that sold to Scholomance students knew better than to make trouble for them. Morcant’s scheme coming out ought to help with the townsfolk, though it would not truly repair the damage.
+
+Maryam had considered telling Morcant that. Sitting down across from the man who’d assumed her a slave at a glance and tried to strike her when she did not hop to obey, to tell him that without his efforts to strike at the Thirteenth there wasn’t much she could have done to drive him out of the island. That it was his own obsession that’d given her the tools, that he had opened her eyes to how much she could actually do for her people from within the ranks of the Watch.
+
+But what would be the point?
+
+“Closure,” Angharad suggested.
+
+“She’s being polite,” Tristan had drawled from the sitting room. “The words she actually means is ‘gloating’.”
+
+Song had squinted at the book she had in hand, finger lingering on a line.
+
+“By my reading, spitting on him would not be abusing a prisoner unless the spit is poisoned,” she offered.
+
+“How tight is the definition of poison?” Tristan asked, openly interested. “Because I’ve got access to the menu again, and I read about this itching powder that-”
+
+Izel had been the one to get it, though he’d not felt comfortable stepping into the affectionate squabble that erupted between Song and Tristan about appropriate use of Krypteia resources. He’d come to her after supper, pressed a freshly-baked honeycake into her hands and cleared his throat.
+
+“It’s too large, isn’t it?” he said. “If you try to muster hate for every cog in the machine, there won’t be room left for anything else.”
+
+“I’m not afraid of that,” Maryam said.
+
+She bit her lip.
+
+“But I think it would get exhausting, to make it personal with every Nathi Morcant out there,” Maryam said. “And I already sleep badly. It’s not worth the warmth.”
+
+Izel stared at her, then shook his head ruefully.
+
+“Still scary.”
+
+“Now you’re just flattering me,” she grinned.
+
+The honeycake was even sweeter. Even if Song got snippy about crumbs in the sitting room afterwards.
+
+Still, Maryam made sure to be in port when Morcant was escorted into a Garrison ship wearing manacles. She even learned from the best and brought an apple to carve up while enjoying the sights. She enjoyed the sight of the now plainly dressed Nknonisathi Morcant disappearing into the belly of the ship. He looked smaller now, she thought. He’d never been tall, but he’d had presence. Now that arrogance had been stripped out of him, though, he looked… young.
+
+Maryam threw the core of the apple his way and got on with her day: she had business at the Abbey, not unrelated.
+
+Now that the second Forty-Ninth Brigade was officially disbanded – there was talk about the number being cursed - its members had been taken into custody. It would be a mess to entangle how much of what they had done was willingly or for coin and how much had been because of Morcant’s contract, but one case at least had been set apart from the others.
+
+In principle Bingwen was in detainment the same as his fellow cabalists, but in practice his regular visits to the chapterhouse to stay in the Meadow meant his detainment was much more relaxed. Maryam had not intended to get further involved in his matter – she’d said all she intended to – but the other side of being able to ask Captain Yue for favors was agreeing to it when she made requests.
+
+And Bingwen had asked Yue to arrange a meeting.
+
+Maryam was the first of them to the Meadow, oddly enough. She sat by the water, dipping her boots to wash off the road dust, and ran her hands through the tall grass. It’d been some time since she last spent a night here. Despite their labors, she and Ester had grown better at not crossing that invisible line. Or at least avoiding the kind of backlash that would put her in bed.
+
+Bingwen was not silent as he crossed the grass. Maryam spared him a look – he looked better rested than he had in weeks, and his once-loose hair was now kept in a braid – but did not get up. He hesitated after approaching, shuffling a moment, but moved to sit by her side.
+
+“Maryam,” he stiffly said.
+
+“Bingwen,” she replied. “Changed the hair?”
+
+He nodded.
+
+“A change was due,” Bingwen said.
+
+She didn’t pick up the conversation. She’d not been the one to request the meeting and she was not in a hurry. Eventually he stirred.
+
+“I heard you spoke in my favor.”
+
+“Let’s not exaggerate,” Maryam said. “I told Commander Bouare I didn’t believe you knew what the barrels were for and that I’d seen hints that Morcant was leveraging you.”
+
+“Let us not deprecate,” he retorted. “Commodore Oddar has plainly told me that your testimony is the main reason that execution has been taken off the table.”
+
+“I didn’t lie,” she pointed out. “If that’s enough to take the blade off your neck, then it didn’t deserve to be there.”
+
+“It would have been deserved if you lied to _get_ me killed instead,” Bingwen flatly said. “Your words were a great kindness and I will not pretend otherwise.”
+
+He inclined his head low.
+
+“Thank you.”
+
+He stayed like that until she acknowledged it, to her mild irritation. And once she did he looked so damn lost it was driving her mad. It’d be like abandoning a drowning man. She sighed.
+
+“I died when I last underwent obscuration,” Maryam told him. “Several times. Akelarre drink down a little death every time we signify, Bingwen, and there’s no way around it. It’s the nature of our trade.”
+
+She ran her fingers through the grass.
+
+“I made it to Tolomontera only because my first teacher offered me a hand. I made it through my obscuration only because Captain Yue was there to keep me going.”
+
+Her gaze found the water.
+
+“Neither of them had to help me,” Maryam said. “They did it because that’s what it means to be a Navigator – it’s us and death, down in the pit. And you don’t have to like your brother, but we don’t side with death.”
+
+She dragged herself up, rested her wooden fingers against his shoulder.
+
+“One day it’ll be you who’s older,” Maryam said. “Who gets to make that choice.”
+
+A half-smile.
+
+“Pass it forward, Bingwen,” she said. “I think that’s the closest any of us get to repaying it.”
+
+She left him to the water and the grass, and maybe a good night’s sleep. Sometimes that was the finest thing a Navigator could ask for.
+
+Maryam had been expecting a meal in town with whatever members of the Thirteenth were there – Izel and Song? – but waiting for her outside the chapterhouse was Koval the Elder. How long had he bee waiting here?
+
+“There has been an issue with the skimmer,” he told her. “I was sent to tell you to head there as soon as you can.”
+
+She blinked and traced against the veil, but Ester only traced back a ‘busy’ and the vague sense of rolled eyes. The brat had developed an irritatingly busy social life.
+
+“Might as well get it over with before I eat,” she groaned.
+
+This had better not be about beaching the ship again, with the Western Fleet all gone there was no reason for the garrison to ask. She thanked Koval before getting a move on, the older man seeming amused for some reason. Minutes later she was at the docks, but while the ramp on the skimmer was lowered she saw no immediate trouble. Shit, had Izel found something wrong with the engine? That could get expensive.
+
+She hastened her steps down the stairs, but the door to the engine room was closed. It was one of the cabins that was wide open, with light coming out, and fucking Nav was that _her room?_ Irritation rising – she barely kept anything in there, but still – she stomped down the hall, crossing the threshold into... Maryam stopped cold.
+
+The wall facing her was painted, from ceiling to floor.
+
+Most of it was black and blue, an expanse of night painted in thick swirls with only some specks of gold to break up the dark, but closer to the floor was... docks, she recognized after a moment. With crates piled on, the sketched outline of a cog in the water and black silhouettes around. The paint looked dry, but the room still smelled strongly of it. Fresh.
+
+“Can’t remember how many crates there were, exactly. Call it an approximation.”
+
+She swiveled to find Tristan standing in the corner to the left, arms folded like he was embarrassed. There was still some paint until the nails she could see even though his fingers had the rosy tone of the skin scrubbed clean. He was – gods – he was standing on a blanket that bore candles and two baskets filled with food. A pot of mushroom soup, spicy pork sausage, beet pie and what looked like an attempt at _duvec_ from Trebian staples. Like someone had tried to make an Izvoric meal out of things that could be found in Allazei.
+
+He wasn’t in uniform, instead back in his gray jacket with the woolen shirt under it unlaced at the top. Maryam caught a glimpse of slender collarbone and forced herself not to think about biting it.
+
+“Tristan,” she managed. “What is this?”
+
+He looked away.
+
+“I wanted you to know you’re not the only one,” he said. “I remember the docks on the Dominion too.”
+
+He reached out but stopped halfway, hesitant. Maryam did not hesitate, crossing half and more to catch his wrist with hers. Gently, after the catch anyway.
+
+“It’s beautiful,” she said, and meant every word.
+
+He smiled, and for once there was only softness to it.
+
+“I tried.”
+
+She swallowed.
+
+“Are we having that talk, now?” she asked.
+
+He stopped, and wriggled his wrist to lace his fingers with hers.
+
+“We can,” Tristan said. “If you want. But I don’t think there’s a lot to say.”
+
+Her heart caught in her throat. All that to let her down gent-
+
+“I’m here because I trusted you,” he said. “It was my saving grace, at the bastion. It has been before, and I think it will be again.”
+
+He stepped a little closer, foot brushing against a basket. She could have sworn even her wooden fingers were awake and full of butterflies.
+
+“And I won’t promise to be something I’m not,” Tristan quietly said. “But I love you, and I like kissing, and even if that turns out not to be enough for us I don’t think I would regret something like today. If that’s enough for you then-”
+
+She kissed him. Gods the angle was awful – their teeth clicked, until he leaned in and grabbed her. But his lips were soft and she poured out a hundred things unsaid he answered until their lips were bruised and his hand was in her hair and she put her forehead against the side of his neck.
+
+“It’ll be enough,” Maryam whispered. “You will be.”
+
+Neither of them wanted to leave. They sat there in the blanket and ate and kissed again, talked forever and when the candles ebbed low even slept. They emerged only at night, to the golden stars above, and sat together in the glass cabin above. Under the blanket, alone with the wind and the night and the distant sounds from town. Only they were not entirely alone, for somewhere within Maryam lay the veil and past it her sister. She traced affection, because she could think twice of it.
+
+Ester must have known. Her absence made it likely, the choice of food all but certain.
+
+Her sister traced it back and she smiled, head against Tristan’s own. No, never truly alone now. How was it that Holvat had called her, mere yards from here down on the docks? _Vranacerka_, crow-daughter. A turn on Mother’s old sobriquet of _vranasestra_, crow-sister, the bearer of curses and ill news. He’d called her the last princess of Volcesta as well. She wasn’t, though.
+
+“Vranacerke,” she murmured. “The daughters of the crow.”
+
+It was a fitting name for the skimmer that would bring them home one day.
+
+--
+
+There’d only been one way the decision could go, but Song had still put it to a vote. Five out of five, despite attempted sabotage from Sakkas when he flapped around on the table, and Ishanvi Kapadia was admitted into the Thirteenth Brigade.
+
+There was much work ahead, preparations for her moving into second-year classes and training her up to Unluckies standards and bringing her into the chore rotation, but Song was prevailed upon by the whining masses to start with the ‘fun’ part. So she held the bespectacled girl by the hand as they went up the stairs, dragging her through the ancient veil laid down by Sakkas the Lecturer until they emerged into the grass by the garden path.
+
+There Ishanvi’s eyes fluttered and it sunk in where she stood. She swept past like a storm, asking a dozen questions – how had the veil worked, was it from Maryam, was that a real garden, why was that scarecrow so ragged – and Song gladly pushed her off onto Angharad and Izel for answers as they headed inside.
+
+“What do you mean, Tristan talked with the actual Sakkas?”
+
+A beat.
+
+“And he _didn’t take any notes_?”
+
+Song took back the reins long enough to guide her though the anteroom, drawing room, kitchen – she didn’t have to be told to take off her boots, the well-mannered girl – and then upstairs, through the personal rooms.
+
+“And what’s behind the locked door?” Ishanvi asked, pushing up her glasses.
+
+“The what?” Izel slowly asked.
+
+A round of shared looks. No one knew what she was speaking of, until a fascinated-looking Ishanvi took Song’s hand and physically put it against a door. One she remembered knowing about when they first moved into the cottage, one she’d planned to get through.
+
+“I had forgotten the door exists,” Song slowly said.
+
+Well. It looked like the rest of the year wouldn’t end up entirely quiet, at least, because Song Ren was not going to let herself be tricked by a door _twice_.
+
+ 
+
