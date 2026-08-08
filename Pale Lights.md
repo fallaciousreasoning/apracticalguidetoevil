@@ -104817,3 +104817,425 @@ Well. It looked like the rest of the year wouldn’t end up entirely quiet, at l
 
  
 
+# Epilogue
+
+It was a sign of the times, Wen Duan thought, that it hadn’t even taken the whole year for him to end up in front of the Obscure Committee.
+
+It wasn’t past the halfway mark of the fifth year of Smoke and yet here he was, sitting in the damp hall outside the committee’s audience room. Left staring at the same old tapestries – cleaned of mold, at least - while sitting on under-stuffed cushions. If he missed spending the spring fiesta with Benedeta because of the brats, Wen was going to bring back Lierganen decimation and apply it rounded up until the average level of clever in the Unluckies matched the average level of sense again.
+
+Depending on how soon Abrascal died he might have to execute as many as half of them, but these were acceptable losses.
+
+He’d had to share his bag of pistachios with sailors to get fleet gossip on the way to the Rookery and there was no way Wen was wasting his turron on a hallway, so Wen found himself reduced to pulping a blood orange from the market. There was a trick to making it as messy as possible, taking off only a little peel while digging deep with your thumb, and the dangerous old man next to him had been studying the whole affair with a sort of academic fascination.
+
+The old Izcalli was good-looking, for a man in his seventies, but for an_ Akelarre_ in his seventies those good looks journeyed past the realm of good breeding into something closer to miraculous. When Navigators got old their dark arts usually caught up to them, souring their old age.
+
+Instead the other captain waiting in the hallway was worn in the way that old stone was, made smooth but keeping the shape. His hair was short and more silver than white, the jowls of his shaved face hanging ever so slightly in a way that made him seem grumpy in a grandfatherly sort of way. He was not a tall man and while healthy bore little muscle, his wrinkled skin a deeper brown than most Izcalli’s.
+
+“I don’t believe I’ve seen an orange eaten that way before,” Totec the Feathered said. “Is it a custom particular to a region?”
+
+“A cultivated skill,” Wen proudly replied, licking up the red pulp on his hand.
+
+He made it juicy, extra portion of tongue, but the old Navigator did not so much as bat an eye at the sight. He kept on looking in that faintly collegiate way, brown eyes interested and polite. Wen Duan didn’t trust those eyes in the slightest. Captain Totec, he suspected, would look much the same way at a wild dog eating a child’s entrails and feel about as strongly regarding both things.
+
+_Gods damn it_. Totec was one of those Akelarre, was he? The ones who spent almost as long outside their body as in it, who’d been in the Gloam so long and so deep that they didn’t entirely think as people anymore. Wen hated those types. Partly because much of his usual tricks were useless against them, but mostly because they tended to be powerful signifiers who were also crazy. The ones who were quiet about that crazy were only more dangerous for it.
+
+It wouldn’t do to let conversation lapse, so instead he tossed the ball back the older man’s way. 
+
+“I hear you were just in Old Liergan,” Wen said.
+
+“I joined a cabal on their journey to the headwaters of the Biscarosa,” Captain Totec told him. “There were concerning reports that a remnant of Cardinal Kakebios had risen, but this was a false alarm. It was only a cult worshipping one of his graves and calling forth an ego-shape.”
+
+That sounded like the kind of contract you lost an entire free company to before wising up and calling for reinforcements, Wen thought. Nothing related to the twelve cardinals of the Sunless House had ever been anything but thoroughly nasty to deal with.
+
+“Oh well, if it was only an ego-shape,” Wen said, rolling his eyes.
+
+Darklings didn’t have souls in the lucent way, so they couldn’t be ghosts, but ‘ego-shapes’ was just a fancy theological term for their equivalent. The old Navigator was acting like it was just a quiet year to travel down to the source of the Mother of Ruin and put down a cult that’d called forth the ghost of Kakebios the Burner. You know, the same legendary warlord who’d sacked Tamaria back when it was the greatest city in the world, torching the imperial library with most of Liergan’s finest scholars still in it.
+
+Coming from most he would have pegged the downplay to be a maneuver, false humility measured to impress, but that wasn’t his read here. Totec the Feathered didn’t care enough about this conversation to play games, the old Navigator simply didn’t consider what he’d been up to all that noteworthy. Just another year wearing the black.
+
+Totec was rook in the olden way, he decided, from the days before Iscariot put together an order. When the blackcloaks had been roving killers and wisemen selling their skills to anyone who’d pay, wanderers whose trade was to take on the ugly risks no smart men would. The breed had slowly died out as the Garrison formed and the largest of the free companies became something between guilds and city-states, but there were remains.
+
+That was what cabals were, when it came down to it: the talented, expendable maniacs you sent to do the things that no one else could.
+
+Totec cocked his head to the side, but it’d been a few beats too late to be over Wen had said. The large captain’s eyes narrowed behind his spectacles. What had the signifier noticed he hadn’t?
+
+“We will soon be ushered in,” Totec the Feathered told him. “Before we are, Captain Wen, I would give my thanks.”
+
+Wen eyed him skeptically.
+
+“For?”
+
+“You have taken good care of Maryam,” Totec said. “Scholomance has been good for her, I am pleased.”
+
+Eh, Maryam was one of the better ones. And since her mentor had yet to threaten him, she remained a cut above Abrascal and Ren – though beneath Angharad, on behalf of those sweet Tredegar bribes. Still, Wen frowned at the old man.
+
+“Khaimov almost lost the plot this year,” he bluntly said. “And she made an enemy out of one of the richest noble houses in Malan.”
+
+The entire Thirteenth had, practically speaking, but Maryam would get the lion’s share of the hate on account of her being an Izvorica who’d had the gall to object to the methodical looting and extermination of her people. Not very well bred of her, that. Whips for everyone until House Morcant was appropriately kiss-assed for most brutal practice of slavery Wen had heard about since the Second Empire.
+
+“The conflict will sharpen her,” the old Navigator serenely replied. “An enemy to overcome drives improvement in a way that nothing else can."
+
+Or, more likely, she would get killed? Before Wen could muster a marginally more polite version of that to hammer the man with, Totec rose to his feet. Exactly one second later the door was opened and Ademar stepped through. The leathery-faced man looked well rested for once. Fair enough, considering this should usually be a dead season for the Obscure Committee.
+
+“Captain Duan,” he said. “The committee will see you now.”
+
+He raised an eyebrow, turning to have a look at whether Captain Totec had expected the implied dismissal, but he was no longer there. His thoughts stalled for an instant. There was no way the old man could have rushed through the door or down the hall without him noticing it. This was either a Sign or... _He was never in the hallway at all._ It’d been a simulacrum the whole time, a ghost spun up in Gloam. That a signifier that old could make one was not surprising, but Wen had _checked_.
+
+Totec’s body had cast a shadow and breathed in a way that moved air. He hadn’t even known that was possible.
+
+“Fuck me,” he muttered.
+
+Shaking his head he approached Ademar and slipped him two silvers. The committee’s secretary pushed them back into his hand.
+
+“Not much to say. They’re all like wet cats in there, except Asher who’s gone full marble,” Ademar whispered. “Someone’s head is going to roll, Duan. Careful it’s not you.”
+
+Wen put the silver back on his palm and closed the middle-aged man’s fingers, who did not argue again. Staying on his good side was worth more than the coin.
+
+What Ademar had meant was clear within moments of entering.
+
+The audience room remained as pretentious as always: the four high desks under rings of light so that the committee members could literally stare down their nose at him, the grounds before them in half-light so he’d be reminded that he wasn’t worth the use of a decent lamp compared to these fine folk. Only instead of looking like a pack of lounging cats as they usually did, they all looked on edge.
+
+Brigadier Anju Laghari’s face was stony, Professor Fenhua He kept twisting the fine rings on their fingers and the half-blind Captain Falade was staring straight ahead. Lord Asher looked the least tense, but Wen was familiar enough with devils to know what it looked like when one was consciously refraining from moving inside their shell.
+
+Captain Totec was standing in the half-light, speaking with the brigadier like he’d been in there the whole time. Wen was beginning to suspect he had been. The most powerful of the Akelarre might not have reached the grand prize that was concurrent actualization entirely, but the eldest of that guild were said to be capable of existing simultaneously in more than one place.
+
+ 
+
+Wen joined Captain Totec, receiving no explanation for the man’s presence and knowing better than top ask for one.
+
+“Captain Wen Duan, presenting myself for questioning,” he said, offering a salute.
+
+He must have looked like a nice little roast to the eyes of the committee, because the knives came out immediately.
+
+“And questions we have, captain,” Professor He cooly said. “There seems to be no catastrophe on Tolomontera that the Thirteenth Brigade did not somehow find a way to be involved in.”
+
+“They’re ambitious kids,” Wen agreed.
+
+No one smiled. Tough crowd.
+
+“The Morcant boy,” Anju Laghari said. “Let’s start there.”
+
+Brigadier Laghari always looked stern. Between the scars, the hard face and the attractive bulk she’d have to go out of her way not to and she’d clearly picked the other way at that crossroads. Today, though, there was something... grim about it. _She’s seen something on the horizon that has her somber._
+
+“Would that be the same Morcant boy who armed a deserter in the service a god of the Old Night that was besieging Port Allazei?” Wen ‘politely’ asked.
+
+Best lay out the bones of the case early, else one of them would do it for him.
+
+“That is the one, yes,” Captain Falade drily said. “Walk us through the relationship, Duan.”
+
+He shrugged.
+
+“It’s not exactly cryptoglyphs, ma’am,” he said. “The boy acted like he was still in Isasha, got his teeth kicked in for it within moments of walking off mommy’s ship and doubled down instead of learning a lesson. When he stuck his thumb back on the stove and got burned for it, he lost his wits and decided to enable the torching of Port Allazei as some sort of idiot master plan.”
+
+There were two testimonies backing the existence of that plot, from the traitor Cai Wei and that idiot kid Bingwen that Maryam had seen fit to throw a lifeline to. Both testimonies were backed by the Guildhouse, so that flank was ironclad. Good luck to anyone trying to kick_ that_ plate.
+
+Laghari wasn’t a wet-behind-the-ear lieutenant, so kick there she did not.
+
+“Angharad Tredegar publicly swore to beat him daily,” Anju Laghari said. “That is driving Nkosinathi Morcant out of Scholomance in all but name.”
+
+“She also left him a very visible out in the form of confessing all lawbreaking to the garrison,” Wen said. “Or is that part inconvenient to mention, ma’am?”
+
+As far as he was concerned, Tredegar had made a mistake when she beat on the boy. She was only going to get away with doing something like that once and Nathi Morcant was far from the worst sort she’d encounter. On the other hand, like a good Pereduri she’d put in an escapement in her oath and Wen would be damned if he didn’t do her the courtesy of using it.
+
+“Irrelevant is what it is,” Laghari flatly said. “The concern is not that she beat the Morcant or that she threatened the boy, it is that she effectively arrogated the right to expel a student. That is not an authority we can allow to be diluted.”
+
+“Then you have failed.”
+
+There was a moment of silence as gazes slid to Totec the Feathered. The white-haired old man looked a little bored, almost distracted.
+
+“You have failed in this regard, brigadier, and it was not the duty of the Thirteenth Brigade to uphold your particular interpretation of the status quo,” Captain Totec informed her. “This is pointless. Bring out a genuine grievance or move on.”
+
+A flash of anger crossed Laghari’s face, but she mastered it. Her voice was calm when she resumed talking.
+
+“Nkosinathi Morcant has a contract capable of not only healing but of physical augmentation,” she said. “Now not only is he expelled from Scholomance, but we may well have to execute him outright and lose a first-tier contract for the Watch.”
+
+The old man’s silvery eyebrow rose.
+
+“And?”
+
+A smile from Asher, who shook his head. Falade rolled her eyes.
+
+“Are you perhaps confused as to the meaning of my words, _captain_?” Laghari frigidly asked.
+
+Pulling rank? Come on, Laghari. There were captains and then there were captains. Akelarre tradition was not to claim higher rank than captaincy when not in active service, but the Feathered had to be at least the equivalent of a senior commander.
+
+“I admit confusion as to what part of them is the Thirteenth Brigade’s concern,” Captain Totec replied. “You whine about losing something useful after taking no measures to preserve it, choosing to blame instead students who reacted to attacks levied upon them within the bounds of the rules that you set.”
+
+A pause.
+
+“It is behavior unbecoming of an officer of your rank.”
+
+Wen let out a low whistle, well worth the glare from Laghari. Totec was a dangerous lunatic but the old man was growing on him. He could get used to having someone with ‘no, fuck _you_’ amounts of social currency on his side of the desks during these little chats. He’d personally need at least another two promotions before feeling up to the risk of spitting in Laghari’s soup like that.
+
+“There were concerns expressed about sending young Nathi to Scholomance,” Lord Asher noted, the statue coming alive. “The prevailing opinion of the time was that putting him under a traditional hierarchy had high risks of abuse given the price of his contract so joining a student body was preferable, but considering the results...”
+
+“The yolk is spilled,” Captain Falade said. “Whatever his potential, the boy threw it away when he decided to aid the Machinist at the order’s expense.”
+
+“All very fine and good but how do you expect the talks with House Morcant to go, when our diplomats have to explain that the ruin of their youngest happened to no consequences?” Professor He pointedly asked. “Disastrous is a word that comes to mind.”
+
+Wen cleared his throat.
+
+“To be clear, professor,” he said. “What particular action is it that you are advising my cabalists should be punished for?”
+
+Irritation flickered before they looked away, not answering. She could not, because the answer was ‘nothing’. The Thirteenth had, despite its spurts of brutality and stupidity handling the matter, not actually broken the rules of Scholomance. It was simply that Laghari and He were sitting here representing the Stripes and Laurels who would be dealing with the aftermath of the Morcant business, and they wanted a scalp to ease that work.
+
+A shame for them that there were none for sale today.
+
+“We can consider the matter temporarily closed,” Lord Asher said, smiling like a man who was actually nailing shut a coffin. “Let us move on instead to those of greater import – the lenslight patent, for a start.”
+
+“Or lightlance,” Anju Laghari mildly said.
+
+And with the subject changing, so did the alliances.
+
+“That was proven patent theft, Anju,” Profess He harshly said. “The thief in question has withdrawn his contest of the claim, confessed the offense and been punished for it. Any insinuation that Warrant Officer Izel Coyac’s work is not his own would be met with a great deal of displeasure by the College.”
+
+“And the Akelarre Guild as well,” Captain Falade said.
+
+And the Academy regularly flipped the finger at the College societies, but doing the same to them and the Navigators together was a witless sort of fight to pick. Totec leaned in close, though Wen was reluctantly amused to notice he didn’t even bother to lower his voice when ‘whispering’.
+
+“This lenslight, it’s the Navigator-killer that Doghead Coyac’s boy cooked up?”
+
+A sentence that could not have been better designed to make Izel physically sick.
+
+“Pretty much,” he answered. “A Khalkea workshop tried to steal it as a catspaw for Marshal Camaron.”
+
+Totec nodded, openly indifferent to the matter. There was a worrying lightness to the man, Wen found. Like he was always one foot out of the Material.
+
+“-show of force by the Navigators is what makes this irregular in the first place,” Laghari was insisting. “I don’t disagree with the verdict of the Umuthi Society, Fenhua, but if we allow the precedent of influence pissing matches deciding those disputes it’ll be open season the next time a patent is contested.”
+
+That found a better audience, Wen gauged. No committee liked Watch grandees to meddle in its affairs.
+
+“What is it exactly that you are proposing, Anju?” Asher asked.
+
+“We have the case arbitrated again,” Brigadier Laghari said. “The Wednesday Council puts on the same tribunal, makes the same ruling, only instead of applying the judgment themselves the ruling is passed on to us for final approval.”
+
+Wen was not as conversant in bureaucratic warfare as he had been during his time on the Rookery, but if he was reading Laghari’s scheme right then the end result would be that the Umuthi Society would still pass judgment over disputed Scholomance patents but the appeal process would be redirected to the Obscure Committee instead of the Conclave.
+
+It would certainly cut down on dragging powers of the Watch into student disputes. It’d also give the four sitting members of the Lesser Committee for the Trebian Northwest a great deal of authority of patents issued from Tolomontera, which considering the ill odor the Unluckies were in with most of them was not ideal. Laghari talked around Asher and had Falade on the fence – she didn’t actually give a shit about the patent ownership, only that it be buried as long as possible - but Fenhua He was digging in.
+
+“The claim has already been resolved,” Professor He insisted, wide sleeves flying as they gesticulated. “This committee does not have the authority to undo an Umuthi Society ruling and relitigate it.”
+
+Laghari, looking for a killing stroke, turned back to Wen.
+
+“That’s easy enough to solve,” she said. “Captain, would Warrant Officer Coyac be willing to directly petition the committee for their ruling on the matter?”
+
+Wen split open his blood orange, popping a piece into his mouth.
+
+“I expect he’d rather swallow a bullet,” he replied as he chewed. “Unless you have a pressing reason why he should.”
+
+“Our verdict would be guaranteed,” Anju said.
+
+He swallowed.
+
+“He already has that verdict,” Wen pointed out. “As handed down by an institution he actually trusts, the Umuthi Society.”
+
+Professor He did not bother to hide their pleased smile.
+
+“It would prevent future Conclave meddling in the matter,” Laghari pressed.
+
+Wen shot her an unimpressed look. That would be boon in the abstract, but in practice the chances of anyone touching the lenslight patent for the next five years were slim to none. With full Umuthi backing and a display of support from the Navigators this strong? Even a greedy thing like Marshal Camaron would take the loss and wait out the patent lock instead. He was at risk of being at war with both the full Guildhouse and College otherwise, five of the Watch’s seven covenants. Camaron’s command was old, rich and influential but the man was far from invincible and he has his share of enemies waiting to pounce.
+
+He’d been swinging further than the reach of his blade these last few months because the Unluckies had infuriated a significant chunk of the senior officers in the Trebian Sea, but those who’d shown up on Kofoni to spite the brats shouldn’t be confused for actual allies of the man.
+
+“I can pass along the offer,” Wen shrugged, popping another piece into his mouth.
+
+He’d expected Laghari to be irked, but the genuine frustration on her face surprised him. Why? This was copper coins for a brigadier. Why was Laghari being so aggressive about pushing for victories even when her support in the room was shoddy at best? He was missing something.
+
+In the end Captain Falade was not given sufficient reason to flip, so it was a deadlock and the proposal was set aside.
+
+Wen gave it good odds that the Stripes would broker a deal between the Umuthi and the Obscure Committee in the coming weeks. Something along the lines of the committee being bound to respect Umuthi verdicts barring some very specific circumstances. A compromise that would preserve the covenant’s authority while allowing the committee to close the door to outside meddling in Scholomance affairs.
+
+Either way, it wasn’t his trouble. The next subject, unfortunately, very much was.
+
+“Colonel Chunhua Cao’s resignation and surrender to Marshal Shu’s custody leaves us down a covenant teacher early in the year,” Lord Asher said. “The degree of guilt the Thirteenth bears over this is... debatable.”
+
+The devil leaned in.
+
+“That your Unluckies made public her blackmail stash in an act of extraordinary recklessness, however, is _beyond debate_.”
+
+Like the old devil hadn’t allowed it to happen in the first place. Still, let it not be said that Wen Duan was cowed in the face of emphasis.
+
+“The actual spreading was done by the Western Fleet,” he objected. “They just handed the papers over.”
+
+“On condition of them being made public,” Anju Laghari said. “Admiral Zokufa was almost delighted to tell me as much when asked, on the record.”
+
+Wen had known that, since Song had proved sensible enough not to hide the details from him. He’d really hoped that_ they_ didn’t, though. Or more realistically that only Asher would and the man would sit on the knowledge because all Masks were assholes and being a devil only compounded the tendency.
+
+Squaring his shoulders, Wen called upon his most useful skill he had learned in his years as an officer and began looking fixedly at a point on the wall behind them while preparing himself for the chewing out.
+
+“I hate to waste the committee’s time on repetition,” he said, “but I must ask specifically what action you are suggesting that my cabalists should be punished for. It is unclear at this time.”
+
+None of them were happy. In some ways it wasn’t as bad as Wen had expected. To his surprise, Anju Laghari praised the leak – though she reserved all the credit for that ‘promising young Stripe, Song Ren’ – but went on to frankly explain that between the lenslight pissing match and this mess, that made it twice that the Thirteenth had made a splash into the wider Watch and now the people who’d been splashed were asking pointed questions about whether Scholomance students acting outside of the school’s bounds should really fall under the sole jurisdiction of the Obscure Committee.
+
+In some ways, though, it was worse.
+
+“There was a riot on Khalkea,” Asher informed him. “One of the workshop heads was skimming off the top and a lieutenant in another was selling pieces on the side. Between those two arrests and the sergeant whose career was killed by the lenslight debacle, when one of the arrested officers claimed these were false accusations hiding a Garrison coup a significant number of tinkers and artisans believed it.”
+
+“There have been arrests, demotions and executions from the Towers Coast to the Peones,” Professor He said. "The Arthashastra Society tells me that the disruption in contracts and trade alone cost the Watch at least thirty thousand ramas. And that is only the tip of the spear, Captain Duan.”
+
+They paused.
+
+“Suggestions were made that, given the costs incurred, the only way for the Thirteenth to make good on the losses their carelessness caused would be to surrender their skimmer to-”
+
+“Are you proposing,” Totec the Feathered mildly asked, “that my student should be robbed of her priceless ship because she made the corrupt uncomfortable by exposing their corruption?”
+
+The old man cocked his head to the side.
+
+“Do I correctly understand the meaning of your words, professor?”
+
+There was a moment of tense silence. Fenhua He glanced either way and found no support among the others.
+
+“It was only a suggestion.”
+
+“Unless such suggesters are willing to put forward their name with their word,” Captain Totec said, “it seems to me that what you are peddling should more accurately be called gossip. Is that something this committee trades in?”
+
+Funnily enough, no one volunteered to say that it was.
+
+That charming episode put a stick in the wheel of the worst of it, but Wen saw that the core of the matter remained. As far as the Obscure Committee was concerned, while bringing corruption to light was not objectionable or cause for punishment the method chosen for it had damaged the Watch and created a dozen shitshows across the Trebian Sea that could have been avoided by taking the matter to the appropriate authorities: them.
+
+Now they were stuck defending the Thirteen Brigade to multiple angry regional commands and humiliated free companies, who were blaming them for the matter and making noises about Conclave supervision and reconsidering the delegated legal powers.
+
+The only reason it wasn’t worse was that some in high places had strongly approved of the corruption being excised, either from principle or because it’d removed their rivals. There were cautious shows of support from elements in the Conclave and some of the regional commands who’d not had messes uncovered were making a point of public support.
+
+Captain Falade took the hardest line among the committee, mostly because there’d been Navigators on that list and the Akelarre had lost the opportunity to handle it in-house as they preferred. She was feeling a mite bit on the hand she’d just fed the Unluckies with, Wen decided. To his disbelief, the mitigating influence in his favor was actually Anju Laghari.
+
+“We have been raining grievances on the captain,” the brigadier cut in, “and hardly left him the opportunity to answer any of them. Captain Duan, is there anything you would like to say?”
+
+He did not answer immediately.
+
+The safe choice, Wen thought, was to keep looking at the wall. To let it pass. The Thirteenth wouldn’t get expelled. They’d get punished in a public enough way that the committee could point at it when complaints were tossed their way. Probationary status at Scholomance, a Mask assigned to them on the yearly tests and the indirect leash of these fine officers privately telling Wen that if he didn’t take the brigade in hand he was headed back to the Dominion or some posting like it.
+
+Some of that, he thought, would be deserved. Considering the messes the brats had waded in, a Mask or Laurel liaison couldn’t hurt. The rest, though... He blew out a breath.
+
+Wen Duan had been here before. Younger and angrier, full of piss and vinegar. He’d pissed out most of both since, learned his lesson, but he still remembered how it had been standing in front of senior officers. All of them saying him he’d done something that was right but he hadn’t done it right, that on the final ledger he had writ in more harm than good. There was no point in standing before that tribunal again, it was done with. But the kids were there too, right now, through him.
+
+If he opened his mouth, they’d strip him. No longer a Scholomance patron, sent off in some hole. But then Wen thought about what it’d be like spending the next few years with the Thirteenth not as their patron but their leash holder, beating the best impulses out of them on behalf of the people in this room.
+
+So instead Wen Duan took his eyes off the wall, back to the Obscure Committee, and told them what he wished he’d been seasoned enough to tell those officers back then.
+
+“This is on you,” he said.
+
+Oh, they didn’t like that. Laghari took it on the chin, but both Falade and He actually looked offended. Who could fucking tell with Asher?
+
+“You’ve spent half an hour complaining that the Thirteenth Brigade didn’t trust you with the blackmail, but _saltless gods_ why should they?” Wen asked. “I’ve sat on senior officer briefings so I know it’s not quite that simple, but are you truly complaining that they didn’t go to you with this mess when Asher tried to execute one of them a couple of months ago and the senior Stripe you put on the island was actively trying to pull off a coup while students were dying in hallways?”
+
+Wen shook his head.
+
+“You’ve used those kids as bait and negotiating tools, you’ve repeatedly shoved them under the command of incompetent or corrupt officers who disregard the same laws you want them to follow and now you wonder why they have no respect for them?” he asked. “Be serious.”
+
+He saw the retort dawning in them and moved to cut it off at the knee.
+
+“Sure, you’ve made allowances for them when they crossed lines, but you make those allowances for half the students in Scholomance and everybody knows it. That doesn’t buy you trust, or respect.”
+
+The large Tianxi met their eyes one after another.
+
+“Neither does the fact that they knew for a fact one of you was backing Chunhua Cao’s little plot. I wonder why they didn’t believe that anyone here would actually act on all the shit they dug up, the same shit you’re currently trying to punish them for airing.”
+
+Wen tore up the last of his dried orange, bit off the remains of the red flesh and scarfed them down.
+
+“And this should worry you, all of you,” he said. “Because my brats are vicious little things, sure, but they’re not the only ones who think of this committee like that. You know who came out well of that whole Machinist mess? Azocar and Zokufa. The garrison and the fleet, the cloaks who actually tried to help. The same cloaks that the people you sent to the island were trying to run out of town, _even as they were helping_.”
+
+He shook his head.
+
+“You made a school for covenanters that thinks better of the rank and file than they do of their own seniors,” Wen said. “And I can see what you’re doing it, that it’s working – some of those kids move and think like veterans – but you’re missing the forest for the trees. You are training up a generation of exceptional cabals that _do not trust the Watch. _That see you as the crooks who sent them do die in Scholomance, who squabble over titles and influence as they bleed and sell them out for power the moment someone asks.”
+
+Wen straightened.
+
+“They made a student association,” he said. “Almost the entire first and second year are in it. You’re going to tell me that was planned, that it’s to teach them the difficulties in running something like that, that it’s a metaphor for the Watch itself, and maybe that’s all true.”
+
+He paused.
+
+“But so is the fact that the one thing the entire student body could agree on was that you won’t keep them safe,” he said. “That you can’t be trusted. And they’ll carry that with them, you know. For the rest of their years in the Watch.”
+
+And he didn’t know what Scholomance was meant to make cabals for, but somehow he doubted that was part of the plan.
+
+“I’m not asking you to hold their hands,” he said. “That’s not what the place is for. But you could at least stop letting them down so fucking often.”
+
+There was a long moment of silence and Wen wondered where it was he’d be transferred. The Red Maw had been broken into pieces back on the Dominion and the two inland outposts were abandoned so it’d be an easier posting than before and he’d been hearing _horrible_ things about that fort near the Isles of Nemn.
+
+Lagahari broke the silence.
+
+“Well said.”
+
+The dollop of praise, and now the blow. It would be...
+
+“I cannot in good conscience give any answer to that rebuke other than my resignation,” Brigadier Anju Laghari said.
+
+Wen paused. What?
+
+“It now seems evident that the damage ran much deeper than we knew,” she continued, “and that the Academy has been at the heart of it from the start. It is our mess, and our responsibility to fix.”
+
+Laghari exhaled.
+
+“With the committee’s permission, I put my name forward to replace Chunhua Cao as the senior Academy instructor in Port Allazei.”
+
+What in the Wheel was this? Cao was a Stripe, sure, but it had been Fenhua He who was her backer on the Obscure Committee so why was Laghari the one falling on her sword? It made no sense – oh, _oh_. The Thirteenth had never actually shown anyone the real letter that Professor He had sent Cao, had they? Only a copy, which He could decry as false. Which still wouldn’t be enough to push all the blame on Laghari, unless...
+
+Wen’s stare moved to Lord Asher, who was sitting there with his chin resting on his palm. Unless Asher meddled. And now it fell into place. The fix had been in before Wen ever stepped into the room and Laghari had known it, it was why she’d gone after wins so forcefully: she wanted to get _something_ out of her last session as a member of the committee, a legacy to point to.
+
+This was Asher Modai cleaning house.
+
+He was taking Anju Laghari’s seat as punishment for when she’d leaked information to the Ivory Library and in the same stroke permanently gaining leverage over Fenhua He. This whole thing would remain a sword above her head, because in framing a Stripe for her plot Asher had ensured he could at any moment reveal the deception and point the Academy’s revenge at Fenhua He. The devil couldn’t have counted on Cao’s stash being released but then why would he care? The bigger the mess, the easier to oust Laghari with it.
+
+Now the Krypteia had two votes in pocket and could deadlock the committee at will. Not dictate terms, but prevent anything the Cryptics objected to from passing.
+
+Asher had nudged the pieces months ago and simply... waited for everything to slide into place without ever touching them again. And now he had everything he wanted with none of the blood on his hands. Wen watched, stunned and unsettled, as Laghari was confirmed as instructor – of course she was, it opened a committee seat and the new Academy instructor in Allazei would start out tarnished - and the meeting was immediately adjourned until a new fourth member was appointed.
+
+He was ordered to stay behind along with Captain Totec, Asher and Falade taking them aside as soon as the other two left the room.
+
+“The Thirteenth will not get away without punishment,” Captain Falade plainly said.
+
+He didn’t argue that, mostly because he didn’t believe they should either.
+
+“The _Vranacerke _cannot sail out of sight of Port Allazei for a year, for the rest of their time at Scholomance failing any class will result in expulsion and once the total costs of the disruption to Watch affairs has been tallied their cabal will be fined a tenth of the total sum.”
+
+Wen’s jaw clenched. The last one was a step too far. Besides him, Captain Totec stilled.
+
+“To be repaid at their leisure, with no interest,” Lord Asher specified. “If they do not make any effort to begin repayment within three years of graduation, the Rookery will begin collecting a tenth of their salary or contract payouts until the debt is settled.”
+
+Totec hummed.
+
+“They will be attributed a cut of what the set bounty of the Newborn and the Machinist would have been, paid into the debt,” Captain Falade suddenly said. “Should any of them be prevailed upon to offer services to the Watch as Song Ren was on Asphodel, they will be paid full rate into the debt as well.”
+
+“You are aware that I can tell when the two of you manifest in another room for a sidebar, yes?” Lord Asher asked in open irritation.
+
+“That makes it more satisfying, somehow,” Falade noted.
+
+Wen cleared his throat.
+
+“While I’m not going to complain about reinforcements,” he said. “I’m going to hazard a guess that there’s a reason Captain Totec is actually here and it wasn’t to lend me a hand.”
+
+The old man in question inclined his head in agreement.
+
+“Your brigade was directly exposed to a Principality,” Asher said. “Only a fragment of one, to be sure, but they were in contact. Worse, Tristan Abrascal encountered a shadow of Lucifer While we believe the scheme he was used for has run its course...”
+
+“One can’t ever be sure with the Father of Lies,” Falade finished for him. “The Thirteenth Brigade needs to be observed for foreign influence. Preferably away from Scholomance.”
+
+And Wen had an idea as to who would be doing the observing,
+
+ “I take it you’re to join us on the next yearly test, Captain Totec?”
+
+“I have been ordered to,” the old man acknowledged.
+
+“Should they be cleared of influence, we are considering bringing them in regarding basic knowledge of Principalities,” Asher said. “There would be... advantages to being able to send something so prone to being dismissed as a student brigade into certain situations.”
+
+Oh, but Wen did not like the sound of that. Not that he was in any position to fight it.
+
+“The contract hasn’t been picked out for them yet,” Captain Falade said, “but the location has.”
+
+“Istatlan,” Asher lightly said, “on the southern coast of-”
+
+“The Kingdom of Tariac,” Wen flatly interrupted.
+
+He’d barely ever seen the south, all his time had been on the northern coast, but he knew the name. His stomach clenched at the thought of going back to Tariac. It’d been long, but not long enough.
+
+“Is there anything there the Thirteenth is well suited for?” he made himself ask.
+
+“You might say that,” Captain Falade mused.
+
+“As far as the Krypteia can tell, there is nothing at all going on in southern Tariac,” Asher smiled. “That why we’re sending your brigade, Duan. If it’s an easy assignment, all the better. But if there_ is _something afoot?”
+
+He grinned.
+
+“Why, given the precedents I expect the Unluckies might just trip over it.”
+
