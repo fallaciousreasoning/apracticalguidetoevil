@@ -105239,3 +105239,15 @@ He grinned.
 
 “Why, given the precedents I expect the Unluckies might just trip over it.”
 
+# End of Book AMA & Hiatus 
+
+Hello!
+
+As always after a book wraps up, there will be a Pale Lights AMA in the Erraticana Discord (link to join here). It will take place this Saturday the 15th of August, at 11 AM Eastern. Pop in if you have questions or even just generally curious!
+
+Pale Lights will then be going on hiatus until November 20th, at which point regular updates resume with the beginning of the fourth book of the series.
+
+Hope to see you then,
+
+E.E.
+
