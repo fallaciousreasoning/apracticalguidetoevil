@@ -1,5 +1,6 @@
 import multiprocessing
 import requests
+import curl_cffi.requests
 import re
 import json
 import html
@@ -10,12 +11,11 @@ from tqdm.auto import tqdm
 import sys
 
 
-# Royal Road sits behind Cloudflare and rejects requests that don't look like a
-# real browser, so every request to it must carry a browser User-Agent.
-USER_AGENT = (
-    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
-    "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-)
+# Royal Road sits behind Cloudflare, which serves a JS challenge (HTTP 403) to
+# clients whose TLS/HTTP2 fingerprint doesn't match a real browser; a spoofed
+# User-Agent alone stopped being enough in October 2026. curl_cffi impersonates
+# Chrome's fingerprint (and sends a matching User-Agent), which passes.
+IMPERSONATE = "chrome"
 
 # Pale Lights moved from palelights.com (WordPress) to Royal Road partway
 # through its run; the WordPress site is frozen at Book 2 and is no longer the
@@ -113,8 +113,7 @@ def royalroad_chapter_list(config):
     Returns:
       A list of (chapter_url, chapter_title) tuples in reading order.
     """
-    response = requests.get(config['fiction_url'], headers={'User-Agent': USER_AGENT})
-    response.raise_for_status()
+    response = _get_with_retries(_royalroad_session(), config['fiction_url'])
 
     match = re.search(r'window\.chapters\s*=\s*(\[.*?\]);', response.text, re.S)
     if match is None:
@@ -147,6 +146,11 @@ def _royalroad_hidden_classes(soup):
     return hidden
 
 
+def _royalroad_session():
+    """Returns a session that impersonates Chrome to get past Cloudflare."""
+    return curl_cffi.requests.Session(impersonate=IMPERSONATE)
+
+
 def _get_with_retries(session, url, attempts=5):
     """GETs a URL, retrying on transient network errors and bad statuses.
 
@@ -156,7 +160,7 @@ def _get_with_retries(session, url, attempts=5):
     backoff before giving up.
 
     Args:
-      session: A `requests.Session` reused across chapters.
+      session: A `curl_cffi.requests.Session` from `_royalroad_session`.
       url: The URL to fetch.
       attempts: Maximum number of tries before raising.
 
@@ -169,11 +173,11 @@ def _get_with_retries(session, url, attempts=5):
     last_error = None
     for attempt in range(attempts):
         try:
-            response = session.get(url, headers={'User-Agent': USER_AGENT}, timeout=30)
+            response = session.get(url, timeout=30)
             if response.status_code == 200:
                 return response
             last_error = f"HTTP {response.status_code}"
-        except requests.exceptions.RequestException as error:
+        except curl_cffi.requests.exceptions.RequestException as error:
             last_error = error
 
         if attempt < attempts - 1:
@@ -186,7 +190,7 @@ def download_royalroad_chapter(session, url, title):
     """Downloads and cleans a single Royal Road chapter.
 
     Args:
-      session: A `requests.Session` reused across chapters.
+      session: A `curl_cffi.requests.Session` reused across chapters.
       url: The full chapter URL.
       title: The chapter title (taken from the fiction index).
 
@@ -223,7 +227,7 @@ def download_royalroad_book(config):
     WordPress path).
     """
     chapter_list = royalroad_chapter_list(config)
-    session = requests.Session()
+    session = _royalroad_session()
 
     chapters = []
     for url, title in tqdm(chapter_list, total=len(chapter_list)):

@@ -1,3 +1,4 @@
 requests == 2.28.0
 beautifulsoup4 == 4.9.3
 tqdm == 4.64.1
+curl_cffi == 0.15.0
