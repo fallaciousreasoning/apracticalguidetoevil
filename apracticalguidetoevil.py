@@ -11,11 +11,14 @@ from tqdm.auto import tqdm
 import sys
 
 
-# Royal Road sits behind Cloudflare, which serves a JS challenge (HTTP 403) to
-# clients whose TLS/HTTP2 fingerprint doesn't match a real browser; a spoofed
-# User-Agent alone stopped being enough in October 2026. curl_cffi impersonates
-# Chrome's fingerprint (and sends a matching User-Agent), which passes.
-IMPERSONATE = "chrome"
+# Royal Road sits behind Cloudflare, which serves a JS challenge (HTTP 403, or
+# occasionally a 200 "Just a moment..." page) to clients whose TLS/HTTP2
+# fingerprint doesn't match a real browser; a spoofed User-Agent alone stopped
+# being enough in October 2026. curl_cffi impersonates real browser
+# fingerprints. When one gets challenged we rotate to the next, since Cloudflare
+# scores them independently (Firefox's profile is challenged far more often, so
+# it is deliberately left out).
+IMPERSONATE_TARGETS = ("chrome", "safari184", "chrome136")
 
 # Pale Lights moved from palelights.com (WordPress) to Royal Road partway
 # through its run; the WordPress site is frozen at Book 2 and is no longer the
@@ -100,7 +103,7 @@ def download_contents(config, book: str):
 
 # ----- Royal Road source (Pale Lights) -----
 
-def royalroad_chapter_list(config):
+def royalroad_chapter_list(client, config):
     """Returns the ordered list of (url, title) for every published chapter.
 
     Royal Road embeds the full chapter index as a `window.chapters = [...]`
@@ -108,14 +111,15 @@ def royalroad_chapter_list(config):
     rendered HTML table.
 
     Args:
+      client: The `RoyalRoadClient` to fetch with.
       config: A Royal Road config entry containing `fiction_url`.
 
     Returns:
       A list of (chapter_url, chapter_title) tuples in reading order.
     """
-    response = _get_with_retries(_royalroad_session(), config['fiction_url'])
+    page = client.get(config['fiction_url'], marker='window.chapters')
 
-    match = re.search(r'window\.chapters\s*=\s*(\[.*?\]);', response.text, re.S)
+    match = re.search(r'window\.chapters\s*=\s*(\[.*?\]);', page, re.S)
     if match is None:
         raise RuntimeError(f"Could not find chapter list on {config['fiction_url']}")
 
@@ -146,60 +150,73 @@ def _royalroad_hidden_classes(soup):
     return hidden
 
 
-def _royalroad_session():
-    """Returns a session that impersonates Chrome to get past Cloudflare."""
-    return curl_cffi.requests.Session(impersonate=IMPERSONATE)
+class RoyalRoadClient:
+    """Fetches Royal Road pages, rotating browser fingerprints when challenged."""
+
+    def __init__(self):
+        self._target_index = 0
+        self._session = self._new_session()
+
+    def _new_session(self):
+        target = IMPERSONATE_TARGETS[self._target_index % len(IMPERSONATE_TARGETS)]
+        return curl_cffi.requests.Session(impersonate=target)
+
+    def _rotate(self):
+        # A fresh session also drops any cookies tied to the challenged profile.
+        self._target_index += 1
+        self._session = self._new_session()
+
+    def get(self, url, marker, attempts=6):
+        """GETs a page, retrying on network errors, bad statuses and challenges.
+
+        Cloudflare challenges (and other transient failures) usually clear after
+        a pause, so back off for up to a few minutes in total before giving up.
+
+        Args:
+          url: The URL to fetch.
+          marker: A substring the real page always contains. Its absence means
+            Cloudflare served a challenge page, even if the status was 200.
+          attempts: Maximum number of tries before raising.
+
+        Returns:
+          The page's HTML.
+
+        Raises:
+          RuntimeError: If every attempt fails.
+        """
+        last_error = None
+        for attempt in range(attempts):
+            try:
+                response = self._session.get(url, timeout=30)
+                if response.status_code == 200 and marker in response.text:
+                    return response.text
+                last_error = f"HTTP {response.status_code}"
+                if response.status_code in (200, 403):
+                    last_error += " (Cloudflare challenge)"
+                    self._rotate()
+            except curl_cffi.requests.exceptions.RequestException as error:
+                last_error = error
+
+            if attempt < attempts - 1:
+                time.sleep(5 * 2 ** attempt)  # 5s, 10s, 20s, 40s, 80s
+
+        raise RuntimeError(f"Failed to fetch {url} after {attempts} attempts: {last_error}")
 
 
-def _get_with_retries(session, url, attempts=5):
-    """GETs a URL, retrying on transient network errors and bad statuses.
-
-    Royal Road sits behind Cloudflare, which intermittently resets connections
-    or returns transient 5xx/429 responses partway through a long scrape. A
-    single such blip should not abort the whole run, so retry with exponential
-    backoff before giving up.
-
-    Args:
-      session: A `curl_cffi.requests.Session` from `_royalroad_session`.
-      url: The URL to fetch.
-      attempts: Maximum number of tries before raising.
-
-    Returns:
-      The successful `requests.Response` (HTTP 200).
-
-    Raises:
-      RuntimeError: If every attempt fails.
-    """
-    last_error = None
-    for attempt in range(attempts):
-        try:
-            response = session.get(url, timeout=30)
-            if response.status_code == 200:
-                return response
-            last_error = f"HTTP {response.status_code}"
-        except curl_cffi.requests.exceptions.RequestException as error:
-            last_error = error
-
-        if attempt < attempts - 1:
-            time.sleep(2 ** attempt)  # 1s, 2s, 4s, 8s ...
-
-    raise RuntimeError(f"Failed to fetch {url} after {attempts} attempts: {last_error}")
-
-
-def download_royalroad_chapter(session, url, title):
+def download_royalroad_chapter(client, url, title):
     """Downloads and cleans a single Royal Road chapter.
 
     Args:
-      session: A `curl_cffi.requests.Session` reused across chapters.
+      client: The `RoyalRoadClient` to fetch with.
       url: The full chapter URL.
       title: The chapter title (taken from the fiction index).
 
     Returns:
       A `Chapter` with the cleaned, Markdown-flavoured body.
     """
-    response = _get_with_retries(session, url)
+    page = client.get(url, marker='chapter-content')
 
-    soup = BeautifulSoup(_to_markdown_inline(response.text), "html.parser")
+    soup = BeautifulSoup(_to_markdown_inline(page), "html.parser")
 
     content_node = soup.find("div", { "class": "chapter-content" })
     if content_node is None:
@@ -219,20 +236,53 @@ def download_royalroad_chapter(session, url, title):
     return Chapter(title, content)
 
 
+def _read_existing_chapters(path):
+    """Parses a Markdown file previously written by `_write_markdown`.
+
+    Args:
+      path: The Markdown file to read.
+
+    Returns:
+      The file's chapters in order, or an empty list if it doesn't exist.
+    """
+    try:
+        with open(path, encoding='utf-8') as f:
+            text = f.read()
+    except FileNotFoundError:
+        return []
+
+    # parts = [header, title1, body1, title2, body2, ...]
+    parts = re.split(r"^# (.*)\n\n", text, flags=re.M)
+    return [Chapter(title, body) for title, body in zip(parts[1::2], parts[2::2])]
+
+
 def download_royalroad_book(config):
     """Downloads every Pale Lights chapter from Royal Road, in order.
 
-    Royal Road is fetched sequentially with a shared session and a short delay
-    to stay polite and avoid Cloudflare rate limiting (unlike the parallel
-    WordPress path).
-    """
-    chapter_list = royalroad_chapter_list(config)
-    session = _royalroad_session()
+    Chapters already in the committed Markdown are reused and only new ones are
+    fetched: a full ~200-request scrape every day is what gets the CI runner's
+    IP challenged by Cloudflare. As a result, edits to old chapters aren't picked
+    up; delete the Markdown file to force a full re-download.
 
-    chapters = []
-    for url, title in tqdm(chapter_list, total=len(chapter_list)):
-        chapters.append(download_royalroad_chapter(session, url, title))
-        time.sleep(0.5)
+    Royal Road is fetched sequentially with a short delay to stay polite and
+    avoid rate limiting (unlike the parallel WordPress path).
+    """
+    client = RoyalRoadClient()
+    chapter_list = royalroad_chapter_list(client, config)
+    existing = _read_existing_chapters(f"{config['title']}.md")
+
+    # Reuse the longest prefix whose titles still line up. Chapters are matched
+    # by position because titles like "Chapter 1" repeat across books.
+    reused = 0
+    while (reused < min(len(existing), len(chapter_list))
+           and existing[reused].title == chapter_list[reused][1]):
+        reused += 1
+    print(f"Reusing {reused} cached chapters, fetching {len(chapter_list) - reused}")
+
+    chapters = existing[:reused]
+    for url, title in tqdm(chapter_list[reused:]):
+        chapters.append(download_royalroad_chapter(client, url, title))
+        time.sleep(2)
 
     return chapters
 
