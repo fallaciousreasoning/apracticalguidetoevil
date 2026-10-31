@@ -5,6 +5,7 @@ import re
 import json
 import html
 import time
+import xml.etree.ElementTree
 from bs4 import BeautifulSoup
 from concurrent.futures import ProcessPoolExecutor, as_completed
 from tqdm.auto import tqdm
@@ -26,6 +27,7 @@ IMPERSONATE_TARGETS = ("chrome", "safari184", "chrome136")
 configs = [{
     'source': 'royalroad',
     'fiction_url': 'https://www.royalroad.com/fiction/65058/pale-lights',
+    'rss_url': 'https://www.royalroad.com/fiction/syndication/65058',
     'title': 'Pale Lights',
     'author': 'erraticerrata'
 }, {
@@ -256,10 +258,41 @@ def _read_existing_chapters(path):
     return [Chapter(title, body) for title, body in zip(parts[1::2], parts[2::2])]
 
 
+def _royalroad_rss_is_current(config, existing):
+    """Returns whether the RSS feed shows no chapters newer than `existing`.
+
+    Unlike the fiction and chapter pages, the RSS feed isn't behind Cloudflare's
+    challenge, so checking it first lets most runs (days with no new chapter)
+    skip the challenged pages entirely.
+
+    Args:
+      config: A Royal Road config entry containing `rss_url` and `title`.
+      existing: The chapters already in the committed Markdown.
+
+    Returns:
+      True if the feed's latest chapters are exactly the last chapters of
+      `existing`; False if anything differs or the feed can't be read.
+    """
+    try:
+        response = requests.get(config['rss_url'], timeout=30)
+        response.raise_for_status()
+        items = xml.etree.ElementTree.fromstring(response.content).findall(".//item")
+    except (requests.exceptions.RequestException, xml.etree.ElementTree.ParseError) as error:
+        print(f"Couldn't read RSS feed, doing a full check: {error}")
+        return False
+
+    # Feed titles look like "Pale Lights - Chapter 68", newest first.
+    prefix = f"{config['title']} - "
+    feed_titles = [item.findtext("title", "").removeprefix(prefix) for item in reversed(items)]
+    existing_titles = [chapter.title for chapter in existing]
+    return bool(feed_titles) and existing_titles[-len(feed_titles):] == feed_titles
+
+
 def download_royalroad_book(config):
     """Downloads every Pale Lights chapter from Royal Road, in order.
 
-    Chapters already in the committed Markdown are reused and only new ones are
+    If the RSS feed shows nothing new, nothing is fetched at all. Otherwise,
+    chapters already in the committed Markdown are reused and only new ones are
     fetched: a full ~200-request scrape every day is what gets the CI runner's
     IP challenged by Cloudflare. As a result, edits to old chapters aren't picked
     up; delete the Markdown file to force a full re-download.
@@ -267,9 +300,13 @@ def download_royalroad_book(config):
     Royal Road is fetched sequentially with a short delay to stay polite and
     avoid rate limiting (unlike the parallel WordPress path).
     """
+    existing = _read_existing_chapters(f"{config['title']}.md")
+    if _royalroad_rss_is_current(config, existing):
+        print("RSS feed shows no new chapters, skipping Royal Road")
+        return existing
+
     client = RoyalRoadClient()
     chapter_list = royalroad_chapter_list(client, config)
-    existing = _read_existing_chapters(f"{config['title']}.md")
 
     # Reuse the longest prefix whose titles still line up. Chapters are matched
     # by position because titles like "Chapter 1" repeat across books.
